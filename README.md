@@ -20,12 +20,14 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 ## Articles
 
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
-- [First imporessions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
+- [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
+- [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 
 ## Components
 
 - [react-native-button](https://github.com/ide/react-native-button)
+- [react-canvas](https://github.com/Flipboard/react-canvas)
 
 ## Examples
 
