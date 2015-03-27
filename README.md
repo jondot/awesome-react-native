@@ -23,6 +23,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
+- [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 
 ## Components
 
