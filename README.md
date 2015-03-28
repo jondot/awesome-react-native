@@ -13,6 +13,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - [Articles](#articles)
 - [Components](#components)
+- [Utilities] (#utilities)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -29,6 +30,10 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - [react-native-button](https://github.com/ide/react-native-button)
 - [react-canvas](https://github.com/Flipboard/react-canvas)
+
+## Utilities
+
+- [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
 
 ## Examples
 
