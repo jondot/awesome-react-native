@@ -13,6 +13,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - [Articles](#articles)
 - [Components](#components)
+- [Utilities] (#utilities)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -30,6 +31,10 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [react-native-button](https://github.com/ide/react-native-button)
 - [react-canvas](https://github.com/Flipboard/react-canvas)
 
+## Utilities
+
+- [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
+
 ## Examples
 
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
@@ -43,7 +48,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
-
+- F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 
 
 
