@@ -38,6 +38,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 ## Examples
 
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
+- [Hacker News iOS](https://github.com/iSimar/HackerNews-React-Native)
 
 ## Tutorials
 
