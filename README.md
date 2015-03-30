@@ -34,6 +34,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 ## Utilities
 
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
+- [react-native-babel](https://github.com/roman01la/react-native-babel)
 
 ## Examples
 
