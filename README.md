@@ -44,12 +44,10 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+- [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
 
 ## Videos
 
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 - F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-
-
-
