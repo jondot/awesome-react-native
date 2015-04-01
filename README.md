@@ -35,6 +35,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - [react-native-button](https://github.com/ide/react-native-button)
 - [react-canvas](https://github.com/Flipboard/react-canvas)
+- [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 
 ## Utilities
 
