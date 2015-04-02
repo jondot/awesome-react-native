@@ -52,6 +52,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS](https://github.com/iSimar/HackerNews-React-Native)
 - [Premier League](https://github.com/ennioma/react-native-premier-league)
+- [Buyscreen sample](https://github.com/appintheair/react-native-buyscreen)
 
 ## Tutorials
 
