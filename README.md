@@ -61,7 +61,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
 - [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
-
+- [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
+ 
 ## Videos
 
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
