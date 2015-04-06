@@ -38,6 +38,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [react-canvas](https://github.com/Flipboard/react-canvas)
 - [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-active-community](https://github.com/ericvicenti/react-native-community) A list of community-built React Native contributions
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) Create looped carousel of views or images
 
 ## Utilities
 
