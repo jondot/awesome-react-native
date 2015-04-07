@@ -29,7 +29,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
-
+- [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
 
 ## Components
 
