@@ -56,6 +56,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
 - [Premier League](https://github.com/ennioma/react-native-premier-league)
 - [Buyscreen sample](https://github.com/appintheair/react-native-buyscreen)
+- [NewsWatch video viewer](https://github.com/bradoyler/newswatch-react-native)
 
 ## Tutorials
 
