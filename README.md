@@ -18,6 +18,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Examples](#examples)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
+- [Releases](#releases)
 
 ## Articles
 
@@ -74,3 +75,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 - F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
+
+
+## Releases
+
+- [0.4](http://facebook.github.io/react/blog/2015/04/17/react-native-v0.4.html)
