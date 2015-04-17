@@ -31,6 +31,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
 - [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
+- [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 
 ## Components
 
@@ -75,7 +76,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 - F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
-
+- [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 
 ## Releases
 
