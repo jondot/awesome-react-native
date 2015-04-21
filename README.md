@@ -70,6 +70,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
 - [Embedding in existing apps](https://facebook.github.io/react-native/docs/embedded-app.html#content)
+- [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 
 ## Videos
 
