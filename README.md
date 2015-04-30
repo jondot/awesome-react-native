@@ -62,6 +62,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [NewsWatch video viewer](https://github.com/bradoyler/newswatch-react-native)
 - [Native iOS font list](https://github.com/yayolius/react-native-font-list)
 - [Confreaks](https://github.com/cabaret/confreaks-react-native)
+- [iOS Conference App made with React Native](https://github.com/mikkoj/NortalTechDay)
 
 ## Tutorials
 
