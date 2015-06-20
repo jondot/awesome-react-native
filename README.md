@@ -87,6 +87,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
 - [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
+- Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 
 ## Releases
 
