@@ -45,9 +45,10 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) Create looped carousel of views or images
 - [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) A clean and lightweight progress HUD for your React Native app
 
-## Utilities
+## Tooling
 
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
+- [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
 
 ## Seeds
 
