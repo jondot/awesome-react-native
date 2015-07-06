@@ -35,6 +35,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ## Components
 
+- [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Libary For React
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [React Parts](http://react.parts/) - a catalog of React Native components
 - [react-native-button](https://github.com/ide/react-native-button)
