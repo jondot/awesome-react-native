@@ -102,6 +102,7 @@ Get a head start on development with an existing seed.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+- [0.8.0-rc](https://github.com/facebook/react-native/releases/tag/v0.8.0-rc)
 - [0.7.0-rc](https://github.com/facebook/react-native/releases/tag/v0.7.0-rc)
 - [0.6.0-rc](https://github.com/facebook/react-native/releases/tag/v0.6.0-rc)
 - [0.5.0-rc](https://github.com/facebook/react-native/releases/tag/v0.5.0-rc)
