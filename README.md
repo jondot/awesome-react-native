@@ -50,6 +50,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
 - [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
+- [Ruby React Native (via Opal)(https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 
 ## Seeds
 
