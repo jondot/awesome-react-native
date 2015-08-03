@@ -5,9 +5,7 @@ with React Native.
 
 Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-
 Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-react-native/graphs/contributors) :)
-
 
 # Content
 
@@ -22,6 +20,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 ## Articles
 
+Content published on the Web.
+
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
@@ -32,19 +32,22 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
 - [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
 - [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
+- [Reflecting on React Native development](http://habd.as/reflecting-on-react-native-development/)
 
 ## Components
 
+Components and native modules. For more search [React Parts](http://react.parts/).
+
 - [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Libary For React
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
-- [React Parts](http://react.parts/) - a catalog of React Native components
 - [react-native-button](https://github.com/ide/react-native-button)
 - [react-canvas](https://github.com/Flipboard/react-canvas)
 - [react-native-svg](https://github.com/brentvatne/react-native-svg)
 - [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
-- [react-active-community](https://github.com/ericvicenti/react-native-community) A list of community-built React Native contributions
-- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) Create looped carousel of views or images
-- [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) A clean and lightweight progress HUD for your React Native app
+- [react-active-community](https://github.com/ericvicenti/react-native-community) - A list of community-built React Native contributions
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
+- [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
+- [react-native-video](https://github.com/brentvatne/react-native-video) - A <Video /> component for react-native
 
 ## Tooling
 
@@ -77,6 +80,7 @@ Get a head start on development with an existing seed.
 - [iOS Conference App made with React Native](https://github.com/mikkoj/NortalTechDay)
 - [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
 - [Dribbble React Native](https://github.com/catalinmiron/react-native-dribbble-app)
+- [Lumpen Radio](https://github.com/jhabdas/lumpen-radio)
 
 ## Tutorials
 
