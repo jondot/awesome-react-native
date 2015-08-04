@@ -92,6 +92,7 @@ Get a head start on development with an existing seed.
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
 - [Embedding in existing apps](https://facebook.github.io/react-native/docs/embedded-app.html#content)
 - [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
+- [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 
 ## Videos
 
