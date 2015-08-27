@@ -53,7 +53,8 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
 - [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
-- [Ruby React Native (via Opal)(https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
+- [Ruby React Native (via Opal)](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
+- [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 
 ## Seeds
 
