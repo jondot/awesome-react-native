@@ -48,6 +48,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-video](https://github.com/brentvatne/react-native-video) - A <Video /> component for react-native
+- [react-native-responsive-image](https://github.com/Dharmoslap/react-native-responsive-image) - Most elegant Responsive Image component
 
 ## Tooling
 
