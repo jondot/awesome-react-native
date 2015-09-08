@@ -33,6 +33,7 @@ Content published on the Web.
 - [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
 - [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 - [Reflecting on React Native development](http://habd.as/reflecting-on-react-native-development/)
+- [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
 
 ## Components
 
@@ -96,6 +97,14 @@ Get a head start on development with an existing seed.
 - [Embedding in existing apps](https://facebook.github.io/react-native/docs/embedded-app.html#content)
 - [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
+- [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
+- [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
+- [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
+- [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
+- [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
+- [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
+- [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
+- [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
 
 ## Videos
 
@@ -110,6 +119,9 @@ Get a head start on development with an existing seed.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+- [0.11.0-rc](https://github.com/facebook/react-native/releases/tag/v0.11.0-rc)
+- [0.10.0-rc](https://github.com/facebook/react-native/releases/tag/v0.10.0-rc)
+- [0.9.0-rc](https://github.com/facebook/react-native/releases/tag/v0.9.0-rc)
 - [0.8.0-rc](https://github.com/facebook/react-native/releases/tag/v0.8.0-rc)
 - [0.7.0-rc](https://github.com/facebook/react-native/releases/tag/v0.7.0-rc)
 - [0.6.0-rc](https://github.com/facebook/react-native/releases/tag/v0.6.0-rc)
