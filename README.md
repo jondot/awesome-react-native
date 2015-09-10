@@ -34,6 +34,7 @@ Content published on the Web.
 - [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 - [Reflecting on React Native development](http://habd.as/reflecting-on-react-native-development/)
 - [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
+- [React Native in Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - notes from Clay Allsop
 
 ## Components
 
@@ -50,6 +51,11 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-video](https://github.com/brentvatne/react-native-video) - A <Video /> component for react-native
 - [react-native-responsive-image](https://github.com/Dharmoslap/react-native-responsive-image) - Most elegant Responsive Image component
+- [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - a very Slick and modern mobile lightbox implementation
+- [react-native-youtube-videoslide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/) - a YouTube-like video live slide 
+- [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
+- [react-native-phone-picker](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
+- [react-native-calendar](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 
 ## Tooling
 
@@ -85,6 +91,10 @@ Get a head start on development with an existing seed.
 - [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
 - [Dribbble React Native](https://github.com/catalinmiron/react-native-dribbble-app)
 - [Lumpen Radio](https://github.com/jhabdas/lumpen-radio)
+- [React Native Embedded App](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
+- [An example React Native project for client login authentication](https://github.com/ryanmcdermott/react-native-login)
+- [iOS app that transcript your voice with IBM Watson Cloud](https://github.com/yrezgui/meowth-ios)
+- [React Native Chromecast App](https://github.com/holoed/ChromeCast_ReactNative)
 
 ## Tutorials
 
@@ -105,6 +115,8 @@ Get a head start on development with an existing seed.
 - [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
 - [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
 - [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
+- [React Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
+- [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 
 ## Videos
 
