@@ -57,6 +57,11 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [react-native-phone-picker](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-calendar](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
+- [react-native-camera](https://github.com/lwansbrough/react-native-camera) - Camera component
+- [react-native-video](https://github.com/brentvatne/react-native-video) - Video component
+- [react-native-screcorder](https://github.com/maxs15/react-native-screcorder) - Capture pictures and record Video with Vine-like tap to record
+- [react-native-imagepicker](https://github.com/marcshilling/react-native-image-picker) - Image picker. See also the official `<CameraRoll>` component.
+
 
 ## Tooling
 
