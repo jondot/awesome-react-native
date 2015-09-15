@@ -61,7 +61,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-video](https://github.com/brentvatne/react-native-video) - Video component
 - [react-native-screcorder](https://github.com/maxs15/react-native-screcorder) - Capture pictures and record Video with Vine-like tap to record
 - [react-native-imagepicker](https://github.com/marcshilling/react-native-image-picker) - Image picker. See also the official `<CameraRoll>` component.
-
+- [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf) - Convert html strings to PDF documents using React Native
 
 ## Tooling
 
