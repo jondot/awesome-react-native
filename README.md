@@ -258,7 +258,7 @@ Get a head start on development with an existing seed.
 - [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
-- [Embedding in existing apps](https://facebook.github.io/react-native/docs/embedded-app.html#content)
+- [Embedding in existing apps](http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app)
 - [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
