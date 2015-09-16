@@ -1,5 +1,7 @@
 # Awesome React Native
 
+<img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
+
 A curated list of awesome articles, tutorials and resources dealing
 with React Native.
 
@@ -46,11 +48,10 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [firebase-react-native](https://github.com/sjmueller/firebase-react-native) - firebase client api hacked to get working with react-native
 - [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [k-react-native-swipe-unlocker](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
-- [markdown-react-native](https://github.com/fakefish/markdown-react-native) - A Markdown Component For React Native
+- [markdown-react-native](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
 - [react-native-accordion](https://github.com/naoufal/react-native-accordion/) - An Accordion Component for React Native
 - [react-native-adbannerview](https://github.com/Purii/react-native-adbannerview/) - React Native Bridge for ADBannerView
 - [react-native-addressbook](https://github.com/rt2zz/react-native-addressbook/) - AddressBook module for react-native
-- [react-native-admob-manager](https://github.com/melihmucuk/react-native-admob-manager/) - A react native interface for using Google AdMob.
 - [react-native-app-info](https://github.com/Iragne/react-native-app-info/) - React Native app info and version
 - [react-native-asciimage](https://github.com/turley/react-native-asciimage/) - An ASCIImage component for React Native
 - [react-native-assets](https://github.com/llanox/react-native-assests/) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
