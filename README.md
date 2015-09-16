@@ -77,7 +77,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible/) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-color-grabber](https://github.com/bsudekum/react-native-color-grabber/) - React native component for finding dominant colors in an image
 - [react-native-communications](https://github.com/anarchicknight/react-native-communications/) - Easily call, email, text or iMessage someone in React Native
-- [react-native-context-menu](https://github.com/naoufal/react-native-context-menu/) - A Context Menu component for your React Native app.
 - [react-native-create-new-file-ios](https://github.com/rhaker/react-native-create-new-file-ios/) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-custom-actsheet](https://github.com/guodong000/react-native-custom-actsheet/) - A custom ActionSheet for react-native
 - [react-native-dashed-border](https://github.com/chirag04/react-native-dashed-border/) - A  element for react-native
