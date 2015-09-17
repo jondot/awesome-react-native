@@ -24,7 +24,7 @@ end
 unless invalids.empty?
   puts "\n\nFailed links:"
   invalids.each do |link|
-    puts "- #{link.text}"
+    puts "- #{link}"
   end
   puts "Done with errors."
   exit(1)
