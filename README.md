@@ -212,7 +212,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 ## Tooling
 
-- [react-native-snippets](https://github.com/Shrugs/react-native-snippets)
+- [react-native-snippets](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
 - [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal)](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
