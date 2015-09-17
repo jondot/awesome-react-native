@@ -17,7 +17,7 @@ Parallel.each(links, :in_threads => 4) do |link|
     putc('.')
   rescue
     putc('F')
-    invalids << link
+    invalids << "link (reason: #{$!})"
   end
 end
 
