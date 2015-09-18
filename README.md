@@ -216,15 +216,16 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal)](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
-- [AppHub](https://apphub.io) - Update React Native apps without re-submitting to the App Store.
+- [AppHub](https://apphub.io/) - Update React Native apps, instantly
 
 ## Seeds
 
 Get a head start on development with an existing seed.
 
-- [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server)
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux)
+- [react-native-tabbed](https://github.com/rxb/react-native-tabbed)
 
 ## Libraries
 
@@ -232,6 +233,7 @@ Get a head start on development with an existing seed.
 
 ## Examples
 
+- [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS](https://github.com/iSimar/HackerNews-React-Native)
 - [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
@@ -270,6 +272,7 @@ Get a head start on development with an existing seed.
 - [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
 - [React Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
+- [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 
 ## Videos
 
