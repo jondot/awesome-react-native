@@ -59,9 +59,10 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 Get a head start on development with an existing seed.
 
-- [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server)
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux)
+- [react-native-tabbed](https://github.com/rxb/react-native-tabbed)
 
 ## Libraries
 
@@ -69,6 +70,7 @@ Get a head start on development with an existing seed.
 
 ## Examples
 
+- [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS](https://github.com/iSimar/HackerNews-React-Native)
 - [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
@@ -92,6 +94,7 @@ Get a head start on development with an existing seed.
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
 - [Embedding in existing apps](https://facebook.github.io/react-native/docs/embedded-app.html#content)
 - [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
+- [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 
 ## Videos
 
@@ -106,6 +109,9 @@ Get a head start on development with an existing seed.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+- [0.11.0-rc](https://github.com/facebook/react-native/releases/tag/v0.11.0-rc)
+- [0.10.0-rc](https://github.com/facebook/react-native/releases/tag/v0.10.0-rc)
+- [0.9.0-rc](https://github.com/facebook/react-native/releases/tag/v0.9.0-rc)
 - [0.8.0-rc](https://github.com/facebook/react-native/releases/tag/v0.8.0-rc)
 - [0.7.0-rc](https://github.com/facebook/react-native/releases/tag/v0.7.0-rc)
 - [0.6.0-rc](https://github.com/facebook/react-native/releases/tag/v0.6.0-rc)
