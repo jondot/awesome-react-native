@@ -63,6 +63,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-ble](https://github.com/jacobrosenthal/react-native-ble/) - React Native BLE using noble api surface
 - [react-native-blur](https://github.com/Kureev/react-native-blur/) - React Native Blur component
 - [react-native-bridgeable-webview](https://github.com/Intellicode/react-native-bridgeable-webview/) - A react-native webview with bridge to react-native code
+- [react-native-browser](https://github.com/PrestoDoctor/react-native-browser) - React Native web browser component wrapping the iOS TOWebViewController
 - [react-native-browser-polyfill](https://github.com/johanneslumpe/react-native-browser-polyfill/) - A collection of polyfills for the react-native Javascript environment.
 - [react-native-button](https://github.com/ide/react-native-button)
 - [react-native-calendar](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
