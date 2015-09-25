@@ -52,6 +52,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-accordion](https://github.com/naoufal/react-native-accordion/) - An Accordion Component for React Native
 - [react-native-adbannerview](https://github.com/Purii/react-native-adbannerview/) - React Native Bridge for ADBannerView
 - [react-native-addressbook](https://github.com/rt2zz/react-native-addressbook/) - AddressBook module for react-native
+- [react-native-android-sqlite](https://github.com/jbrodriguez/react-native-android-sqlite/) - A react native android wrapper for SQLite
 - [react-native-app-info](https://github.com/Iragne/react-native-app-info/) - React Native app info and version
 - [react-native-asciimage](https://github.com/turley/react-native-asciimage/) - An ASCIImage component for React Native
 - [react-native-assets](https://github.com/llanox/react-native-assests/) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
@@ -64,6 +65,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-blur](https://github.com/Kureev/react-native-blur/) - React Native Blur component
 - [react-native-bridgeable-webview](https://github.com/Intellicode/react-native-bridgeable-webview/) - A react-native webview with bridge to react-native code
 - [react-native-browser-polyfill](https://github.com/johanneslumpe/react-native-browser-polyfill/) - A collection of polyfills for the react-native Javascript environment.
+- [react-native-browser](https://github.com/PrestoDoctor/react-native-browser/) - Full-featured web browser module for React Native apps, based on TOWebViewController
 - [react-native-button](https://github.com/ide/react-native-button)
 - [react-native-calendar](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 - [react-native-camera](https://github.com/lwansbrough/react-native-camera) - Camera component
@@ -77,6 +79,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible/) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-color-grabber](https://github.com/bsudekum/react-native-color-grabber/) - React native component for finding dominant colors in an image
 - [react-native-communications](https://github.com/anarchicknight/react-native-communications/) - Easily call, email, text or iMessage someone in React Native
+- [react-native-components](https://github.com/BenHuiHui/React-Native-Components/) - A wrapper for commonly used UI components for react native
 - [react-native-create-new-file-ios](https://github.com/rhaker/react-native-create-new-file-ios/) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-custom-actsheet](https://github.com/guodong000/react-native-custom-actsheet/) - A custom ActionSheet for react-native
 - [react-native-dashed-border](https://github.com/chirag04/react-native-dashed-border/) - A  element for react-native
@@ -105,6 +108,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-gesture-password](https://github.com/spikef/react-native-gesture-password/) - A gesture password component for React Native
 - [react-native-gesture-recognizers](https://github.com/johanneslumpe/react-native-gesture-recognizers/) - Gesture recognizer decorators for react-native
 - [react-native-global-event-emitter](https://github.com/paramaggarwal/react-native-global-event-emitter/) - Shared event emitter between native and JS for React Native.
+- [react-native-globalize](https://github.com/joshswan/react-native-globalize/) - Globalization helper for React Native
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics/) - Google Analytics for React Native!
 - [react-native-google-signin](https://github.com/apptailor/react-native-google-signin/) - Google Signin for your react native applications
 - [react-native-grid-view](https://github.com/lucholaf/react-native-grid-view/) - React Native Grid/Collection View component
@@ -112,6 +116,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf/) - Convert html strings to PDF documents using React Native
 - [react-native-html-webview](https://github.com/almost/react-native-html-webview/) - Display (possibly untrusted) HTML using a UIWebView in React Native.
 - [react-native-html](https://github.com/turingou/react-native-html/) - render html as react native custom elements
+- [react-native-htmltext](https://github.com/siuying/react-native-htmltext/) - Use HTML like markup to create stylized text in react-native.
 - [react-native-http](https://github.com/iktw/react-native-jwt/) - React native http
 - [react-native-hypertext](https://github.com/agentcooper/react-native-hypertext/) - React Native module to render hypertext (text with links)
 - [react-native-ibeacon](https://github.com/geniuxconsulting/react-native-ibeacon/) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
@@ -139,6 +144,8 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-mediaplayer](https://github.com/chriselly/react-native-mediaplayer/) - Simple full screen media player for React Native.
 - [react-native-modalbox](https://github.com/maxs15/react-native-modalbox/) - A  component for react-native
 - [react-native-motion-manager](https://github.com/pwmckenna/react-native-motion-manager/) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
+- [react-native-mswiper](https://github.com/manandmoon/react-native-swiper/) - Swiper component for React Native.
+- [react-native-multi-slider](https://github.com/JackDanielsAndCode/react-native-multi-slider/) - Pure JS slider component with multiple markers for React Native
 - [react-native-multipeer](https://github.com/lwansbrough/react-native-multipeer/) - Communicate over ad hoc wifi using Multipeer Connectivity
 - [react-native-navbar](https://github.com/Kureev/react-native-navbar/) - Simple customizable navbar component for react-native
 - [react-native-navigation-buttons](https://github.com/shayne/react-native-navigation-buttons/) - iOS navigation buttons for the React Native Navigator
@@ -146,15 +153,18 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-navigator](https://github.com/thewei/react-native-navigator/) - A simple router for react native
 - [react-native-nested-stylesheet](https://github.com/pjjanak/react-native-nested-stylesheets/) - Nestable stylesheets for react-native.
 - [react-native-networking](https://github.com/eduedix/react-native-networking/) - react-native module to download and upload files with AFNetworking
+- [react-native-orientation-listener](https://github.com/walmartreact/react-native-orientation-listener/) - A react-native library for obtaining current device orientation
 - [react-native-orientation](https://github.com/yamill/react-native-orientation/) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 - [react-native-page-control](https://github.com/silentcloud/react-native-page-control/) - React native page control, like ios  UIPageControl
 - [react-native-parallax](https://github.com/oblador/react-native-parallax/) - Parallax effects for React Native using Animated API
 - [react-native-phone-picker](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-piechart](https://github.com/frostney/react-native-piechart/) - A  component for React Native
+- [react-native-progress-bar](https://github.com/lwansbrough/react-native-progress-bar/) - An animated progress bar component for React Native
 - [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-radio-button-classic](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 - [react-native-radio-buttons](https://github.com/ArnaudRinquin/react-native-radio-buttons/) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
 - [react-native-range-selector](https://github.com/gaoli/react-native-range-selector/) - react native range selector
+- [react-native-realtimemessaging-android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid/) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
 - [react-native-realtimemessaging-ios](https://github.com/realtime-framework/RCTRealtimeMessaging/) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
 - [react-native-realtimestorage-ios](https://github.com/realtime-framework/RCTRealtimeCloudStorage/) - The Realtime Framework Cloud Storage client for React-Native
 - [react-native-refresher](https://github.com/syrusakbary/react-native-refresher/) - A React Native pull to refresh ListView completely written in js. Also supports custom animations.
@@ -174,6 +184,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-simple-store](https://github.com/jasonmerino/react-native-simple-store/) - A minimalistic wrapper around React Native's AsyncStorage.
 - [react-native-slidable-tab-bar](https://github.com/pwbrown/react-native-slidable-tab-bar/) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider](https://github.com/jeanregisser/react-native-slider/) - A pure JavaScript  component for react-native
+- [react-native-social-share](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 - [react-native-speech](https://github.com/naoufal/react-native-speech/) - A text-to-speech library for React Native.
 - [react-native-spinkit](https://github.com/maxs15/react-native-spinkit/) - A collection of animated loading indicators for React Native
 - [react-native-sqlite](https://github.com/almost/react-native-sqlite/) - SQLite3 bindings for React Native
@@ -185,6 +196,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-swipeable-modal](https://github.com/apolkingg8/React-Native-Swipeable-Modal/) - Swipeable modal component for react-native.
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [react-native-tab](https://github.com/vczero/react-native-tab/) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
+- [react-native-tabbar](https://github.com/alinz/react-native-tabbar/) - Tab bar with more freedom
 - [react-native-tableview](https://github.com/aksonov/react-native-tableview/) - Native iOS TableView wrapper for React Native
 - [react-native-timeago](https://github.com/TylerLH/react-native-timeago/) - Auto-updating timeago component for React Native
 - [react-native-timer-mixin](https://github.com/reactjs/react-timer-mixin/) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
@@ -204,12 +216,12 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-viewport](https://github.com/pjjanak/react-native-viewport/) - Viewport dimensions for react-native
 - [react-native-voximplant](https://github.com/voximplant/react-native-voximplant/) - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
 - [react-native-watchkit](https://github.com/MystK/react-native-watchkit/) - react native for WatchKit
+- [react-native-web](https://github.com/necolas/react-native-web/) - React Native for Web
 - [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server/) - Build React Native apps with Webpack
 - [react-native-webview-bridge](https://github.com/alinz/react-native-webview-bridge/) - React Native WebView Javascript Bridge
 - [react-native-woopra](https://github.com/isair/react-native-woopra/) - Promise based Woopra library for react-native
-- [react-native-youtube-videoslide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/) - a YouTube-like video live slide 
+- [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
-
 ## Tooling
 
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
@@ -260,7 +272,6 @@ Get a head start on development with an existing seed.
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
 - [Embedding in existing apps](http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app)
-- [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
@@ -270,7 +281,6 @@ Get a head start on development with an existing seed.
 - [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
 - [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
 - [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
-- [React Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 
