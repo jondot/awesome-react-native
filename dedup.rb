@@ -7,7 +7,7 @@ BASE_URI = ENV['BASE_URI'] || 'https://github.com/jondot/awesome-react-native'
 
 doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md').read).to_html)
 links = doc.css('a').to_a
-puts "Validating / deduping #{links.count} links..."
+puts "Deduping #{links.count} links..."
 
 map = {}
 dups = []
