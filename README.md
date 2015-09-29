@@ -234,6 +234,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-woopra](https://github.com/isair/react-native-woopra/) - Promise based Woopra library for react-native
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
+- [react-native-webrtc](https://github.com/oney/react-native-webrtc/) - A WebRTC module for React Native.
 
 
 ## Tooling
