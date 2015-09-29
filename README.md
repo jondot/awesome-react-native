@@ -44,6 +44,7 @@ Content published on the Web.
 Components and native modules. For more search [React Parts](http://react.parts/).
 
 
+
 - [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Libary For React
 - [firebase-react-native](https://github.com/sjmueller/firebase-react-native) - firebase client api hacked to get working with react-native
@@ -55,6 +56,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-activity-view](https://github.com/naoufal/react-native-activity-view/) - iOS share and action sheets for React Native
 - [react-native-adbannerview](https://github.com/Purii/react-native-adbannerview/) - React Native Bridge for ADBannerView
 - [react-native-addressbook](https://github.com/rt2zz/react-native-addressbook/) - AddressBook module for react-native
+- [react-native-android-iconify](https://github.com/lwhiteley/react-native-android-iconify/) - icons for react native android using android-iconify
 - [react-native-android-sqlite](https://github.com/jbrodriguez/react-native-android-sqlite/) - A react native android wrapper for SQLite
 - [react-native-app-info](https://github.com/Iragne/react-native-app-info/) - React Native app info and version
 - [react-native-asciimage](https://github.com/turley/react-native-asciimage/) - An ASCIImage component for React Native
@@ -79,6 +81,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-carrier-info](https://github.com/anarchicknight/react-native-carrier-info/) - React Native module bridge to obtain information about the user’s home cellular service provider.
 - [react-native-chart](https://github.com/onefold/react-native-chart/) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 - [react-native-charts](https://github.com/PrazAs/react-native-charts/) - Delightfully-animated data visualization.
+- [react-native-checkbox](https://github.com/sconxu/react-native-checkbox/) - Checkbox component for React native
 - [react-native-circle-progress](https://github.com/guodong000/react-native-circle-progress/) - A custom Circle Progress Indocator for React Native
 - [react-native-clipboard](https://github.com/silentcloud/react-native-clipboard/) - React Native component for getting or setting clipboard content
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible/) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
@@ -207,6 +210,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-tab](https://github.com/vczero/react-native-tab/) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
 - [react-native-tabbar](https://github.com/alinz/react-native-tabbar/) - Tab bar with more freedom
 - [react-native-tableview](https://github.com/aksonov/react-native-tableview/) - Native iOS TableView wrapper for React Native
+- [react-native-tabs](https://github.com/aksonov/react-native-tabs/) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
 - [react-native-timeago](https://github.com/TylerLH/react-native-timeago/) - Auto-updating timeago component for React Native
 - [react-native-timer-mixin](https://github.com/reactjs/react-timer-mixin/) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 - [react-native-toolkit](https://github.com/marty-wang/react-native-toolkit/) - A collection of common UI components for react native mobile apps.
@@ -229,12 +233,11 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-web](https://github.com/necolas/react-native-web/) - React Native for Web
 - [react-native-webintent](https://github.com/ivanph/react-native-webintent/) - React native android module to open links in the default browser
 - [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server/) - Build React Native apps with Webpack
+- [react-native-webrtc](https://github.com/oney/react-native-webrtc/) - A WebRTC module for React Native.
 - [react-native-webview-bridge](https://github.com/alinz/react-native-webview-bridge/) - React Native WebView Javascript Bridge
 - [react-native-woopra](https://github.com/isair/react-native-woopra/) - Promise based Woopra library for react-native
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
-- [react-native-webrtc](https://github.com/oney/react-native-webrtc/) - A WebRTC module for React Native.
-
 
 ## Tooling
 
