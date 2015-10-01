@@ -5,9 +5,7 @@ require 'kramdown'
 
 BASE_URI = ENV['BASE_URI'] || 'https://github.com/jondot/awesome-react-native'
 
-doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md', 
-                                                "User-Agent" => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36",
-                                                 ).read).to_html)
+doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md').read).to_html)
 links = doc.css('a').to_a
 puts "Deduping #{links.count} links..."
 
