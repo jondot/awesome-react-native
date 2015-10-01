@@ -84,6 +84,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-charts](https://github.com/PrazAs/react-native-charts/) - Delightfully-animated data visualization.
 - [react-native-checkbox](https://github.com/sconxu/react-native-checkbox/) - Checkbox component for React native
 - [react-native-circle-progress](https://github.com/guodong000/react-native-circle-progress/) - A custom Circle Progress Indocator for React Native
+- [react-native-circle-view](https://github.com/nucleartux/react-native-circle-view/) - circle progress for react native android using CircleView
 - [react-native-clipboard](https://github.com/silentcloud/react-native-clipboard/) - React Native component for getting or setting clipboard content
 - [react-native-collapsible](https://github.com/oblador/react-native-collapsible/) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-color-grabber](https://github.com/bsudekum/react-native-color-grabber/) - React native component for finding dominant colors in an image
@@ -93,6 +94,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-dashed-border](https://github.com/chirag04/react-native-dashed-border/) - A  element for react-native
 - [react-native-db-models](https://github.com/darkrishabh/react-native-db-models/) - Local DB Models for React Native Apps
 - [react-native-debug-stylesheet](https://github.com/brentvatne/react-native-debug-stylesheet/) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
+- [react-native-detect-device](https://github.com/peachmeco/react-native-detect-device/) - Detect a device on iOS or android in react-native.
 - [react-native-device-display](https://github.com/kkjdaniel/react-native-display-view/) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
 - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info/) - Get device information using react-native
 - [react-native-device-motion](https://github.com/paramaggarwal/react-native-device-motion/) - iOS device motion wrapper for React Native.
