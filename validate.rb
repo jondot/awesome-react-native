@@ -1,7 +1,13 @@
 require 'parallel'
 require 'nokogiri'
 require 'open-uri'
+require 'httparty'
 require 'kramdown'
+
+def check_link(uri)
+  code = HTTParty.head(uri, :follow_redirects => false).code
+  return code >= 200 && code < 400
+end
 
 BASE_URI = ENV['BASE_URI'] || 'https://github.com/jondot/awesome-react-native'
 
@@ -13,9 +19,7 @@ invalids = []
 Parallel.each(links, :in_threads => 4) do |link|
   begin
     uri = URI.join(BASE_URI, link.attr('href'))
-    open(uri,
-      "User-Agent" => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36",
-    )
+    check_link(uri)
     putc('.')
   rescue
     putc('F')
