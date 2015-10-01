@@ -13,7 +13,9 @@ invalids = []
 Parallel.each(links, :in_threads => 4) do |link|
   begin
     uri = URI.join(BASE_URI, link.attr('href'))
-    open(uri)
+    open(uri,
+      "User-Agent" => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36",
+    )
     putc('.')
   rescue
     putc('F')
