@@ -56,6 +56,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-activity-view](https://github.com/naoufal/react-native-activity-view/) - iOS share and action sheets for React Native
 - [react-native-adbannerview](https://github.com/Purii/react-native-adbannerview/) - React Native Bridge for ADBannerView
 - [react-native-addressbook](https://github.com/rt2zz/react-native-addressbook/) - AddressBook module for react-native
+- [react-native-android-audio-streaming-aac](https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac/) - A react native streaming player
 - [react-native-android-iconify](https://github.com/lwhiteley/react-native-android-iconify/) - icons for react native android using android-iconify
 - [react-native-android-sqlite](https://github.com/jbrodriguez/react-native-android-sqlite/) - A react native android wrapper for SQLite
 - [react-native-app-info](https://github.com/Iragne/react-native-app-info/) - React Native app info and version
@@ -177,6 +178,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-range-selector](https://github.com/gaoli/react-native-range-selector/) - react native range selector
 - [react-native-realtimemessaging-android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid/) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
 - [react-native-realtimemessaging-ios](https://github.com/realtime-framework/RCTRealtimeMessaging/) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
+- [react-native-realtimestorage-android](https://github.com/realtime-framework/RCTRealtimeStorageAndroid/) - The Realtime Cloud Storage client for React-Native Android
 - [react-native-realtimestorage-ios](https://github.com/realtime-framework/RCTRealtimeCloudStorage/) - The Realtime Framework Cloud Storage client for React-Native
 - [react-native-refresher](https://github.com/syrusakbary/react-native-refresher/) - A React Native pull to refresh ListView completely written in js. Also supports custom animations.
 - [react-native-relative-units](https://github.com/benzhe/react-native-relative-units/) - Relative units for React Native
