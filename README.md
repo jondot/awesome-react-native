@@ -304,6 +304,10 @@ Get a head start on development with an existing seed.
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 
+## Problem & Solution
+
+- [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
+
 ## Videos
 
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
