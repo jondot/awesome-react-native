@@ -2,4 +2,5 @@ language: ruby
 rvm:
 - 2.2
 script: bundle exec ruby dedup.rb && bundle exec ruby validate.rb
+sudo: false
 
