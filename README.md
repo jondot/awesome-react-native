@@ -64,7 +64,9 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-assets](https://github.com/llanox/react-native-assests/) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
 - [react-native-audioplayer](https://github.com/andreaskeller/react-native-audioplayer/) - Small audio player library for react native
 - [react-native-autocomplete](https://github.com/nulrich/RCTAutoComplete/) - React Native Component for MLPAutoCompleteTextField
+- [react-native-awesome-button](https://github.com/larsvinter/react-native-awesome-button/) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-barcode-scanner](https://github.com/lifuzu/ReactNativeBarcodeScanner/) - Barcode scanner for React Native
+- [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner/) - A barcode scanner component for react native
 - [react-native-battery](https://github.com/oojr/react-native-battery/) - A React Native module that returns the battery level/status of a device
 - [react-native-bhcamera](https://github.com/bh5-pods/react-native-bhcamera) - React Native Barcode Scanner and Camera Utils.
 - [react-native-bhutils](https://github.com/bh5-pods/react-native-bhutils/) - React native utils
@@ -78,6 +80,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-calendar](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 - [react-native-camera](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-canvas](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
+- [react-native-card-io](https://github.com/kayla-tech/react-native-card-io/) - React Native component for card.io
 - [react-native-carousel](https://github.com/nick/react-native-carousel/) - Simple carousel component for react-native
 - [react-native-carrier-info](https://github.com/anarchicknight/react-native-carrier-info/) - React Native module bridge to obtain information about the user’s home cellular service provider.
 - [react-native-chart](https://github.com/onefold/react-native-chart/) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
@@ -90,18 +93,21 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-color-grabber](https://github.com/bsudekum/react-native-color-grabber/) - React native component for finding dominant colors in an image
 - [react-native-communications](https://github.com/anarchicknight/react-native-communications/) - Easily call, email, text or iMessage someone in React Native
 - [react-native-create-new-file-ios](https://github.com/rhaker/react-native-create-new-file-ios/) - A react-native interface for creating a blank new file on ios. File must not already exist.
+- [react-native-css-loader](https://github.com/thewei/react-native-css-loader/) - You can use react-native-css-loader width react-native-webpack-server, which can use webpack to built react-native app better.
 - [react-native-custom-actsheet](https://github.com/guodong000/react-native-custom-actsheet/) - A custom ActionSheet for react-native
 - [react-native-dashed-border](https://github.com/chirag04/react-native-dashed-border/) - A  element for react-native
 - [react-native-db-models](https://github.com/darkrishabh/react-native-db-models/) - Local DB Models for React Native Apps
 - [react-native-debug-stylesheet](https://github.com/brentvatne/react-native-debug-stylesheet/) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
 - [react-native-detect-device](https://github.com/peachmeco/react-native-detect-device/) - Detect a device on iOS or android in react-native.
 - [react-native-device-display](https://github.com/kkjdaniel/react-native-display-view/) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
+- [react-native-device-info-pod](https://github.com/mchinyakov/react-native-device-info/) - Get device information using react-native
 - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info/) - Get device information using react-native
 - [react-native-device-motion](https://github.com/paramaggarwal/react-native-device-motion/) - iOS device motion wrapper for React Native.
 - [react-native-device](https://github.com/GertjanReynaert/react-native-device/) - UIDevice wrapper for React Native
 - [react-native-double-buffer](https://github.com/alinz/react-native-double-buffer/) - Simple React Native Double Buffer View
 - [react-native-draggable-drawer](https://github.com/llanox/react-native-draggable-drawer/) - DraggableDrawer component for React Native.
 - [react-native-drawer](https://github.com/rt2zz/react-native-drawer/) - React Native Drawer
+- [react-native-dropdown-android](https://github.com/chymtt/ReactNativeDropdownAndroid/) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-dropdown](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view](https://github.com/voronianski/react-native-effects-view/) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-eval](https://github.com/artemyarulin/react-native-eval/) - Call any JS functions from your native code
@@ -173,6 +179,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-parallax](https://github.com/oblador/react-native-parallax/) - Parallax effects for React Native using Animated API
 - [react-native-phone-picker](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-piechart](https://github.com/frostney/react-native-piechart/) - A  component for React Native
+- [react-native-privacy-snapshot](https://github.com/kayla-tech/react-native-privacy-snapshot/) - Obscure passwords and other sensitive personal information when a react-native app transitions to the background
 - [react-native-progress-bar](https://github.com/lwansbrough/react-native-progress-bar/) - An animated progress bar component for React Native
 - [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-radio-button-classic](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
@@ -321,6 +328,7 @@ Get a head start on development with an existing seed.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
+- [0.12.0](https://github.com/facebook/react-native/releases/tag/v0.12.0)
 - [0.11.0-rc](https://github.com/facebook/react-native/releases/tag/v0.11.0-rc)
 - [0.10.0-rc](https://github.com/facebook/react-native/releases/tag/v0.10.0-rc)
 - [0.9.0-rc](https://github.com/facebook/react-native/releases/tag/v0.9.0-rc)
