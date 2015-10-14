@@ -38,6 +38,9 @@ Content published on the Web.
 - [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
 - [React Native in Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - notes from Clay Allsop
 - [React Native for Android](https://code.facebook.com/posts/1189117404435352/) and [issues](http://facebook.github.io/react-native/docs/known-issues.html)
+- [React May Have Just Ended The Native Vs. Web Debate](http://readwrite.com/2015/09/25/react-native-mobile-apps-web-apps-marc-shilling)
+- [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
+- [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 
 ## Components
 
@@ -290,6 +293,8 @@ Get a head start on development with an existing seed.
 - [An example React Native project for client login authentication](https://github.com/ryanmcdermott/react-native-login)
 - [iOS app that transcript your voice with IBM Watson Cloud](https://github.com/yrezgui/meowth-ios)
 - [React Native Chromecast App](https://github.com/holoed/ChromeCast_ReactNative)
+- [React Native Example, Geo and Location](https://github.com/bgryszko/react-native-example)
+- [MagicMirror](https://github.com/ajwhite/MagicMirror)
 
 ## Tutorials
 
@@ -310,6 +315,8 @@ Get a head start on development with an existing seed.
 - [React Native and Socket.io](http://browniefed.com/blog/2015/05/16/react-native-and-socket-dot-io/)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
+- [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
+
 
 ## Problem & Solution
 
