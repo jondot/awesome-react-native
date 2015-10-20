@@ -297,6 +297,7 @@ Get a head start on development with an existing seed.
 - [React Native Example, Geo and Location](https://github.com/bgryszko/react-native-example)
 - [MagicMirror](https://github.com/ajwhite/MagicMirror)
 - [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native), [iTunes](https://itunes.apple.com/us/app/kakapo/id1046673139)
+- [Finance React Native](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
 
 ## Tutorials
 
