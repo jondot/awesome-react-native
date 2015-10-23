@@ -56,6 +56,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [markdown-react-native](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
 - [react-native-ab](https://github.com/lwansbrough/react-native-ab/) - A component for rendering A/B tests in React Native
 - [react-native-accordion](https://github.com/naoufal/react-native-accordion/) - An Accordion Component for React Native
+- [react-native-action-button](https://github.com/mastermoo/react-native-action-button/) - A customizable Float Button Component for React Native
 - [react-native-activity-view](https://github.com/naoufal/react-native-activity-view/) - iOS share and action sheets for React Native
 - [react-native-adbannerview](https://github.com/Purii/react-native-adbannerview/) - React Native Bridge for ADBannerView
 - [react-native-addressbook](https://github.com/rt2zz/react-native-addressbook/) - AddressBook module for react-native
