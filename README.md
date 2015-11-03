@@ -301,6 +301,7 @@ Get a head start on development with an existing seed.
 - [MagicMirror](https://github.com/ajwhite/MagicMirror)
 - [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native), [iTunes](https://itunes.apple.com/us/app/kakapo/id1046673139)
 - [Finance React Native](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
+- [Redux Demo](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 
 ## Tutorials
 
