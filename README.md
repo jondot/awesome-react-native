@@ -97,7 +97,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-color-grabber](https://github.com/bsudekum/react-native-color-grabber/) - React native component for finding dominant colors in an image
 - [react-native-communications](https://github.com/anarchicknight/react-native-communications/) - Easily call, email, text or iMessage someone in React Native
 - [react-native-create-new-file-ios](https://github.com/rhaker/react-native-create-new-file-ios/) - A react-native interface for creating a blank new file on ios. File must not already exist.
-- [react-native-css-loader](https://github.com/thewei/react-native-css-loader/) - You can use react-native-css-loader width react-native-webpack-server, which can use webpack to built react-native app better.
+- [react-native-css-loader](https://github.com/thewei/react-native-css-loader/) - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
 - [react-native-custom-actsheet](https://github.com/guodong000/react-native-custom-actsheet/) - A custom ActionSheet for react-native
 - [react-native-dashed-border](https://github.com/chirag04/react-native-dashed-border/) - A  element for react-native
 - [react-native-db-models](https://github.com/darkrishabh/react-native-db-models/) - Local DB Models for React Native Apps
