@@ -128,6 +128,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-geocoder](https://github.com/devfd/react-native-geocoder/) - react native geocoding and reverse geocoding
 - [react-native-gesture-password](https://github.com/spikef/react-native-gesture-password/) - A gesture password component for React Native
 - [react-native-gesture-recognizers](https://github.com/johanneslumpe/react-native-gesture-recognizers/) - Gesture recognizer decorators for react-native
+- [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-global-event-emitter](https://github.com/paramaggarwal/react-native-global-event-emitter/) - Shared event emitter between native and JS for React Native.
 - [react-native-globalize](https://github.com/joshswan/react-native-globalize/) - Globalization helper for React Native
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics/) - Google Analytics for React Native!
