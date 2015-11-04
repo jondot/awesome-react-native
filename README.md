@@ -50,7 +50,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 - [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
-- [firebase-react-native](https://github.com/sjmueller/firebase-react-native) - firebase client api hacked to get working with react-native
 - [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [k-react-native-swipe-unlocker](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
 - [markdown-react-native](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
