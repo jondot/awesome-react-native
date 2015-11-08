@@ -255,6 +255,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
 - [react-native-fabric-digits](https://github.com/JeanLebrument/react-native-fabric-digits) Fabric Digits wrapper for React-Native
+- [react-native-android-speech](https://github.com/mihirsoni/react-native-android-speech/) - A text-to-speech library for Android React Native.
 
 ## Tooling
 
