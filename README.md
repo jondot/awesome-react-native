@@ -221,7 +221,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-store](https://github.com/thewei/react-native-store/) - A simple database base on react-native AsyncStorage.
 - [react-native-svg](https://github.com/brentvatne/react-native-svg/) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swift-socketio](https://github.com/kirkness/react-native-swift-socketio/) - A react native wrapper for socket.io-client-swift
-- [react-native-swipeable-modal](https://github.com/apolkingg8/React-Native-Swipeable-Modal/) - Swipeable modal component for react-native.
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [react-native-tab](https://github.com/vczero/react-native-tab/) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
 - [react-native-tabbar](https://github.com/alinz/react-native-tabbar/) - Tab bar with more freedom
@@ -354,4 +353,3 @@ Get a head start on development with an existing seed.
 - [0.6.0-rc](https://github.com/facebook/react-native/releases/tag/v0.6.0-rc)
 - [0.5.0-rc](https://github.com/facebook/react-native/releases/tag/v0.5.0-rc)
 - [0.4](http://facebook.github.io/react/blog/2015/04/17/react-native-v0.4.html)
-
