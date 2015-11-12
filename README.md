@@ -256,6 +256,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
 - [react-native-fabric-digits](https://github.com/JeanLebrument/react-native-fabric-digits) Fabric Digits wrapper for React-Native
 - [react-native-android-speech](https://github.com/mihirsoni/react-native-android-speech/) - A text-to-speech library for Android React Native.
+- [react-native-HsvToRgb](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 
 ## Tooling
 
