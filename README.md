@@ -28,7 +28,7 @@ Content published on the Web.
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
-- [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
+- [Parse and React (incl. Native)](http://blog.parse.com/learn/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
@@ -64,7 +64,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-android-sqlite](https://github.com/jbrodriguez/react-native-android-sqlite/) - A react native android wrapper for SQLite
 - [react-native-app-info](https://github.com/Iragne/react-native-app-info/) - React Native app info and version
 - [react-native-asciimage](https://github.com/turley/react-native-asciimage/) - An ASCIImage component for React Native
-- [react-native-assets](https://github.com/llanox/react-native-assests/) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
+- [react-native-assets](https://github.com/llanox/react-native-assets) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
 - [react-native-audioplayer](https://github.com/andreaskeller/react-native-audioplayer/) - Small audio player library for react native
 - [react-native-autocomplete](https://github.com/nulrich/RCTAutoComplete/) - React Native Component for MLPAutoCompleteTextField
 - [react-native-awesome-button](https://github.com/larsvinter/react-native-awesome-button/) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
@@ -101,8 +101,8 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-dashed-border](https://github.com/chirag04/react-native-dashed-border/) - A  element for react-native
 - [react-native-db-models](https://github.com/darkrishabh/react-native-db-models/) - Local DB Models for React Native Apps
 - [react-native-debug-stylesheet](https://github.com/brentvatne/react-native-debug-stylesheet/) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
-- [react-native-detect-device](https://github.com/peachmeco/react-native-detect-device/) - Detect a device on iOS or android in react-native.
-- [react-native-device-display](https://github.com/kkjdaniel/react-native-display-view/) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
+- [react-native-detect-device](https://github.com/fixt/react-native-device-specs) - Detect a device on iOS or android in react-native.
+- [react-native-device-display](https://github.com/kkjdaniel/react-native-device-display) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
 - [react-native-device-info-pod](https://github.com/mchinyakov/react-native-device-info/) - Get device information using react-native
 - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info/) - Get device information using react-native
 - [react-native-device-motion](https://github.com/paramaggarwal/react-native-device-motion/) - iOS device motion wrapper for React Native.
@@ -138,11 +138,11 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-html-render](https://github.com/soliury/react-native-html-render/) - A html render for react-native
 - [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf/) - Convert html strings to PDF documents using React Native
 - [react-native-html-webview](https://github.com/almost/react-native-html-webview/) - Display (possibly untrusted) HTML using a UIWebView in React Native.
-- [react-native-html](https://github.com/turingou/react-native-html/) - render html as react native custom elements
+- [react-native-html](https://github.com/guo-yu/react-native-html) - render html as react native custom elements
 - [react-native-htmltext](https://github.com/siuying/react-native-htmltext/) - Use HTML like markup to create stylized text in react-native.
-- [react-native-http](https://github.com/iktw/react-native-jwt/) - React native http
+- [react-native-http](https://github.com/iktw/react-native-http) - React native http
 - [react-native-hypertext](https://github.com/agentcooper/react-native-hypertext/) - React Native module to render hypertext (text with links)
-- [react-native-ibeacon](https://github.com/geniuxconsulting/react-native-ibeacon/) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
+- [react-native-ibeacon](https://github.com/frostney/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync](https://github.com/chirag04/react-native-icloud-sync/) - A react-native wrapper for syncing with icloud
 - [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-native-idle-timer](https://github.com/marcshilling/react-native-idle-timer/) - An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app
@@ -153,7 +153,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-item-cell](https://github.com/APSL/react-native-item-cell/) - React Native default style iOS item cell
 - [react-native-keyboardevents](https://github.com/johanneslumpe/react-native-keyboardevents/) - Monitors keyboard show/hide notifications
 - [react-native-keychain](https://github.com/oblador/react-native-keychain/) - Keychain Access for React Native
-- [react-native-leancloud](https://github.com/turingou/react-native-leancloud/) - a react native LeanCloud component
+- [react-native-leancloud](https://github.com/guo-yu/react-native-leancloud) - a react native LeanCloud component
 - [react-native-level-fs](https://github.com/tradle/react-native-level-fs/) - fs for react-native using level-filesystem and asyncstorage-down
 - [react-native-level](https://github.com/tradle/react-native-level/) - levelup API for react-native AsyncStorage.
 - [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - a very Slick and modern mobile lightbox implementation
@@ -222,7 +222,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-svg](https://github.com/brentvatne/react-native-svg/) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swift-socketio](https://github.com/kirkness/react-native-swift-socketio/) - A react native wrapper for socket.io-client-swift
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
-- [react-native-tab](https://github.com/vczero/react-native-tab/) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
+- [react-native-tab](https://github.com/vczero/react-native-tab-menu) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
 - [react-native-tabbar](https://github.com/alinz/react-native-tabbar/) - Tab bar with more freedom
 - [react-native-tableview](https://github.com/aksonov/react-native-tableview/) - Native iOS TableView wrapper for React Native
 - [react-native-tabs](https://github.com/aksonov/react-native-tabs/) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
@@ -260,7 +260,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ## Tooling
 
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
-- [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
+- [exp.host](http://exponentjs.com/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal)](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
@@ -295,7 +295,7 @@ Get a head start on development with an existing seed.
 - [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
 - [Dribbble React Native](https://github.com/catalinmiron/react-native-dribbble-app)
 - [Lumpen Radio](https://github.com/jhabdas/lumpen-radio)
-- [React Native Embedded App](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
+- [React Native Embedded App](https://github.com/dsibiski/react-native-hybrid-app-examples) -A collection of examples for using React Native in an existing iOS application
 - [An example React Native project for client login authentication](https://github.com/ryanmcdermott/react-native-login)
 - [iOS app that transcript your voice with IBM Watson Cloud](https://github.com/yrezgui/meowth-ios)
 - [React Native Chromecast App](https://github.com/holoed/ChromeCast_ReactNative)
@@ -310,7 +310,7 @@ Get a head start on development with an existing seed.
 
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-- [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
+- [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native/)
 - [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
 - [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
