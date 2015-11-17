@@ -327,6 +327,7 @@ Get a head start on development with an existing seed.
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 - [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
+- [Simple FaceMash clone in React Native](http://ryanclark.me/going-native-with-react/)
 
 
 ## Problem & Solution
