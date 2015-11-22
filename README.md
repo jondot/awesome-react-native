@@ -257,6 +257,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-android-speech](https://github.com/mihirsoni/react-native-android-speech/) - A text-to-speech library for Android React Native.
 - [react-native-HsvToRgb](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-gcm-android](https://github.com/oney/react-native-gcm-android) - GCM for Android
+- [react-native-zip-archive](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 
 ## Tooling
 
