@@ -48,6 +48,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 
 
+
 - [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [babel-preset-react-native](https://github.com/exponentjs/babel-preset-react-native/) - Preset Babel plugins for React Native applications
@@ -237,6 +238,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-page-control](https://github.com/silentcloud/react-native-page-control/) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper](https://github.com/fixt/react-native-page-swiper/) - Page Swiper component for React Native.
 - [react-native-parallax](https://github.com/oblador/react-native-parallax/) - Parallax effects for React Native using Animated API
+- [react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text) -  Parse text and make them into multiple React Native Text elements
 - [react-native-phone-picker](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-picker-android](https://github.com/beefe/react-native-picker-android/) - react-native-picker-android
 - [react-native-piechart](https://github.com/frostney/react-native-piechart/) - A  component for React Native
