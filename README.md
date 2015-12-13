@@ -338,7 +338,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-youtube](https://github.com/paramaggarwal/react-native-youtube/) - A  component for React Native.
 - [react-native-zip-archive](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
-
+- [react-native-selectme](https://github.com/gs-akhan/react-native-select) - Dropdown for Android and IOS React Native.
 
 ## Tooling
 
