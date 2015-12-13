@@ -89,6 +89,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-bluetooth-state](https://github.com/frostney/react-native-bluetooth-state/) - Answering the question of "Is my bluetooth on?" in React Native
 - [react-native-blur](https://github.com/Kureev/react-native-blur/) - React Native Blur component
 - [react-native-bonjour](https://github.com/Apercu/react-native-bonjour/) - A Bonjour discovery utility for react-native
+- [react-native-braintree-android](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-bridgeable-webview](https://github.com/Intellicode/react-native-bridgeable-webview/) - A react-native webview with bridge to react-native code
 - [react-native-browser-polyfill](https://github.com/johanneslumpe/react-native-browser-polyfill/) - A collection of polyfills for the react-native Javascript environment.
 - [react-native-browser](https://github.com/PrestoDoctor/react-native-browser/) - Full-featured web browser module for React Native apps, based on TOWebViewController
