@@ -12,12 +12,14 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 # Content
 
 - [Articles](#articles)
+- [Internals](#internals)
 - [Components](#components)
 - [Utilities] (#utilities)
 - [Seeds] (#seeds)
 - [Libraries] (#libraries)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
+- [Books](#books)
 - [Videos](#videos)
 - [Releases](#releases)
 
@@ -27,7 +29,6 @@ Content published on the Web.
 
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
-- [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
@@ -41,7 +42,23 @@ Content published on the Web.
 - [React Native for Android](https://code.facebook.com/posts/1189117404435352/) and [issues](http://facebook.github.io/react-native/docs/known-issues.html)
 - [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
+- [Building 3 React Native Apps in One Summer](https://medium.com/@rpastorelle/building-3-react-native-apps-in-one-summer-dcd0c31454ff)
+- [How to bridge a Swift view](http://browniefed.com/blog/2015/11/28/react-native-how-to-bridge-a-swift-view/)
+- [Building a Native SoundCloud Android app with Redux](https://wiredcraft.com/blog/native-soundcloud-android-app/) - discussing redux, code reuse and performance on Android.
+- [React Native Twitter exploding heart](http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/) - hardcore animations with Animation and ReactART
+- [Using AI to discover UI components](https://www.youtube.com/watch?v=_iiKl0BB6ho) - fun image processing / AI assisted process to discover and generate React Native UI
+- [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
+- [React Native and Fastlane](https://weluse.de/blog/react-native-deployment-with-fastlane.html) - small tweaks required to rig Fastlane with React Native
+
+
+## Internals
+
+- [Performance](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
+- [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
+- [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
+- [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
+- [React Native Bridge](http://tadeuzagallo.com/blog/react-native-bridge/)
 
 ## Components
 
@@ -418,6 +435,10 @@ Get a head start on development with an existing seed.
 ## Problem & Solution
 
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
+
+## Books
+
+- [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
 
 ## Videos
 
