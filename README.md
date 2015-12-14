@@ -53,6 +53,8 @@ Content published on the Web.
 
 ## Internals
 
+Content focusing about React Native under the hood.
+
 - [Performance](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
@@ -63,9 +65,6 @@ Content published on the Web.
 ## Components
 
 Components and native modules. For more search [React Parts](http://react.parts/).
-
-
-
 
 - [apsl-react-native-button](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
@@ -359,6 +358,8 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 ## Tooling
 
+Useful React Native tooling.
+
 - [react-native-snippets](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
 - [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal)](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
@@ -379,9 +380,13 @@ Get a head start on development with an existing seed.
 
 ## Libraries
 
+Libraries / SDK type additions for React Native development.
+
 - [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 
 ## Examples
+
+Fully working app examples and open source apps.
 
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
@@ -411,6 +416,8 @@ Get a head start on development with an existing seed.
 
 ## Tutorials
 
+Walkthroughs and tutorials that help you learn React Native.
+
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
@@ -434,13 +441,19 @@ Get a head start on development with an existing seed.
 
 ## Problem & Solution
 
+Quick solutions to typical problems.
+
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
 
 ## Books
 
+Books - free and commercial (but only good ones).
+
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
 
 ## Videos
+
+Assortment of conference and training videos.
 
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 - React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
@@ -453,13 +466,7 @@ Get a head start on development with an existing seed.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [0.13.0-rc](https://github.com/facebook/react-native/releases/tag/v0.13.0-rc)
-- [0.12.0](https://github.com/facebook/react-native/releases/tag/v0.12.0)
-- [0.11.0-rc](https://github.com/facebook/react-native/releases/tag/v0.11.0-rc)
-- [0.10.0-rc](https://github.com/facebook/react-native/releases/tag/v0.10.0-rc)
-- [0.9.0-rc](https://github.com/facebook/react-native/releases/tag/v0.9.0-rc)
-- [0.8.0-rc](https://github.com/facebook/react-native/releases/tag/v0.8.0-rc)
-- [0.7.0-rc](https://github.com/facebook/react-native/releases/tag/v0.7.0-rc)
-- [0.6.0-rc](https://github.com/facebook/react-native/releases/tag/v0.6.0-rc)
-- [0.5.0-rc](https://github.com/facebook/react-native/releases/tag/v0.5.0-rc)
-- [0.4](http://facebook.github.io/react/blog/2015/04/17/react-native-v0.4.html)
+- [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
+
+
+
