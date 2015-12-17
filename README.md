@@ -14,7 +14,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
-- [Utilities] (#utilities)
+- [Tooling](#tooling)
 - [Seeds] (#seeds)
 - [Libraries] (#libraries)
 - [Examples](#examples)
