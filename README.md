@@ -14,7 +14,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
-- [Tooling](#tooling)
+- [Utilities] (#utilities)
 - [Seeds] (#seeds)
 - [Libraries] (#libraries)
 - [Examples](#examples)
@@ -392,6 +392,7 @@ Useful React Native tooling.
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
+- [rnpm](https://github.com/rnpm/rnpm) - react native package manager
 
 ## Seeds
 
