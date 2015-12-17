@@ -397,10 +397,11 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux)
+- [react-native-hot-redux-starter](https://github.com/adampash/react-native-hot-redux-starter)
 - [react-native-tabbed](https://github.com/rxb/react-native-tabbed)
+- [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 
