@@ -380,7 +380,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-woopra](https://github.com/isair/react-native-woopra/) - Promise based Woopra library for react-native
 - [react-native-xmpp](https://github.com/aksonov/react-native-xmpp/) - XMPP Library for React Native
 - [react-native-zip-archive](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
-
+- [rn-nodeify](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 
 ## Tooling
 
