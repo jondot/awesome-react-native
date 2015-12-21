@@ -478,6 +478,7 @@ Quick solutions to typical problems.
 Books - free and commercial (but only good ones).
 
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
+- [Conquering React Native eBook](http://www.conqueringreactnative.com/) - (Commercial) A practical guide to building a complete React-Native app
 
 ## Videos
 
@@ -495,6 +496,3 @@ Assortment of conference and training videos.
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
-
-
-
