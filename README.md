@@ -465,7 +465,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 - [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 - [Simple FaceMash clone in React Native](http://ryanclark.me/going-native-with-react/)
-
+- [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
 
 ## Problem & Solution
 
