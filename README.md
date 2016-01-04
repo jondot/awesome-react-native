@@ -14,9 +14,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
-- [Utilities] (#utilities)
-- [Seeds] (#seeds)
-- [Libraries] (#libraries)
+- [Utilities](#utilities)
+- [Seeds](#seeds)
+- [Libraries](#libraries)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -271,7 +271,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-page-control](https://github.com/silentcloud/react-native-page-control/) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper](https://github.com/fixt/react-native-page-swiper/) - Page Swiper component for React Native.
 - [react-native-parallax](https://github.com/oblador/react-native-parallax/) - Parallax effects for React Native using Animated API
-- [react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text) -  Parse text and make them into multiple React Native Text elements
 - [react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text/) - Parse text and make them into multiple React Native Text elements
 - [react-native-phone-picker](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-picker-android](https://github.com/beefe/react-native-picker-android/) - react-native-picker-android
@@ -441,6 +440,7 @@ Fully working app examples and open source apps.
 - [Redux Demo](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 - [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 - [Posters_Galore_Android](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
+- [uestc-bbs-react-native](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
 
 ## Tutorials
 
