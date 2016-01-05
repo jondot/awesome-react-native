@@ -312,7 +312,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-segmented-view](https://github.com/lelandrichardson/react-native-segmented-view/) - Segmented View for React Native (with animation)
 - [react-native-select-box](https://github.com/akiran/react-native-select-box/) - react native select box
 - [react-native-selectme](https://github.com/gs-akhan/react-native-select) - Dropdown for Android and IOS React Native.
-- [react-native-selectme](https://github.com/gs-akhan/react-native-select/) - A better Select dropdown menu for react-native
 - [react-native-simple-auth](https://github.com/adamjmcgrath/react-native-simple-auth/) - Native social authentication for React Native on iOS
 - [react-native-simple-button](https://github.com/remobile/react-native-simple-button/) - A simple react-native button
 - [react-native-simple-sound](https://github.com/mikehedman/react-native-simple-sound/) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
