@@ -14,9 +14,9 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
-- [Utilities] (#utilities)
-- [Seeds] (#seeds)
-- [Libraries] (#libraries)
+- [Utilities](#utilities)
+- [Seeds](#seeds)
+- [Libraries](#libraries)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -397,7 +397,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-zip-archive ![GitHub stars](https://img.shields.io/github/stars/plrthink/react-native-zip-archive.svg)](https://github.complrthink/react-native-zip-archive) - Zip / Unzip archive utility
 
 
-
 ## Tooling
 
 Useful React Native tooling.
@@ -408,17 +407,19 @@ Useful React Native tooling.
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
+- [rnpm ![GitHub stars](https://img.shields.io/github/stars/rnpm/rnpm.svg)](https://github.comrnpm/rnpm) - react native package manager
 
 ## Seeds
 
 Get a head start on development with an existing seed.
 
-- [react-native-webpack-starter-kit ![GitHub stars](https://img.shields.io/github/stars/jhabdas/react-native-webpack-starter-kit.svg)](https://github.comjhabdas/react-native-webpack-starter-kit)
-- [react-native-babel ![GitHub stars](https://img.shields.io/github/stars/roman01la/react-native-babel.svg)](https://github.comroman01la/react-native-babel)
-- [react-native-es6-reflux ![GitHub stars](https://img.shields.io/github/stars/filp/react-native-es6-reflux.svg)](https://github.comfilp/react-native-es6-reflux)
-- [react-native-tabbed ![GitHub stars](https://img.shields.io/github/stars/rxb/react-native-tabbed.svg)](https://github.comrxb/react-native-tabbed)
 - [ReactNativeTS ![GitHub stars](https://img.shields.io/github/stars/mrpatiwi/ReactNativeTS.svg)](https://github.commrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ![GitHub stars](https://img.shields.io/github/stars/bartonhammond/snowflake.svg)](https://github.combartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
+- [react-native-babel ![GitHub stars](https://img.shields.io/github/stars/roman01la/react-native-babel.svg)](https://github.comroman01la/react-native-babel)
+- [react-native-es6-reflux ![GitHub stars](https://img.shields.io/github/stars/filp/react-native-es6-reflux.svg)](https://github.comfilp/react-native-es6-reflux)
+- [react-native-hot-redux-starter ![GitHub stars](https://img.shields.io/github/stars/adampash/react-native-hot-redux-starter.svg)](https://github.comadampash/react-native-hot-redux-starter)
+- [react-native-tabbed ![GitHub stars](https://img.shields.io/github/stars/rxb/react-native-tabbed.svg)](https://github.comrxb/react-native-tabbed)
+- [react-native-webpack-starter-kit ![GitHub stars](https://img.shields.io/github/stars/jhabdas/react-native-webpack-starter-kit.svg)](https://github.comjhabdas/react-native-webpack-starter-kit)
 
 ## Libraries
 
@@ -455,6 +456,7 @@ Fully working app examples and open source apps.
 - [Redux Demo ![GitHub stars](https://img.shields.io/github/stars/chentsulin/react-native-counter-ios-android.svg)](https://github.comchentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 - [react-native-nw-react-calculator ![GitHub stars](https://img.shields.io/github/stars/benoitvallon/react-native-nw-react-calculator.svg)](https://github.combenoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 - [Posters_Galore_Android ![GitHub stars](https://img.shields.io/github/stars/marmelab/Posters_Galore_Android.svg)](https://github.commarmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
+- [uestc-bbs-react-native ![GitHub stars](https://img.shields.io/github/stars/just4fun/uestc-bbs-react-native.svg)](https://github.comjust4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
 
 ## Tutorials
 
@@ -480,7 +482,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
 - [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
 - [Simple FaceMash clone in React Native](http://ryanclark.me/going-native-with-react/)
-
+- [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
 
 ## Problem & Solution
 
@@ -510,6 +512,3 @@ Assortment of conference and training videos.
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
-
-
-
