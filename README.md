@@ -246,7 +246,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-lock-ios ★23](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
 - [react-native-looped-carousel ★184](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★305](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
-- [react-native-markdown ★76](https://github.com/lwansbrough/react-native-markdown) - A component for rendering Markdown in React Native
 - [react-native-marquee-label ★6](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★19](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-kit ★498](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
@@ -277,7 +276,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-page-control ★44](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios  UIPageControl
 - [react-native-page-swiper ★17](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 - [react-native-parallax ★87](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
-- [react-native-parsed-text ★71](https://github.com/taskrabbit/react-native-parsed-text) -  Parse text and make them into multiple React Native Text elements
 - [react-native-parsed-text ★71](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 - [react-native-pdf-view ★3](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 - [react-native-phone-picker ★9](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
@@ -322,7 +320,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-seekbar-android ★4](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-segmented-view ★56](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
-- [react-native-selectme ★16](https://github.com/gs-akhan/react-native-select) - Dropdown for Android and IOS React Native.
 - [react-native-selectme ★16](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 - [react-native-showdown ★0](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-auth ★105](https://github.com/adamjmcgrath/react-native-simple-auth) - Native social authentication for React Native on iOS
@@ -346,7 +343,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-store ★168](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
 - [react-native-svg ★251](https://github.com/brentvatne/react-native-svg) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swift-socketio ★57](https://github.com/kirkness/react-native-swift-socketio) - A react native wrapper for socket.io-client-swift
-- [react-native-swiper-haobtc ★792](https://github.com/leecade/react-native-swiper) - Swiper component for React Native.
 - [react-native-swiper2 ★3](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
 - [react-native-swiper ★792](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [react-native-system-notification ★45](https://github.com/Neson/react-native-system-notification) - Notification for React Native
