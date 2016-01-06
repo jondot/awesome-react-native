@@ -407,7 +407,7 @@ Useful React Native tooling.
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
-- [rnpm ![GitHub stars](https://img.shields.io/github/stars/rnpm/rnpm.svg)](https://github.comrnpm/rnpm) - react native package manager
+- [rnpm](https://github.comrnpm/rnpm) - react native package manager
 
 ## Seeds
 
