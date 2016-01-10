@@ -422,6 +422,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-instagram ★0](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 - [react-native-leancloud ★5](https://github.com/turingou/react-native-leancloud) - a react native LeanCloud component
 - [react-native-level ★26](https://github.com/tradle/react-native-level) - levelup API for react-native AsyncStorage.
+- [react-native-linkedin-login ★0](https://github.com/jodybrewster/react-native-linkedin-login) - Linkedin Login for your react native applications
 - [react-native-onepassword ★3](https://github.com/DriveWealth/react-native-onepassword) - React Native integration with the OnePassword extension.
 - [react-native-qq ★19](https://github.com/reactnativecn/react-native-qq) - QQ Login&Share support in React Native.
 - [react-native-realtimemessaging-android ★30](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
