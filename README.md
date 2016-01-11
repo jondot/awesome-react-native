@@ -441,9 +441,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 
-
-
-
 ## Tooling
 
 Useful React Native tooling.
@@ -455,6 +452,7 @@ Useful React Native tooling.
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★400](https://github.com/rnpm/rnpm) - react native package manager
+- [rn-nodeify](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 
 ## Seeds
 
