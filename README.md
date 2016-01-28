@@ -311,6 +311,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-device-info ★82](https://github.com/rebeccahughes/react-native-device-info) - Get device information using react-native
 - [react-native-device-motion ★15](https://github.com/paramaggarwal/react-native-device-motion) - iOS device motion wrapper for React Native.
 - [react-native-device ★86](https://github.com/GertjanReynaert/react-native-device) - UIDevice wrapper for React Native
+- [react-native-discovery ★1](https://github.com/joshblour/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 - [react-native-fs ★135](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-gcm-android ★42](https://github.com/oney/react-native-gcm-android) - GCM for Android
 - [react-native-gcm ★37](https://github.com/bh5-pods/react-native-gcm) - Google Cloud Messaging for React Native
