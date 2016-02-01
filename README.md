@@ -244,7 +244,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-html ★7](https://github.com/turingou/react-native-html) - render html as react native custom elements
 - [react-native-htmltext ★40](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 - [react-native-hypertext ★11](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
-
+- [react-native-universal-modal ★0](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 
 ### Analytics
 
