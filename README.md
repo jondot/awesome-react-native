@@ -104,6 +104,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-custom-actsheet ★19](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
 - [react-native-dashed-border ★15](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★21](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
+- [react-native-timepicker](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
 - [react-native-device-display ★43](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
 - [react-native-dialogs ★64](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★1](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
