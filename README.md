@@ -408,6 +408,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Integrations
 
 - [react-native-android-vitamio ★24](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
+- [react-native-braintree ★23](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★5](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-card-io ★19](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
