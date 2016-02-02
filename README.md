@@ -285,6 +285,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Styling
 - [cairn](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
 - [react-native-css](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
+- [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
 
 
 ### System
