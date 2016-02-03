@@ -87,7 +87,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★330](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-button ★159](https://github.com/ide/react-native-button)
-
 - [react-native-cache-image ★16](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-calendar-android ★14](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 - [react-native-calendar ★72](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
@@ -466,15 +465,10 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [react-native-webpack-starter-kit ★213](https://github.com/jhabdas/react-native-webpack-starter-kit)
-
 - [react-native-babel ★226](https://github.com/roman01la/react-native-babel)
-
 - [react-native-es6-reflux ★115](https://github.com/filp/react-native-es6-reflux)
-
 - [react-native-tabbed ★14](https://github.com/rxb/react-native-tabbed)
-
 - [react-native-hot-redux-starter ★108](https://github.com/adampash/react-native-hot-redux-starter)
-
 - [ReactNativeTS ★14](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ★856](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 
@@ -491,40 +485,23 @@ Fully working app examples and open source apps.
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS ★1624](https://github.com/iSimar/HackerNews-React-Native)
-
 - [ReactNativeHackerNews ★136](https://github.com/jsdf/ReactNativeHackerNews)
-
 - [ReactNativeRedditReader ★80](https://github.com/akveo/react-native-reddit-reader)
-
 - [Premier League ★7](https://github.com/ennioma/react-native-premier-league)
-
 - [Buyscreen sample ★74](https://github.com/appintheair/react-native-buyscreen)
-
 - [NewsWatch video viewer ★61](https://github.com/bradoyler/newswatch-react-native)
-
 - [Native iOS font list ★18](https://github.com/yayolius/react-native-font-list)
-
 - [Confreaks ★22](https://github.com/cabaret/confreaks-react-native)
-
 - [iOS Conference App made with React Native ★161](https://github.com/mikkoj/NortalTechDay)
-
 - [Alt/Flux Demo ★83](https://github.com/mrblueblue/react-native-alt-demo)
-
 - [Dribbble React Native ★876](https://github.com/catalinmiron/react-native-dribbble-app)
-
 - [Lumpen Radio ★76](https://github.com/jhabdas/lumpen-radio)
-
 - [React Native Embedded App ★98](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 - [An example React Native project for client login authentication ★51](https://github.com/ryanmcdermott/react-native-login)
-
 - [iOS app that transcript your voice with IBM Watson Cloud ★15](https://github.com/yrezgui/meowth-ios)
-
 - [React Native Chromecast App ★24](https://github.com/holoed/ChromeCast_ReactNative)
-
 - [React Native Example, Geo and Location ★67](https://github.com/bgryszko/react-native-example)
-
 - [MagicMirror ★150](https://github.com/ajwhite/MagicMirror)
-
 - [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native), [iTunes](https://itunes.apple.com/us/app/kakapo/id1046673139)
 - [Finance React Native ★408](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
 - [Redux Demo ★91](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
@@ -545,7 +522,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Navigator Demo ★34](https://github.com/h87kg/NavigatorDemo)
-
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
@@ -587,3 +563,4 @@ Assortment of conference and training videos.
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
+
