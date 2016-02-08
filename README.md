@@ -445,6 +445,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
+- [react-native-desktop](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 
 ## Tooling
 
