@@ -293,6 +293,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 - [react-native-addressbook ★50](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
 - [react-native-android-geolocation ★9](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
+- [react-native-android-sms-listener ★12](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★8](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
 - [react-native-android-speech ★11](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.
 - [react-native-android-sqlite ★22](https://github.com/jbrodriguez/react-native-android-sqlite) - A react native android wrapper for SQLite
@@ -562,4 +563,3 @@ Assortment of conference and training videos.
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Current: 0.17](https://github.com/facebook/react-native/releases/tag/v0.17.0-rc)
-
