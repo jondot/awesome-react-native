@@ -150,9 +150,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-material-kit ★623](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 - [react-native-message-composer ★15](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-modalbox ★206](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
-- [react-native-mswiper](https://github.com/manandmoon/react-native-swiper/) - Swiper component for React Native.
-<!-- error fetching stars for manandmoon/react-native-swiper: 404 Not Found -->
-<!-- error fetching stars for manandmoon/react-native-swiper: 404 Not Found -->
 - [react-native-multi-slider ★25](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-navbar ★543](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
 - [react-native-navigation-bar ★17](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
@@ -273,7 +270,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 ### Build & Development
 
-- [babel-preset-react-native ★8](https://github.com/exponentjs/babel-preset-react-native) - Preset Babel plugins for React Native applications
 - [react-native-assets ★15](https://github.com/llanox/react-native-assests) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
 - [react-native-build-cli ★0](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
 - [react-native-code-push ★617](https://github.com/Microsoft/react-native-code-push) - React Native plugin for the CodePush service
