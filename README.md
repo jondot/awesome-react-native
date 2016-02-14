@@ -253,6 +253,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 ### Utils & Infra
 
+- [AWSSignature](https://github.com/leimd/AWSSignature) - a function that builds out required Amazon Web Services signature. Necessary to use S3, ec2, or other services.
 - [react-native-HsvToRgb ★1](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-des ★2](https://github.com/remobile/react-native-des) - A des crypto for react-native
