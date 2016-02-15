@@ -178,6 +178,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-progress-hud ★80](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-qrcode ★17](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
 - [react-native-quiltview ★1](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native
+- [react-native-radial-menu ★1](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-radio-button-classic ★20](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 - [react-native-radio-buttons ★48](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
 - [react-native-range-selector ★7](https://github.com/gaoli/react-native-range-selector) - react native range selector
