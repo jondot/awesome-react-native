@@ -255,7 +255,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 ### Utils & Infra
 
 - [react-native-HsvToRgb ★1](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
-- [react-native-aws-signature](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
+- [react-native-aws-signature ★20](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
 - [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-des ★2](https://github.com/remobile/react-native-des) - A des crypto for react-native
 - [react-native-eval ★17](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
