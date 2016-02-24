@@ -70,6 +70,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 - [apsl-react-native-button ★65](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★35](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
+- [ex-navigator ★292](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
 - [gl-react-native ★548](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [k-react-native-swipe-unlocker ★13](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
 - [metpro-react-native-progress ★7](https://github.com/imartingraham/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
@@ -299,7 +300,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-app-info ★14](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-barcode-scanner ★29](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 - [react-native-barcodescanner ★29](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
-- [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
+- [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-nativen
 - [react-native-battery ★3](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 - [react-native-ble ★23](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
 - [react-native-bluetooth-state ★8](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
