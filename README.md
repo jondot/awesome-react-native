@@ -482,15 +482,10 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [react-native-webpack-starter-kit ★391](https://github.com/jhabdas/react-native-webpack-starter-kit)
-
 - [react-native-babel ★229](https://github.com/roman01la/react-native-babel)
-
 - [react-native-es6-reflux ★124](https://github.com/filp/react-native-es6-reflux)
-
 - [react-native-tabbed ★16](https://github.com/rxb/react-native-tabbed)
-
 - [react-native-hot-redux-starter ★113](https://github.com/adampash/react-native-hot-redux-starter)
-
 - [ReactNativeTS ★21](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ★989](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 
@@ -507,40 +502,23 @@ Fully working app examples and open source apps.
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
 - [Hacker News iOS ★1663](https://github.com/iSimar/HackerNews-React-Native)
-
 - [ReactNativeHackerNews ★140](https://github.com/jsdf/ReactNativeHackerNews)
-
 - [ReactNativeRedditReader ★83](https://github.com/akveo/react-native-reddit-reader)
-
 - [Premier League ★8](https://github.com/ennioma/react-native-premier-league)
-
 - [Buyscreen sample ★76](https://github.com/appintheair/react-native-buyscreen)
-
 - [NewsWatch video viewer ★67](https://github.com/bradoyler/newswatch-react-native)
-
 - [Native iOS font list ★18](https://github.com/yayolius/react-native-font-list)
-
 - [Confreaks ★23](https://github.com/cabaret/confreaks-react-native)
-
 - [iOS Conference App made with React Native ★164](https://github.com/mikkoj/NortalTechDay)
-
 - [Alt/Flux Demo ★87](https://github.com/mrblueblue/react-native-alt-demo)
-
 - [Dribbble React Native ★903](https://github.com/catalinmiron/react-native-dribbble-app)
-
 - [Lumpen Radio ★84](https://github.com/jhabdas/lumpen-radio)
-
 - [React Native Embedded App ★105](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 - [An example React Native project for client login authentication ★57](https://github.com/ryanmcdermott/react-native-login)
-
 - [iOS app that transcript your voice with IBM Watson Cloud ★15](https://github.com/yrezgui/meowth-ios)
-
 - [React Native Chromecast App ★24](https://github.com/holoed/ChromeCast_ReactNative)
-
 - [React Native Example, Geo and Location ★70](https://github.com/bgryszko/react-native-example)
-
 - [MagicMirror ★154](https://github.com/ajwhite/MagicMirror)
-
 - [Kakapo -  ambient sound mixer](https://github.com/bluedaniel/Kakapo-native), [iTunes](https://itunes.apple.com/us/app/kakapo/id1046673139)
 - [Finance React Native ★429](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
 - [Redux Demo ★97](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
@@ -563,7 +541,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Navigator Demo ★44](https://github.com/h87kg/NavigatorDemo)
-
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
@@ -606,3 +583,4 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.20](https://github.com/facebook/react-native/releases/tag/v0.20.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/tag/latest)
+
