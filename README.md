@@ -235,7 +235,6 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-transparent-bar ★9](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [react-native-triangle ★7](https://github.com/Jpoliachik/react-native-triangle) - draw triangle views in react native
 - [react-native-tween-animation ★23](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
-- [react-native-universal-modal ★3](https://github.com/bokuweb/react-native-universal-modal) - react-native-universal-modal
 - [react-native-vector-icons ★764](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 - [react-native-viewpager ★281](https://github.com/race604/react-native-viewpager) - ViewPager componnent for React Native
 - [react-native-viewport-units ★39](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
