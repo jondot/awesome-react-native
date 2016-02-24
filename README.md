@@ -300,7 +300,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-app-info ★14](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-barcode-scanner ★29](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 - [react-native-barcodescanner ★29](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native
-- [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-nativen
+- [react-native-battery-status ★1](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
 - [react-native-battery ★3](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 - [react-native-ble ★23](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
 - [react-native-bluetooth-state ★8](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
