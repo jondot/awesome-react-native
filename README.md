@@ -236,6 +236,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-textinput-utils ★12](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★61](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 - [react-native-timer-mixin ★57](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
+- [react-native-tinder-swipe-cards](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 - [react-native-toast ★40](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
 - [react-native-toolkit ★20](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 - [react-native-tooltip ★62](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
