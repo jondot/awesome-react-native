@@ -418,6 +418,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 
 ### Backend
 
+- [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
 - [react-native-ajax](https://github.com/spikef/react-native-ajax/) - Ajax module for react native.
 - [react-native-aws-s3 ★3](https://github.com/watzak/react-native-aws-s3) - react-native aws amazon s3 storage
 - [react-native-async-http ★1](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
