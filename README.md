@@ -202,6 +202,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-root-modal](https://github.com/magicismight/react-native-root-modal/) - react native modal component
 - [react-native-route-navigator ★17](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
 - [react-native-router ★831](https://github.com/t4t5/react-native-router) - Awesome navigation for your native app.
+- [react-native-controllers ★7](https://github.com/wix/react-native-controllers) - Truly native no-compromise iOS navigation for React Native.
 - [react-native-scene-manager ★1](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 - [react-native-scrollable-decorator ★15](https://github.com/exponentjs/react-native-scrollable-decorator) - A standard interface for your scrollable React Native components, making it easier to compose components
 - [react-native-scrollable-mixin ★43](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components.
