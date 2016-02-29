@@ -480,6 +480,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-whirlyglobe](https://github.com/jhen0409/react-native-whirlyglobe/) - A React Native component for building Globe/Map with the WhirlyGlobe Maply.
 - [react-native-woopra ★6](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
+- [react-native-signalr ★12](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 
 ### Other Platforms
