@@ -278,6 +278,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-crypto](https://github.com/mvayngrib/react-native-crypto/) - implementation of crypto for React Native
 - [react-native-des ★2](https://github.com/remobile/react-native-des) - A des crypto for react-native
+- [react-native-device-log](https://github.com/olofd/react-native-device-log) - A UI and service for displaying dev-logs on devices.
 - [react-native-eval ★17](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
 - [react-native-fluxbone ★4](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 - [react-native-global-event-emitter ★21](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
