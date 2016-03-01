@@ -549,6 +549,7 @@ Fully working app examples and open source apps.
 - [uestc-bbs-react-native ★35](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
 - [Text Blast ★4](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 - [iTunesConnect ★13](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
+- [react-native-gitfeed ★171](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 
 ## Tutorials
 
@@ -605,4 +606,3 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.20](https://github.com/facebook/react-native/releases/tag/v0.20.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/tag/latest)
-
