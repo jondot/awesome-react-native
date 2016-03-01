@@ -64,7 +64,7 @@ Content focusing about React Native under the hood.
 
 ## Components
 
-Components and native modules. For more search [React Parts](http://react.parts/).
+Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
 
