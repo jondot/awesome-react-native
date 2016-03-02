@@ -64,7 +64,7 @@ Content focusing about React Native under the hood.
 
 ## Components
 
-Components and native modules. For more search [React Parts](http://react.parts/).
+Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
 
@@ -162,7 +162,9 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-message-composer ★17](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-md-textinput](https://github.com/evblurbs/react-native-md-textinput/) - React Native TextInput styled with Material Design.
 - [react-native-modalbox ★236](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
+- [react-native-modal-picker](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★27](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
+- [react-native-multiple-choice](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 - [react-native-navbar ★576](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
 - [react-native-navigation-bar ★18](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
 - [react-native-navigation-buttons ★1](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
@@ -250,6 +252,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-viewpager ★281](https://github.com/race604/react-native-viewpager) - ViewPager componnent for React Native
 - [react-native-viewport-units ★39](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★40](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
+- [react-native-webbrowser](https://github.com/d-a-n/react-native-webbrowser) - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.
 - [react-native-wheel ★7](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 
