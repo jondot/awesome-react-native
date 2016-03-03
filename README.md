@@ -363,6 +363,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-passcode-auth](https://github.com/naoufal/react-native-passcode-auth/) - React Native authentication with iOS Passcode.
 - [react-native-push-notification ★73](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-reverse-geo ★8](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
+- [react-native-sensor-manager ★2](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 - [react-native-sms-android ★0](https://github.com/rhaker/react-native-sms-android) - A react-native module for sending a sms message to a phone number.
 - [react-native-social-share ★111](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 - [react-native-system-notification ★71](https://github.com/Neson/react-native-system-notification) - Notification for React Native
