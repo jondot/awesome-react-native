@@ -554,6 +554,7 @@ Fully working app examples and open source apps.
 - [iTunesConnect ★13](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 - [react-native-gitfeed ★171](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [SendBirdReactNativeSample](https://github.com/smilefam/SendBird-JavaScript/tree/master/basic-react-native-sample/SendBirdReactNativeSample) - Messaging Platform 'SendBird' React Native version Sample Code.
+- [react-native-onesignal](React Native OneSignal) - React Native Push Notifications support with OneSignal integration.
 
 
 ## Tutorials
