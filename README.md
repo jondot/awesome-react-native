@@ -63,6 +63,7 @@ Content focusing about React Native under the hood.
 - [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
 - [React Native Bridge](http://tadeuzagallo.com/blog/react-native-bridge/)
+- [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 
 ## Components
 
