@@ -563,6 +563,7 @@ Fully working app examples and open source apps.
 - [react-native-gitfeed ★171](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [SendBirdReactNativeSample](https://github.com/smilefam/SendBird-JavaScript/tree/master/basic-react-native-sample/SendBirdReactNativeSample) - Messaging Platform 'SendBird' React Native version Sample Code.
 - [rndrawer-implemented-rnrouter](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
+- [GitterMobile](https://github.com/terrysahaidak/GitterMobile) - Gitter client for mobile devices (currently only for android)
 
 ## Frameworks
 - [Awesome React Native Meteor](github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
