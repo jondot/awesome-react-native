@@ -30,6 +30,7 @@ Content published on the Web.
 
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
+- [Wrapping Cocoapods for React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.wzp2qq1hn)
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
