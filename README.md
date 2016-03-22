@@ -443,7 +443,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-file-upload ★39](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
 - [react-native-http ★3](https://github.com/iktw/react-native-jwt) - React native http
 - [react-native-lazyload ★7](https://github.com/magicismight/react-native-lazyload) - lazyload for react native
-- [react-native-meteor ★53](https://github.com/inProgress-team/react-native-meteor) - DDP React-native Client
+- [react-native-meteor ★76](https://github.com/inProgress-team/react-native-meteor) - Full Meteor Client
 - [react-native-multipeer ★43](https://github.com/lwansbrough/react-native-multipeer) - Communicate over ad hoc wifi using Multipeer Connectivity
 - [react-native-networking ★40](https://github.com/eduedix/react-native-networking) - react-native module to download and upload files with AFNetworking
 - [react-native-rest-kit ★25](https://github.com/peter4k/react-native-rest-kit) - A React Native RESTful API kit that use the fetch method
