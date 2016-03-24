@@ -368,6 +368,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-lock-ios ★33](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
 - [react-native-motion-manager ★73](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-passcode-auth](https://github.com/naoufal/react-native-passcode-auth/) - React Native authentication with iOS Passcode.
+- [react-native-permissions ★1](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
 - [react-native-push-notification ★73](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-reverse-geo ★8](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★2](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
