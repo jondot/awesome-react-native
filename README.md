@@ -628,5 +628,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.20](https://github.com/facebook/react-native/releases/tag/v0.20.0)
+- [Stable: 0.22](https://github.com/facebook/react-native/releases/tag/v0.22.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
