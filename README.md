@@ -170,6 +170,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-modal-picker](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★27](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-multiple-choice](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
+- [react-native-nav](https://github.com/jineshshah36/react-native-nav) - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
 - [react-native-navbar ★576](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
 - [react-native-navigation-bar ★18](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
 - [react-native-navigation-buttons ★1](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
