@@ -601,6 +601,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
 - [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
 - [Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/)
+- [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
 
 ## Problem & Solution
 
