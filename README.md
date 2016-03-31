@@ -625,6 +625,7 @@ Assortment of conference and training videos.
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
+- Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
 
 ## Releases
 
