@@ -290,6 +290,7 @@ Get a head start on development with an existing seed.
 - [An example React Native project for client login authentication](https://github.com/ryanmcdermott/react-native-login)
 - [iOS app that transcript your voice with IBM Watson Cloud](https://github.com/yrezgui/meowth-ios)
 - [React Native Chromecast App](https://github.com/holoed/ChromeCast_ReactNative)
+- [Insta Snap ](https://github.com/iZaL/insta-snap) - Image Sharing App
 
 ## Tutorials
 
