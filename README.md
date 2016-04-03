@@ -571,9 +571,12 @@ Fully working app examples and open source apps.
 - [rndrawer-implemented-rnrouter](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
 - [GitterMobile](https://github.com/terrysahaidak/GitterMobile) - Gitter client for mobile devices (currently only for android)
 - [Hello Bemans](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
+- [Insta Snap ](https://github.com/iZaL/insta-snap) - Image Sharing App
+
 
 ## Frameworks
 - [Awesome React Native Meteor](github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
+
 
 ## Tutorials
 
