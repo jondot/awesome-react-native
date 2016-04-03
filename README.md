@@ -600,6 +600,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
 - [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
 - [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
+- [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
 
 ## Problem & Solution
 
