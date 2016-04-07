@@ -98,6 +98,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-button ★173](https://github.com/ide/react-native-button)
 
 - [react-native-cache-image ★18](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
+- [react-native-cacheable-image ★18](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 - [react-native-calendar-android ★15](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 - [react-native-calendar ★80](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 - [react-native-canvas ★47](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
