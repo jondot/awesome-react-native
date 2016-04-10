@@ -645,7 +645,6 @@ Walkthroughs and tutorials that help you learn React Native.
 
 Quick solutions to typical problems.
 
-- [What's the Current Routing Stack?](https://github.com/facebook/react-native/issues/6184)
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
 
 ## Books
