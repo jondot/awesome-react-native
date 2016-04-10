@@ -28,6 +28,13 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 Content published on the Web.
 
+### Routing
+
+- [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
+- [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/NavigationExperimental)
+
+### Assorted
+
 - [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
@@ -638,6 +645,7 @@ Walkthroughs and tutorials that help you learn React Native.
 
 Quick solutions to typical problems.
 
+- [What's the Current Routing Stack?](https://github.com/facebook/react-native/issues/6184)
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
 
 ## Books
