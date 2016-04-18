@@ -303,6 +303,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-htmltext ★55](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 - [react-native-hypertext ★15](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 - [react-native-universal-modal ★6](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
+- [react-native-hyperlink ★0](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
 
 ### Analytics
 
