@@ -103,7 +103,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★11](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★1](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
-- [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★407](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-button ★228](https://github.com/ide/react-native-button)
 - [react-native-cache-image ★30](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
@@ -223,7 +222,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-radial-menu ★14](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-radio-button-classic ★23](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 - [react-native-radio-buttons ★66](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
-- [react-native-range-selector ★7](https://github.com/gaoli/react-native-range-selector) - react native range selector
 - [react-native-rebound-scrollview ★5](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 - [react-native-refresher ★222](https://github.com/syrusakbary/react-native-refresher) - A React Native pull to refresh ListView completely written in js. Also supports custom animations.
 - [react-native-relative-units ★2](https://github.com/benzhe/react-native-relative-units) - Relative units for React Native
@@ -244,7 +242,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-seekbar-android ★5](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-segmented-view ★77](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
-- [react-native-selectable](https://github.com/vitalets/react-native-extended-selectable/) - Customizable checkbox and radio buttons in one component for React Native
 - [react-native-selectme ★35](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 - [react-native-showdown ★5](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-button ★4](https://github.com/remobile/react-native-simple-button) - A simple react-native button
@@ -386,7 +383,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-discovery ★18](https://github.com/joshblour/react-native-discovery) - Discover nearby devics using BLE. Turn iOS and Android devices into beacons
 - [react-native-fs ★267](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-gcm-android ★96](https://github.com/oney/react-native-gcm-android) - GCM for Android
-- [react-native-gcm ★43](https://github.com/bh5-pods/react-native-gcm) - Google Cloud Messaging for React Native
 - [react-native-geocoder ★57](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
 - [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-geolocation ★1](https://github.com/remobile/react-native-geolocation) - A geolocation for react-native
@@ -475,7 +471,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
 - [react-native-aws-s3 ★3](https://github.com/watzak/react-native-aws-s3) - react-native aws amazon s3 storage
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
-- [react-native-bonjour ★1](https://github.com/Apercu/react-native-bonjour) - A Bonjour discovery utility for react-native
 - [react-native-cognito ★20](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
 - [react-native-file-download ★21](https://github.com/plrthink/react-native-file-download) - A simple file download module for react-native
 - [react-native-file-upload ★46](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
@@ -529,7 +524,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-voximplant ★34](https://github.com/voximplant/react-native-voximplant) - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
 - [react-native-wechat-ios ★78](https://github.com/beefe/react-native-wechat-ios) - Wechat SDK for React Native(iOS).
 - [react-native-wechat ★180](https://github.com/weflex/react-native-wechat) - react-native library for wechat app
-- [react-native-whirlyglobe](https://github.com/jhen0409/react-native-whirlyglobe/) - A React Native component for building Globe/Map with the WhirlyGlobe Maply.
 - [react-native-woopra ★6](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
 - [react-native-signalr ★16](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
