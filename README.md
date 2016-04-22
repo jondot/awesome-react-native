@@ -67,9 +67,7 @@ Content published on the Web.
 - [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
 
 
-## Internals
-
-Content focusing about React Native under the hood.
+### Internals
 
 - [Performance](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
@@ -79,6 +77,8 @@ Content focusing about React Native under the hood.
 - [React Native Bridge](http://tadeuzagallo.com/blog/react-native-bridge/)
 - [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 - [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
+- [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
+
 
 ## Components
 
@@ -650,6 +650,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Droppable Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/)
 - [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
 - [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
+- [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 
 ## Problem & Solution
 
