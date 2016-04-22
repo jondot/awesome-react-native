@@ -308,6 +308,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-htmltext ★55](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 - [react-native-hypertext ★15](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 - [react-native-universal-modal ★6](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
+- [react-native-hyperlink ★0](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
 
 ### Analytics
 
@@ -352,6 +353,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-css-loader ★7](https://github.com/thewei/react-native-css-loader) - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
 - [react-native-debug-stylesheet ★40](https://github.com/brentvatne/react-native-debug-stylesheet) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
 - [react-native-webpack-server ★722](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
+- [reactotron ★51](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
 
 ### Styling
 
