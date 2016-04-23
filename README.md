@@ -341,7 +341,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-webp ★3](https://github.com/dbasedow/react-native-webp) - react-native-webp adds support for WebP images for react-native components.
 - [react-native-webpackager-server ★2](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 - [react-native-zip-archive ★13](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
-
+- [react-native-html-parser ★0](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 
 ### Build & Development
 
