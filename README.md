@@ -74,7 +74,6 @@ Content published on the Web.
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 - [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
-- [React Native Bridge](http://tadeuzagallo.com/blog/react-native-bridge/)
 - [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 - [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
 - [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
@@ -145,6 +144,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-effects-view ★159](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-emoji ★32](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-fading-slides ★12](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
+- [react-native-fit-image ★3](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
 - [react-native-flex-label ★4](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-floating-labels ★43](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
 - [react-native-fm-form ★7](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
