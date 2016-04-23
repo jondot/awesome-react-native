@@ -74,7 +74,6 @@ Content published on the Web.
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 - [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
 - [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
-- [React Native Bridge](http://tadeuzagallo.com/blog/react-native-bridge/)
 - [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 - [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
 - [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
