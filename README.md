@@ -629,6 +629,7 @@ Fully working app examples and open source apps.
 
 Walkthroughs and tutorials that help you learn React Native.
 
+- [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 - [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
