@@ -134,6 +134,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★35](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
 - [react-native-timepicker ★6](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
+- [react-native-datepicker ★9](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
 - [react-native-device-display ★58](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
 - [react-native-dialogs ★137](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★1](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
