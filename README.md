@@ -268,6 +268,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-starrating ★12](https://github.com/bluesky0109/react-native-starRating) - a react-native component for display interactive star ratings
 - [react-native-store-view ★0](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 - [react-native-style-sheet ★0](https://github.com/ninozhang/react-native-style-sheet) - React Native StyleSheet
+- [react-native-stylesheet-xg ★1](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★300](https://github.com/brentvatne/react-native-svg) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swipeout ★397](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 - [react-native-swiper2 ★25](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
