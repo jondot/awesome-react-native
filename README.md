@@ -465,6 +465,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-video ★587](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 - [react-native-volume-slider ★8](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
 - [react-native-vlc-player ★7](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
+- [react-native-camera-roll-picker ★1](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
 
 
 ### Storage
