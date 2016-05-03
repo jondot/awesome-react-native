@@ -215,6 +215,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-parsed-text ★107](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 - [react-native-pdf-view ★14](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 - [react-native-phone-picker ★12](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
+- [react-native-photo-browser ★39] (https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 - [react-native-photo-grid ★0](https://github.com/christopherabouabdo/react-native-photo-grid) - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
 - [react-native-picker-android ★31](https://github.com/beefe/react-native-picker-android) - react-native-picker-android
 - [react-native-picker ★71](https://github.com/beefe/react-native-picker) - react-native-picker
