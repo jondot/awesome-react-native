@@ -154,7 +154,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★53](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 - [react-native-form-generator ★25](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
-- [react-native-fontbase ★1](https://github.com/frostney/react-intl-native) - Defining font sizes in React Native
+- [react-native-fontbase ★1](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★28](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 - [react-native-full-screen ★1](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
 - [react-native-gesture-password ★89](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
