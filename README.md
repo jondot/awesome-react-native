@@ -109,6 +109,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★11](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★1](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
+- [react-native-bar-collapsible ★0](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★407](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-button ★228](https://github.com/ide/react-native-button)
