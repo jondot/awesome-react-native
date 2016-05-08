@@ -550,6 +550,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
 - [react-native-signalr ★16](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
+- [react-native-new-relic ★3](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
 
 ### Other Platforms
 
