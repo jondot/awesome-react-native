@@ -352,6 +352,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-zip-archive ★13](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 - [react-native-html-parser ★0](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
+- [codemod-RN24-to-RN25](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 
 ### Build & Development
 
