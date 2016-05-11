@@ -491,7 +491,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
 - [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
-- [react-native-aws-s3 ★3](https://github.com/watzak/react-native-aws-s3) - react-native aws amazon s3 storage
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 - [react-native-bonjour ★1](https://github.com/Apercu/react-native-bonjour) - A Bonjour discovery utility for react-native
 - [react-native-cognito ★20](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
@@ -510,6 +509,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-udp ★31](https://github.com/tradle/react-native-udp) - node's dgram API for react-native
 - [react-native-uploader ★44](https://github.com/aroth/react-native-uploader) - A React Native module to upload files and camera roll assets. Supports progress notification.
 - [react-native-xmpp ★42](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
+- [react-native-s3 ★10](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
+- [react-native-aws3 ★14](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 
 
 ### Integrations
