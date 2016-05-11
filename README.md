@@ -547,7 +547,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-voximplant ★34](https://github.com/voximplant/react-native-voximplant) - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
 - [react-native-wechat-ios ★78](https://github.com/beefe/react-native-wechat-ios) - Wechat SDK for React Native(iOS).
 - [react-native-wechat ★180](https://github.com/weflex/react-native-wechat) - react-native library for wechat app
-- [react-native-whirlyglobe](https://github.com/jhen0409/react-native-whirlyglobe/) - A React Native component for building Globe/Map with the WhirlyGlobe Maply.
 - [react-native-woopra ★6](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
 - [react-native-axmall-alipay ★1](https://github.com/szq4119/react-native-alipay) - react-native alipay
 - [react-native-signalr ★16](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
