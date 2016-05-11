@@ -109,7 +109,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete ★73](https://github.com/nulrich/RCTAutoComplete) - React Native Component for MLPAutoCompleteTextField
 - [react-native-autocomplete-input ★11](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★1](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
-- [react-native-bar-collapsible ★0](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
+- [react-native-bar-collapsible ★1](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★407](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-button ★228](https://github.com/ide/react-native-button)
@@ -132,6 +132,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-country-picker ★2](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-custom-actsheet ★24](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
+- [react-native-custom-checkbox ★1](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 - [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
 - [react-native-date ★35](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
 - [react-native-timepicker ★6](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
