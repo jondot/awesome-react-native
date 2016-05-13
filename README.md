@@ -598,7 +598,7 @@ Fully working app examples and open source apps.
 - [Reddit made with React Native and Redux ★83](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
-- [Hacker News iOS ★1827](https://github.com/iSimar/HackerNews-React-Native)
+- [Hacker News (iOS & Android) ★1950](https://github.com/iSimar/HackerNews-React-Native)
 - [ReactNativeHackerNews ★167](https://github.com/jsdf/ReactNativeHackerNews)
 - [ReactNativeRedditReader ★204](https://github.com/akveo/react-native-reddit-reader)
 - [Premier League ★9](https://github.com/ennioma/react-native-premier-league)
