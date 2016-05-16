@@ -417,6 +417,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-location ★91](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
 - [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)
 - [react-native-lock-ios ★53](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
+- [react-native-mipush ★0](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 - [react-native-motion-manager ★82](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-passcode-auth ★14](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★6](https://github.com/joshblour/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS only)
