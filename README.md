@@ -259,6 +259,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectable](https://github.com/vitalets/react-native-extended-selectable/) - Customizable checkbox and radio buttons in one component for React Native
 - [react-native-selectme ★35](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
+- [react-native-shared-preferences](https://github.com/sriraman/react-native-shared-preferences) - Android's Native key value storage system in React Native
 - [react-native-showdown ★5](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 - [react-native-simple-button ★4](https://github.com/remobile/react-native-simple-button) - A simple react-native button
 - [react-native-simple-picker ★3](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
