@@ -265,6 +265,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-picker ★3](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 - [react-native-simple-router ★100](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simpledialog-android ★18](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
+- [react-native-sketch ★6](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 - [react-native-slidable-tab-bar ★16](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★143](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
 - [react-native-spinkit ★194](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
