@@ -325,6 +325,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-ab ★66](https://github.com/lwansbrough/react-native-ab) - A component for rendering A/B tests in React Native
 - [react-native-google-analytics ★121](https://github.com/lwansbrough/react-native-google-analytics) - Google Analytics for React Native!
+- [react-native-fabric ★124](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers 
 - [react-native-mixpanel ★45](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★16](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 
