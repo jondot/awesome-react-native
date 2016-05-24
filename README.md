@@ -638,6 +638,7 @@ Fully working app examples and open source apps.
 - [30-days-of-react-native  ★19](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
 - [Ziliun React Native  ★141](https://github.com/sonnylazuardi/ziliun-react-native) - Wordpress based article reader built with react native
 - [Vocab React Native](https://github.com/thaiinhk/VocabReactNative) - Thai Vocabulary Learning App
+- [React Weather](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 
 ## Frameworks
 
