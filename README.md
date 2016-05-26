@@ -332,6 +332,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Utils & Infra
 
+- [AWSSignature](https://github.com/leimd/AWSSignature) - a function that builds out required Amazon Web Services signature. Necessary to use S3, ec2, or other services.
 - [react-native-HsvToRgb ★1](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-aes ★7](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★24](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
