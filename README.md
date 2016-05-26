@@ -577,6 +577,7 @@ Useful React Native tooling.
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★1018](https://github.com/rnpm/rnpm) - react native package manager
 - [rn-nodeify ★24](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
+- [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 
 ## Seeds
 
