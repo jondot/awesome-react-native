@@ -703,6 +703,10 @@ Assortment of conference and training videos.
 - Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
 - Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
+- [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
+- [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
+- [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
+- [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
 
 ## Releases
 
