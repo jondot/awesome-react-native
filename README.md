@@ -211,6 +211,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-navigator ★49](https://github.com/thewei/react-native-navigator) - A simple router for react native
 - [react-native-nested-stylesheet ★37](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
 - [react-native-newsticker ★8](https://github.com/moschan/react-native-newsticker) - The News Ticker component for React Native
+- [react-native-nmrangeslider-ios ★11] (https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
 - [react-native-orientation-controller ★7](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 - [react-native-orientation-listener ★82](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
 - [react-native-orientation ★130](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
