@@ -580,6 +580,7 @@ Useful React Native tooling.
 - [rsx *25](https://github.com/react-native-contrib/rsx/) - An alternative to the `react-native` CLI tool
 - [rn-nodeify ★24](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
 
 ## Seeds
 
