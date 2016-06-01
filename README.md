@@ -468,6 +468,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-bhcamera ★2](https://github.com/bh5-pods/react-native-bhcamera) - React Native Barcode Scanner and Camera Utils.
 - [react-native-camera ★953](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★19](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
+- [react-native-incall-manager ★8](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
 - [react-native-media-capture ★1](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 - [react-native-mediaplayer ★5](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.
 - [react-native-media-meta ★5](https://github.com/mybigday/react-native-media-meta) - Get media file metadata in your React Native app
