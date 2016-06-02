@@ -541,6 +541,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-google-places-autocomplete ★109](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Customizable Google Places autocomplete component for iOS and Android React-Native apps
 - [react-native-google-signin ★114](https://github.com/apptailor/react-native-google-signin) - Google Signin for your react native applications
 - [react-native-hawk ★2](https://github.com/andyscott/react-native-hawk) - Hawk wrapper for react-native
+- [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★9](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★6](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
 - [react-native-instagram ★0](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
@@ -582,7 +583,7 @@ Useful React Native tooling.
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
 - [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 - [rnpm ★1018](https://github.com/rnpm/rnpm) - react native package manager
-- [rsx *25](https://github.com/react-native-contrib/rsx/) - An alternative to the `react-native` CLI tool
+- [rsx ★25](https://github.com/react-native-contrib/rsx/) - An alternative to the `react-native` CLI tool
 - [rn-nodeify ★24](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
