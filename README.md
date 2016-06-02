@@ -567,6 +567,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 - [react-native-new-relic ★3](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
 
+### Monetization
+- [react-native-revmob ★4](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
+
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
