@@ -132,7 +132,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-collapsible ★136](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-countdown ★5](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★2](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
-- [react-native-country-picker-modal ★43](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
+- [react-native-country-picker-modal ★49](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 - [react-native-custom-actsheet ★24](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
 - [react-native-custom-checkbox ★1](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
@@ -270,6 +270,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-router ★100](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simpledialog-android ★18](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-sketch ★6](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
+- [react-native-slack-webhook ★13](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
 - [react-native-slidable-tab-bar ★16](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★143](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
 - [react-native-spinkit ★194](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
