@@ -598,7 +598,7 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [react-native-base ★70](https://github.com/infinitered/react_native_base) - Opinionated Android & iOS (optional XDE), ES2015, Mocha Tests, Redux, Sagas, Networking Code, StandardJS compliant
+- [🔥 Ignite ★243](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
 - [react-native-webpack-starter-kit ★547](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★228](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★129](https://github.com/filp/react-native-es6-reflux)
