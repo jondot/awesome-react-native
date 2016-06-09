@@ -340,6 +340,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-aes ★10](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★27](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
+- [react-native-babel-jest ★2](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
 - [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-crypto ★12](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 - [react-native-des ★6](https://github.com/remobile/react-native-des) - A des crypto for react-native
@@ -662,7 +663,7 @@ Fully working app examples and open source apps.
 
 ## Frameworks
 
-- [Awesome React Native Meteor](github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
+- [Awesome React Native Meteor](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★965](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
 - [ignite](github.com/infinitered/ignite) - A starter seed and a framework for quickly generating apps, screens, components and more...
 
