@@ -37,6 +37,8 @@ Content published on the Web.
 
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
+- [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
+- [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)
 
 ### Assorted
 
@@ -608,6 +610,7 @@ Get a head start on development with an existing seed.
 - [react-native-hot-redux-starter ★127](https://github.com/adampash/react-native-hot-redux-starter)
 - [ReactNativeTS ★55](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ★1766](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
+- [React Native Meteor Boilerplate ★179](https://github.com/spencercarli/react-native-meteor-boilerplate)
 
 ## Libraries
 
