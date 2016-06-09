@@ -665,7 +665,6 @@ Fully working app examples and open source apps.
 
 - [Awesome React Native Meteor](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★965](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [ignite](https://github.com/infinitered/ignite) - A starter seed and a framework for quickly generating apps, screens, components and more...
 
 ## Tutorials
 
