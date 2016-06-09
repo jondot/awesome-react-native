@@ -660,6 +660,7 @@ Fully working app examples and open source apps.
 - [Vocab React Native ★3](https://github.com/thaiinhk/VocabReactNative) - Thai Vocabulary Learning App
 - [React Weather ★65](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 - [react-native-hiapp ★21](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
+- [react-native-redux-facebook](https://github.com/bkspace/react-native-redux-facebook) - A simple React Redux Facebook authentication demo app.
 
 ## Frameworks
 
