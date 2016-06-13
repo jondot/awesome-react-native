@@ -312,6 +312,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-wheel ★12](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-message-bar ★65](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
+- [react-native-sglistview ★220] (https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 
 
 ### Text & Rich Content
