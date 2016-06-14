@@ -576,6 +576,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Monetization
 
+- [react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★7](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 
 ### Other Platforms
@@ -618,7 +619,7 @@ Get a head start on development with an existing seed.
 Libraries / SDK type additions for React Native development.
 
 - [tcomb-form-native ★1038](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
-- [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native 
+- [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 
 ## Examples
 
