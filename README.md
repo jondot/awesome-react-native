@@ -214,8 +214,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-navigator ★55](https://github.com/thewei/react-native-navigator) - A simple router for react native
 - [react-native-nested-stylesheet ★41](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
 - [react-native-newsticker ★9](https://github.com/moschan/react-native-newsticker) - The News Ticker component for React Native
-- [react-native-nmrangeslider-ios ★11] (https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
-- [react-native-offline-mode] (https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity
+- [react-native-nmrangeslider-ios ★11](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
+- [react-native-offline-mode](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity
 - [react-native-orientation-controller ★10](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 - [react-native-orientation-listener ★90](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
 - [react-native-orientation ★169](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
@@ -225,11 +225,11 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-parsed-text ★133](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 - [react-native-pdf-view ★45](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 - [react-native-phone-picker ★13](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
-- [react-native-photo-browser ★39] (https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
+- [react-native-photo-browser ★39](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 - [react-native-photo-grid ★1](https://github.com/christopherabouabdo/react-native-photo-grid) - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
 - [react-native-picker-android ★40](https://github.com/beefe/react-native-picker-android) - react-native-picker-android
 - [react-native-picker ★106](https://github.com/beefe/react-native-picker) - react-native-picker
-- [react-native-picker-xg ★6](https://github.com/xgfe/react-native-picker-xg) - A picker component for both Android and iOS based on pure JavaScript
+- [react-native-picker-xg ★6](https://github.com/xgfe/react-native-picker-xg) - A picker for both Android and iOS
 - [react-native-piechart ★9](https://github.com/frostney/react-native-piechart) - A  component for React Native
 - [react-native-popover-haobtc ★144](https://github.com/jeanregisser/react-native-popover) - A  component for react-native
 - [react-native-popup ★39](https://github.com/beefe/react-native-popup) - popup for react-native
@@ -315,7 +315,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-wheel ★12](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-message-bar ★65](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
-- [react-native-sglistview ★220] (https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
+- [react-native-sglistview ★220](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 
 
 ### Text & Rich Content
@@ -619,7 +619,7 @@ Get a head start on development with an existing seed.
 Libraries / SDK type additions for React Native development.
 
 - [tcomb-form-native ★1038](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
-- [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native 
+- [Panza ★21](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 
 ## Examples
 
