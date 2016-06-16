@@ -714,6 +714,7 @@ Quick solutions to typical problems.
 
 Books - free and commercial (but only good ones).
 
+- [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after a you've done a couple tutorials of the many out there.
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
 
 ## Videos
