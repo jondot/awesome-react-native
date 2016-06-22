@@ -540,6 +540,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-vitamio ★41](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
 - [react-native-braintree ★46](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★12](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
+- [react-native-braintree-xplat ★2](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
 - [react-native-card-io ★51](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
 - [react-native-digits ★43](https://github.com/fixt/react-native-digits) - Digits wrapper to use in React Native
@@ -740,4 +741,3 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.27](https://github.com/facebook/react-native/releases/tag/v0.27.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
