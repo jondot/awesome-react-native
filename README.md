@@ -671,6 +671,7 @@ Fully working app examples and open source apps.
 - [React Weather ★65](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 - [react-native-hiapp ★21](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
 - [NewYorkTimesTopStories](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
+- [react-native-redux-facebook](https://github.com/bkspace/react-native-redux-facebook) - A simple React Redux Facebook authentication demo app.
 
 ## Frameworks
 
