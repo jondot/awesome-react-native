@@ -581,6 +581,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★7](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
+-  [react-native-stripe-api ★15](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
 ### Other Platforms
 
