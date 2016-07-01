@@ -319,7 +319,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-bar ★65](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
 - [react-native-sglistview ★220](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 - [react-router-native ★59](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
-
+- [react-native-telephone-input ★7](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 
 ### Text & Rich Content
 
