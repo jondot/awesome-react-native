@@ -232,7 +232,7 @@ Components and native modules. For more search [React Parts](http://react.parts/
 - [react-native-viewport-units ★36](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★40](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
 - [react-native-wheel ★8](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
-
+- [react-native-tab-navigator ★ 423](https://github.com/exponentjs/react-native-tab-navigator) -  A tab bar that switches between scenes, written in JS for cross-platform support
 
 ### Text & Rich Content
 
