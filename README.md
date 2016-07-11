@@ -412,6 +412,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-communications ★122](https://github.com/anarchicknight/react-native-communications) - Easily call, email, text or iMessage someone in React Native
 - [react-native-contacts-rx ★4](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.
 - [react-native-contacts ★133](https://github.com/rt2zz/react-native-contacts) - React Native Contacts (android & ios)
+- [react-native-unified-contacts ★28](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 - [react-native-detect-device ★8](https://github.com/peachmeco/react-native-detect-device) - Detect a device on iOS or android in react-native.
 - [react-native-device-battery ★8](https://github.com/robinpowered/react-native-device-battery) - Observe battery state changes in your react native application
 - [react-native-device-info-pod ★0](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native
