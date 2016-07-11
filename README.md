@@ -535,6 +535,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-xmpp ★58](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
 - [react-native-s3 ★14](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
 - [react-native-aws3 ★18](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
+- [react-native-fetch-blob ★43](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
 
 
 ### Integrations
