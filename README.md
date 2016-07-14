@@ -636,6 +636,7 @@ Libraries / SDK type additions for React Native development.
 
 Fully working app examples and open source apps.
 
+- [NBAreact](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★5](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 - [Github repo examples](https://github.com/facebook/react-native/tree/master/Examples)
