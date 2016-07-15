@@ -152,7 +152,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropbox-chooser ★10](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★50](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-drop-refresh ★7](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
-- [react-native-dropdownalert *5](https://github.com/devBrian/react-native-dropdownalert) - A dropdown alert that allows you to display bits of information to your user.
+- [react-native-dropdownalert ★27](https://github.com/devBrian/react-native-dropdownalert) - A dropdown alert that allows you to display bits of information to your user.
 - [react-native-dropdown ★150](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★176](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-emoji ★45](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
@@ -276,6 +276,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-button ★4](https://github.com/remobile/react-native-simple-button) - A simple react-native button
 - [react-native-simple-picker ★3](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 - [react-native-simple-router ★122](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
+- [react-native-simple-stepper ★3](https://github.com/devBrian/react-native-simple-stepper) - A super simple react-native implementation of the classic UIStepper from iOS.
 - [react-native-simpledialog-android ★23](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-sketch ★12](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 - [react-native-slack-webhook ★15](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
