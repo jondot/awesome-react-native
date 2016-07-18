@@ -324,6 +324,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-router-native ★59](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 - [react-native-telephone-input ★7](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 
+### Animations
+- [react-native-animatable ★923](https://github.com/oblador/react-native-animatable) - React Native Animatable. Standard set of easy to use animations and declarative transitions for React Native.
+
 ### Text & Rich Content
 
 - [markdown-react-native ★123](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
