@@ -164,6 +164,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fm-form ★8](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
 - [react-native-form-flux ★1](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 - [react-native-form ★62](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
+- [react-native-forms ★9](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
 - [react-native-form-generator ★39](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★33](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
