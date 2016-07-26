@@ -447,7 +447,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mipush ★0](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 - [react-native-motion-manager ★96](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-passcode-auth ★15](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
-- [react-native-permissions ★35](https://github.com/yonahforst/react-native-permissions) - From React Native, check if the user has granted access to geolocation, camera, contacts, etc... (iOS + Android)
+- [react-native-permissions ★35](https://github.com/yonahforst/react-native-permissions) - Check and request user permissions in ReactNative (iOS and Android)
 - [react-native-push-notification ★283](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-push-with-gcm ★1](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-reverse-geo ★12](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
