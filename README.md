@@ -396,6 +396,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [cairn ★62](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
 - [react-native-css ★332](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
 - [react-native-extended-stylesheet ★140](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
+- [react-native-responsive ★1](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
 - [react-native-theme ★1](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 
 
