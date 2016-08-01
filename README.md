@@ -1,4 +1,4 @@
-# Awesom React Native
+# Awesome React Native
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
 
