@@ -294,7 +294,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-stylesheet-xg ★2](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★322](https://github.com/brentvatne/react-native-svg) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swipeout ★502](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
-- [react-native-swipe-a-lot ★29](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android. 
+- [react-native-swipe-a-lot ★29](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 - [react-native-swiper2 ★54](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
 - [react-native-swiper ★1462](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [react-native-tab ★47](https://github.com/vczero/react-native-tab) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
@@ -518,6 +518,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sqlite ★416](https://github.com/almost/react-native-sqlite) - SQLite3 bindings for React Native
 - [react-native-storage ★218](https://github.com/sunnylqm/react-native-storage) - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
 - [react-native-store ★328](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
+- [realm ★1037](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
 
 
 ### Backend
