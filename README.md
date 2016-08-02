@@ -31,7 +31,7 @@ Content published on the Web.
 ### Routing
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
-- [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/NavigationExperimental)
+- [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/js/NavigationExperimental)
 
 ### Howtos
 
@@ -57,7 +57,6 @@ Content published on the Web.
 - [Reflecting on React Native development](http://habd.as/reflecting-on-react-native-development/)
 - [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
 - [React Native in Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - notes from Clay Allsop
-- [React Native for Android](https://code.facebook.com/posts/1189117404435352/) and [issues](http://facebook.github.io/react-native/docs/known-issues.html)
 - [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 - [Building 3 React Native Apps in One Summer](https://medium.com/@rpastorelle/building-3-react-native-apps-in-one-summer-dcd0c31454ff)
@@ -116,7 +115,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete-input ★20](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★1](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
 - [react-native-bar-collapsible ★2](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
-- [react-native-better-mapview ★3](https://github.com/ModusCreateOrg/react-native-better-mapview) - A better React Native implementation for iOS MapKit MapView
 - [react-native-blur ★476](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-fxblurview ★5](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★277](https://github.com/ide/react-native-button)
@@ -251,7 +249,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-radial-menu ★26](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-radio-button-classic ★24](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 - [react-native-radio-buttons ★90](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
-- [react-native-range-selector ★7](https://github.com/gaoli/react-native-range-selector) - react native range selector
 - [react-native-rebound-scrollview ★6](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 - [react-native-refresher ★247](https://github.com/syrusakbary/react-native-refresher) - A React Native pull to refresh ListView completely written in js. Also supports custom animations.
 - [react-native-relative-units ★3](https://github.com/benzhe/react-native-relative-units) - Relative units for React Native
@@ -273,7 +270,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-custom-segmented-control ★23](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
 - [react-native-segmented-view ★86](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
-- [react-native-selectable](https://github.com/vitalets/react-native-extended-selectable/) - Customizable checkbox and radio buttons in one component for React Native
 - [react-native-selectme ★51](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 - [react-native-shared-preferences ★2](https://github.com/sriraman/react-native-shared-preferences) - Android's Native key value storage system in React Native
 - [react-native-showdown ★8](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
@@ -292,7 +288,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-star-rating ★34](https://github.com/djchie/react-native-star-rating) - A React Native component for generating and displaying interactive star ratings
 - [react-native-starrating ★14](https://github.com/bluesky0109/react-native-starRating) - a react-native component for display interactive star ratings
 - [react-native-store-view ★0](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
-- [react-native-style-sheet ★0](https://github.com/ninozhang/react-native-style-sheet) - React Native StyleSheet
 - [react-native-stylesheet-xg ★2](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★322](https://github.com/brentvatne/react-native-svg) - A  element for react-native that renders Svg images using SVGKit
 - [react-native-swipeout ★502](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
@@ -436,7 +431,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fs ★369](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-onesignal ★64](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service [iOS + Android]
 - [react-native-gcm-android ★114](https://github.com/oney/react-native-gcm-android) - GCM for Android
-- [react-native-gcm ★43](https://github.com/bh5-pods/react-native-gcm) - Google Cloud Messaging for React Native
 - [react-native-geocoder ★73](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
 - [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-geolocation ★1](https://github.com/remobile/react-native-geolocation) - A geolocation for react-native
@@ -530,7 +524,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
 - [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
-- [react-native-bonjour ★1](https://github.com/Apercu/react-native-bonjour) - A Bonjour discovery utility for react-native
 - [react-native-cognito ★26](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
 - [react-native-file-download ★27](https://github.com/plrthink/react-native-file-download) - A simple file download module for react-native
 - [react-native-file-upload ★53](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
@@ -611,7 +604,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 Useful React Native tooling.
 
 - [react-native-snippets ★99](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
-- [exp.host](http://exp.host/) - Use React Native without XCode (a previewer app + local server infrastructure)
+- [exponent](https://getexponent.com/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal) ★363](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
