@@ -188,6 +188,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-image-button ★3](https://github.com/remobile/react-native-image-button) - A image-button for react-native
 - [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
 - [react-native-image-picker ★781](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
+- [react-native-image-crop-picker ★100](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 - [react-native-imagewand ★3](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 - [react-native-invertible-scroll-view ★131](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 - [react-native-item-cell ★25](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
