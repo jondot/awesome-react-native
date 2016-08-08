@@ -690,6 +690,7 @@ Open source React Native apps and other examples.
 - [Assemblies](https://github.com/buildreactnative/assemblies) - a Meetup clone
 - [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
+- [react-native-sudoku](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 
 
 
