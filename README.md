@@ -764,6 +764,7 @@ Assortment of conference and training videos.
 - [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
 - [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 - [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
+- [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 ## Releases
 
