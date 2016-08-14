@@ -173,9 +173,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gesture-password ★103](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
 - [react-native-gesture-recognizers ★96](https://github.com/johanneslumpe/react-native-gesture-recognizers) - Gesture recognizer decorators for react-native
 - [react-native-gestures ★69](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
-- [react-native-gifted-form ★334](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
-- [react-native-gifted-listview ★402](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
-- [react-native-gifted-messenger ★978](https://github.com/FaridSafi/react-native-gifted-messenger) - Ready-to-use chat interface for iOS and Android React-Native apps
+- [react-native-gifted-chat ★1313](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
+- [react-native-gifted-form ★454](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
+- [react-native-gifted-listview ★550](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★64](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★7](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★1](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
