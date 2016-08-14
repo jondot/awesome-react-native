@@ -628,6 +628,7 @@ Get a head start on development with an existing seed.
 - [ReactNativeTS ★55](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
 - [Snowflake ★1766](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★179](https://github.com/spencercarli/react-native-meteor-boilerplate)
+- [Pepperoni](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
 
 ## Libraries
 
