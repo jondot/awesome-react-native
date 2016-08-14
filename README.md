@@ -524,7 +524,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Backend
 
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
-- [react-native-ajax ★1](https://github.com/spikef/react-native-ajax) - Ajax module for react native.
 - [react-native-async-http ★2](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 - [react-native-cognito ★26](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
 - [react-native-file-download ★27](https://github.com/plrthink/react-native-file-download) - A simple file download module for react-native
