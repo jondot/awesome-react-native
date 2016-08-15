@@ -316,6 +316,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-viewpager ★469](https://github.com/race604/react-native-viewpager) - ViewPager componnent for React Native
 - [react-native-viewport-units ★41](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★40](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
+- [react-native-wheel ★8](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-webbrowser ★38](https://github.com/d-a-n/react-native-webbrowser) - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.
 - [react-native-wheel-picker ★7](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 - [react-native-wheel ★12](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
@@ -324,6 +325,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sglistview ★220](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 - [react-router-native ★59](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 - [react-native-telephone-input ★7](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
+- [react-native-tab-navigator ★ 423](https://github.com/exponentjs/react-native-tab-navigator) -  A tab bar that switches between scenes, written in JS for cross-platform support
 
 ### Text & Rich Content
 
