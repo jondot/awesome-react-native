@@ -28,6 +28,11 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 Content published on the Web.
 
+### Reference
+
+- [React Native Styling Cheatsheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+
+
 ### Routing
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
