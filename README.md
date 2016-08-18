@@ -673,7 +673,6 @@ Open source React Native apps and other examples.
 - [Text Blast ★12](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 - [iTunesConnect ★31](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 - [react-native-gitfeed ★1155](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
-- [SendBirdReactNativeSample](https://github.com/smilefam/SendBird-JavaScript/tree/master/basic-react-native-sample/SendBirdReactNativeSample) - Messaging Platform 'SendBird' React Native version Sample Code.
 - [rndrawer-implemented-rnrouter ★23](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
 - [GitterMobile ★49](https://github.com/terrysahaidak/GitterMobile) - Gitter client for mobile devices (currently only for android)
 - [Hello Bemans ★1](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
