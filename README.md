@@ -102,7 +102,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-- [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation. 
+- [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 - [react-native-router-flux ★2018](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★47](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★43](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
@@ -470,6 +470,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-touch-id ★199](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-voip-push-notification ★8](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★8](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
+- [react-native-device-angles ★1](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 
 
 ### Web
@@ -781,4 +782,3 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.31](https://github.com/facebook/react-native/releases/tag/v0.31.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
