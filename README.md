@@ -448,6 +448,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-lock-ios ★84](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
 - [react-native-mipush ★0](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 - [react-native-motion-manager ★96](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
+- [react-native-device-angles ★0](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 - [react-native-passcode-auth ★15](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★35](https://github.com/yonahforst/react-native-permissions) - Check and request user permissions in ReactNative (iOS and Android)
 - [react-native-push-notification ★283](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
