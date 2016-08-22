@@ -91,7 +91,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★173](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★56](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★415](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-- [react-native-router-sinux ★](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation. 
+- [react-native-router-sinux ★](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 - [react-native-router-flux ★1603](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★19](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★31](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
@@ -359,9 +359,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-eval ★24](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
 - [react-native-fluxbone ★4](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 - [react-native-global-event-emitter ★26](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
-- [react-native-globalize ★23](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
 - [react-native-immutable ★9](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
-- [react-native-intl ★13](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 - [react-native-mock ★139](https://github.com/lelandrichardson/react-native-mock) - A fully mocked and test-friendly version of react native
 - [react-native-rsa ★6](https://github.com/z-hao-wang/react-native-rsa) - RSA crypto lib for react native
 - [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
@@ -375,6 +373,13 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-html-parser ★4](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog ★8](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★61](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
+
+### Internationalization
+
+- [react-native-globalize ★23](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
+- [react-native-i18n ★244](https://github.com/AlexanderZaytsev/react-native-i18n) - React Native + i18n.js
+- [rn-translate-template ★0](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
+- [react-native-intl ★13](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 
 ### Build & Development
 
