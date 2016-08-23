@@ -102,7 +102,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [apsl-react-native-button ★240](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 - [autoresponsive-react-native ★68](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 - [ex-navigator ★464](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-- [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation. 
+- [react-native-router-sinux ★ ★1](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 - [react-native-router-flux ★2018](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 - [react-native-mobx ★47](https://github.com/aksonov/react-native-mobx) - Make your app reactive with MobX and react-native-router-flux
 - [react-native-ya-navigator ★43](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
@@ -458,6 +458,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-lock-ios ★113](https://github.com/auth0/react-native-lock-ios) - Auth0 Lock for React Native (iOS)
 - [react-native-mipush ★2](https://github.com/cpunion/react-native-mipush) - MiPush for React Native
 - [react-native-motion-manager ★110](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
+- [react-native-device-angles ★1](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 - [react-native-passcode-auth ★18](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
 - [react-native-permissions ★53](https://github.com/yonahforst/react-native-permissions) - Check and request user permissions in ReactNative (iOS and Android)
 - [react-native-push-notification ★510](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
@@ -781,4 +782,3 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.31](https://github.com/facebook/react-native/releases/tag/v0.31.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
