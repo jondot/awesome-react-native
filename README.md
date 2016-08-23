@@ -130,6 +130,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-blur ★608](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-fxblurview ★11](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★357](https://github.com/ide/react-native-button)
+- [react-native-bottom-sheet-behavior ★1](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
 - [react-native-cache-image ★67](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★10](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 - [react-native-calendar-android ★31](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
