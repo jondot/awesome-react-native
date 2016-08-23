@@ -471,6 +471,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-touch-id ★199](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-voip-push-notification ★8](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★8](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
+- [react-native-device-angles ★1](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 
 
 ### Web
