@@ -613,7 +613,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 - [react-native-desktop ★7558](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 
-## Tooling
+## Utilities
 
 Useful React Native tooling.
 
