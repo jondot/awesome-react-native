@@ -660,7 +660,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-
+- [Appointments ](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [NBAreact ★8](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★32](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
