@@ -646,7 +646,7 @@ Get a head start on development with an existing seed.
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
 - [react-native-tabbed ★21](https://github.com/rxb/react-native-tabbed)
 - [react-native-hot-redux-starter ★130](https://github.com/adampash/react-native-hot-redux-starter)
-- [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Typescript with [alt](http://alt.js.org/) and router
+- [ReactNativeTS ★73](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
 - [Snowflake ★2181](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
