@@ -650,6 +650,7 @@ Get a head start on development with an existing seed.
 - [Snowflake ★2181](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
+- [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 
 ## Libraries
 
