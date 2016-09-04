@@ -212,6 +212,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-listitem ★62](https://github.com/dancormier/react-native-listitem) - iOS-style listitem component for React Native
 - [react-native-loader-hud ★0](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 - [react-native-loading ★2](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
+- [react-native-loading-spinner-overlay ★140](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - The only pure React Native, Native iOS and Android loading spinner (progress bar indicator) overlay
 - [react-native-looped-carousel ★350](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 - [react-native-mapbox-gl ★512](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★1338](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
