@@ -575,6 +575,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-braintree-android ★12](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-braintree-xplat ★12](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
 - [react-native-card-io ★73](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
+- [react-native-awesome-card-io ★36](https://github.com/Kerumen/react-native-awesome-card-io) - A complete and cross-platform card.io component for React Native (iOS and Android)
 - [react-native-conekta ★0](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
 - [react-native-digits ★46](https://github.com/fixt/react-native-digits) - Digits wrapper to use in React Native
 - [react-native-fabric-digits ★63](https://github.com/JeanLebrument/react-native-fabric-digits) Fabric Digits wrapper for React-Native
