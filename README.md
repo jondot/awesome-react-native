@@ -151,6 +151,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-country-picker ★3](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★73](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 - [react-native-create-new-file-ios ★0](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
+- [react-native-credit-card-input](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project 
 - [react-native-custom-actsheet ★26](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
 - [react-native-custom-checkbox ★3](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 - [react-native-dashed-border ★18](https://github.com/chirag04/react-native-dashed-border) - A  element for react-native
