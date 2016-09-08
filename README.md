@@ -30,7 +30,7 @@ Content published on the Web.
 
 ### Reference
 
-- [React Native Styling Cheatsheet ★108](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+- [React Native Styling Cheatsheet ★226](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 
 
 
@@ -110,7 +110,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [k-react-native-swipe-unlocker ★19](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
 - [metpro-react-native-progress ★19](https://github.com/imartingraham/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 - [react-native-accordion ★167](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
-- [react-native-action-button ★342](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
+- [react-native-action-button ★383](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
 - [react-native-actionsheet-native ★6](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 - [react-native-activity-view ★247](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 - [react-native-adbannerview ★35](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
@@ -260,6 +260,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progress-bar ★105](https://github.com/lwansbrough/react-native-progress-bar) - An animated progress bar component for React Native
 - [react-native-progress-circular ★16](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
 - [react-native-progress-hud ★128](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
+- [react-native-pulse-loader ★6](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
 - [react-native-qrcode ★67](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
 - [react-native-quiltview ★5](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native
 - [react-native-radial-menu ★36](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
