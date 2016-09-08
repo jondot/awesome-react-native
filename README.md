@@ -720,6 +720,7 @@ Open source React Native apps and other examples.
 - [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 - [TaskRabbit's Sample App ★342](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
+- [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 
 
 ## Frameworks
