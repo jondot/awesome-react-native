@@ -223,6 +223,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
+- [react-native-material-ui ★34](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [react-native-material-kit ★1620](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 - [react-native-match-media ★2](https://github.com/tuckerconnelly/match-media-mocks) - window.matchMedia mock for React Native
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
