@@ -58,7 +58,6 @@ Content published on the Web.
 - [60 fps on the mobile web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Parse and React (incl. Native)](http://blog.parse.com/2015/03/25/parse-and-react-shared-chemistry/)
 - [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
-- [How React Native Dies: A Pre-Mortem (opinion)](codecookbook.co/text/how-react-native-dies)
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 - [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
 - [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
@@ -738,6 +737,9 @@ Open source React Native apps and other examples.
 
 Walkthroughs and tutorials that help you learn React Native.
 
+- [Making Network Requests](http://codecookbook.co/post/post/how-to-make-network-requests-in-react-native/)
+- [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
+- [How to Build a React Native Login Form with Redux Pt1](post/http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
