@@ -770,6 +770,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 - [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
+- [Fully-immersive, hands-on, and fun learning experience for React Native](https://github.com/jondot/ReactNativeKatas)
 
 ## Problem & Solution
 
