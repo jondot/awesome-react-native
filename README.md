@@ -747,7 +747,7 @@ Walkthroughs and tutorials that help you learn React Native.
 
 - [Making Network Requests](http://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
-- [How to Build a React Native Login Form with Redux Pt1](post/http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
+- [How to Build a React Native Login Form with Redux Pt1](http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
