@@ -176,7 +176,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropdown ★193](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★189](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-egg ★46](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
-- [react-native-elements ★6](https://github.com/dabit3/React-Native-Elements) - React Native Elements UI Toolkit
 - [react-native-emoji ★58](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★4](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
 - [react-native-fading-slides ★19](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
@@ -326,6 +325,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tableview-simple ★81](https://github.com/Purii/react-native-tableview-simple) - React Native component for TableView made with pure CSS
 - [react-native-tableview ★459](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 - [react-native-tabs ★288](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
+- [react-native-textinput-effects ★524](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 - [react-native-textinput-utils ★31](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★104](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 - [react-native-timer-mixin ★116](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
@@ -748,7 +748,7 @@ Walkthroughs and tutorials that help you learn React Native.
 
 - [Making Network Requests](http://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
-- [How to Build a React Native Login Form with Redux Pt1](post/http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
+- [How to Build a React Native Login Form with Redux Pt1](http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
 - [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
 - [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
