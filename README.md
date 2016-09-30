@@ -234,6 +234,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-md-textinput ★65](https://github.com/evblurbs/react-native-md-textinput) - React Native TextInput styled with Material Design.
 - [react-native-modalbox ★469](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
+- [react-native-modal-dropdown ★15](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [react-native-modal-picker ★52](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★47](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-multiple-choice ★17](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
