@@ -401,6 +401,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-html-parser ★7](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog ★8](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★80](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
+- [react-native-workers ★97](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 
 ### Internationalization
 
