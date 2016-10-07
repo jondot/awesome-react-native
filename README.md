@@ -38,6 +38,7 @@ Content published on the Web.
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
 - [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/js/NavigationExperimental)
+- [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
 
 ### Howtos
 
@@ -234,6 +235,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-message-composer ★32](https://github.com/anarchicknight/react-native-message-composer) - React Native module bridge to iOS MFMessageComposeViewController
 - [react-native-md-textinput ★65](https://github.com/evblurbs/react-native-md-textinput) - React Native TextInput styled with Material Design.
 - [react-native-modalbox ★469](https://github.com/maxs15/react-native-modalbox) - A  component for react-native
+- [react-native-modal-dropdown ★15](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [react-native-modal-picker ★52](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 - [react-native-multi-slider ★47](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 - [react-native-multiple-choice ★17](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
@@ -400,6 +402,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-html-parser ★7](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 - [react-native-slowlog ★8](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★80](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
+- [react-native-workers ★97](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 
 ### Internationalization
 
@@ -658,6 +661,7 @@ Useful React Native tooling.
 Get a head start on development with an existing seed.
 
 - [🔥 Ignite ★2152](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [React-Native-Starter-Pack ★5](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★749](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★237](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
@@ -736,6 +740,7 @@ Open source React Native apps and other examples.
 - [react-native-sudoku ★205](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 - [react-native-otello ★0](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 - [Look Lock ★2](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.
+- [react-native-basketball ★178](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
 
 
 ## Frameworks
@@ -819,5 +824,5 @@ Assortment of conference and training videos.
 ## Releases
 
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.32.0](https://github.com/facebook/react-native/releases/tag/v0.32.0)
+- [Stable: 0.34.0](https://github.com/facebook/react-native/releases/tag/v0.34.0)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
