@@ -348,6 +348,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-router-native ★102](https://github.com/jmurzy/react-router-native) - A routing library for React Native that strives for sensible API parity with [React Router](https://github.com/reactjs/react-router)
 - [react-native-telephone-input ★11](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-off-canvas-menu ★47](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
+- [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 
 ### Text & Rich Content
 
