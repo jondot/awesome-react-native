@@ -726,7 +726,7 @@ Open source React Native apps and other examples.
 - [iTunesConnect ★32](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 - [react-native-gitfeed ★1290](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [rndrawer-implemented-rnrouter ★29](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
-- [GitterMobile ★76](https://github.com/terrysahaidak/GitterMobile) - Gitter client for mobile devices (currently only for android)
+- [GitterMobile ★76](https://github.com/terrysahaidak/GitterMobile) - Gitter (chat for github) client for iOS and Anroid
 - [Hello Bemans ★3](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
 - [Insta Snap  ★42](https://github.com/iZaL/insta-snap) - Image Sharing App
 - [30-days-of-react-native  ★1049](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
