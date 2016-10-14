@@ -684,6 +684,7 @@ Get a head start on development with an existing seed.
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
+- [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 
 ## Libraries
 
