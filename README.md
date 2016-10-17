@@ -350,6 +350,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-telephone-input ★11](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-off-canvas-menu ★47](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
 - [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
+- [react-native-image-carousel ★4](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 
 ### Text & Rich Content
 
