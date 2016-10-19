@@ -11,6 +11,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 
 # Content
 
+- [Conferences](#conferences)
 - [Articles](#articles)
 - [Internals](#internals)
 - [Components](#components)
@@ -23,6 +24,21 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Books](#books)
 - [Videos](#videos)
 - [Releases](#releases)
+
+## Conferences
+
+Conferences dedicated to React Native specifically. A listing of React general conferences can be found on the [ReactJS site](https://facebook.github.io/react/docs/conferences.html).
+
+### Chain React Conf - USA
+
+Summer 2017 - https://infinite.red/ChainReactConf
+Twitter: https://twitter.com/chainreactconf
+Email: conf@infinite.red
+
+### React Native EU - Poland
+
+Fall 2017 - http://react-native.eu/
+Email: team@reactnative.eu
 
 ## Articles
 
