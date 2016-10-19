@@ -102,6 +102,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [react-native-splash-screen ★28](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+- [react-native-check-box ★24](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
+- [react-native-easy-toast ★18](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 - [react-native-button-component ★45](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
 - [react-native-popup-dialog ★16](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
 - [react-native-card-view ★20](https://github.com/jacklam718/react-native-card-view) - A react native card component
@@ -696,7 +699,9 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
+
 - [Appointments ](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
+- [GitHub Popular ★56](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
 - [NBAreact ★8](https://github.com/jbkuczma/NBAreact)
 - [Reddit made with React Native and Redux ★32](https://github.com/KevinOfNeu/xReddit)
 - [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
