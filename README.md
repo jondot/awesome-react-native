@@ -205,6 +205,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-flanimatedimage](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
 - [react-native-flex-label ★5](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-floating-labels ★54](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
+- [react-native-foldview ★1](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
 - [react-native-fontbase ★0](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★35](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 - [react-native-full-screen ★5](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
