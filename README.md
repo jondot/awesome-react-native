@@ -562,6 +562,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-media-capture ★1](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 - [react-native-mediaplayer ★6](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.
 - [react-native-media-meta ★8](https://github.com/mybigday/react-native-media-meta) - Get media file metadata in your React Native app
+- [react-native-photos-framework ★0](https://github.com/olofd/react-native-photos-framework) - A modern and comprehensive CameraRoll/iCloud-library for React Native
 - [react-native-player ★46](https://github.com/xeodou/react-native-player) - Media player for react-native
 - [react-native-screcorder ★112](https://github.com/maxs15/react-native-screcorder) - Capture pictures and record Video with Vine-like tap to record
 - [react-native-simple-sound ★3](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
