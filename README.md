@@ -1,6 +1,7 @@
 # Awesome React Native
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
+[![](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/crazycodeboy/react-native-awesome) 
 
 A curated list of awesome articles, tutorials and resources dealing
 with React Native.
