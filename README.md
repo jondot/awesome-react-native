@@ -303,7 +303,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-route-navigator ★23](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
 - [react-native-router ★1038](https://github.com/t4t5/react-native-router) - Awesome navigation for your native app.
 - [react-native-controllers ★312](https://github.com/wix/react-native-controllers) - Truly native no-compromise iOS navigation for React Native.
-- [react-native-navigation ★490](https://github.com/wix/react-native-navigation) - A simplified wrapper around react-native-controllers bringing truly native navigation for iOS with a very simple API. Includes redux support.
+- [react-native-navigation ★1100](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
 - [react-native-scene-manager ★1](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 - [react-native-scrollable-decorator ★21](https://github.com/exponentjs/react-native-scrollable-decorator) - A standard interface for your scrollable React Native components, making it easier to compose components
 - [react-native-scrollable-mixin ★55](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components.
