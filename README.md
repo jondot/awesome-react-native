@@ -142,7 +142,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-actionsheet-native ★6](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 - [react-native-activity-view ★247](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 - [react-native-adbannerview ★35](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
-- [react-native-alphabetlistview ★84](https://github.com/sunnylqm/react-native-alphabetlistview) - A Listview with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
+- [react-native-alphabetlistview ★84](https://github.com/sunnylqm/react-native-alphabetlistview) - A ListView with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview
 - [react-native-android-blurryoverlay ★38](https://github.com/kwaak/react-native-android-blurryoverlay) - A react native android package to show a blurry overlay.
 - [react-native-android-circles ★9](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.
 - [react-native-android-iconify ★27](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
@@ -214,7 +214,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gesture-recognizers ★117](https://github.com/johanneslumpe/react-native-gesture-recognizers) - Gesture recognizer decorators for react-native
 - [react-native-gestures ★81](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
 - [react-native-gifted-chat ★1343](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
-- [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrents features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
+- [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
@@ -309,8 +309,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-scrollable-mixin ★55](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components.
 - [react-native-scrollable-tab-view ★1846](https://github.com/brentvatne/react-native-scrollable-tab-view) - This is probably my favorite navigation pattern on Android, I wish it were more common on iOS! This is a very simple JavaScript-only implementation of it for React Native. For more information about how the animations behind this work, check out the Rebou
 - [react-native-scrollview-lazyload ★39](https://github.com/IskenHuang/react-native-scrollview-lazyload) - react-native scrollview with image lazy load
-- [react-native-infinite-scrollview ★18](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinte paged scrolling (no looping)
+- [react-native-infinite-scrollview ★18](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
 - [react-native-search-bar ★276](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
+- [react-native-searchbar](https://github.com/localz/react-native-searchbar) - An animated search bar for react native with inbuilt search (iOS and Android)
 - [react-native-search ★8](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★6](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★30](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
@@ -329,7 +330,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slidable-tab-bar ★21](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★207](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
 - [react-native-spinkit ★389](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
-- [react-native-splashscreen ★140](https://github.com/remobile/react-native-splashscreen) - A splashscreen for react-native
+- [react-native-splashscreen ★140](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
 - [react-native-square-view ★16](https://github.com/Shuangzuan/react-native-square-view) - A square view component for react native.
 - [react-native-star-rating ★46](https://github.com/djchie/react-native-star-rating) - A React Native component for generating and displaying interactive star ratings
 - [react-native-starrating ★15](https://github.com/bluesky0109/react-native-starRating) - a react-native component for display interactive star ratings
@@ -359,7 +360,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-triangle ★13](https://github.com/Jpoliachik/react-native-triangle) - draw triangle views in react native
 - [react-native-tween-animation ★29](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
 - [react-native-vector-icons ★2281](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
-- [react-native-viewpager ★605](https://github.com/race604/react-native-viewpager) - ViewPager componnent for React Native
+- [react-native-viewpager ★605](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 - [react-native-viewport-units ★43](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★41](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
 - [react-native-webbrowser ★46](https://github.com/d-a-n/react-native-webbrowser) - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.
@@ -445,7 +446,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Build & Development
 
-- [react-native-assets ★24](https://github.com/llanox/react-native-assests) - Module to manage assets. It allows you download assests from a network and store into a specific local folder on iOS
+- [react-native-assets ★24](https://github.com/llanox/react-native-assests) - Module to manage assets. It allows you download assets from a network and store into a specific local folder on iOS
 - [babel-preset-react-native-stage-0 ★25](https://github.com/skevy/babel-preset-react-native-stage-0) - a Babel preset with latest Javascript goodies
 - [react-native-build-cli ★2](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
 - [react-native-code-push ★1502](https://github.com/Microsoft/react-native-code-push) - React Native plugin for the CodePush service
@@ -546,7 +547,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-webrtc ★328](https://github.com/oney/react-native-webrtc) - A WebRTC module for React Native.
 - [react-native-webview-android ★107](https://github.com/lucasferreira/react-native-webview-android) - Simple React Native Android module to use Android's WebView inside your app
 - [react-native-webview-bridge ★373](https://github.com/alinz/react-native-webview-bridge) - React Native WebView Javascript Bridge
-- [react-native-webview ★1](https://github.com/beefe/react-native-webview) - andorid webview for react-native
+- [react-native-webview ★1](https://github.com/beefe/react-native-webview) - android webview for react-native
 - [react-native-cookiemanager ★2](https://github.com/beefe/react-native-cookiemanager) - react-native cookie manager library.
 - [react-native-webview-crosswalk ★15](https://github.com/jordansexton/react-native-webview-crosswalk) - Crosswalk's WebView for React Native on Android
 
