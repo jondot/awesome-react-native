@@ -717,6 +717,7 @@ Libraries / SDK type additions for React Native development.
 
 - [Panza ★96](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
+- [Shoutem UI](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
 
 ## Open Source Apps
 
