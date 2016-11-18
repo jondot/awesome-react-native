@@ -711,6 +711,10 @@ Get a head start on development with an existing seed.
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
 - [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
+- [ExNavRelay](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
+- [react-native-relay-example](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
+- [react-native-redux](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
+
 
 ## Libraries
 
