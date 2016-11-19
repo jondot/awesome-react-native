@@ -871,6 +871,7 @@ Assortment of conference and training videos.
 - Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
 - Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
+- Dailydrip.com[Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
 
 ## Releases
 
