@@ -31,7 +31,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ### Chain React Conf - USA
 
-Summer 2017 - https://infinite.red/ChainReactConf
+July 10-11, 2017 in Portland, OR - https://infinite.red/ChainReactConf
 Twitter: https://twitter.com/chainreactconf
 Email: conf@infinite.red
 
