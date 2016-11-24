@@ -654,7 +654,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-realtimestorage-ios ★6](https://github.com/realtime-framework/RCTRealtimeCloudStorage) - The Realtime Framework Cloud Storage client for React-Native
 - [react-native-sinch-verification ★4](https://github.com/kevinresol/react-native-sinch-verification) - Sinch verification for react native
 - [react-native-testfairy ★2](https://github.com/testfairy/react-native-testfairy) - TestFairy for React Native
-- [react-native-twilio ★32](https://github.com/rogchap/react-native-twilio) - A React Native wrapper for the Twilio mobile SDK
+- [react-native-twilio ★32](https://github.com/rogchap/react-native-twilio) - A React Native wrapper for the Twilio Client SDK.
+- [react-native-twilio-programmable-voice ★0](https://github.com/hoxfon/react-native-twilio-programmable-voice) - A React Native wrapper for the Twilio Programmable Voice SDK.
 - [react-native-voximplant ★50](https://github.com/voximplant/react-native-voximplant) - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
 - [react-native-wechat-ios ★125](https://github.com/beefe/react-native-wechat-ios) - Wechat SDK for React Native(iOS).
 - [react-native-wechat ★436](https://github.com/weflex/react-native-wechat) - react-native library for wechat app
