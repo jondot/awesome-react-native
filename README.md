@@ -623,6 +623,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Integrations
 
+- [react-native-facebook-account-kit ★55](https://github.com/underscopeio/react-native-facebook-account-kit) - A Facebook Account Kit SDK wrapper for React Native.
 - [react-native-amap ★14](https://github.com/laoqiu/react-native-amap) - A React Native component for building maps with the AMap Android SDK
 - [react-native-android-vitamio ★45](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
 - [react-native-braintree ★50](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
