@@ -248,6 +248,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-google-place-picker](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 - [react-native-marquee-label ★15](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★27](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
+- [react-native-masked-text](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
 - [react-native-material-design ★1009](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
 - [react-native-material-ui ★34](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [react-native-material-kit ★1620](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
