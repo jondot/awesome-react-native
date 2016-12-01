@@ -879,6 +879,8 @@ Assortment of conference and training videos.
 ## Blogs
 
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)
+- [Use React Native Blog](http://www.reactnative.com/)
+- [Facebook Code Blog](https://code.facebook.com/)
 - [ReactJS Blog](http://reactjs.ninja/) - Posts on ReactJS and React Native.
 - [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
 - [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
