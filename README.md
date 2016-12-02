@@ -833,6 +833,8 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★1](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
 - [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
+- [React 初学者教程](http://react.ctolib.com/docs/read/react-beginner-c-introducing-react.html)
+- [React Native 官方文档中文版](http://react.ctolib.com/docs/read/react-native-c-index.html)
 
 ## Problem & Solution
 
