@@ -23,6 +23,7 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
+- [Blogs](#blogs)
 - [Releases](#releases)
 
 ## Conferences
@@ -879,6 +880,17 @@ Assortment of conference and training videos.
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 - Dailydrip.com: [Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
 - [Awesome React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
+
+## Blogs
+
+- [Official React Native Blog](http://facebook.github.io/react-native/blog/)
+- [Use React Native Blog](http://www.reactnative.com/)
+- [Facebook Code Blog](https://code.facebook.com/)
+- [ReactJS Blog](http://reactjs.ninja/) - Posts on ReactJS and React Native.
+- [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
+- [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
+- [Brent Vatne](http://brentvatne.ca/)
+- [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
 
 ## Releases
 
