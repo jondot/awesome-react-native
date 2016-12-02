@@ -448,6 +448,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-i18n ★244](https://github.com/AlexanderZaytsev/react-native-i18n) - React Native + i18n.js
 - [rn-translate-template ★0](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
 - [react-native-intl ★13](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
+- [redux-react-native-i18n](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
 
 ### Build & Development
 
