@@ -793,6 +793,7 @@ Open source React Native apps and other examples.
 - [Finance MacOS React Native ★18](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
 - [YouTrack Mobile ★14](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
 - [movieapp ★91](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
+- [QRCode App](https://github.com/insiderdev/react-native-qrcode-app) - application for scanning and generating QR codes.
 
 
 ## Frameworks
