@@ -653,6 +653,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-linkedin-login ★20](https://github.com/jodybrewster/react-native-linkedin-login) - Linkedin Login for your react native applications
 - [react-native-onepassword ★10](https://github.com/DriveWealth/react-native-onepassword) - React Native integration with the OnePassword extension.
 - [react-native-qq ★85](https://github.com/reactnativecn/react-native-qq) - QQ Login&Share support in React Native.
+- [react-native-qqsdk ★0](https://github.com/iVanPan/react-native-qqsdk) - A React Native wrapper around the Tencent QQ SDK for Android and iOS. Provides access to QQ ssoLogin, QQ Sharing, QQ Zone Sharing etc.
 - [react-native-realtimemessaging-android ★40](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
 - [react-native-realtimemessaging-ios ★7](https://github.com/realtime-framework/RCTRealtimeMessaging) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
 - [react-native-realtime-pusher ★0](https://github.com/gijoehosaphat/react-native-realtime-pusher) - React Native module implementing the Pusher Realtime API
