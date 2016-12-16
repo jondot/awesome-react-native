@@ -564,6 +564,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-manager ★11](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 - [react-native-audio-player ★8](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★62](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
+- [react-native-audio ★246] (https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
 - [react-native-bhcamera ★2](https://github.com/bh5-pods/react-native-bhcamera) - React Native Barcode Scanner and Camera Utils.
 - [react-native-camera ★1522](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★23](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
