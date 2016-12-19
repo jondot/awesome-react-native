@@ -379,6 +379,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progressive-input ★9](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 - [react-native-image-carousel ★4](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
 - [react-native-popup-menu ★61](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
+- [react-native-color-picker ★31](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 
 ### Text & Rich Content
 
