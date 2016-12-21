@@ -509,7 +509,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gcm-android ★132](https://github.com/oney/react-native-gcm-android) - GCM for Android
 - [react-native-geocoder ★93](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
 - [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
-- [react-native-geolocation ★1](https://github.com/remobile/react-native-geolocation) - A geolocation for react-native
 - [react-native-heading ★3](https://github.com/yonahforst/react-native-heading) - Get device heading (compass) information on iOS or Android
 - [react-native-ibeacon ★155](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★18](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
