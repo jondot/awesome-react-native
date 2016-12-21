@@ -689,6 +689,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 Useful React Native tooling.
 
+- [ADB Auto Restarter ★2](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device
 - [react-native-snippets ★117](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
 - [exponent](https://getexponent.com/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal) ★364](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
