@@ -139,7 +139,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ya-navigator ★43](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 - [gl-react-native ★856](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 - [k-react-native-swipe-unlocker ★19](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
-- [metpro-react-native-progress ★19](https://github.com/imartingraham/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
+- [react-native-progress ★462](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 - [react-native-accordion ★167](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
 - [react-native-action-button ★383](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
 - [react-native-actionsheet-native ★6](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
