@@ -6,7 +6,7 @@ require 'kramdown'
 require 'httparty'
 
 def check_link(uri)
-  HTTParty.head(uri).code.to_i.tap do |status|
+  HTTParty.head(uri, :verify => false).code.to_i.tap do |status|
     raise "Request had status #{status}" if (400..422).include?(status)
   end
 end
