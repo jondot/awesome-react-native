@@ -417,7 +417,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fluxbone ★4](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 - [react-native-global-event-emitter ★30](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
 - [react-native-immutable ★9](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
-- [react-native-mock ★191](https://github.com/lelandrichardson/react-native-mock) - A fully mocked and test-friendly version of react native
+- [react-native-mock ★191](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
 - [react-native-rsa ★6](https://github.com/z-hao-wang/react-native-rsa) - RSA crypto lib for react native
 - [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 - [react-native-url-handler ★27](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
