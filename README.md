@@ -719,6 +719,7 @@ Get a head start on development with an existing seed.
 - [React Native Meteor Boilerplate ★264](https://github.com/spencercarli/react-native-meteor-boilerplate)
 - [MeteorNative Boilerplate ★1](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 - [Pepperoni ★2273](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state, login and signup
+- [Rhinos-app ★25](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 - [rn-mobx-template ★0](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★0](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
