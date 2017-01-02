@@ -360,6 +360,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tooltip ★87](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
 - [react-native-touchable-bounce ★13](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
 - [react-native-touchable-set-active ★23](https://github.com/jmstout/react-native-TouchableSetActive) - Touchable component for React Native that enables more advanced styling by setting an active state. Most useful for building your own touchable/button components on top of.
+- [react-native-touch-visualizer ★0](https://github.com/zachgibson/react-native-touch-visualizer) - Visualize touches and drags on React Native apps for iOS.
 - [react-native-transparent-bar ★11](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [react-native-triangle ★13](https://github.com/Jpoliachik/react-native-triangle) - draw triangle views in react native
 - [react-native-tween-animation ★29](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
