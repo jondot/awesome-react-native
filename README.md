@@ -801,7 +801,7 @@ Open source React Native apps and other examples.
 - [YouTrack Mobile ★14](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
 - [movieapp ★91](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
 - [QRCode App](https://github.com/insiderdev/react-native-qrcode-app) - application for scanning and generating QR codes.
-
+- [Sequent](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
 
 ## Frameworks
 
