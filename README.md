@@ -191,6 +191,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-timepicker ★8](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
 - [react-native-datepicker ★82](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
 - [react-native-device-display ★73](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.
+- [react-native-dial ★2](https://github.com/netbeast/react-native-dial) - A react native reusable and efficient dial knob element.
 - [react-native-dialogs ★196](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★2](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 - [react-native-draggable-drawer ★13](https://github.com/llanox/react-native-draggable-drawer) - DraggableDrawer component for React Native.
