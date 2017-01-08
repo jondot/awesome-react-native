@@ -411,7 +411,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-aes ★11](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★30](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
 - [react-native-babel-jest ★5](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
-- [react-native-bhutils ★0](https://github.com/bh5-pods/react-native-bhutils) - React native utils
 - [react-native-crypto ★25](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 - [react-native-des ★6](https://github.com/remobile/react-native-des) - A des crypto for react-native
 - [react-native-device-log ★13](https://github.com/olofd/react-native-device-log) - A UI and service for displaying dev-logs on devices.
@@ -569,7 +568,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-player ★8](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★62](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
 - [react-native-audio ★246] (https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
-- [react-native-bhcamera ★2](https://github.com/bh5-pods/react-native-bhcamera) - React Native Barcode Scanner and Camera Utils.
 - [react-native-camera ★1522](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★23](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
 - [react-native-incall-manager ★31](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
