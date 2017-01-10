@@ -492,6 +492,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-battery ★4](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 - [react-native-ble ★68](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
 - [react-native-bluetooth-state ★26](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
+- [react-native-callkit ★4](https://github.com/ianlin/react-native-callkit) - iOS 10 CallKit framework for React Native
 - [react-native-calendar-reminders ★29](https://github.com/wmcmahan/React-Native-CalendarReminders) - React Native module for IOS EventKit Reminders
 - [react-native-carrier-info ★6](https://github.com/anarchicknight/react-native-carrier-info) - React Native module bridge to obtain information about the user’s home cellular service provider.
 - [react-native-clipboard ★44](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
