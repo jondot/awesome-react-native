@@ -311,7 +311,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-scrollview-lazyload ★39](https://github.com/IskenHuang/react-native-scrollview-lazyload) - react-native scrollview with image lazy load
 - [react-native-infinite-scrollview ★18](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
 - [react-native-search-bar ★276](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
-- [react-native-searchbar](https://github.com/localz/react-native-searchbar) - An animated search bar for react native with inbuilt search (iOS and Android)
+- [react-native-searchbar ★22](https://github.com/localz/react-native-searchbar) - An animated search bar for react native with inbuilt search (iOS and Android)
 - [react-native-search ★8](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★6](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★30](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
