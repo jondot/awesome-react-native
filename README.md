@@ -176,6 +176,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-circle-checkbox ★11](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native
 - [react-native-circle-progress ★22](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 - [react-native-circle-view ★28](https://github.com/nucleartux/react-native-circle-view) - circle progress for react native android using CircleView
+- [react-native-circular-action-menu ★33](https://github.com/geremih/react-native-circular-action-menu) - An animated and customizable circular floating menu.
 - [react-native-circular-progress ★205](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [react-native-collapsible ★211](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-countdown ★10](https://github.com/buhe/react-native-countdown) - react native countdown button
