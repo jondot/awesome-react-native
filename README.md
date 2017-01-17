@@ -238,6 +238,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-item-cell ★34](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
 - [react-native-keyboard-spacer ★250](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 - [react-native-keyboardevents ★197](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
+- [react-native-label-select](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
 - [react-native-layout ★24](https://github.com/jerolimov/react-native-layout) - Semantic JSX layout components for react-native
 - [react-native-lightbox ★593](https://github.com/oblador/react-native-lightbox) - a very Slick and modern mobile lightbox implementation
 - [react-native-link ★5](https://github.com/650Industries/react-native-link) - A link component, similar to <A href from HTML
