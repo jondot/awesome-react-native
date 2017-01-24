@@ -677,7 +677,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-signalr ★20](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
 - [react-native-sumup ★0](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
 - [react-native-new-relic ★10](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
-
+- [instabug-reactnative ★8](https://github.com/Instabug/instabug-reactnative) - A React Native wrapper for Bug reporting Instabug SDK.
 ### Monetization
 
 - [react-native-admob ★94](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
