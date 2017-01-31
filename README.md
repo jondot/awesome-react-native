@@ -695,7 +695,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 - [react-native-desktop ★7558](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 - [react-native-windows ★887](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
-- [react-native-windows ★0](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
+- [react-native-tvos-controller ★0](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
 ## Utilities
 
