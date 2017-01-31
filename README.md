@@ -736,7 +736,7 @@ Get a head start on development with an existing seed.
 - [ExNavRelay](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 - [react-native-relay-example](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
 - [react-native-redux](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
-
+- [react-native-boilerplate](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
 
 ## Libraries
 
