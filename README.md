@@ -267,6 +267,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-page-swiper ★57](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 - [react-native-parallax ★205](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 - [react-native-parsed-text ★160](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
+- [react-native-pathjs-charts ★144](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 - [react-native-pdf-view ★57](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
 - [react-native-phone-picker ★16](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 - [react-native-photo-browser ★160](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
