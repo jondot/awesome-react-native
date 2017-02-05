@@ -749,7 +749,7 @@ Get a head start on development with an existing seed.
 - [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 - [react-native-relay-example](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
 - [react-native-redux](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
-
+- [react-native-boilerplate](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
 
 ## Libraries
 
