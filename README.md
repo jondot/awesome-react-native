@@ -62,6 +62,7 @@ Content published on the Web.
 - [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
 - [Change splash screen in React Native Android app](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.pgjimxpgg)
 - [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
+- [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 
 
 ### Assorted
@@ -702,13 +703,14 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 
 - [react-native-admob ★94](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★6](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
--  [react-native-stripe-api ★15](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
+- [react-native-stripe-api ★15](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 - [react-native-desktop ★7558](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 - [react-native-windows ★887](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
+- [react-native-tvos-controller ★0](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
 ## Utilities
 
