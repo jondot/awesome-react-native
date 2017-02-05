@@ -196,6 +196,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-egg ★46](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
 - [react-native-emoji ★58](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
 - [react-native-emoji-picker ★4](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
+- [react-native-fade-in-view ★1](https://github.com/robcalcroft/react-native-fade-in-view) - A simple and lightweight RN component that fades in its children
 - [react-native-fading-slides ★19](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
 - [react-native-fit-image ★63](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
 - [react-native-flanimatedimage](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
