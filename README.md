@@ -819,7 +819,7 @@ Open source React Native apps and other examples.
 ## Frameworks
 
 - [Awesome React Native Meteor ★82](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
-- [NativeBase ★1549](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+- [NativeBase ★3080](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
 
 ## Tutorials
 
