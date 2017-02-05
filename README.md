@@ -912,6 +912,7 @@ Assortment of conference and training videos.
 - [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
 - [Brent Vatne](http://brentvatne.ca/)
 - [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
+- [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
 
 ## Releases
 
