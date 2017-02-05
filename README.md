@@ -340,6 +340,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slack-webhook ★17](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
 - [react-native-slidable-tab-bar ★21](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★207](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
+- [react-native-slot-machine ★1](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
 - [react-native-spinkit ★389](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [react-native-splashscreen ★140](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
 - [react-native-square-view ★16](https://github.com/Shuangzuan/react-native-square-view) - A square view component for react native.
