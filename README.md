@@ -648,6 +648,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-xmpp ★80](https://github.com/aksonov/react-native-xmpp) - XMPP Library for React Native
 - [aws-sdk-react-native ★188](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)
 - [react-native-s3 ★22](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
+- [react-native-ssdp](https://github.com/netbeast/react-native-ssdp) - A React Native fork of the SSDP protocol to discover plug and play devices.
 - [react-native-aws3 ★38](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 - [react-native-fetch-blob ★121](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
 
