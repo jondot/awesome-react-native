@@ -187,6 +187,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-double-buffer ★2](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 - [react-native-draggable-drawer ★13](https://github.com/llanox/react-native-draggable-drawer) - DraggableDrawer component for React Native.
 - [react-native-drawer ★834](https://github.com/rt2zz/react-native-drawer) - React Native Drawer
+- [react-native-drawer-menu](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 - [react-native-dropbox-chooser ★13](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★53](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-drop-refresh ★9](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
@@ -214,7 +215,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gifted-listview ★555](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★70](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 - [react-native-geo-fencing ★15](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
-- [react-native-grading](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
+- [react-native-grading ★7](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★3](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 - [react-native-grid-component ★5](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
 - [react-native-grid-view ★175](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
@@ -231,7 +232,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-item-cell ★34](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
 - [react-native-keyboard-spacer ★250](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 - [react-native-keyboardevents ★197](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
-- [react-native-label-select](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
+- [react-native-label-select ★5](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
 - [react-native-layout ★24](https://github.com/jerolimov/react-native-layout) - Semantic JSX layout components for react-native
 - [react-native-lightbox ★593](https://github.com/oblador/react-native-lightbox) - a very Slick and modern mobile lightbox implementation
 - [react-native-link ★5](https://github.com/650Industries/react-native-link) - A link component, similar to <A href from HTML
