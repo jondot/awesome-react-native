@@ -370,7 +370,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-popup-menu ★61](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
 - [react-native-color-picker ★31](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 - [react-native-step-indicator ★31](https://github.com/24ark/react-native-step-indicator) - A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
-- [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS 
+- [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS
 UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★1086](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 
@@ -402,7 +402,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
 - [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/js/NavigationExperimental)
 
-#### Navigation Demos 
+#### Navigation Demos
 - [ExNavRelay](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 - [movieapp ★91](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
 - [Navigator Demo ★115](https://github.com/h87kg/NavigatorDemo)
@@ -916,6 +916,7 @@ Assortment of conference and training videos.
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 - Dailydrip.com: [Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
 - [Awesome React Native Education](https://github.com/hsavit1/Awesome-React-Native-Education)
+- [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) - Youtube channel in spanish about with a series of videos talking about react native
 
 ## Blogs
 
