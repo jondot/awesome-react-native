@@ -611,6 +611,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-vlc-player ★12](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [react-native-camera-roll-picker ★39](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
 - [react-native-audio-streaming ★76](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
+- [react-native-video-processing ★103](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
 
 ### Storage
 
