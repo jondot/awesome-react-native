@@ -370,7 +370,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-popup-menu ★61](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
 - [react-native-color-picker ★31](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 - [react-native-step-indicator ★31](https://github.com/24ark/react-native-step-indicator) - A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
-- [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS 
+- [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS
 UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★1086](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 
@@ -402,7 +402,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
 - [What's up with NavigatorIOS, Navigator, and ExperimentalNavigator?](https://github.com/facebook/react-native/issues/6184), and [this](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/NavigationOverview.md), and [this](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer/js/NavigationExperimental)
 
-#### Navigation Demos 
+#### Navigation Demos
 - [ExNavRelay](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 - [movieapp ★91](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
 - [Navigator Demo ★115](https://github.com/h87kg/NavigatorDemo)
@@ -736,9 +736,9 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [🔥 Ignite ★2152](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
-- [React-Native-Starter-Pack ★5](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
-- [react-native-webpack-starter-kit ★749](https://github.com/jhabdas/react-native-webpack-starter-kit)
+- [🔥 Ignite ★3925](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [React-Native-Starter-Pack ★32](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
+- [react-native-webpack-starter-kit ★829](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★237](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
 - [react-native-tabbed ★21](https://github.com/rxb/react-native-tabbed)
