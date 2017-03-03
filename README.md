@@ -490,7 +490,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-kill-packager ★1](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 - [react-native-webpack-server ★795](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
 - [reactotron ★2166](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
-- [generator-rn-toolbox ★94](https://github.com/bamlab/generator-rn-toolbox) - Yeoman generators to kickstart your project and setup continuous deployment
+- [generator-rn-toolbox ★94](https://github.com/bamlab/generator-rn-toolbox) - Yeoman generators to kickstart your project and setup continuous deployment.
 
 ### Styling
 
