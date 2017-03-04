@@ -373,6 +373,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [nachos-ui ★475](https://github.com/avocode/nachos-ui) - NACHOS 
 UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★1086](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+- [react-native-animatable ★2066](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 
 ### Navigation
 - [react-navigation ★1,621](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
