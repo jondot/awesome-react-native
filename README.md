@@ -566,6 +566,7 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-voip-push-notification ★8](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★8](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 - [react-native-billing ★105](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
+- [react-native-haptic ★29](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 
 ### Web
 
