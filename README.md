@@ -190,7 +190,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dropbox-chooser ★13](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★53](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 - [react-native-drop-refresh ★9](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
-- [react-native-dropdownalert ★43](https://github.com/devBrian/react-native-dropdownalert) - A dropdown alert that allows you to display bits of information to your user.
+- [react-native-dropdownalert ★129](https://github.com/testshallpass/react-native-dropdownalert) - A simple drop down alert with 4 pre-defined types.
 - [react-native-dropdown ★193](https://github.com/alinz/react-native-dropdown) - A better Select dropdown menu for react-native
 - [react-native-effects-view ★189](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
 - [react-native-egg ★46](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
@@ -314,7 +314,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-button ★4](https://github.com/remobile/react-native-simple-button) - A simple react-native button
 - [react-native-simple-picker ★3](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 - [react-native-simple-router ★150](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
-- [react-native-simple-stepper ★5](https://github.com/devBrian/react-native-simple-stepper) - A super simple react-native implementation of the classic UIStepper from iOS.
+- [react-native-simple-stepper ★16](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
 - [react-native-simpledialog-android ★26](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 - [react-native-sketch ★31](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 - [react-native-slack-webhook ★17](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
