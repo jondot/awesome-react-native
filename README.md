@@ -708,6 +708,9 @@ UI KIT FOR REACT NATIVE Pick from a bunch of pre-coded UI components ready for y
 - [react-native-revmob ★6](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 - [react-native-stripe-api ★15](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
+### Animation
+- [react-native-animated-sprite](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+
 ### Other Platforms
 
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
