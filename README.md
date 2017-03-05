@@ -742,9 +742,9 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [🔥 Ignite ★2152](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
-- [React-Native-Starter-Pack ★5](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
-- [react-native-webpack-starter-kit ★749](https://github.com/jhabdas/react-native-webpack-starter-kit)
+- [🔥 Ignite ★3925](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [React-Native-Starter-Pack ★32](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
+- [react-native-webpack-starter-kit ★829](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★237](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★141](https://github.com/filp/react-native-es6-reflux)
 - [react-native-tabbed ★21](https://github.com/rxb/react-native-tabbed)
