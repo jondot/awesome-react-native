@@ -480,6 +480,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slowlog ★55](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★94](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
+- [react-rative-console-time-polyfill ★1](https://github.com/MaxGraey/react-rative-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
 
 ### Forms
 
