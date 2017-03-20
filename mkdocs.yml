@@ -1,0 +1,36 @@
+site_name: "Awesome React Native"
+site_url: "http://awesome-react-native.com"
+site_description: "A curated list of awesome articles, tutorials and resources dealing
+with React Native."
+site_author: "Dotan Nahum"
+repo_url: "https://github.com/jondot/awesome-react-native"
+google_analytics: ['UA-7131053-20', 'auto']
+theme: material
+pages:
+  - "Awesome React Native": "index.md"
+  - "Contributing": "CONTRIBUTING.md"
+extra:
+  palette:
+    primary: 'light blue'
+    accent: 'light blue'
+  logo: 'icon.svg'
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - markdown.extensions.admonition
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc(permalink=true)
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde

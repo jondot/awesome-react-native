@@ -2,14 +2,38 @@
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
 
-A curated list of awesome articles, tutorials and resources dealing
-with React Native.
+## Buzzing
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python](https://github.com/vinta/awesome-python).
+<div style="text-align: center"><table><tr>
+    <td style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=UPrKMGPDbtY">
+        <img src="https://img.youtube.com/vi/UPrKMGPDbtY/0.jpg" width="120"/>
+        <br/>
+        Joel on Performance
+        </a>
+    </td>
+    <td style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=9baaVjGdBqs">
+        <img src="https://img.youtube.com/vi/9baaVjGdBqs/0.jpg" width="120"/>
+        <br/>
+        Create React Native App
+        </a>
+    </td>
+    <td style="text-align: center">
+        <a href="https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html">
+        <img src="icon.svg" width="120" height="90" style="
+            background: #d0d0d0;
+            padding: 10px;
+        ">
+        <br/>
+            Better List Views
+        </a>
+    </td>
+</tr></table></div>
 
-Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-react-native/graphs/contributors) :)
+Have something that belongs here? [drop me a line!](mailto:dotan@paracode.com)
 
-# Content
+## Sections
 
 - [Conferences](#conferences)
 - [Articles](#articles)
@@ -26,6 +50,8 @@ Many thanks to everyone on the [contributor list](https://github.com/jondot/awes
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Releases](#releases)
+
+Many thanks to everyone on the [contributor list](https://github.com/jondot/awesome-react-native/graphs/contributors) :)
 
 ## Conferences
 
