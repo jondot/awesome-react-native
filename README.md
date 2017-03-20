@@ -185,6 +185,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-canvas ★109](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
 - [react-native-carousel ★302](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
 - [react-native-carousel-control ★110](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.
+- [react-native-cell-components ★1](https://github.com/lodev09/react-native-cell-components) - Awesome react-native cell components! From a Cell to more complex & awesome components.
 - [react-native-chart ★825](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 - [react-native-charts ★58](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
 - [react-native-checkbox ★74](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -398,6 +399,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [nachos-ui ★996](https://github.com/avocode/nachos-ui) - NACHOS UI kit for React Native. Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 - [lottie-react-native ★4537](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 - [react-native-animatable ★2069](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
+- [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 
 ### Navigation
 - [react-navigation,621 ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
@@ -480,6 +482,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slowlog ★55](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 - [codemod-RN24-to-RN25 ★94](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
+- [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
 
 ### Forms
 
@@ -798,7 +801,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-
+- [Urban Dictionary ★1](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [GitHub Popular ★1085](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
 - [NBAreact ★31](https://github.com/jbkuczma/NBAreact)
@@ -865,6 +868,7 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
+- [Teaset](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS components, focusing on content display and action control.
 
 ## Tutorials
 
