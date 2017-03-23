@@ -34,7 +34,7 @@ An awesome style list that curates the best React Native libraries, tools, tutor
     </td>
 </tr></table></div>
 
-Have something that belongs under "Buzzing"? [drop me a line!](mailto:dotan@paracode.com).
+Have something that belongs under "Buzzing"? drop me a line: dotan[at]paracode.com.
 
 ## Sections
 
@@ -760,7 +760,7 @@ Useful React Native tooling.
 
 - [ADB Auto Restarter ★3](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device
 - [react-native-snippets ★173](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
-- [exponent](https://getexponent.com/) - Use React Native without XCode (a previewer app + local server infrastructure)
+- [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal) ★382](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 - [AppHub](https://apphub.io/) - Update React Native apps, instantly
@@ -965,7 +965,6 @@ Assortment of conference and training videos.
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 - [Use React Native Blog](http://www.reactnative.com/)
 - [Facebook Code Blog](https://code.facebook.com/)
-- [ReactJS Blog](http://reactjs.ninja/) - Posts on ReactJS and React Native.
 - [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
 - [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
 - [Brent Vatne](http://brentvatne.ca/)
