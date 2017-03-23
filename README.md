@@ -2,6 +2,9 @@
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
 
+
+An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more. PRs are welcome!
+
 ## Buzzing
 
 <div style="text-align: center"><table><tr>
@@ -31,7 +34,7 @@
     </td>
 </tr></table></div>
 
-Have something that belongs under "Buzzing"? [drop me a line!](mailto:dotan@paracode.com), otherwise feel free to submit a PR as you wish!
+Have something that belongs under "Buzzing"? [drop me a line!](mailto:dotan@paracode.com).
 
 ## Sections
 
