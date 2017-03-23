@@ -31,7 +31,7 @@
     </td>
 </tr></table></div>
 
-Have something that belongs here? [drop me a line!](mailto:dotan@paracode.com)
+Have something that belongs under "Buzzing"? [drop me a line!](mailto:dotan@paracode.com), otherwise feel free to submit a PR as you wish!
 
 ## Sections
 
