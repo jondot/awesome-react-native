@@ -372,6 +372,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-textinput-effects ★841](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 - [react-native-textinput-utils ★42](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★148](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
+- [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 - [react-native-timer-mixin ★158](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 - [react-native-tinder-swipe-cards ★400](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 - [react-native-toast ★196](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
