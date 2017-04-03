@@ -662,6 +662,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-store ★344](https://github.com/jasonmerino/react-native-simple-store) - A minimalistic wrapper around React Native's AsyncStorage.
 - [react-native-sqlite-storage ★668](https://github.com/andpor/react-native-sqlite-storage) - SQLite3 bindings for React Native (Android & iOS)
 - [react-native-sqlite ★474](https://github.com/almost/react-native-sqlite) - SQLite3 bindings for React Native
+- [react-native-sqlite-2 ★13](https://github.com/noradaiko/react-native-sqlite-2) - SQLite3 Native Plugin for React Native for both Android and iOS
 - [react-native-storage ★715](https://github.com/sunnylqm/react-native-storage) - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
 - [react-native-store ★442](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
 - [realm ★1755](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
