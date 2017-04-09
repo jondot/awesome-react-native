@@ -667,7 +667,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-storage ★715](https://github.com/sunnylqm/react-native-storage) - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
 - [react-native-store ★442](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
 - [realm ★1755](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
-
+- [pouchdb-adapter-react-native-sqlite ★11](https://github.com/noradaiko/pouchdb-adapter-react-native-sqlite) - PouchDB adapter using ReactNative SQLite as its backing store
 
 ### Backend
 
