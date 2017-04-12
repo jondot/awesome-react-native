@@ -437,6 +437,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
 - [NavigatorIOS: Accessing onRightButtonPress from within child component](https://github.com/facebook/react-native/issues/31)
+- [Getting Started with React Navigation](https://hackernoon.com/getting-started-with-react-navigation-the-navigation-solution-for-react-native-ea3f4bd786a4#.aenyodpts)
+- [Migrate from ExNavigation to React Navigation](https://medium.com/@spencer_carli/migrate-from-exnavigation-to-react-navigation-1af661ec5082)
 
 #### Navigation Demos
 - [ExNavRelay ★18](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
