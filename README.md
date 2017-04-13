@@ -758,6 +758,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Other Platforms
 
+- [reactxp ★3686](https://github.com/Microsoft/reactxp) - Library for cross-platform app development
+- [react-native-web ★4731](https://github.com/necolas/react-native-web) - React Native for Web
 - [react-native-watchkit ★0](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 - [react-native-desktop ★8530](https://github.com/ptmt/react-native-desktop) - React Native for OS X
 - [react-native-windows ★1619](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
