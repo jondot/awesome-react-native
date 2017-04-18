@@ -409,6 +409,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 - [react-native-expand ★3](https://github.com/hejiaji/react-native-expand) - A react-native expandable component for both Android and iOS
 - [react-native-zoom-image](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
+- [react-native-hijri-date-picker](https://github.com/Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
