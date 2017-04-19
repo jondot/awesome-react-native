@@ -932,7 +932,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★3](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
-- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 - [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 
 ## Problem & Solution
