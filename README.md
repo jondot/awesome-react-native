@@ -756,6 +756,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Animation
 - [react-native-animated-sprite ★3](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+- [react-native-gl-model-view ★62](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 
 ### Other Platforms
 
