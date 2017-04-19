@@ -756,8 +756,12 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-stripe-api ★64](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
 ### Animation
-- [react-native-animated-sprite ★3](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+
 - [react-native-gl-model-view ★62](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
+- [react-native-animated-sprite ★7](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+- [react-native-interactable ★1606](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
+
+
 
 ### Other Platforms
 
