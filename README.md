@@ -187,6 +187,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-calendar-datepicker ★30](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
 - [react-native-calendar ★339](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 - [react-native-canvas ★109](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
+- [react-native-cardview ★20](https://github.com/Kishanjvaghela/react-native-cardview) - CardView for react-native (All Android version and iOS)
 - [react-native-carousel ★302](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
 - [react-native-carousel-control ★110](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.
 - [react-native-cell-components ★1](https://github.com/lodev09/react-native-cell-components) - Awesome react-native cell components! From a Cell to more complex & awesome components.
