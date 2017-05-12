@@ -447,6 +447,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [Navigator Demo ★167](https://github.com/h87kg/NavigatorDemo)
 - [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 
+### Animations
+- [react-native-animatable ★923](https://github.com/oblador/react-native-animatable) - React Native Animatable. Standard set of easy to use animations and declarative transitions for React Native.
+
 ### Text & Rich Content
 
 - [markdown-react-native ★190](https://github.com/lwansbrough/react-native-markdown) - A Markdown Component For React Native
