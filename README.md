@@ -368,6 +368,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-swipe-a-lot ★51](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 - [react-native-swiper2 ★77](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
 - [react-native-swiper ★3000](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
+- [react-native-swiper-animated ★8](https://github.com/chitezh/react-native-swiper-animated) - Tinder-like swiper for react-native
 - [react-native-tab ★102](https://github.com/vczero/react-native-tab) - react-native-tab is a simple module for add a "Tab Menu" to your React Native app.
 - [react-native-tabbar ★214](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
 - [react-native-tableview-simple ★146](https://github.com/Purii/react-native-tableview-simple) - React Native component for TableView made with pure CSS
