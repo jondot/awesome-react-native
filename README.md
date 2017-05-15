@@ -797,6 +797,7 @@ Useful React Native tooling.
 - [rn-nodeify ★64](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
+- [react-native-exception-handler](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
 
 ## Seeds
 
