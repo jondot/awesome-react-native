@@ -904,7 +904,7 @@ Open source React Native apps and other examples.
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset ★55](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
+- [Teaset ★101](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 
 ## Tutorials
 
