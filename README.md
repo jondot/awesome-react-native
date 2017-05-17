@@ -146,6 +146,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-display ★23](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 - [react-native-check-box ★65](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
