@@ -285,6 +285,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-marquee-label ★37](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★33](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-masked-text ★41](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
+- [react-native-masonry ★323](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 - [react-native-material-design ★1929](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
 - [react-native-material-ui ★480](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [react-native-material-kit ★2420](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
