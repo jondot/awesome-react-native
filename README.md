@@ -610,6 +610,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-notifications ★264](https://github.com/wix/react-native-notifications) - React native notifications
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 - [react-native-push-with-gcm ★3](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
+- [react-native-search-api ★13](https://github.com/ombori/react-native-search-api) - The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.
 - [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★84](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 - [react-native-sms-android ★12](https://github.com/rhaker/react-native-sms-android) - A react-native module for sending a sms message to a phone number.
@@ -841,7 +842,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
-- [ASOS ★1](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone) 
+- [ASOS ★1](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
 - [Urban Dictionary ★16](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [GitHub Popular ★1085](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
