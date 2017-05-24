@@ -666,6 +666,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
+- [react-native-fullscreen-video](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 - [react-native-volume-slider ★29](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
 - [react-native-vlc-player ★34](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [react-native-camera-roll-picker ★108](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
