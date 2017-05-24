@@ -402,6 +402,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-viewport-units ★50](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★42](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
 - [react-native-webbrowser ★80](https://github.com/d-a-n/react-native-webbrowser) - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.
+- [react-native-android-wheel-picker ★15](https://github.com/ElekenAgency/ReactNativeWheelPicker) - Simple and flexible React native wheel picker for Android, including DatePicker and TimePicker.
 - [react-native-wheel-picker ★52](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 - [react-native-wheel ★20](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-message-bar ★182](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
