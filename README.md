@@ -239,6 +239,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-flex-label ★6](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-flexi-radio-button ★7](https://github.com/thegamenicorus/react-native-flexi-radio-button) - Simple and flexible Radio button for React Native
 - [react-native-floating-labels ★82](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
+- [react-native-focus-scroll ★0](https://github.com/c-bata/react-native-focus-scroll) - react-native-focus-scroll can detect which children are focused when scrolling.
 - [react-native-foldview ★816](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
 - [react-native-fontbase ★1](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★44](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
