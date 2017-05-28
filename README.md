@@ -180,6 +180,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete-input ★104](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★10](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
 - [react-native-bar-collapsible ★11](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
+- [react-native-beautiful-video-recorder ★27](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android.
+- [react-native-beautiful-image ★12](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★521](https://github.com/ide/react-native-button)
@@ -204,6 +206,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-circular-action-menu ★66](https://github.com/geremih/react-native-circular-action-menu) - An animated and customizable circular floating menu.
 - [react-native-circular-progress ★414](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [react-native-collapsible ★365](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
+- [react-native-compress ★4](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
 - [react-native-countdown ★17](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★5](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★136](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
@@ -390,6 +393,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 - [react-native-timer-mixin ★158](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 - [react-native-tinder-swipe-cards ★400](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
+- [react-native-thumbnail ★7](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media. 
 - [react-native-toast ★196](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
 - [react-native-toolkit ★35](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 - [react-native-tooltip ★120](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
