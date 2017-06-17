@@ -1,5 +1,6 @@
 install:
 	@bundle install
+	@npm i -g gh-deploy
 	@gem install jill
 	@pip install -r requirements.txt
 
