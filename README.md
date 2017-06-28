@@ -918,6 +918,7 @@ Open source React Native apps and other examples.
 - [Paramap ★1](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 - [Surmon.me.native](https://github.com/surmon-china/surmon.me.native) A react-native applaction for surmon.me
 - [AudienceNetworkReactNative ★36](https://github.com/7kfpun/AudienceNetworkReactNative) - Facebook Audience Network Performance Tool.
+- [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 
 ## Frameworks
 
@@ -1027,3 +1028,5 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.42.2](https://github.com/facebook/react-native/releases/tag/v0.42.3)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
+
+
