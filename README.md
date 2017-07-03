@@ -268,6 +268,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-native-idle-timer ★36](https://github.com/marcshilling/react-native-idle-timer) - An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app
 - [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
+- [react-native-image-intent ★27](https://github.com/sonnylazuardi/react-native-image-intent) - Image intent receiver for React Native android
 - [react-native-image-picker ★1862](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 - [react-native-image-crop-picker ★606](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 - [react-native-imagewand ★7](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
