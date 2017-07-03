@@ -186,7 +186,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★521](https://github.com/ide/react-native-button)
-- [react-native-bottom-sheet-behavior ★101](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
+- [react-native-bottom-sheet-behavior ★404](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
 - [react-native-cache-image ★115](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★120](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 - [react-native-calendar-android ★39](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
@@ -207,6 +207,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-circular-action-menu ★66](https://github.com/geremih/react-native-circular-action-menu) - An animated and customizable circular floating menu.
 - [react-native-circular-progress ★414](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [react-native-collapsible ★365](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
+- [react-native-collapsing-toolbar ★44](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 - [react-native-compress ★4](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
 - [react-native-countdown ★17](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★5](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
