@@ -134,7 +134,6 @@ Content published on the Web.
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 - [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
-- [React Packager README.md](https://github.com/facebook/react-native/blob/master/packager/README.md)
 - [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 - [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
 - [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
@@ -146,8 +145,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
-- [rn-placeholder★14](https://github.com/Skahrz/rn-placeholder) - Skeleton placeholder loader with (optional) animations
+- [rn-placeholder★37](https://github.com/mfrachet/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
+- [react-native-ab-hoc★1](https://github.com/mfrachet/react-native-ab-hoc) - A HoC alternative to create A/B tests on react native
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-display ★23](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 - [react-native-check-box ★65](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
@@ -267,12 +267,14 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-icons](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-native-idle-timer ★36](https://github.com/marcshilling/react-native-idle-timer) - An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app
 - [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
+- [react-native-image-intent ★27](https://github.com/sonnylazuardi/react-native-image-intent) - Image intent receiver for React Native android
 - [react-native-image-picker ★1862](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 - [react-native-image-crop-picker ★606](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 - [react-native-imagewand ★7](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 - [react-native-in-app-notification ★4](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 - [react-native-invertible-scroll-view ★234](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 - [react-native-item-cell ★46](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
+- [react-native-keyboard-manager ★0](https://github.com/douglasjunior/react-native-keyboard-manager) - Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
 - [react-native-keyboard-spacer ★506](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 - [react-native-keyboardevents ★223](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
 - [react-native-label-select ★23](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
@@ -453,6 +455,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-navigator ★72](https://github.com/thewei/react-native-navigator) - A simple router for react native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-transparent-bar ★13](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
+- [kittenTricks ★700](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
@@ -817,6 +820,7 @@ Useful React Native tooling.
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
 - [react-native-exception-handler](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
+- [Storybook](https://storybook.js.org) - UI development environment for your React components
 
 ## Seeds
 
@@ -919,6 +923,8 @@ Open source React Native apps and other examples.
 - [Surmon.me.native](https://github.com/surmon-china/surmon.me.native) A react-native applaction for surmon.me
 - [AudienceNetworkReactNative ★36](https://github.com/7kfpun/AudienceNetworkReactNative) - Facebook Audience Network Performance Tool.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
+- [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
+
 
 ## Frameworks
 
@@ -1011,6 +1017,7 @@ Assortment of conference and training videos.
 - Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
 - Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 - [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
+- [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 ## Blogs
 
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)
