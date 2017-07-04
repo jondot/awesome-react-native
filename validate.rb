@@ -1,29 +1,37 @@
 require 'parallel'
-require 'nokogiri'
 require 'open-uri'
-require 'httparty'
+require 'net/http'
+require 'rexml/document'
 require 'kramdown'
+require 'httparty'
 
 def check_link(uri)
-  code = HTTParty.head(uri, :follow_redirects => false).code
-  return code >= 200 && code < 400
+  HTTParty.head(uri, :verify => false).code.to_i.tap do |status|
+    raise "Request had status #{status}" if (400..422).include?(status)
+  end
 end
 
 BASE_URI = ENV['BASE_URI'] || 'https://github.com/jondot/awesome-react-native'
 
-doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md').read).to_html)
-links = doc.css('a').to_a
-puts "Validating #{links.count} links..."
+html_readme = "<html>#{Kramdown::Document.new(open('README.md').read).to_html}</html>"
+readme_doctree = REXML::Document.new(html_readme)
+links = REXML::XPath.match(readme_doctree, '//a')
+
+puts "Validating #{links.size} links..."
 
 invalids = []
-Parallel.each(links, :in_threads => 4) do |link|
+Parallel.each(links, in_threads: 4) do |link|
+  href = link.attribute('href').to_s
   begin
-    uri = URI.join(BASE_URI, link.attr('href'))
-    check_link(uri)
-    putc('.')
-  rescue
+    case check_link(URI.join(BASE_URI, href))
+    when (200...300)
+      putc('.')
+    when (300..302)
+      putc('w')
+    end
+  rescue => e
     putc('F')
-    invalids << "#{link} (reason: #{$!})"
+    invalids << "#{href} (reason: #{e.message})"
   end
 end
 
@@ -36,4 +44,4 @@ unless invalids.empty?
   exit(1)
 end
 
-puts "\nDone."
+# puts "\nDone."

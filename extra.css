@@ -1,0 +1,6 @@
+.md-header[data-md-state=shadow]{
+    box-shadow:none;
+}
+.md-typeset table:not([class]){
+    box-shadow: none;
+}
