@@ -226,7 +226,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dialogs ★273](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 - [react-native-draggable-drawer ★23](https://github.com/llanox/react-native-draggable-drawer) - DraggableDrawer component for React Native.
-- [react-native-drawer ★1370](https://github.com/rt2zz/react-native-drawer) - React Native Drawer
+- [react-native-drawer ★1689](https://github.com/root-two/react-native-drawer) - React Native Drawer
 - [react-native-drawer-menu ★17](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 - [react-native-dropbox-chooser ★16](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★61](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
