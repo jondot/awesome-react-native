@@ -578,6 +578,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-speech ★27](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.
 - [react-native-android-sqlite ★28](https://github.com/jbrodriguez/react-native-android-sqlite) - A react native android wrapper for SQLite
 - [react-native-app-info ★33](https://github.com/Iragne/react-native-app-info) - React Native app info and version
+- [react-native-arkit ★38](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
 - [react-native-barcode-scanner ★50](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 - [react-native-barcodescanner ★298](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 - [react-native-battery-status ★3](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
