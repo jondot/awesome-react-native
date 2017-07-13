@@ -226,7 +226,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dialogs ★273](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
 - [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 - [react-native-draggable-drawer ★23](https://github.com/llanox/react-native-draggable-drawer) - DraggableDrawer component for React Native.
-- [react-native-drawer ★1370](https://github.com/rt2zz/react-native-drawer) - React Native Drawer
+- [react-native-drawer ★1689](https://github.com/root-two/react-native-drawer) - React Native Drawer
 - [react-native-drawer-menu ★17](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 - [react-native-dropbox-chooser ★16](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
 - [react-native-dropdown-android ★61](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
@@ -407,6 +407,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-touch-visualizer ★4](https://github.com/zachgibson/react-native-touch-visualizer) - Visualize touches and drags on React Native apps for iOS.
 - [react-native-triangle ★32](https://github.com/Jpoliachik/react-native-triangle) - draw triangle views in react native
 - [react-native-tween-animation ★35](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
+- [react-native-ui-kitten ★1117](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 - [react-native-vector-icons ★4008](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 - [react-native-viewpager ★868](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 - [react-native-viewport-units ★50](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
