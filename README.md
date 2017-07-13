@@ -1040,6 +1040,7 @@ Assortment of conference and training videos.
 - [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
 - [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
 - [Spencer Carli](https://medium.com/@spencer_carli)
+- [React Native Training](https://medium.com/react-native-training)
 
 ## Releases
 
