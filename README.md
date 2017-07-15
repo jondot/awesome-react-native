@@ -734,6 +734,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ssdp ★5](https://github.com/netbeast/react-native-ssdp) - A React Native fork of the SSDP protocol to discover plug and play devices.
 - [react-native-aws3 ★90](https://github.com/benjreinhart/react-native-aws3) - Pure JavaScript React Native library for uploading to AWS S3
 - [react-native-fetch-blob ★573](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.
+- [react-native-nchan ★1](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native
 
 
 ### Integrations
@@ -758,7 +759,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★37](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★14](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
-- [react-native-youtube-oauth ★0](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
+- [react-native-youtube-oauth ★3](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
 - [react-native-instagram ★1](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 - [react-native-leancloud ★9](https://github.com/turingou/react-native-leancloud) - a react native LeanCloud component
 - [react-native-level ★32](https://github.com/tradle/react-native-level) - levelup API for react-native AsyncStorage.
