@@ -395,6 +395,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tabs ★474](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
 - [react-native-textinput-effects ★841](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 - [react-native-textinput-utils ★42](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
+- [react-native-tilt ★6](https://github.com/psicotropicos/react-native-tilt) - Tilt effect with accelerometer for React Native components.
 - [react-native-timeago ★148](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 - [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 - [react-native-timer-mixin ★158](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
