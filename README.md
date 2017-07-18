@@ -537,6 +537,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [redux-form ★4829](http://redux-form.com) - Redux form state management (Web and Native)
 - [tcomb-form-native ★1657](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 - [foect ★4](https://github.com/unexge/foect) - Simple form validation library for React Native
+- [formik ★2270](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
 
 ### Internationalization
 
