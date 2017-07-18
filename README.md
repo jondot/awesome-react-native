@@ -969,7 +969,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
-- [React Native and Socket.io](https://medium.com/@ekryski/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
+- [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
 - [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
 - [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
