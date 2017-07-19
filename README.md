@@ -710,7 +710,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Backend
 
-- [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
+- [feathers-client ★88](https://github.com/feathersjs/feathers-client) - Feathers client that works with React Native, NodeJS and any client framework.
 - [react-native-async-http ★3](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 - [react-native-cognito ★54](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
 - [react-native-aws-cognito-js ★27](https://github.com/AirLabsTeam/react-native-aws-cognito-js) - An adaptation of Amazon Cognito Identity SDK for JavaScript in combination with AWS SDK for JavaScript for React Native.
