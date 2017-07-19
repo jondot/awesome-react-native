@@ -393,7 +393,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tableview-simple ★146](https://github.com/Purii/react-native-tableview-simple) - React Native component for TableView made with pure CSS
 - [react-native-tableview ★712](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 - [react-native-tabs ★474](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
-- [react-native-textinput-effects ★841](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
+- [react-native-textinput-effects ★1138](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 - [react-native-textinput-utils ★42](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 - [react-native-timeago ★148](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 - [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
