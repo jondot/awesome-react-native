@@ -66,6 +66,11 @@ July 10-11, 2017 in Portland, OR - https://infinite.red/ChainReactConf
 Twitter: https://twitter.com/chainreactconf
 Email: conf@infinite.red
 
+### React Conf BR - Brazil
+October 07, 2017 in São Paulo, SP - http://reactconfbr.com.br
+Facebook: https://www.facebook.com/reactconf
+Email: reactconfbr@gmail.com
+
 ### React Native EU - Poland
 
 Fall 2017 - http://react-native.eu/
