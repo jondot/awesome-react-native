@@ -376,6 +376,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slidable-tab-bar ★23](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★328](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
 - [react-native-slot-machine ★12](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
+- [react-native-sortable-list ★171](https://github.com/gitim/react-native-sortable-list) A sortable list for react native with both vertical and horizontal direction support.
 - [react-native-spinkit ★657](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [react-native-splashscreen ★244](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
 - [react-native-square-view ★17](https://github.com/Shuangzuan/react-native-square-view) - A square view component for react native.
