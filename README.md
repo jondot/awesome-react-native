@@ -936,7 +936,9 @@ Open source React Native apps and other examples.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 - [what the thing? ★256](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
+- [GitPoint ★1785](https://github.com/gitpoint/git-point) - A mobile GitHub client for both iOS and Android.
 - [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
+
 
 
 ## Frameworks
