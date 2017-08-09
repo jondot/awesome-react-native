@@ -145,7 +145,10 @@ Content published on the Web.
 Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
+
 - [react-native-scrollview-smart★36](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
+- [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
+- [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
 - [rn-placeholder★37](https://github.com/mfrachet/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
@@ -295,6 +298,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-marquee-label ★37](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★33](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-masked-text ★41](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
+- [react-native-text-input-mask](https://github.com/ivanzotov/react-native-text-input-mask) - Text input mask for Android and iOS, native implementation RedMadRobot libraries
 - [react-native-masonry ★323](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 - [react-native-material-design ★1929](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
 - [react-native-material-ui ★480](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
@@ -375,6 +379,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slidable-tab-bar ★23](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★328](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
 - [react-native-slot-machine ★12](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
+- [react-native-sortable-list ★171](https://github.com/gitim/react-native-sortable-list) A sortable list for react native with both vertical and horizontal direction support.
 - [react-native-spinkit ★657](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [react-native-splashscreen ★244](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
 - [react-native-square-view ★17](https://github.com/Shuangzuan/react-native-square-view) - A square view component for react native.
@@ -439,6 +444,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-md-motion-buttons](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
 - [react-native-fab](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 - [react-native-material-cards](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
+- [react-native-comparison-slider](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -546,6 +552,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [rn-translate-template ★11](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
 - [react-native-intl ★21](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 - [redux-react-native-i18n ★6](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
+- [react-native-languages ★18](https://github.com/react-community/react-native-languages) - React Native properties and methods related to the language of the device
 
 ### Build & Development
 
@@ -625,7 +632,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-motion-manager ★151](https://github.com/pwmckenna/react-native-motion-manager) - A react-native interface for using the Gyroscope, Accelerometer and Magnetometer
 - [react-native-device-angles ★3](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios
 - [react-native-passcode-auth ★42](https://github.com/naoufal/react-native-passcode-auth) - React Native authentication with iOS Passcode.
-- [react-native-permissions ★192](https://github.com/yonahforst/react-native-permissions) - Check and request user permissions in ReactNative (iOS and Android)
+- [react-native-permissions ★326](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api
 - [react-native-push-notification ★1114](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-notifications ★264](https://github.com/wix/react-native-notifications) - React native notifications
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
@@ -742,6 +749,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-facebook-account-kit ★79](https://github.com/underscopeio/react-native-facebook-account-kit) - A Facebook Account Kit SDK wrapper for React Native.
 - [react-native-amap ★16](https://github.com/laoqiu/react-native-amap) - A React Native component for building maps with the AMap Android SDK
 - [react-native-android-vitamio ★59](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
+- [react-native-api-ai ★9](https://github.com/innFactory/react-native-api-ai) - A React-Native bridge for Google's api.ai
 - [react-native-braintree ★68](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★16](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-braintree-xplat ★22](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
@@ -935,13 +943,16 @@ Open source React Native apps and other examples.
 - [SoundcloudMboX ★1](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
 - [MoeFM ★0](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 - [what the thing? ★256](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
+- [GitPoint ★1785](https://github.com/gitpoint/git-point) - A mobile GitHub client for both iOS and Android.
+- [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
+
 
 
 ## Frameworks
 
 - [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 - [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset ★101](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
+- [Teaset ★215](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 
 ## Tutorials
 
