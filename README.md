@@ -1002,7 +1002,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
 - [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
 - [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
-- [React-native weather app](https://github.com/JustinNothling/react-native-fuckingWeather)
 
 ## Problem & Solution
 
@@ -1053,6 +1052,8 @@ Assortment of conference and training videos.
 - Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 - [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
 - [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
+- [Build a Weather app ](https://cloneable.io/courses/enrolled/103341)
+
 ## Blogs
 
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)
