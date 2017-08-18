@@ -345,6 +345,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-popupwindow ★27](https://github.com/beefe/react-native-popupwindow) - Android PopupWindow for react-native module
 - [react-native-privacy-snapshot ★57](https://github.com/kayla-tech/react-native-privacy-snapshot) - Obscure passwords and other sensitive personal information when a react-native app transitions to the background
 - [react-native-progress-bar ★134](https://github.com/lwansbrough/react-native-progress-bar) - An animated progress bar component for React Native
+- [react-native-progress-button ★1](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 - [react-native-progress-circular ★23](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
 - [react-native-progress-hud ★155](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-pulse-loader ★43](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
