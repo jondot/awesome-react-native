@@ -200,6 +200,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-bottom-sheet-behavior ★404](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
 - [react-native-cache-image ★115](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★120](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
+- [react-native-calendars ★1115](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
 - [react-native-calendar-android ★39](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 - [react-native-calendar-datepicker ★30](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
 - [react-native-calendar-select ★1](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
