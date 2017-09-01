@@ -305,6 +305,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mapbox-gl ★696](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★3330](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-google-place-picker ★59](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
+- [react-native-markdown-editor](https://github.com/kunall17/react-native-markdown-editor/) - Markdown editor like github comment editor (contains preview, markdown buttons)
 - [react-native-marquee-label ★37](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★33](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-masked-text ★41](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
