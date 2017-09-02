@@ -86,6 +86,8 @@ Content published on the Web.
 
 ### Howtos
 
+
+- [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
 - [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)
@@ -101,6 +103,7 @@ Content published on the Web.
 
 ### Assorted
 
+- [Top 15 React Native libraries that I use in my apps](https://codingislove.com/top-15-react-native-libraries/)
 - [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
@@ -151,11 +154,11 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★36](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
-- [rn-placeholder★100](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
 - [react-native-ab-hoc★1](https://github.com/mfrachet/react-native-ab-hoc) - A HoC alternative to create A/B tests on react native
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
@@ -183,6 +186,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-iconify ★31](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
 - [react-native-android-kit ★75](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 - [react-native-android-statusbar ★110](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
+- [react-native-animated-check-mark ★11](https://github.com/AppliKeySolutions/RocketButton) - A small react component for animated cross-mark transformation.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-auto-typing-text ★11](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
@@ -199,6 +203,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-bottom-sheet-behavior ★404](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
 - [react-native-cache-image ★115](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 - [react-native-cacheable-image ★120](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
+- [react-native-calendars ★1115](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
 - [react-native-calendar-android ★39](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 - [react-native-calendar-datepicker ★30](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
 - [react-native-calendar-select ★1](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
@@ -300,6 +305,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mapbox-gl ★696](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★3330](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-google-place-picker ★59](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
+- [react-native-markdown-editor](https://github.com/kunall17/react-native-markdown-editor/) - Markdown editor like github comment editor (contains preview, markdown buttons)
 - [react-native-marquee-label ★37](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★33](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-masked-text ★41](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
@@ -345,6 +351,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-popupwindow ★27](https://github.com/beefe/react-native-popupwindow) - Android PopupWindow for react-native module
 - [react-native-privacy-snapshot ★57](https://github.com/kayla-tech/react-native-privacy-snapshot) - Obscure passwords and other sensitive personal information when a react-native app transitions to the background
 - [react-native-progress-bar ★134](https://github.com/lwansbrough/react-native-progress-bar) - An animated progress bar component for React Native
+- [react-native-progress-button ★1](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 - [react-native-progress-circular ★23](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
 - [react-native-progress-hud ★155](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-pulse-loader ★43](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
@@ -509,6 +516,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mixpanel ★123](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★44](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 - [react-native-google-analytics-bridge ★389](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
+- [react-native-ux-cam ★11](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
 
@@ -643,6 +651,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-permissions ★326](https://github.com/yonahforst/react-native-permissions) - Check and request all permissions with a single api
 - [react-native-push-notification ★1114](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [react-native-notifications ★264](https://github.com/wix/react-native-notifications) - React native notifications
+- [react-native-nfc-ios ★7](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 - [react-native-push-with-gcm ★3](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-search-api ★13](https://github.com/ombori/react-native-search-api) - The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.
@@ -653,7 +662,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-system-notification ★2](https://github.com/Neson/react-native-system-notification) - Notification for React Native
 - [react-native-touch-id ★304](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-fingerprint-identify ★12](https://github.com/williamtran29/react-native-fingerprint-identify) - React Native authentication with the Fingerprint on Android, fingerprint API compatible lib, which also combines Samsung, Xiaomi and MeiZu's official Fingerprint API.
-- [react-native-touch-id-android ★5](https://github.com/ElekenAgency/react-native-touch-id-android) - React Native authentication with the Fingerprint on Android.
+- [react-native-touch-id-android ★18](https://github.com/ElekenAgency/react-native-touch-id-android) - React Native authentication with the Fingerprint on Android.
 - [react-native-voip-push-notification ★14](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★14](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
 - [react-native-billing ★171](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
@@ -687,6 +696,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★82](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
 - [react-native-audio ★246](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
+- [react-native-camera-kit ★283](https://github.com/wix/react-native-camera-kit) - Advanced native camera and gallery components and device photos API.
 - [react-native-camera ★2519](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★31](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
 - [react-native-incall-manager ★97](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
@@ -848,6 +858,7 @@ Useful React Native tooling.
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
+- [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 
 ## Seeds
 
@@ -883,6 +894,7 @@ Libraries / SDK type additions for React Native development.
 - [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 - [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
+- [BlankApp UI ★6](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
 
 ## Open Source Apps
 
@@ -1053,6 +1065,8 @@ Assortment of conference and training videos.
 - [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
 - [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 - [Build a Weather app ](https://cloneable.io/courses/enrolled/103341) - (Free) A course to build a weather app with React Native.
+- Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE&utm_source=gh_arn&utm_medium=link) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
+
 
 ## Blogs
 
