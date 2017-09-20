@@ -892,6 +892,7 @@ Get a head start on development with an existing seed.
 - [react-native-web-workspace ★16](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
 - [react-native-web-boilerplate ★27](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 - [native-starter-kit ★1097](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
+- [react-native-boilerplate-chucknorris ★6](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
 
 ## Libraries
 
@@ -1002,11 +1003,9 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 - [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
 - [Fully-immersive, hands-on, and fun learning experience for React Native ★537](https://github.com/jondot/ReactNativeKatas)
-- [How to Build a React Native Login Form with Redux Pt1](http://codecookbook.co/post/how-to-build-a-react-native-login-form-with-redux-pt1/)
 - [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
-- [Making Network Requests](http://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
@@ -1019,7 +1018,6 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [React Native with Django backend ★3](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
-- [Sharing Text using the new Share API](http://codecookbook.co/post/how-to-share-text-from-your-react-native-app)
 - [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 
 ## Problem & Solution
