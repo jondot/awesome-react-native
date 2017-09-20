@@ -187,6 +187,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-android-kit ★75](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 - [react-native-android-statusbar ★110](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
 - [react-native-animated-check-mark ★11](https://github.com/AppliKeySolutions/RocketButton) - A small react component for animated cross-mark transformation.
+- [react-native-animated-styles ★1](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 - [react-native-app-intro ★886](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 - [react-native-awesome-button ★141](https://github.com/larsvinter/react-native-awesome-button) - A React Native component rendering a button supporting showing different appearances and functionality given the passed props
 - [react-native-auto-typing-text ★11](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
