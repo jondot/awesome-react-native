@@ -549,6 +549,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 - [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
 - [detox ★422](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
+- [react-native-linkedin ★24](https://github.com/xcarpentier/react-native-linkedin) React-Native LinkedIn, a simple LinkedIn login library for React-Native or Expo with WebView and Modal
 
 ### Forms
 
