@@ -154,7 +154,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
-- [react-native-toast-native★7](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
+- [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
 - [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
@@ -871,7 +871,7 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-- [ Ignite ★3952](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+- [🔥 Ignite ★3952](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
 - [React-Native-Starter-Pack ★32](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-webpack-starter-kit ★829](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★238](https://github.com/roman01la/react-native-babel)
@@ -887,7 +887,7 @@ Get a head start on development with an existing seed.
 - [rn-mobx-template ★9](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 - [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 - [React Native Hackathon Starter ★213](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
-- [ Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
+- [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 - [react-native-relay-example ★17](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
 - [react-native-redux ★86](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 - [react-native-boilerplate ★20](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
