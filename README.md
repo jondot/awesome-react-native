@@ -514,6 +514,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-hypertext ★19](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 - [react-native-universal-modal ★13](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 - [react-native-hyperlink ★67](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
+- [react-native-measure-text ★6](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 
 ### Analytics
 
