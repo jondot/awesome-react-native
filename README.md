@@ -654,6 +654,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-icloud-sync ★24](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
 - [react-native-in-app-utils ★265](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
 - [react-native-image-resizer ★189](https://github.com/bamlab/react-native-image-resizer) - Rescale local image files with React Native.
+- [react-native-scalable-image ★9](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 - [react-native-keychain ★243](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 - [react-native-localsearch ★16](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search
 - [react-native-location ★220](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
