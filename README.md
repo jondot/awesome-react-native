@@ -201,6 +201,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-beautiful-image ★12](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 - [react-native-big-slider](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
+- [react-native-bouncy-drawer ★2](https://github.com/SoftZen/react-native-bouncy-drawer) - Highly customizable Bouncy Drawer
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★521](https://github.com/ide/react-native-button)
 - [react-native-bottom-sheet-behavior ★404](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - A react native wrapper for android BottomSheetBehavior.
@@ -436,7 +437,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-tween-animation ★35](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
 - [react-native-ui-kitten ★1117](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 - [react-native-vector-icons ★4008](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
-- [react-native-view *1](https://github.com/i6mi6/react-native-view) - Lightweight View component for quick styling.
+- [react-native-view ★25](https://github.com/i6mi6/react-native-view) - Lightweight View component for quick styling.
 - [react-native-viewpager ★868](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 - [react-native-viewport-units ★50](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★42](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
