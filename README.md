@@ -363,6 +363,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progress-hud ★155](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-pulse-loader ★43](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
 - [react-native-qrcode ★131](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
+- [react-native-qrcode-svg ★97](https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and node-qrcode.
 - [react-native-quiltview ★7](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native
 - [react-native-radial-menu ★67](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-radio-button-classic ★34](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
