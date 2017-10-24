@@ -575,6 +575,15 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [foect ★4](https://github.com/unexge/foect) - Simple form validation library for React Native
 - [formik ★2270](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
 
+### Geolocation
+
+- [react-native-background-geolocation ★770](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated cross-platform background location-tracking & geofencing module with battery-conscious motion-detection intelligence (Android requires  paid license).
+- [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
+- [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
+- [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
+- [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
+- [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
+
 ### Internationalization
 
 - [react-native-globalize ★61](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
