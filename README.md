@@ -78,7 +78,7 @@ Email: team@reactnative.eu
 
 ## Articles
 
-Content published on the Web.
+- [Questions for myself about React JS & React Native](https://codeburst.io/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
 ### Reference
 
@@ -878,7 +878,7 @@ Useful React Native tooling.
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 - [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
-- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc. 
+- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 
 ## Seeds
@@ -1039,9 +1039,52 @@ Walkthroughs and tutorials that help you learn React Native.
 
 ## Problem & Solution
 
-Quick solutions to typical problems.
+- What means of no bundle URL present in react-native?
+Open a terminal window
 
-...
+```
+$ cd into YOUR_PROJECT
+$ rm -rf ios/build/; kill $(lsof -t -i:8081); react-native run-ios
+$ run react-native run-ios again
+```
+
+- Duplicate versions of react-native being installed
+
+```
+$ cd into YOUR_PROJECT
+$ watchman watch-del-all
+$ rm -rf node_modules && npm install
+$ rm -fr $TMPDIR/react-*
+$ npm cache clean
+$ run react-native run-ios again
+```
+
+- Upgrading React Native Versions
+```
+$ npm install
+cmd + shift + k         to clean the build
+cmd + shift + b         to create the build
+
+```
+
+- CFBundleIdentifier", Does Not Exist
+
+  **Step One**
+
+  - Go to File -> Project settings
+  - Click the Advanced button
+  - Select "Custom" and select "Relative to Workspace" in the pull down
+  - click done, done
+
+
+**Step Two**
+```
+$ npm install -g react-native-git-upgrade
+$ npm install react-native@latest --save
+$ react-native-git-upgrade
+```
+
+
 
 ## Books
 
@@ -1101,6 +1144,7 @@ Assortment of conference and training videos.
 - [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
 - [Spencer Carli](https://medium.com/@spencer_carli)
 - [React Native Training](https://medium.com/react-native-training)
+- [React Native Coach](http://reactnativecoach.com)
 
 ## Releases
 
