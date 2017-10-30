@@ -278,7 +278,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gifted-chat ★2332](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
 - [react-native-gifted-listview ★889](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★85](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
-- [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-grading ★14](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★5](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 - [react-native-super-grid ★54](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
@@ -576,6 +575,15 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [foect ★4](https://github.com/unexge/foect) - Simple form validation library for React Native
 - [formik ★2270](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
 
+### Geolocation
+
+- [react-native-background-geolocation ★770](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated cross-platform background location-tracking & geofencing module with battery-conscious motion-detection intelligence (Android requires  paid license).
+- [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
+- [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
+- [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
+- [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
+- [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
+
 ### Internationalization
 
 - [react-native-globalize ★61](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
@@ -616,7 +624,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### System
 
 - [react-native-addressbook ★65](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
-- [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 - [react-native-android-sms-listener ★66](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★34](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
 - [react-native-android-speech ★27](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.
@@ -650,8 +657,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fs ★905](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-onesignal ★255](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service (iOS + Android)
 - [react-native-gcm-android ★155](https://github.com/oney/react-native-gcm-android) - GCM for Android
-- [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
-- [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-heading ★14](https://github.com/yonahforst/react-native-heading) - Get device heading (compass) information on iOS or Android
 - [react-native-ibeacon ★223](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★24](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
@@ -675,7 +680,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 - [react-native-push-with-gcm ★3](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-search-api ★13](https://github.com/ombori/react-native-search-api) - The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.
-- [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★84](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 - [react-native-sms-android ★12](https://github.com/rhaker/react-native-sms-android) - A react-native module for sending a sms message to a phone number.
 - [react-native-social-share ★198](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
