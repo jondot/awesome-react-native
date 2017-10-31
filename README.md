@@ -1033,6 +1033,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
+- [React Native Android Widget Proof of Concept](https://github.com/netbeast/react-native-android-widget-poc)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
 - [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
