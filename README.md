@@ -154,6 +154,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [react-virgin★934](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
 - [rn-ab-hoc★13](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
 - [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
