@@ -585,6 +585,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
 - [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
+- [react-native-fused-location ★31](https://github.com/MustansirZia/react-native-fused-location) - Finest location for react-native on Android using the new Fused API.
 
 ### Internationalization
 
