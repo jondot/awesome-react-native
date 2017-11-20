@@ -738,6 +738,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-sound ★9](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
 - [react-native-sound ★431](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
+- [react-native-sound-recorder ★8](https://github.com/kevinresol/react-native-sound-recorder) - No-hassle Sound Recorder for React Native.
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
 - [react-native-track-player ★23](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
