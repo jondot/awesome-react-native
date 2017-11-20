@@ -890,6 +890,7 @@ Useful React Native tooling.
 - [Makeicon](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
+- [Electrode Native ★331](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
 
 ## Seeds
 
