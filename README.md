@@ -415,6 +415,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-streetview ★20](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 - [react-native-stylesheet-xg ★5](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★941](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
+- [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native 
 - [react-native-swipeout ★891](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 - [react-native-swipeview ★3](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
 - [react-native-swipe-a-lot ★51](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
