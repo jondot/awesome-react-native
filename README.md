@@ -225,6 +225,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-censored](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
 - [react-native-chart ★825](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 - [react-native-charts ★58](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
+- [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native 
 - [react-native-checkbox ★74](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
 - [react-native-circle-checkbox ★15](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native
 - [react-native-circle-progress ★23](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
