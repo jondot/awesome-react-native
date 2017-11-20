@@ -225,7 +225,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-censored](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
 - [react-native-chart ★825](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 - [react-native-charts ★58](https://github.com/PrazAs/react-native-charts) - Delightfully-animated data visualization.
-- [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native 
 - [react-native-checkbox ★74](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
 - [react-native-circle-checkbox ★15](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native
 - [react-native-circle-progress ★23](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
@@ -416,6 +415,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-streetview ★20](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 - [react-native-stylesheet-xg ★5](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★941](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
+- [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native 
 - [react-native-swipeout ★891](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 - [react-native-swipeview ★3](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
 - [react-native-swipe-a-lot ★51](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
