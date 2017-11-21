@@ -62,7 +62,7 @@ Conferences dedicated to React Native specifically. A listing of React general c
 
 ### Chain React Conf - USA
 
-July 10-11, 2017 in Portland, OR - https://infinite.red/ChainReactConf
+July 11-13, 2018 in Portland, OR - https://infinite.red/ChainReactConf
 Twitter: https://twitter.com/chainreactconf
 Email: conf@infinite.red
 
@@ -86,7 +86,7 @@ Content published on the Web.
 
 ### Howtos
 
-
+- [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
 - [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 - [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)
 - [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
