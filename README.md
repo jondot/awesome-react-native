@@ -400,6 +400,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-simple-router ★213](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 - [react-native-simple-stepper ★17](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
 - [react-native-simpledialog-android ★39](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
+- [react-native-size-matters ★31](https://github.com/nirsky/react-native-size-matters) - A React-Native utility belt for scaling the size your apps UI across different sized devices.
 - [react-native-sketch ★109](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 - [react-native-slack-webhook ★24](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
 - [react-native-slidable-tab-bar ★23](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
