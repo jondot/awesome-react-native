@@ -723,7 +723,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-webview-crosswalk ★42](https://github.com/jordansexton/react-native-webview-crosswalk) - Crosswalk's WebView for React Native on Android
 
 ### Media
-
+- [react-native-interactive-image-gallery ★3](https://github.com/InterfaceKit/react-native-interactive-image-gallery) - A React Native component to display a gallery of images.
 - [react-native-android-audio-streaming-aac ★19](https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac) - A react native streaming player
 - [react-native-audio-manager ★13](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 - [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
