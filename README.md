@@ -947,6 +947,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
+- [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
 - [ASOS ★1](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
 - [Urban Dictionary ★16](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
