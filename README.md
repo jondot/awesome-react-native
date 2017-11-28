@@ -630,7 +630,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 
 ### System
-
+- [react-native-incall-manager ★172](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [react-native-addressbook ★65](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
 - [react-native-android-sms-listener ★66](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★34](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
