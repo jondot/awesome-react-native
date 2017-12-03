@@ -153,6 +153,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [react-native-paper★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin★934](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs★10](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
