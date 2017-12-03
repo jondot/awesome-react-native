@@ -139,7 +139,6 @@ Content published on the Web.
 ### Internals
 
 - [Performance](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
-- [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
 - [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
 - [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
 - [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
@@ -640,7 +639,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 
 ### System
-- [react-native-incall-manager ★174](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [react-native-addressbook ★78](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
 - [react-native-android-sms-listener ★123](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★42](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
@@ -1108,7 +1106,7 @@ Assortment of conference and training videos.
 - [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
 - Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
-- Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
+- Udemy.com: [Build apps with React Native](https://www.udemy.com/the-complete-react-native-and-redux-course/)
 - [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
 - Dailydrip.com: [Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
 - [Awesome React Native Education ★326](https://github.com/hsavit1/Awesome-React-Native-Education)
@@ -1118,7 +1116,7 @@ Assortment of conference and training videos.
 - [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
 - [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 - [Build a Weather app ](https://cloneable.io/courses/enrolled/103341) - (Free) A course to build a weather app with React Native.
-- Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE&utm_source=gh_arn&utm_medium=link) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
+- Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
 
 
 ## Blogs
