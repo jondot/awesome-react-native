@@ -151,7 +151,7 @@ Content published on the Web.
 Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
-
+- [react-native-typography ★2](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs ★25](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
