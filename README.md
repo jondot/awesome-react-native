@@ -905,6 +905,7 @@ Useful React Native tooling.
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions ★37](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 - [Electrode Native ★235](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
+- [AsyncStorage Dev Menu Item *15](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
 
 ## Seeds
 
