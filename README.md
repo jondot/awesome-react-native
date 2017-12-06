@@ -508,6 +508,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-transparent-bar ★16](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 - [kittenTricks ★3086](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 - [react-native-grid-list ★ ★3](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
+- [react-native-swiper-flatlist ★★](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
