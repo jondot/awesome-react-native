@@ -390,6 +390,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★96](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
+- [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)
 - [react-native-segmented-view ★144](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
