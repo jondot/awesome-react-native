@@ -546,7 +546,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
-
+- [react-native-hour-format ★15](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-call-detection ★40](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
 - [react-native-simple-encryption ★11](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
