@@ -151,7 +151,7 @@ Content published on the Web.
 Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
 
 ### UI
-
+- [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 - [rn-render-perfs ★25](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
@@ -392,6 +392,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 - [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 - [react-native-custom-segmented-control ★96](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
+- [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)
 - [react-native-segmented-view ★144](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 - [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 - [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
@@ -548,7 +549,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
-
+- [react-native-hour-format ★15](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-call-detection ★40](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
 - [react-native-simple-encryption ★11](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
