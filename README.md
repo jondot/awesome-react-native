@@ -148,7 +148,7 @@ Content published on the Web.
 
 ## Components
 
-Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
+Components and native modules.
 
 ### UI
 - [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
