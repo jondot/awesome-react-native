@@ -151,6 +151,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+- [RNParallax ★63](https://github.com/kyaroru/RNParallax)
 - [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 - [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
