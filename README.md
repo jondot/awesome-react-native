@@ -549,7 +549,7 @@ Components and native modules.
 - [react-native-google-analytics-bridge ★767](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
 - [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
-### Utils & Infra
+### Utils & Infrastructure
 - [react-native-hour-format ★15](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-call-detection ★40](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
