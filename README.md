@@ -767,6 +767,7 @@ Components and native modules.
 - [react-native-camera-roll-picker ★227](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
 - [react-native-audio-streaming ★531](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
 - [react-native-video-processing ★309](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
+- [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.
 
 ### Storage
 
