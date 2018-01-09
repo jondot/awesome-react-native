@@ -151,6 +151,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+- [react-native-largelist ★241](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android)
 - [RNParallax ★63](https://github.com/kyaroru/RNParallax)
 - [react-native-typography ★69](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 - [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
