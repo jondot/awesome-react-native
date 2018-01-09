@@ -894,6 +894,7 @@ Components and native modules.
 
 Useful React Native tooling.
 
+- [rn-watcher ★3](https://github.com/mfrachet/rn-watcher) - Simply spy on the bridge using RxJs (alternative to [rn-snoopy](https://github.com/jondot/rn-snoopy))
 - [ADB Auto Restarter ★5](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device .
 - [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 - [react-native-snippets ★225](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
