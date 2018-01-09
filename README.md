@@ -39,12 +39,42 @@ tools, tutorials, articles and more. PRs are welcome!
 Have something that belongs under "Buzzing"? drop me a line:
 dotan\[at\]paracode.com.
 
-## Sections
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Conferences](#conferences)
+  - [Chain React Conf - USA](#chain-react-conf---usa)
+  - [React Conf BR - Brazil](#react-conf-br---brazil)
+  - [React Native EU - Poland](#react-native-eu---poland)
 - [Articles](#articles)
-- [Internals](#internals)
+  - [Reference](#reference)
+  - [Howtos](#howtos)
+  - [Assorted](#assorted)
+  - [Continuous Integration](#continuous-integration)
+  - [Internals](#internals)
 - [Components](#components)
-- [Navigation](#navigation)
+  - [UI](#ui)
+  - [Navigation](#navigation)
+    - [Navigation/Routing Articles](#navigationrouting-articles)
+    - [Navigation Demos](#navigation-demos)
+  - [Text & Rich Content](#text--rich-content)
+  - [Analytics](#analytics)
+  - [Utils & Infra](#utils--infra)
+  - [Forms](#forms)
+  - [Geolocation](#geolocation)
+  - [Internationalization](#internationalization)
+  - [Build & Development](#build--development)
+  - [Styling](#styling)
+  - [System](#system)
+  - [Web](#web)
+  - [Media](#media)
+  - [Storage](#storage)
+  - [Backend](#backend)
+  - [Integrations](#integrations)
+  - [Monetization](#monetization)
+  - [Animation](#animation)
+  - [Other Platforms](#other-platforms)
 - [Utilities](#utilities)
 - [Seeds](#seeds)
 - [Libraries](#libraries)
@@ -53,8 +83,12 @@ dotan\[at\]paracode.com.
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
+  - [Talks](#talks)
+  - [Training & tutorials](#training--tutorials)
 - [Blogs](#blogs)
 - [Releases](#releases)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Many thanks to everyone on the [contributor
 list](https://github.com/jondot/awesome-react-native/graphs/contributors)\:)
