@@ -172,6 +172,7 @@ Content published on the Web.
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)  
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)  
 * [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)  
+* [The simplest way to automate delivery of your React Native Application](https://jtway.co/the-simplest-way-to-automate-delivery-of-your-react-native-application-f37f2c71eb1d)
 
 ### Internals
 
