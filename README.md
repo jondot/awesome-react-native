@@ -325,7 +325,8 @@ Components and native modules.
 * [react-native-grid-component ★136](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.  
 * [react-native-orientation-listener ★133](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation  
 * [react-native-cardview ★132](https://github.com/Kishanjvaghela/react-native-cardview) - CardView for react-native (All Android version and iOS)  
-* [react-native-gestures ★129](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native  
+* [react-native-gestures ★129](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native 
+* [react-native-gesture-handler ★407](https://github.com/kmagiera/react-native-gesture-handler) - New declarative API for gesture handling in react-native 
 * [react-native-webbrowser ★128](https://github.com/d-a-n/react-native-webbrowser) - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.  
 * [react-native-android-statusbar ★122](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.  
 * [react-native-checkbox ★122](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native  
@@ -353,7 +354,8 @@ Components and native modules.
 * [react-native-image-carousel ★92](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.  
 * [react-native-hero ★91](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.  
 * [react-native-swiper-animated ★87](https://github.com/chitezh/react-native-swiper-animated) - Tinder-like swiper for react-native  
-* [react-native-pagination ★85](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.  
+* [react-native-pagination ★85](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
+* [react-native-safe-area ★35](https://github.com/miyabi/react-native-safe-area) - React Native module to retrieve safe area insets for iOS 11 or later.
 * [react-native-swiper2 ★85](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper  
 * [react-native-swipe-a-lot ★84](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.  
 * [react-native-size-matters ★84](https://github.com/nirsky/react-native-size-matters) - A React-Native utility belt for scaling the size your apps UI across different sized devices.  
@@ -756,7 +758,7 @@ Components and native modules.
 * [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)  
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
 * [react-native-battery-status ★6](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native  
-* [react-native-push-with-gcm ★5](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)  
+* [react-native-push-with-gcm ★5](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 * [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native  
 
 ### Web
