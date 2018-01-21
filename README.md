@@ -753,6 +753,7 @@ Components and native modules.
 * [react-native-contacts-rx ★12](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.  
 * [react-native-mipush ★11](https://github.com/cpunion/react-native-mipush) - MiPush for React Native  
 * [react-native-detect-device ★11](https://github.com/peachmeco/react-native-detect-device) - Detect a device on iOS or android in react-native.  
+* [react-native-haptic-feedback ★10](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android 
 * [react-native-device-angles ★9](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios  
 * [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)  
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
