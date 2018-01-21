@@ -588,8 +588,8 @@ Components and native modules.
 * [react-native-mixpanel ★211](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking  
 * [react-native-ab ★137](https://github.com/lwansbrough/react-native-ab) - A component for rendering A/B tests in React Native  
 * [react-native-segment-io-analytics ★62](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!  
-* [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.  
 * [react-native-td ★14](https://github.com/quipper/react-native-td) - An unofficial React Native SDK for Treasure Data.
+* [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.  
 
 ### Utils & Infra
 
