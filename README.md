@@ -187,7 +187,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
-
+* [react-native-download-button ★3](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [lottie-react-native ★7448](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!  
 * [react-native-vector-icons ★6677](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.  
 * [react-native-maps ★5996](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android  
@@ -519,7 +519,7 @@ Components and native modules.
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View  
 * [react-native-custom-actionsheet ★3](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.  
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native  
-* [react-native-animated-styles ★2](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.  
+* [react-native-animated-styles ★2](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states. 
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native  
 * [react-native-fontbase ★2](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native  
 * [react-native-censored ★2](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.  
