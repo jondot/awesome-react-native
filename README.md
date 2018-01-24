@@ -172,6 +172,7 @@ Content published on the Web.
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)  
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)  
 * [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)  
+* [The simplest way to automate delivery of your React Native Application](https://jtway.co/the-simplest-way-to-automate-delivery-of-your-react-native-application-f37f2c71eb1d)
 
 ### Internals
 
@@ -590,6 +591,7 @@ Components and native modules.
 * [react-native-mixpanel ★211](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking  
 * [react-native-ab ★137](https://github.com/lwansbrough/react-native-ab) - A component for rendering A/B tests in React Native  
 * [react-native-segment-io-analytics ★62](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!  
+* [react-native-td ★14](https://github.com/quipper/react-native-td) - An unofficial React Native SDK for Treasure Data.
 * [react-native-ux-cam ★13](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.  
 
 ### Utils & Infra
@@ -754,6 +756,7 @@ Components and native modules.
 * [react-native-contacts-rx ★12](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.  
 * [react-native-mipush ★11](https://github.com/cpunion/react-native-mipush) - MiPush for React Native  
 * [react-native-detect-device ★11](https://github.com/peachmeco/react-native-detect-device) - Detect a device on iOS or android in react-native.  
+* [react-native-haptic-feedback ★10](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android 
 * [react-native-device-angles ★9](https://github.com/cristianszwarc/RNDeviceAngles) - Get rotation information in degrees (pitch, yaw, roll) - ios  
 * [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)  
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
