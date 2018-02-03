@@ -188,6 +188,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+* [react-native-webview-messaging ★150](https://github.com/R1ZZU/react-native-webview-messaging) - Send/Receive data between React Native app and WebView
 * [react-native-sideswipe ★24](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 * [react-native-download-button ★3](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [lottie-react-native ★7448](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!  
