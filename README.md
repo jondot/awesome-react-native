@@ -188,6 +188,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+* [react-native-sideswipe ★24](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 * [react-native-download-button ★3](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [lottie-react-native ★7448](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!  
 * [react-native-vector-icons ★6677](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.  
