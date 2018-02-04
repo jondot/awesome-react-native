@@ -189,6 +189,14 @@ Components and native modules.
 
 ### UI
 
+* [react-native-spruce ★152](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
+* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
+* [react-native-iconic ★44](https://github.com/prscX/react-native-iconic) - React Native - Animated Icons with different states
+* [react-native-shine-button ★42](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
+* [react-native-download-button ★17](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
+* [react-native-siri-wave-view ★7](https://github.com/prscX/react-native-siri-wave-view) - React Native: Native Siri Wave View
+* [react-native-popover-menu ★4](https://github.com/prscX/react-native-popover-menu) - React Native: Native Popover Menu
+* [react-native-about-libraries ★3](https://github.com/prscX/react-native-about-libraries) - React Native: It offers information about install packages
 * [lottie-react-native ★7448](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!  
 * [react-native-vector-icons ★6677](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.  
 * [react-native-maps ★5996](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android  
