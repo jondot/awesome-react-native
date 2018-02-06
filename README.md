@@ -481,7 +481,7 @@ Components and native modules.
 * [react-native-ichart ★18](https://github.com/AdonRain/react-native-ichart) - ichart for react-native  
 * [react-native-material-showcase-ios ★18](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.  
 * [rn-ab-hoc ★17](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.  
-* [react-native-awesome-alert ★17](https://github.com/heyman333/react-native-awesome-alert) - Modal component that offers awesome options and costomizable view in React Native  
+* [react-native-awesome-alert ★18](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
 * [react-native-store-view ★16](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects  
 * [react-native-grid ★16](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native  
 * [react-native-android-circles ★15](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.  
