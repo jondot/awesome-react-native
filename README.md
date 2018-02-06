@@ -201,7 +201,8 @@ Components and native modules.
 * [react-native-material-design ★2619](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components  
 * [react-native-drawer ★1918](https://github.com/root-two/react-native-drawer) - React Native Drawer  
 * [react-native-svg ★1897](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android  
-* [react-native-ui-kitten ★1865](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit  
+* [react-native-snap-carousel ★1867](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
+* [react-native-ui-kitten ★1865](https://github.com/archriss/react-native-snap-carousel) - Customizable and reusable react-native component kit
 * [react-native-app-intro ★1680](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro  
 * [react-native-blur ★1644](https://github.com/Kureev/react-native-blur) - React Native Blur component  
 * [react-native-calendars ★1625](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆  
