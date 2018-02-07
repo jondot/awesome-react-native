@@ -1091,7 +1091,8 @@ Open source React Native apps and other examples.
 * [Roxie](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.  
 * [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).  
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone  
-* [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).  
+* [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
 
 ## Frameworks
 
