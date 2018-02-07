@@ -11,10 +11,10 @@ tools, tutorials, articles and more. PRs are welcome!
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
-        <a href="https://www.youtube.com/watch?v=UPrKMGPDbtY">
-        <img src="https://img.youtube.com/vi/UPrKMGPDbtY/0.jpg" width="120" />
+        <a href="https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b">
+        <img src="https://cdn-images-1.medium.com/max/2000/1*WpOK6v_X2lr8CsmAdJR4og.jpeg" width="120" />
         <br />
-        Joel on Performance
+        React Native Authentication in Depth
         </a>
     </td>
     <td style="text-align: center">
@@ -124,6 +124,7 @@ Content published on the Web.
 ### Howtos
 
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)  
+* [React Native Authentication in Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)  
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)  
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)  
 * [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)  
@@ -1180,7 +1181,7 @@ Assortment of conference and training videos.
 * [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 * [Build a Weather app ](https://cloneable.io/courses/enrolled/103341) - (Free) A course to build a weather app with React Native.
 * [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
-
+* [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.  
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`  
 
