@@ -11,10 +11,10 @@ tools, tutorials, articles and more. PRs are welcome!
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
-        <a href="https://www.youtube.com/watch?v=UPrKMGPDbtY">
-        <img src="https://img.youtube.com/vi/UPrKMGPDbtY/0.jpg" width="120" />
+        <a href="https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b">
+        <img src="https://cdn-images-1.medium.com/max/2000/1*WpOK6v_X2lr8CsmAdJR4og.jpeg" width="120" />
         <br />
-        Joel on Performance
+        React Native Authentication in Depth
         </a>
     </td>
     <td style="text-align: center">
@@ -124,8 +124,8 @@ Content published on the Web.
 ### Howtos
 
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)  
+* [React Native Authentication in Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)  
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)  
-* [ListView and Immutable.js](https://medium.com/front-end-hacking/react-native-immutable-listview-example-78662fa64a15)  
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)  
 * [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)  
 * [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)  
@@ -198,10 +198,11 @@ Components and native modules.
 * [react-native-animatable ★3841](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated  
 * [react-native-material-kit ★3383](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native  
 * [react-native-image-picker ★3125](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.  
-* [react-native-material-design ★2619](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components  
+* [react-native-material-design ★2619](https://github.com/react-native-material-design/react-native-material-design) - React Native Material Design Components
+* [react-native-ui-kitten ★2161](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 * [react-native-drawer ★1918](https://github.com/root-two/react-native-drawer) - React Native Drawer  
 * [react-native-svg ★1897](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android  
-* [react-native-ui-kitten ★1865](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit  
+* [react-native-snap-carousel ★1867](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
 * [react-native-app-intro ★1680](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro  
 * [react-native-blur ★1644](https://github.com/Kureev/react-native-blur) - React Native Blur component  
 * [react-native-calendars ★1625](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆  
@@ -414,7 +415,8 @@ Components and native modules.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS  
 * [react-native-touchable-bounce ★41](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce  
 * [react-native-zoom-image ★41](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.  
-* [react-native-swipeview ★41](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android  
+* [react-native-swipeview ★41](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
+* [react-native-scalable-image ★40](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 * [react-native-beautiful-image ★40](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.  
 * [react-native-radio-button-classic ★40](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native  
 * [react-native-tween-animation ★40](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.  
@@ -485,8 +487,7 @@ Components and native modules.
 * [react-native-material-showcase-ios ★18](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.  
 * [rn-ab-hoc ★17](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.  
 * [react-native-download-button ★17](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
-
-* [react-native-awesome-alert ★17](https://github.com/heyman333/react-native-awesome-alert) - Modal component that offers awesome options and costomizable view in React Native  
+* [react-native-awesome-alert ★18](https://github.com/heyman333/react-native-awesome-alert) - Customizable modal components with ✔️check options in React Native
 * [react-native-store-view ★16](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects  
 * [react-native-grid ★16](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native  
 * [react-native-android-circles ★15](https://github.com/kwaak/react-native-android-circles) - A react native android package to show a circle progress view.  
@@ -755,8 +756,7 @@ Components and native modules.
 * [react-native-wifi-manager ★22](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android  
 * [react-native-search-api ★21](https://github.com/ombori/react-native-search-api) - The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.  
 * [react-native-heading ★21](https://github.com/yonahforst/react-native-heading) - Get device heading (compass) information on iOS or Android  
-* [react-native-battery ★17](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device  
-* [react-native-scalable-image ★17](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.  
+* [react-native-battery ★17](https://github.com/oojr/react-native-battery) - A React Native module that returns the battery level/status of a device
 * [react-native-device-battery ★17](https://github.com/robinpowered/react-native-device-battery) - Observe battery state changes in your react native application  
 * [react-native-localsearch ★14](https://github.com/wmcmahan/React-Native-LocalSearch) - React Native Module for MapKit Local Search  
 * [react-native-contacts-rx ★12](https://github.com/JeanLebrument/react-native-contacts-rx) - react-native-contacts counterpart that include the support of RxJS.  
@@ -1099,7 +1099,8 @@ Open source React Native apps and other examples.
 * [Roxie](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.  
 * [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).  
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone  
-* [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).  
+* [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
 
 ## Frameworks
 
@@ -1188,7 +1189,7 @@ Assortment of conference and training videos.
 * [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 * [Build a Weather app ](https://cloneable.io/courses/enrolled/103341) - (Free) A course to build a weather app with React Native.
 * [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
-
+* [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.  
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`  
 
@@ -1203,7 +1204,8 @@ Assortment of conference and training videos.
 * [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.  
 * [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.  
 * [Spencer Carli](https://medium.com/@spencer_carli)  
-* [Official React Native Blog](http://facebook.github.io/react-native/blog/)  
+* [Official React Native Blog](http://facebook.github.io/react-native/blog/)
+* [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
 
 ## Releases
 
