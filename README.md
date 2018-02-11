@@ -533,6 +533,7 @@ Components and native modules.
 * [react-native-censored ★2](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.  
 * [rn-displayable ★1](https://github.com/mfrachet/rn-displayable) - Display your components based on props or a set of rules  
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.  
+* [react-native-picker-select ★1](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android  
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native  
 * [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box  
 
