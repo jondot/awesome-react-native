@@ -188,6 +188,8 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
+* [react-native-media-meta ★19](https://github.com/mybigday/react-native-media-meta) - Get media file metadata in your React Native app.
+* [react-native-dimmer ★5](https://github.com/yadi-social/react-native-dimmer) - A plugin that allows you to enable (eventually lock the device) and disable the screen dim in your React Native app. Works in both iOS and Android.
 * [react-native-webview-messaging ★150](https://github.com/R1ZZU/react-native-webview-messaging) - Send/Receive data between React Native app and WebView
 * [react-native-sideswipe ★24](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 * [react-native-download-button ★3](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
