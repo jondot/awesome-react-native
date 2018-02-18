@@ -125,7 +125,6 @@ Content published on the Web.
 ### Howtos
 
 * [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)  
-* [React Native Authentication in Depth](https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b)  
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)  
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)  
 * [Getting Started with React Native Development for Windows](https://shift.infinite.red/getting-started-with-react-native-development-for-windows-ba23a4be90b6#.n6vtqtikh)  
@@ -311,7 +310,7 @@ Components and native modules.
 * [react-native-progress-bar ★181](https://github.com/lwansbrough/react-native-progress-bar) - An animated progress bar component for React Native  
 * [react-native-masked-text ★168](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.  
 * [react-native-carousel-control ★162](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.  
-* [react-native-tooltip ★161](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips  * [react-native-spruce ★152](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
+* [react-native-tooltip ★161](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
 * [react-native-emoji ★152](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native  
 * [react-native-cache-image ★151](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native  
 * [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native  
