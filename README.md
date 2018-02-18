@@ -86,6 +86,7 @@ dotan\[at\]paracode.com.
   - [Talks](#talks)
   - [Training & tutorials](#training--tutorials)
 - [Blogs](#blogs)
+- [Newsletters](#newsletters)
 - [Releases](#releases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -1206,6 +1207,12 @@ Assortment of conference and training videos.
 * [Spencer Carli](https://medium.com/@spencer_carli)  
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
+
+## Newsletters
+
+* [Let's React](http://letsreact.io)
+* [React Native Newsletter](http://reactnative.cc)
+* [React Native Coach](http://reactnativecoach.com)
 
 ## Releases
 
