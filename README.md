@@ -822,7 +822,7 @@ Components and native modules.
 * [react-native-interactive-image-gallery ★6](https://github.com/InterfaceKit/react-native-interactive-image-gallery) - A React Native component to display a gallery of images.  
 * [react-native-media-capture ★5](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native 
 * [react-native-hue-player](https://github.com/App2Sales/react-native-hue-player) - Audio Player to offline/local and online/streaming audio.
-* [react-native-true-sight ★](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
+* [react-native-true-sight ★0](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 
 ### Storage
 
