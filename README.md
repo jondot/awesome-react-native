@@ -314,7 +314,7 @@ Components and native modules.
 * [react-native-emoji ★152](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native  
 * [react-native-cache-image ★151](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native  
 * [react-native-selectme ★149](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native  
-* [react-native-super-grid ★146](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.  
+* [react-native-super-grid ★206](https://github.com/saleel/react-native-super-grid) - Responsive Grid View for React Native.  
 * [autoresponsive-react-native ★146](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React  
 * [react-native-autolink ★145](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native  
 * [react-native-egg ★144](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.  
