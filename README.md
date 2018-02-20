@@ -631,6 +631,7 @@ Components and native modules.
 * [react-native-immutable ★12](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native  
 * [react-native-simple-encryption ★11](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base\_64 encryption decryption for react-native  
 * [react-native-util ★10](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native  
+* [react-native-tips ★7](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.  
 * [react-native-webpackager-server ★5](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server  
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native  
 * [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.  
