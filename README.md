@@ -566,7 +566,6 @@ Components and native modules.
 * [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native  
 * [react-native-simple-card-view ★0](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 
-
 #### Navigation/Routing Articles
 
 * [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)  
