@@ -344,6 +344,7 @@ Components and native modules.
 * [react-native-segmented-control-tab ★106](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)  
 * [react-native-pulse-loader ★105](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app  
 * [react-native-wheel-picker ★105](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.  
+* [react-native-wheel-picker ★105](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.  
 * [react-native-display ★103](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.  
 * [react-native-device-display ★100](https://github.com/kkjdaniel/react-native-display-view) - A simple way to create dynamic views through device and display detection, allowing the creation of adaptable and universal apps.  
 * [react-native-offline-mode ★96](https://github.com/rauchy/react-native-offline-mode) - Swap your app with an offline version while there's no connectivity  
