@@ -39,11 +39,11 @@ tools, tutorials, articles and more. PRs are welcome!
 Have something that belongs under "Buzzing"? drop me a line:
 dotan\[at\]paracode.com.
 
-## Supported with :heart: by [Instabug](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=header)
-
-[![Instabug](https://user-images.githubusercontent.com/9888943/33424996-24edb968-d5c6-11e7-96bd-5d90832316a9.gif)](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=banner)
-Instabug SDK allows mobile developers to receive detailed bug reports from users and testers directly from inside the app. Instabug attaches screenshots, screen recordings, network requests, device environment details, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. The SDK integration takes less than one minute with only one line of code. [Learn more.](https://instabug.com/?utm_source=androidref&utm_medium=spon&utm_content=learn-more)
-
+## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
+[![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=banner)
+> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report. 
+They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. [**learn more.**](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
 ## Categories
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
