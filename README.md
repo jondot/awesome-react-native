@@ -10,14 +10,14 @@
 <br/>
 <br/>
 <br/>
-**Awesome React Native** is an awesome style list that curates the best React Native libraries,
+Awesome React Native is an awesome style list that curates the best React Native libraries,
 tools, tutorials, articles and more. PRs are welcome!
 
 <img
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
 
-## Buzzing
+# Buzzing
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
@@ -48,6 +48,17 @@ alt="Build Status" />
 
 Have something that belongs under "Buzzing"? drop me a line:
 dotan\[at\]paracode.com.
+
+
+## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
+[![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=banner)
+> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report. 
+They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. [**learn more.**](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
+
+
+
+# Categories
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
