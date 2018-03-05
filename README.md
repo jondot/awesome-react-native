@@ -13,6 +13,14 @@
 Awesome React Native is an awesome style list that curates the best React Native libraries,
 tools, tutorials, articles and more. PRs are welcome!
 
+
+<p align="center">
+<a href="https://bit.ly/arn-wkly">🎉  Sign up for our weekly newsletter  to stay up to date! 🎉</a>
+</p>
+<br/>
+<br/>
+
+
 <img
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
