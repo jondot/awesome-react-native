@@ -1006,6 +1006,7 @@ Get a head start on development with an existing seed.
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.  
 * [rn-mobx-template ★16](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template  
 * [react-native-boilerplate-chucknorris ★13](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)  
+* [Reactor ★11](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay  
 * [react-native-template-super ★2](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist  
 
