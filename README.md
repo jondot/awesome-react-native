@@ -770,7 +770,8 @@ Components and native modules.
 * [react-native-system-notification ★6](https://github.com/Neson/react-native-system-notification) - Notification for React Native  
 * [react-native-battery-status ★6](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native  
 * [react-native-push-with-gcm ★5](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)  
-* [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native  
+* [react-native-device-info-pod ★2](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native 
+* [react-native-home-pressed ★1](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 
 ### Web
 
