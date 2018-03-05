@@ -566,6 +566,7 @@ Components and native modules.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator  
 * [react-native-swiper-flatlist ★★](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList  
 * [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native  
+* [react-native-simple-card-view ★0](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 
 #### Navigation/Routing Articles
 
