@@ -1,11 +1,21 @@
-# Awesome React Native
+
+
+<br/>
+<br/>
+<br/>
+<p align="center">
+    <img alt="awesome" src="arn.png" width="240" />
+</p>
+
+<br/>
+<br/>
+<br/>
+**Awesome React Native** is an awesome style list that curates the best React Native libraries,
+tools, tutorials, articles and more. PRs are welcome!
 
 <img
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
-
-An awesome style list that curates the best React Native libraries,
-tools, tutorials, articles and more. PRs are welcome!
 
 ## Buzzing
 
