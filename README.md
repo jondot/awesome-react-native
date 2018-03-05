@@ -845,6 +845,7 @@ Components and native modules.
 ### Backend
 
 * [react-native-fetch-blob ★1702](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.  
+* [reactivesearch-native ★1218](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native) - appbase.io and Elasticsearch UI components for React Native.
 * [react-native-meteor ★600](https://github.com/inProgress-team/react-native-meteor) - Full Meteor Client  
 * [aws-sdk-react-native ★579](https://github.com/awslabs/aws-sdk-react-native) - AWS SDK for React Native (Official developer preview)  
 * [react-native-simple-auth ★469](https://github.com/adamjmcgrath/react-native-simple-auth) - Native social authentication for React Native on iOS  
