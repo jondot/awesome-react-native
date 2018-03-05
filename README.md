@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <p align="center">
-    <img alt="awesome" src="arn.png" width="480" />
+    <img alt="awesome" src="arn.svg" width="480" />
 </p>
 
 <br/>
