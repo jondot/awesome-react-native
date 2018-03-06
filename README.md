@@ -17,7 +17,7 @@ tools, tutorials, articles and more. PRs are welcome!
 <br/>
 <br/>
 <p align="center">
-<a href="https://bit.ly/arn-wkly">🎉  Sign up for our weekly newsletter  to stay up to date! 🎉</a>
+<a href="https://bit.ly/arn-wkly">Don't miss out! subscribe to our weekly newsletter</a>
 </p>
 <br/>
 <br/>
