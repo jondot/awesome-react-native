@@ -300,6 +300,7 @@ Components and native modules.
 * [react-native-invertible-scroll-view ★332](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native  
 * [react-native-accordion ★321](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native  
 * [react-native-splashscreen ★317](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native  
+* [react-native-shimmer-placeholder ★115](https://github.com/tomzaku/react-native-shimmer-placeholder) - Placeholder of React Native
 * [rn-placeholder ★315](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)  
 * [react-native-gesture-password ★315](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native  
 * [react-native-easy-toast ★307](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.  
@@ -316,6 +317,7 @@ Components and native modules.
 * [react-native-pdf-view ★258](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native  
 * [react-native-grid-view ★256](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component  
 * [react-native-timeline-listview ★255](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App  
+* [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList  
 * [react-native-root-modal ★248](https://github.com/magicismight/react-native-root-modal) - react native modal component  
 * [react-native-country-picker-modal ★246](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.  
 * [react-native-tabbar ★242](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom  
