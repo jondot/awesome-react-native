@@ -488,7 +488,7 @@ Components and native modules.
 * [react-native-bar-collapsible ★27](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.  
 * [react-native-grading ★27](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.  
 * [react-native-md-motion-buttons ★27](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.  
-* [react-native-in-app-notification ★26](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native  
+* [react-native-in-app-notification ★40](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native  
 * [react-native-telephone-input ★26](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input  
 * [react-native-circle-checkbox ★26](https://github.com/ParamoshkinAndrew/ReactNativeCircleCheckbox) - Circle checkbox component for React Native  
 * [react-native-open-maps ★25](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native  
