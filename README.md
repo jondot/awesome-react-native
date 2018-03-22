@@ -47,7 +47,8 @@ alt="Build Status" />
     <td style="text-align: center">
         <a href="https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html">
         <img src="icon.png" width="120" height="90" style="
-            background: #d0d0d0;
+            
+            ground: #d0d0d0;
             padding: 10px;
         " />
         <br />
@@ -907,6 +908,7 @@ Components and native modules.
 * [react-native-http ★11](https://github.com/iktw/react-native-jwt) - React native http  
 * [react-native-async-http ★3](https://github.com/szq4119/react-native-async-http) - React Native component for async-http  
 * [react-native-nchan ★1](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native  
+* [react-native-sync ★2](https://github.com/pervasync/react-native-sync) - Two way, incremental sync between React Native realmjs database and MySQL, Oracle, MS SQL Server and PostgreSQL
 
 ### Integrations
 
