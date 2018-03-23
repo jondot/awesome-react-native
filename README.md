@@ -762,6 +762,7 @@ Components and native modules.
 * [react-native-device ★181](https://github.com/GertjanReynaert/react-native-device) - UIDevice wrapper for React Native  
 * [react-native-background-fetch ★177](https://github.com/transistorsoft/react-native-background-fetch) - iOS BackgroundFetch API implementation. Awakens a suspended iOS app in the background to execute a `callbackFn` about every 15 min.  
 * [react-native-gcm-android ★168](https://github.com/oney/react-native-gcm-android) - GCM for Android  
+* [react-native-queue ★152](https://github.com/billmalarky/react-native-queue) - Your swiss army knife for task management in React Native - easily manage background tasks that run periodically when app is closed and dedicated worker threads.
 * [react-native-ble ★143](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface  
 * [react-native-sensor-manager ★133](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)  
 * [react-native-android-sms-listener ★123](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages  
@@ -779,7 +780,6 @@ Components and native modules.
 * [react-native-callkit ★49](https://github.com/ianlin/react-native-callkit) - iOS 10 CallKit framework for React Native  
 * [react-native-android-speech ★44](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.  
 * [react-native-android-sms ★42](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.  
-* [react-native-queue ★41](https://github.com/billmalarky/react-native-queue) - A React Native Job Queue  
 * [react-native-app-info ★37](https://github.com/Iragne/react-native-app-info) - React Native app info and version  
 * [react-native-icloud-sync ★33](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud  
 * [react-native-nfc-ios ★33](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native  
@@ -1155,6 +1155,7 @@ Open source React Native apps and other examples.
 
 Walkthroughs and tutorials that help you learn React Native.
 
+* [Setting up background tasks that run periodically when app is closed in React Native](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 * [Fully-immersive, hands-on, and fun learning experience for React Native ★672](https://github.com/jondot/ReactNativeKatas)  
 * [React Native Android Widget Proof of Concept ★54](https://github.com/netbeast/react-native-android-widget-poc)  
 * [React Native with Django backend ★8](https://github.com/shunpochang/connect_love_mobile_demo)  
