@@ -1099,6 +1099,7 @@ Open source React Native apps and other examples.
 * [Buyscreen sample ★144](https://github.com/appintheair/react-native-buyscreen)  
 * [HackerWeb ★135](https://github.com/cheeaun/hackerweb-native) - A simply readable Hacker News web app for iOS & Android.  
 * [NewsWatch video viewer ★124](https://github.com/bradoyler/newswatch-react-native)  
+* [HupuApp ★120](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
 * [Kakapo - ambient sound mixer ★116](https://github.com/bluedaniel/Kakapo-native)  
 * [Look Lock ★115](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.  
 * [PxView ★110](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS  
@@ -1149,7 +1150,7 @@ Open source React Native apps and other examples.
 * [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).  
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone  
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
-* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
+* [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
 
 ## Frameworks
 
