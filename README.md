@@ -1102,7 +1102,8 @@ Open source React Native apps and other examples.
 * [HupuApp ★120](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
 * [Kakapo - ambient sound mixer ★116](https://github.com/bluedaniel/Kakapo-native)  
 * [Look Lock ★115](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.  
-* [PxView ★110](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS  
+* [HupuApp ★115](https://github.com/bluedaniel/Kakapo-native) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
+* [PxView ★110](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS  
 * [Alt/Flux Demo ★107](https://github.com/mrblueblue/react-native-alt-demo)  
 * [YouTrack Mobile ★103](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.  
 * [Appointments ★94](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments  
