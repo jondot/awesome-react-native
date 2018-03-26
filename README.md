@@ -367,6 +367,7 @@ Components and native modules.
 * [react-native-multi-slider ★119](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native  
 * [react-native-page-control ★119](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios UIPageControl  
 * [rn-sliding-up-panel ★118](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.  
+* [react-native-shimmer-placeholder ★115](https://github.com/tomzaku/react-native-shimmer-placeholder) - Placeholder of React Native
 * [react-native-qrcode-svg ★113](https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and node-qrcode.  
 * [react-native-google-place-picker ★112](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.  
 * [react-native-paper ★109](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).  
@@ -572,6 +573,7 @@ Components and native modules.
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.  
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native  
 * [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box  
+* [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList  
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
 
 ### Navigation
