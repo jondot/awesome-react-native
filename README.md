@@ -1027,6 +1027,7 @@ Get a head start on development with an existing seed.
 * [ReactNativeTS ★337](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.  
 * [React Native Seed ★286](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.  
 * [react-native-babel ★239](https://github.com/roman01la/react-native-babel)  
+* [react-native-auth-boilerplate ★149](https://github.com/hasura/react-native-auth-boilerplate) - A React Native boilerplate with authentication already implemented.
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)  
 * [react-native-hot-redux-starter ★136](https://github.com/adampash/react-native-hot-redux-starter)  
 * [react-native-redux ★126](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga  
