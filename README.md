@@ -682,7 +682,9 @@ Components and native modules.
 * [react-native-clean-form ★315](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components.  
 * [react-native-form-generator ★312](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze  
 * [react-native-form ★127](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!  
-* [react-native-forms ★78](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.  
+* [react-native-forms ★78](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
+* [react-native-from-builder ★43](https://github.com/bietkul/react-native-form-builder) - Handle your forms in a smart way.
+* [react-reactive-forms ★34](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React.
 * [foect ★28](https://github.com/unexge/foect) - Simple form validation library for React Native  
 * [react-native-fm-form ★13](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes  
 * [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture  
