@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "toc": "doctoc README.md",
+    "refresh-site": "make docs && make publish"
+  },
+  "dependencies": {
+    "doctoc": "^1.3.0"
+  }
+}
