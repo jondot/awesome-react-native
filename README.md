@@ -270,6 +270,7 @@ Components and native modules.
 * [react-native-pathjs-charts ★649](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
 * [react-native-button ★647](https://github.com/ide/react-native-button)
 * [react-native-fast-image ★641](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
+* [react-native-largelist ★634](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android) View the video of react-native-largelist performance on [youtube](https://youtu.be/k95G3_QGYHE) or [youku](http://v.youku.com/v_show/id_XMzI0ODc4ODkyOA==.html)
 * [react-native-tabs ★626](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
 * [react-native-offline ★625](https://github.com/rauliyohmc/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 * [react-native-loading-spinner-overlay ★595](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - The only pure React Native, Native iOS and Android loading spinner (progress bar indicator) overlay
@@ -320,7 +321,6 @@ Components and native modules.
 * [react-native-root-modal ★248](https://github.com/magicismight/react-native-root-modal) - react native modal component
 * [react-native-country-picker-modal ★246](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 * [react-native-tabbar ★242](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
-* [react-native-largelist ★241](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android)
 * [react-native-md-textinput ★241](https://github.com/evblurbs/react-native-md-textinput) - React Native TextInput styled with Material Design.
 * [react-native-simple-router ★240](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 * [react-native-off-canvas-menu ★239](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
