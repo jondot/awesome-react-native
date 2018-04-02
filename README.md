@@ -257,6 +257,7 @@ Components and native modules.
 * [react-virgin ★1108](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-parallax-scroll-view ★1028](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
 * [react-native-looped-carousel ★914](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
+* [react-native-paper ★891](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 * [react-native-tableview ★877](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-keyboard-spacer ★853](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 * [react-native-datepicker ★796](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
@@ -369,7 +370,6 @@ Components and native modules.
 * [react-native-shimmer-placeholder ★115](https://github.com/tomzaku/react-native-shimmer-placeholder) - Placeholder of React Native
 * [react-native-qrcode-svg ★113](https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and node-qrcode.
 * [react-native-google-place-picker ★112](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
-* [react-native-paper ★891](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 * [react-native-color-picker ★108](https://github.com/instea/react-native-color-picker) - React Native implementation of color picker for both Android and iOS.
 * [react-native-collapsing-toolbar ★108](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-radial-menu ★108](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
