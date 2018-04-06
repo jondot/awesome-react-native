@@ -416,6 +416,7 @@ Components and native modules.
 * [react-native-dropdown-android ★62](https://github.com/chymtt/ReactNativeDropdownAndroid) - Simple wrapper for Android's Spinner to use with react-native
 * [react-native-textinput-utils ★62](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 * [react-native-item-cell ★62](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
+* [react-native-scl-alert ★61](https://github.com/rafaelmotta/react-native-scl-alert) - React Native implementation of the package SCLAlertView-Swift
 * [react-native-progressive-input ★61](https://github.com/khaiql/react-native-progressive-input) - TextInput with clear button and activity indicator, used as part of autocomplete list.
 * [react-native-calendar-select ★60](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
 * [react-native-nested-stylesheet ★60](https://github.com/pjjanak/react-native-nested-stylesheets) - Nestable stylesheets for react-native.
