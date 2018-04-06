@@ -456,7 +456,7 @@ Components and native modules.
 * [react-native-radio-button-classic ★40](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 * [react-native-tween-animation ★40](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
 * [react-native-in-app-notification ★40](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
-* [react-native-custom-actsheet ★39](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native 
+* [react-native-custom-actsheet ★39](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
 * [react-native-drop-refresh ★39](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
 * [react-native-layout ★39](https://github.com/jerolimov/react-native-layout) - Semantic JSX layout components for react-native
 * [react-native-image-intent ★38](https://github.com/sonnylazuardi/react-native-image-intent) - Image intent receiver for React Native android
@@ -575,6 +575,7 @@ Components and native modules.
 * [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 * [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
+* [react-native-coachmasks ★0](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
 
 ### Navigation
 
@@ -1154,8 +1155,7 @@ Open source React Native apps and other examples.
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
 * [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
 * [Renote ★0](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes. 
-* [Commit Strip (Unofficial)](https://github.com/rizalibnu/commit-strip-react-native) - 
-A CommitStrip.com reader built in React Native.
+* [Commit Strip (Unofficial)](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 
 ## Frameworks
 
