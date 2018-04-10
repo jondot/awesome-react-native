@@ -1045,6 +1045,7 @@ Get a head start on development with an existing seed.
 * [react-native-starter by Ueno ★42](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 * [react-native-boilerplate ★39](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
+* [react-native-template-typescript ★38](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 * [react-native-relay-example ★33](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
 * [react-native-web-workspace ★30](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
 * [react-native-tabbed ★23](https://github.com/rxb/react-native-tabbed)
