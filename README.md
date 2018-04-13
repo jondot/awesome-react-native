@@ -835,6 +835,7 @@ Components and native modules.
 * [react-native-html2native ★3](https://github.com/labithiotis/react-native-html-render) - A html render for react-native
 * [react-native-webview ★2](https://github.com/beefe/react-native-webview) - android webview for react-native
 * [react-native-h5 ★0](https://github.com/dingui/react-native-h5) - react native web
+* [react-native-turbolinks ★42](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
 
 ### Media
 
