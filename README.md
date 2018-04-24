@@ -213,6 +213,7 @@ Content published on the Web.
 * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 * [Supported Babel/Javascript Features](https://github.com/facebook/react-native/blob/master/babel-preset/configs/main.js)
 * [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
+* [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
 ## Components
 
