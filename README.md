@@ -239,6 +239,7 @@ Components and native modules.
 * [react-native-app-intro ★1680](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-blur ★1644](https://github.com/Kureev/react-native-blur) - React Native Blur component
 * [react-native-calendars ★1625](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
+* [react-native-date-range-picker ★1](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-image-crop-picker ★1525](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 * [gl-react-native ★1501](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 * [react-native-swipeout ★1486](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
