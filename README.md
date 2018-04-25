@@ -826,6 +826,7 @@ Components and native modules.
 * [react-native-browser ★78](https://github.com/PrestoDoctor/react-native-browser) - Full-featured web browser module for React Native apps, based on TOWebViewController
 * [react-native-webview-crosswalk ★71](https://github.com/jordansexton/react-native-webview-crosswalk) - Crosswalk's WebView for React Native on Android
 * [react-native-webintent ★51](https://github.com/ivanph/react-native-webintent) - React native android module to open links in the default browser
+* [react-native-turbolinks ★42](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
 * [react-native-web-container ★28](https://github.com/danrigsby/react-native-web-container) - A wrapper around the react native WebView to add autoHeight, scrub html, etc
 * [react-native-browser-polyfill ★24](https://github.com/johanneslumpe/react-native-browser-polyfill) - A collection of polyfills for the react-native Javascript environment.
 * [react-native-web-polyfill ★23](https://github.com/mattiamanzati/react-native-web-polyfill) - A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously)
@@ -835,7 +836,7 @@ Components and native modules.
 * [react-native-html2native ★3](https://github.com/labithiotis/react-native-html-render) - A html render for react-native
 * [react-native-webview ★2](https://github.com/beefe/react-native-webview) - android webview for react-native
 * [react-native-h5 ★0](https://github.com/dingui/react-native-h5) - react native web
-* [react-native-turbolinks ★42](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
+
 
 ### Media
 
