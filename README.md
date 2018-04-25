@@ -196,6 +196,8 @@ Content published on the Web.
 * [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
 * [Versioning React Native Application in elegant way (cross-platformely)](https://github.com/szhigunov/react-native-npm-version)
 * [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
+* [How To Use OpenCV In React Native For Image Processing](https://brainhub.eu/blog/opencv-react-native-image-processing/)
+
 
 ### Continuous Integration
 
