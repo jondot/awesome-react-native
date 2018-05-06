@@ -264,6 +264,7 @@ Components and native modules.
 * [react-native-tableview ★877](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-keyboard-spacer ★853](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
 * [react-native-datepicker ★796](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
+* [react-native-root-toast ★775](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-orientation ★764](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 * [react-native-picker ★748](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-circular-progress ★733](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
