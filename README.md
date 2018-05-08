@@ -579,6 +579,7 @@ Components and native modules.
 * [react-native-censored ★2](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
 * [rn-displayable ★1](https://github.com/mfrachet/rn-displayable) - Display your components based on props or a set of rules
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
+* [react-native-date-range-picker ★1](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
 * [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 * [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
