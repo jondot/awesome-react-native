@@ -336,7 +336,7 @@ Components and native modules.
 * [react-native-cacheable-image ★219](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
 * [react-native-timer-mixin ★219](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 * [react-native-circular-action-menu ★216](https://github.com/geremih/react-native-circular-action-menu) - An animated and customizable circular floating menu.
-* [react-native-canvas ★214](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
+* [react-native-canvas ★306](https://github.com/lwansbrough/react-native-canvas) - A Canvas component for React Native
 * [react-native-autocomplete-input ★210](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 * [react-native-timeago ★209](https://github.com/TylerLH/react-native-timeago) - Auto-updating timeago component for React Native
 * [react-native-super-grid ★206](https://github.com/saleel/react-native-super-grid) - Responsive Grid View for React Native.
