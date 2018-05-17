@@ -1163,6 +1163,7 @@ Open source React Native apps and other examples.
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 * [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
+* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](https://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
 * [Renote ★2](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
