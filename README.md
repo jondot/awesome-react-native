@@ -837,7 +837,6 @@ Components and native modules.
 * [react-native-turbolinks ★47](https://github.com/lazaronixon/react-native-turbolinks) - React Native adapter for building hybrid apps with Turbolinks 5
 * [react-native-web-container ★33](https://github.com/danrigsby/react-native-web-container) - A wrapper around the react native WebView to add autoHeight, scrub html, etc
 * [react-native-browser-polyfill ★27](https://github.com/johanneslumpe/react-native-browser-polyfill) - A collection of polyfills for the react-native Javascript environment.
-* [react-native-web-polyfill ★23](https://github.com/mattiamanzati/react-native-web-polyfill) - A set of classes and react components to make work your react-native app in a browser. (with some limitations obviously)
 * [react-native-inapp-browser ★23](https://github.com/DickyT/react-native-inapp-browser) - A in-app browser for react native apps.
 * [react-native-bridgeable-webview ★15](https://github.com/Intellicode/react-native-bridgeable-webview) - A react-native webview with bridge to react-native code
 * [react-native-cookiemanager ★15](https://github.com/beefe/react-native-cookiemanager) - react-native cookie manager library.
