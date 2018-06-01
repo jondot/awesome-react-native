@@ -107,6 +107,11 @@ dotan-at-paracode.com.
 - [Libraries](#libraries)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
+- [GraphQL](#graphql)
+  - [GraphQL Spec](#graphql-spec)
+  - [GraphQL Tutorials](#graphql-tutorials)
+  - [Server Integration](#server-integration)
+  - [Database Integration](#database-integration)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
@@ -1179,6 +1184,29 @@ Open source React Native apps and other examples.
 * [Awesome React Native Meteor ★146](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 * [React Native Diagnose ★10](https://github.com/netbeast/react-native-diagnose) - A framework to test a React Native app during runtime and production
 
+## GraphQL
+> Query Language
+
+### GraphQL Spec
+* [GraphQL Official Site](http://graphql.org/)
+* [GraphQL Specification](http://facebook.github.io/graphql/)
+* [GraphQL Specification Repository](https://github.com/facebook/graphql)
+
+### GraphQL Tutorials
+* [Getting started with React Native and GraphQL](http://www.reactnativeexpress.com/graphql)
+* [Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
+* [How to integrate GraphQL with Redux in React Native](https://medium.com/netscape/how-to-integrate-graphql-with-redux-in-react-native-c1912bf33120)
+
+### Server Integration
+* [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
+* [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
+
+### Database Integration
+* [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
+* [Hasura - Build scalable GraphQL applications on Postgres in minutes. Create tables and relationships and get GraphQL APIs instantly with fine grained permissions and access control.](https://hasura.io/)
+* [Prisma - a performant open-source GraphQL ORM-like * layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
+
+
 ## Tutorials
 
 Walkthroughs and tutorials that help you learn React Native.
@@ -1288,5 +1316,3 @@ Assortment of conference and training videos.
 * [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 * [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
-
