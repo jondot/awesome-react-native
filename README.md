@@ -189,7 +189,6 @@ Content published on the Web.
 * [React Native Twitter exploding heart](http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/) - hardcore animations with Animation and ReactART
 * [Using AI to discover UI components](https://www.youtube.com/watch?v=_iiKl0BB6ho) - fun image processing / AI assisted process to discover and generate React Native UI
 * [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
-* [React Native and Fastlane](https://weluse.de/blog/react-native-deployment-with-fastlane.html) - small tweaks required to rig Fastlane with React Native
 * [Unit Testing React Native with Mocha and Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/)
 * [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
 * [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
@@ -372,7 +371,7 @@ Components and native modules.
 * [react-native-wheel-picker ★150](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 * [react-native-hero ★149](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★148](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
-
+* [react-native-code-verification ★3](https://github.com/danchokobo/react-native-code-verification) - Nice view for pincode/code verification, view for entering 4 digit with num keypad
 
 * [react-native-collapsing-toolbar ★147](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★144](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -477,7 +476,7 @@ Components and native modules.
 * [react-native-calendar-android ★44](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 * [react-native-simple-stepper ★44](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
 * [react-native-viewport ★43](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
-
+* [react-native-code-verification ★12](https://github.com/danchokobo/react-native-code-verification) - Simple UI for pincode/code checking
 
 * [react-native-progress-circular ★42](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
@@ -1163,7 +1162,7 @@ Open source React Native apps and other examples.
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 * [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 * [Hello Bemans ★5](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
-* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like [web](https://github.com/necolas/react-native-web) , [macOS](https://github.com/ptmt/react-native-macos) and [linux](https://github.com/status-im/react-native-desktop)
+* [iGap Plus ★4](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like react-native-web , react-native-macOS and react-native-descktop
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
 * [Renote ★2](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
@@ -1288,5 +1287,3 @@ Assortment of conference and training videos.
 * [Stable: 0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 * [Next: latest](https://github.com/facebook/react-native/releases/latest)
-
-
