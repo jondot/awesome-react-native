@@ -611,6 +611,7 @@ Components and native modules.
 * [react-native-router-sinux ★ ★4](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
+* [react-native-invoke-app ★0](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
 
 #### Navigation/Routing Articles
 
