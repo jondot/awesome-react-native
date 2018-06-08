@@ -371,7 +371,6 @@ Components and native modules.
 * [react-native-wheel-picker ★150](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 * [react-native-hero ★149](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★148](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
-* [react-native-code-verification ★3](https://github.com/danchokobo/react-native-code-verification) - Nice view for pincode/code verification, view for entering 4 digit with num keypad
 
 * [react-native-collapsing-toolbar ★147](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★144](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
