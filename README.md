@@ -1264,6 +1264,7 @@ Assortment of conference and training videos.
 * [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
+* [Build a chat app with React Native](https://pusher.com/tutorials/chat-react-native)
 
 ## Blogs
 
