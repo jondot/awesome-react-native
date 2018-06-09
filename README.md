@@ -532,6 +532,7 @@ Components and native modules.
 * [react-native-match-media ★22](https://github.com/tuckerconnelly/match-media-mocks) - window.matchMedia mock for React Native
 * [react-native-focus-scroll ★22](https://github.com/c-bata/react-native-focus-scroll) - react-native-focus-scroll can detect which children are focused when scrolling.
 * [react-native-dropbox-chooser ★21](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
+* [react-native-draggable-calendar ★21](https://github.com/SmallStoneSK/react-native-draggable-calendar) - A calendar component supporting dragging.
 * [react-native-ichart ★20](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
 * [react-native-comparison-slider ★20](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 * [react-native-timepicker ★19](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
@@ -581,7 +582,6 @@ Components and native modules.
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
-* [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 
 ### Navigation
 
