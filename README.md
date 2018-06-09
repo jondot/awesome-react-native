@@ -747,6 +747,7 @@ Components and native modules.
 * [react-native-responsive ★270](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
 * [cairn ★108](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
 * [react-native-theme ★93](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
+* [react-native-css-modules ★15](https://github.com/kristerkari/react-native-css-modules) - Style React-Native components using CSS, Sass, Less or Stylus.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
 
 ### System
