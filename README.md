@@ -107,6 +107,7 @@ dotan-at-paracode.com.
 - [Libraries](#libraries)
 - [Open Source Apps](#open-source-apps)
 - [Frameworks](#frameworks)
+- [Directories](#directories)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
@@ -1181,6 +1182,10 @@ Open source React Native apps and other examples.
 * [Teaset ★1087](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
 * [Awesome React Native Meteor ★146](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
 * [React Native Diagnose ★10](https://github.com/netbeast/react-native-diagnose) - A framework to test a React Native app during runtime and production
+
+## Directories
+
+* [Native.directory](http://native.directory/) -Native Directory is a curated list of React Native libraries to help you build your projects.
 
 ## Tutorials
 
