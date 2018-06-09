@@ -568,6 +568,7 @@ Components and native modules.
 * [react-native-country-picker ★8](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 * [react-native-flex-label ★8](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - A link component
+* [react-native-calendario ★7](https://github.com/maggialejandro/react-native-calendario) - React Native Calendar DatePicker
 * [react-native-stylesheet-xg ★7](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
 * [react-native-progress-button ★7](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
