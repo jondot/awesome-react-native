@@ -715,12 +715,12 @@ Components and native modules.
 ### Internationalization
 
 * [react-native-i18n ★1490](https://github.com/AlexanderZaytsev/react-native-i18n) - React Native + i18n.js
-* [react-native-i18n-ts ★10](https://github.com/quipper/react-native-i18n-ts) - A d.ts file generator for react-native-i18n
 * [react-native-globalize ★165](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
 * [react-native-languages ★87](https://github.com/react-community/react-native-languages) - React Native properties and methods related to the language of the device
 * [redux-react-native-i18n ★34](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
 * [react-native-intl ★33](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 * [rn-translate-template ★15](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
+* [react-native-i18n-ts ★11](https://github.com/quipper/react-native-i18n-ts) - A d.ts file generator for react-native-i18n
 
 ### Build & Development
 
