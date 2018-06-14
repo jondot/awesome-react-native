@@ -784,6 +784,7 @@ Components and native modules.
 * [react-native-gcm-android ★174](https://github.com/oney/react-native-gcm-android) - GCM for Android
 * [react-native-android-sms-listener ★157](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 * [react-native-ble ★156](https://github.com/jacobrosenthal/react-native-ble) - React Native BLE using noble api surface
+* [react-native-sensors ★282](https://github.com/react-native-sensors/react-native-sensors) - Platform independent wrapper for sensors like Gyroscope, Accelerometer and Magnetometer with RxJS interface
 * [react-native-sensor-manager ★156](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 * [react-native-unified-contacts ★113](https://github.com/joshuapinter/react-native-unified-contacts) - React Native iOS 9+ Contacts (ios)
 * [react-native-pinch ★103](https://github.com/localz/react-native-pinch) - SSL pinning for react native
