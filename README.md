@@ -568,6 +568,7 @@ Components and native modules.
 * [react-native-country-picker ★8](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 * [react-native-flex-label ★8](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - A link component
+* [react-native-custom-picker ★8](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-calendario ★7](https://github.com/maggialejandro/react-native-calendario) - React Native Calendar DatePicker
 * [react-native-stylesheet-xg ★7](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
@@ -575,7 +576,6 @@ Components and native modules.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-censored ★5](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
-* [react-native-custom-picker ★5](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-animated-styles ★4](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
