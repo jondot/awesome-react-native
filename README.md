@@ -575,6 +575,7 @@ Components and native modules.
 * [react-native-date-range-picker ★7](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
 * [react-native-navbar-color ★6](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
 * [react-native-censored ★5](https://github.com/redpandatronicsuk/react-native-censored) - React Native component to censor content.
+* [react-native-custom-picker ★5](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-animated-styles ★4](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
