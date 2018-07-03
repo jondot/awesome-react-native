@@ -689,6 +689,7 @@ Components and native modules.
 * [react-native-crypto ★4](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
+* [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 
 ### Forms
 
