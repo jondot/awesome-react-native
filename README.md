@@ -307,6 +307,7 @@ Components and native modules.
 * [react-native-radio-buttons ★381](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
 * [react-native-gesture-password ★372](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
 * [react-native-invertible-scroll-view ★365](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
+* [react-native-copilot ★365](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
 * [react-native-accordion ★364](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
 * [react-native-message-bar ★347](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
 * [react-native-splashscreen ★336](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
@@ -524,7 +525,6 @@ Components and native modules.
 * [react-native-circle-progress ★24](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 * [react-native-showdown ★24](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 * [react-native-app-intro-v2 \*5 ★24](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
-* [react-native-copilot ★365](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
 * [react-native-multi-select ★23](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
 * [react-native-big-slider ★23](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 * [react-native-orientation-controller ★22](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
