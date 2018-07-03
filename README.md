@@ -1136,7 +1136,6 @@ Open source React Native apps and other examples.
 * [Appointments ★104](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 * [Insta Snap ★98](https://github.com/iZaL/insta-snap) - Image Sharing App
 * [Rocket.Chat ★92](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Open Source Team Communication
-* [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
 * [Finance MacOS React Native ★83](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
 * [Reddit made with React Native and Redux ★82](https://github.com/KevinOfNeu/xReddit)
 * [live translator ★79](https://github.com/agrcrobles/react-native-live-translator) - An app that translates in real time what you see from your mobile.
@@ -1165,6 +1164,7 @@ Open source React Native apps and other examples.
 * [Roxie ★19](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.
 * [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 * [NewYorkTimesTopStories ★14](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
+* [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
 * [Posters\_Galore\_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 * [Quick-Sample ★9](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 * [Magento 2 Mobile App ★9](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
