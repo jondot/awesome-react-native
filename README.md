@@ -1167,6 +1167,7 @@ Open source React Native apps and other examples.
 * [Roxie ★19](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.
 * [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 * [NewYorkTimesTopStories ★14](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
+* [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
 * [Posters\_Galore\_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 * [Quick-Sample ★9](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 * [Magento 2 Mobile App ★9](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
