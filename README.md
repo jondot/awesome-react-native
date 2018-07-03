@@ -752,6 +752,7 @@ Components and native modules.
 * [react-native-theme ★93](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 * [react-native-css-modules ★15](https://github.com/kristerkari/react-native-css-modules) - Style React-Native components using CSS, Sass, Less or Stylus.
 * [rn-less ★14](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
+* [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 
 ### System
 
