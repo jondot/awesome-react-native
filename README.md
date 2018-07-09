@@ -373,7 +373,7 @@ Components and native modules.
 * [react-native-hero ★149](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★148](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
 * [react-native-code-verification *13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
-
+* [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
 * [react-native-collapsing-toolbar ★147](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★144](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
 * [react-native-popup ★143](https://github.com/beefe/react-native-popup) - popup for react-native
