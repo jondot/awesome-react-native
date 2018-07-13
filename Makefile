@@ -3,7 +3,10 @@ install:
 	@npm i -g gh-deploy
 	@gem install jill
 	@pip install -r requirements.txt
-
+sort:
+	sorted-mkdn README.md > README_SORTED.md
+	mv README_SORTED README.md
+	yarn toc
 docs:
 	@rm -rf docs
 	@mkdir docs
