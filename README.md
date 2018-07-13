@@ -536,6 +536,7 @@ Components and native modules.
 * [react-native-draggable-calendar ★21](https://github.com/SmallStoneSK/react-native-draggable-calendar) - A calendar component supporting dragging.
 * [react-native-ichart ★20](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
 * [react-native-comparison-slider ★20](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
+* [react-native-simple-card-view ★20](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 * [react-native-timepicker ★19](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
 * [react-native-store-view ★19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-custom-checkbox ★19](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
@@ -553,6 +554,7 @@ Components and native modules.
 * [react-native-custom-actionsheet ★14](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-multiselect ★13](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
+* [react-native-pin-view ★13](https://github.com/talut/react-native-pin-view) - Easy, convenient, quick-forming PinView component. It runs smoothly for both IOS and Android.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 * [react-native-imagewand ★12](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 * [react-native-gravatar ★12](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
@@ -609,7 +611,6 @@ Components and native modules.
 * [react-native-swiper-flatlist ★★ ★38](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 * [react-native-url-handler ★37](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
 * [react-native-route-navigator ★27](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
-* [react-native-simple-card-view ★18](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 * [react-native-grid-list ★ ★17](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
 * [react-native-transparent-bar ★16](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
 * [react-native-router-sinux ★ ★4](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
