@@ -71,8 +71,8 @@ dotan-at-paracode.com.
 
 
 - [Conferences](#conferences)
-  - [React Native EU - Wroclaw, Poland](#react-native-eu---wrocal-poland)
-  - [React Alicante - Alicante, Spain](#react-alicante---alicate-spain)
+  - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
+  - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
   - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
   - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
 - [Articles](#articles)
