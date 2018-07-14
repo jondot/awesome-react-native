@@ -71,9 +71,10 @@ dotan-at-paracode.com.
 
 
 - [Conferences](#conferences)
-  - [Chain React Conf - USA](#chain-react-conf---usa)
-  - [React Conf BR - Brazil](#react-conf-br---brazil)
-  - [React Native EU - Poland](#react-native-eu---poland)
+  - [React Native EU - Wroclaw, Poland](#react-native-eu---wrocal-poland)
+  - [React Alicante - Alicante, Spain](#react-alicante---alicate-spain)
+  - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
+  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
 - [Articles](#articles)
   - [Reference](#reference)
   - [Howtos](#howtos)
@@ -127,19 +128,28 @@ Conferences dedicated to React Native specifically. A listing of React
 general conferences can be found on the [ReactJS
 site](https://facebook.github.io/react/docs/conferences.html).
 
-### Chain React Conf - USA
+### React Native EU - Wroclaw, Poland
+http://react-native.eu/
 
-July 11-13, 2018 in Portland, OR - https://infinite.red/ChainReactConf
-Twitter: https://twitter.com/chainreactconf Email: conf@infinite.red
+Workshops - September 3-4th, 2018\
+Conference - September 5-6th, 2018
 
-### React Conf BR - Brazil
+### React Alicante - Alicante, Spain
+http://reactalicante.es/
 
-October 07, 2017 in São Paulo, SP - http://reactconfbr.com.br Facebook:
-https://www.facebook.com/reactconf Email: reactconfbr@gmail.com
+Workshops - September 13th, 2018\
+Conference - September 14-15th, 2018
 
-### React Native EU - Poland
+### ReactNext - Tel Aviv, Israel
+https://react-next.com/
 
-Fall 2017 - http://react-native.eu/ Email: team@reactnative.eu
+Conference - November 4th, 2018
+
+### React Berlin - Berlin, Germany
+https://reactday.berlin/
+
+Conference - November 30th, 2018
+
 
 ## Articles
 
