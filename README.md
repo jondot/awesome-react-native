@@ -554,6 +554,7 @@ Components and native modules.
 * [react-native-custom-actionsheet ★14](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-multiselect ★13](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
+* [react-native-gl-image-filters ★18](https://github.com/GregoryNative/react-native-gl-image-filters) - React Native GL Filters for Image implementation.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 * [react-native-imagewand ★12](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 * [react-native-gravatar ★12](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
