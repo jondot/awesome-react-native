@@ -991,6 +991,7 @@ Components and native modules.
 * [react-native-fbintent ★3](https://github.com/syarul/react-native-fbintent) - A React Native intent for Android Facebook App
 * [react-native-instagram ★3](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 * [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
+* [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
 
 ### Monetization
 
