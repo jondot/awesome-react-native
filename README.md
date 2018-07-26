@@ -663,6 +663,7 @@ Components and native modules.
 * [detox ★2447](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
 * [react-native-workers ★559](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 * [react-native-mock ★464](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
+* [loki ★302](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
 * [react-native-slowlog ★190](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 * [react-native-zip-archive ★136](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
 * [react-native-tips ★104](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.
