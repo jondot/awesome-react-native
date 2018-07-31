@@ -1023,7 +1023,7 @@ Components and native modules.
 
 ### Other Platforms
 
-* [react-native-desktop ★10284](https://github.com/ptmt/react-native-desktop) - React Native for OS X
+* [react-native-macos ★10453](https://github.com/ptmt/react-native-macos) - React Native for OS X
 * [react-native-web ★9035](https://github.com/necolas/react-native-web) - React Native for Web
 * [reactxp ★6136](https://github.com/Microsoft/reactxp) - Library for cross-platform app development
 * [react-native-windows ★4029](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
