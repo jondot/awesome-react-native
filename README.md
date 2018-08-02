@@ -1268,6 +1268,8 @@ Assortment of conference and training videos.
 ### Talks
 
 * [awesome-react-native-talks ★283](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
+* Chain React 2018: [Playlist](https://www.youtube.com/watch?v=UiPo9A9k7xc&t=0s&list=PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u)
+* Chain React 2017: [Playlist](https://www.youtube.com/watch?v=cz5BzwgATpc&list=PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522)
 * React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
 * React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
 * F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
