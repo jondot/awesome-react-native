@@ -475,7 +475,8 @@ Components and native modules.
 * [react-native-card-media ★50](https://github.com/dondoko-susumu/react-native-card-media) - Card media component & Support multiple image layout
 * [react-native-masked-view ★48](https://github.com/gilbox/react-native-masked-view) - A element for react-native
 * [react-native-touchable-bounce ★48](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
-* [react-native-adbannerview ★49](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView  \* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
+* [react-native-adbannerview ★49](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
+* [react-native-bottom-action-sheet ★47](https://github.com/prscX/react-native-bottom-action-sheet) - React Native: Native Bottom Action Sheet
 * [react-native-fxblurview ★47](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 * [react-native-beautiful-image ★47](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 * [react-native-material-cards ★47](https://github.com/SiDevesh/React-Native-Material-Cards) - A material design card component, customizable and versatile.
