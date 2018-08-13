@@ -1201,6 +1201,7 @@ Open source React Native apps and other examples.
 * [RNV2ex ★4](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 * [GitHub Jobs Search App (Unofficial) ★3](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
 * [Renote ★2](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
+* [Minimal Quotes ★1](https://github.com/insiderdev/minimal-quotes) - Mobile app that throws you random quotes in a super clean minimal version.
 * [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
