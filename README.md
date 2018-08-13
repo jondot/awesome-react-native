@@ -58,10 +58,10 @@ dotan-at-paracode.com.
 
 ## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
-[![react-native](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
 
-> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
-> They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up development process. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
+> Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster.<br>
+We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
 # Categories
