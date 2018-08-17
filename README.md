@@ -462,6 +462,7 @@ Components and native modules.
 * [react-native-simple-picker ★57](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 * [react-native-in-app-notification ★56](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 * [react-native-streetview ★56](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
+* [react-native-swipe-up-down](https://github.com/agiletechvn/react-native-swipe-up-down) [![GitHub stars](https://img.shields.io/github/stars/agiletechvn/react-native-swipe-up-down.svg)](https://github.com/agiletechvn/react-native-swipe-up-down/stargazers) - React Native Swipe Up Down
 * [k-react-native-swipe-unlocker ★54](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
 * [react-native-download-button ★54](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [react-native-phone-picker ★53](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
@@ -823,6 +824,7 @@ Components and native modules.
 * [react-native-bluetooth-state ★58](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
 * [react-native-clipboard ★55](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
 * [react-native-android-sms ★47](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
+* [react-native-network-state](https://github.com/react-native-vietnam/react-native-network-state) [![GitHub stars](https://img.shields.io/github/stars/react-native-vietnam/react-native-network-state.svg)](https://github.com/react-native-vietnam/react-native-network-state/stargazers) - React Native Network State
 * [react-native-android-speech ★45](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.
 * [react-native-nfc-ios ★43](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native
 * [react-native-phone-call ★43](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
