@@ -74,7 +74,7 @@ dotan-at-paracode.com.
   - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
   - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
   - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)  
+  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
 - [Articles](#articles)
   - [Reference](#reference)
   - [Howtos](#howtos)
@@ -256,6 +256,7 @@ Components and native modules.
 * [gl-react-native ★1639](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
 * [react-native-progress ★1610](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 * [react-native-action-button ★1526](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
+* [react-native-modal ★1516](https://github.com/react-native-community/react-native-modal) - An enhanced, animated and customizable react-native modal
 * [nachos-ui ★1501](https://github.com/avocode/nachos-ui) - NACHOS UI kit for React Native. Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 * [react-native-foldview ★1449](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
 * [react-native-mapbox-gl ★1422](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
