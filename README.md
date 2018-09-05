@@ -744,6 +744,7 @@ Components and native modules.
 * [redux-react-native-i18n ★34](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
 * [react-native-intl ★33](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 * [rn-translate-template ★15](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
+* [react-native-i18n-ts ★11](https://github.com/quipper/react-native-i18n-ts) - A d.ts file generator for react-native-i18n
 
 ### Build & Development
 
