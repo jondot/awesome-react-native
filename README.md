@@ -601,6 +601,7 @@ Components and native modules.
 * [react-native-fontbase ★3](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
+* [react-native-blur-overlay ★2](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
 
