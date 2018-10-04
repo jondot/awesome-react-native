@@ -1017,6 +1017,7 @@ Components and native modules.
 
 * [react-native-animatable ★5106](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 * [react-native-interactable ★3653](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
+* [react-native-reanimated ★612](https://github.com/kmagiera/react-native-reanimated) - React Native's Animated library reimplemented
 * [react-native-spruce ★337](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★181](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 * [react-native-animated-sprite ★85](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
