@@ -797,6 +797,7 @@ Components and native modules.
 * [react-native-barcodescanner ★467](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 * [react-native-billing ★446](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 * [react-native-location ★408](https://github.com/timfpark/react-native-location) - Native GPS location support for React Native.
+* [react-native-iap ★390](https://github.com/dooboolab/react-native-iap) - React-native native module for In-App Purchase.
 * [react-native-dotenv ★324](https://github.com/zetachang/react-native-dotenv) - A Babel preset let you import application configs from .env file (zero runtime dependency)
 * [react-native-social-share ★321](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
 * [react-native-ibeacon ★319](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
