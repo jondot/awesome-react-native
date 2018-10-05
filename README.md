@@ -475,6 +475,7 @@ Components and native modules.
 * [react-native-3dcube-navigation ★53](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 * [react-native-open-maps ★53](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native
 * [react-native-infinite-scrollview ★52](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
+* [react-native-slot-machine ★52](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
 * [react-native-fs-modal ★51](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
 * [react-native-multiple-choice ★51](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 * [react-native-swipeview ★51](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
@@ -490,7 +491,6 @@ Components and native modules.
 * [react-native-keyboard-accessory ★46](https://github.com/ardaogulcan/react-native-keyboard-accessory) - Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 * [react-native-radio-button-classic ★46](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
 * [react-native-image-intent ★46](https://github.com/sonnylazuardi/react-native-image-intent) - Image intent receiver for React Native android
-* [react-native-slot-machine ★46](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
 * [react-native-thumbnail ★46](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media.
 * [react-native-date ★45](https://github.com/nucleartux/react-native-date) - React Native date and time pickers for Android
 * [react-native-drop-refresh ★45](https://github.com/Obooman/RCTRefreshControl) - A pull down to refresh control for react native.
