@@ -604,6 +604,7 @@ Components and native modules.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 * [react-native-fontbase ★3](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
+* [react-native-item-select ★2](https://github.com/vicke4/react-native-item-select) - List or Grid style item(s) picker for React Native:iphone:
 * [react-native-masonry-brick-list ★3](https://github.com/lvlrSajjad/react-native-masonry-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
@@ -1044,7 +1045,7 @@ Components and native modules.
 
 ### Other Platforms
 
-* [react-native-macos ★10453](https://github.com/ptmt/react-native-macos) - React Native for OS X
+* [react-native-macos ★10453](http://github.com/ptmt/react-native-macos) - React Native for OS X
 * [react-native-web ★9035](https://github.com/necolas/react-native-web) - React Native for Web
 * [reactxp ★6136](https://github.com/Microsoft/reactxp) - Library for cross-platform app development
 * [react-native-windows ★4029](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
