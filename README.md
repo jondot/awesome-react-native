@@ -397,7 +397,6 @@ Components and native modules.
 * [react-native-google-place-picker ★134](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 * [react-native-calendar-select ★132](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
 * [react-native-android-statusbar ★131](https://github.com/NishanthShankar/react-native-android-statusbar) - A react native android package to control the status bar.
-* [react-native-status-bar-height ★63](https://github.com/ovr/react-native-status-bar-height) - A small library that helps you to get status bar height easily. It also support iPhone X.
 * [react-native-scaling-drawer ★131](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 * [react-native-multi-slider ★130](https://github.com/JackDanielsAndCode/react-native-multi-slider) - Pure JS slider component with multiple markers for React Native
 * [react-native-pulse-loader ★130](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
@@ -458,6 +457,7 @@ Components and native modules.
 * [react-native-scalable-image ★65](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 * [react-native-switch-selector ★65](https://github.com/App2Sales/react-native-switch-selector) - A custom Switch Selector component for Android and iOS.
 * [react-native-picker-select ★63](https://github.com/lawnstarter/react-native-picker-select) - A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android
+* [react-native-status-bar-height ★63](https://github.com/ovr/react-native-status-bar-height) - A small library that helps you to get status bar height easily. It also support iPhone X.
 * [react-native-zoom-image ★59](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
 * [react-native-label-select ★57](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
 * [react-native-simple-picker ★57](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
