@@ -605,6 +605,7 @@ Components and native modules.
 * [react-native-masonry-brick-list ★3](https://github.com/lvlrSajjad/react-native-masonry-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
+* [react-native-blur-overlay ★2](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
 * [react-native-rounded-navigation-drawer ★1](https://github.com/lvlrSajjad/react-native-rounded-navigation-drawer) - React Native Designed Navigation Drawer Library (Pure Js)
 * [react-native-expandable-fab-menu ★1](https://github.com/lvlrSajjad/react-native-expandable-fab-menu) - React Native Expandable Fab Menu Component (pure js)
