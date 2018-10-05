@@ -1096,6 +1096,7 @@ Get a head start on development with an existing seed.
 * [react-native-web-workspace ★43](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
 * [React-Native-Starter-Pack ★39](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 * [react-native-relay-example ★37](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
+* [TheCodingMachine boilerplate ★31](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [Reactor ★27](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 * [react-native-tabbed ★23](https://github.com/rxb/react-native-tabbed)
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
