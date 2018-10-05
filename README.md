@@ -1202,6 +1202,7 @@ Open source React Native apps and other examples.
 * [rndrawer-implemented-rnrouter ★49](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
 * [iTunesConnect ★49](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 * [Sequent ★47](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
+* [Hekla for Hacker News ★44](https://github.com/birkir/hekla) - Hackernews client with TypeScript, mobx-state-tree, native navigation and css modules.
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [MoeFM ★41](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
 * [Confreaks ★30](https://github.com/cabaret/confreaks-react-native)
