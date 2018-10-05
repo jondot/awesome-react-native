@@ -4,6 +4,14 @@
     "refresh-site": "make docs && make publish"
   },
   "dependencies": {
-    "doctoc": "^1.3.0"
+    "doctoc": "^1.3.0",
+    "remark": "^9.0.0",
+    "remark-cli": "^5.0.0",
+    "remark-parse": "^5.0.0",
+    "remark-preset-lint-recommended": "^3.0.2",
+    "remark-stringify": "^5.0.0",
+    "remark-toc": "^5.0.0",
+    "unified": "^7.0.0",
+    "unified-stream": "^1.0.2"
   }
 }

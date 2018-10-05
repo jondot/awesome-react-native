@@ -1,4 +1,3 @@
-
 <br/>
 <br/>
 <br/>
@@ -58,70 +57,70 @@ dotan-at-paracode.com.
 
 ## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=header)
 
-[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=banner)
+[![instabug-visual-repro-steps](https://user-images.githubusercontent.com/9888943/40114739-4e0ff416-590e-11e8-9a29-55fb2d4cfebc.png)](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=banner)
 
 > Instabug has just released their visual repro steps feature to enable you to trace all the views that the user interacted with before a bug or a crash occured. This will help you reproduce bugs and fix them 10x faster.<br>
-We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm\_source=awesomereact&utm\_medium=spon&utm\_content=learnmore)🚀
+> We highly recommend integrating Instabug’s framework as they compiled a lot of other great features providing you with useful and rich data attached to each bug or crash report. [_learn more._ ](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereact?pixel)](https://instabug.com)
 
 # Categories
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
-- [Conferences](#conferences)
-  - [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
-  - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
-  - [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
-  - [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
-  - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
-- [Articles](#articles)
-  - [Reference](#reference)
-  - [Howtos](#howtos)
-  - [Assorted](#assorted)
-  - [Continuous Integration](#continuous-integration)
-  - [Internals](#internals)
-- [Components](#components)
-  - [UI](#ui)
-  - [Navigation](#navigation)
-    - [Navigation/Routing Articles](#navigationrouting-articles)
-    - [Navigation Demos](#navigation-demos)
-  - [Text & Rich Content](#text--rich-content)
-  - [Analytics](#analytics)
-  - [Utils & Infra](#utils--infra)
-  - [Forms](#forms)
-  - [Geolocation](#geolocation)
-  - [Internationalization](#internationalization)
-  - [Build & Development](#build--development)
-  - [Styling](#styling)
-  - [System](#system)
-  - [Web](#web)
-  - [Media](#media)
-  - [Storage](#storage)
-  - [Backend](#backend)
-  - [Integrations](#integrations)
-  - [Monetization](#monetization)
-  - [Animation](#animation)
-  - [Other Platforms](#other-platforms)
-- [Utilities](#utilities)
-- [Seeds](#seeds)
-- [Libraries](#libraries)
-- [Open Source Apps](#open-source-apps)
-- [Frameworks](#frameworks)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-  - [Talks](#talks)
-  - [Training & tutorials](#training--tutorials)
-- [Blogs](#blogs)
-- [Newsletters](#newsletters)
-- [Releases](#releases)
+* [Conferences](#conferences)
+  * [Chain React - Portland, OR USA](#chain-react---portland-or-usa)
+  * [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland)
+  * [React Alicante - Alicante, Spain](#react-alicante---alicante-spain)
+  * [ReactNext - Tel Aviv, Israel](#reactnext---tel-aviv-israel)
+  * [React Berlin - Berlin, Germany](#react-berlin---berlin-germany)
+* [Articles](#articles)
+  * [Reference](#reference)
+  * [Howtos](#howtos)
+  * [Assorted](#assorted)
+  * [Continuous Integration](#continuous-integration)
+  * [Internals](#internals)
+* [Components](#components)
+  * [UI](#ui)
+  * [Navigation](#navigation)
+    * [Navigation/Routing Articles](#navigationrouting-articles)
+    * [Navigation Demos](#navigation-demos)
+  * [Text & Rich Content](#text--rich-content)
+  * [Analytics](#analytics)
+  * [Utils & Infra](#utils--infra)
+  * [Forms](#forms)
+  * [Geolocation](#geolocation)
+  * [Internationalization](#internationalization)
+  * [Build & Development](#build--development)
+  * [Styling](#styling)
+  * [System](#system)
+  * [Web](#web)
+  * [Media](#media)
+  * [Storage](#storage)
+  * [Backend](#backend)
+  * [Integrations](#integrations)
+  * [Monetization](#monetization)
+  * [Animation](#animation)
+  * [Other Platforms](#other-platforms)
+* [Utilities](#utilities)
+* [Seeds](#seeds)
+* [Libraries](#libraries)
+* [Open Source Apps](#open-source-apps)
+* [Frameworks](#frameworks)
+* [Tutorials](#tutorials)
+* [Books](#books)
+* [Videos](#videos)
+  * [Talks](#talks)
+  * [Training & tutorials](#training--tutorials)
+* [Blogs](#blogs)
+* [Newsletters](#newsletters)
+* [Releases](#releases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Many thanks to everyone on the [contributor
-list](https://github.com/jondot/awesome-react-native/graphs/contributors)\:)
+list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
 
 ## Conferences
 
@@ -130,33 +129,37 @@ general conferences can be found on the [ReactJS
 site](https://facebook.github.io/react/docs/conferences.html).
 
 ### Chain React - Portland, OR USA
-http://chainreactconf.com
 
-Workshops - July 11th, 2018\
+<http://chainreactconf.com>
+
+Workshops - July 11th, 2018\\
 Conference - July 12-13th, 2018
 
 ### React Native EU - Wroclaw, Poland
-http://react-native.eu/
 
-Workshops - September 3-4th, 2018\
+<http://react-native.eu/>
+
+Workshops - September 3-4th, 2018\\
 Conference - September 5-6th, 2018
 
 ### React Alicante - Alicante, Spain
-http://reactalicante.es/
 
-Workshops - September 13th, 2018\
+<http://reactalicante.es/>
+
+Workshops - September 13th, 2018\\
 Conference - September 14-15th, 2018
 
 ### ReactNext - Tel Aviv, Israel
-https://react-next.com/
+
+<https://react-next.com/>
 
 Conference - November 4th, 2018
 
 ### React Berlin - Berlin, Germany
-https://reactday.berlin/
+
+<https://reactday.berlin/>
 
 Conference - November 30th, 2018
-
 
 ## Articles
 
@@ -318,7 +321,7 @@ Components and native modules.
 * [react-native-easy-toast ★452](https://github.com/crazycodeboy/react-native-easy-toast) - A react native module to show toast like android, it works on iOS and Android.
 * [react-native-parallax ★441](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 * [react-native-popover-haobtc ★437](https://github.com/jeanregisser/react-native-popover) - A component for react-native
-* [react-native-dialogs ★413](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for https://github.com/afollestad/material-dialogs
+* [react-native-dialogs ★413](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for <https://github.com/afollestad/material-dialogs>
 * [react-native-activity-view ★406](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 * [react-native-step-indicator ★406](https://github.com/24ark/react-native-step-indicator) - A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
 * [react-native-sketch ★403](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
@@ -395,7 +398,7 @@ Components and native modules.
 * [react-native-wheel-picker ★150](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 * [react-native-hero ★149](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★148](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
-* [react-native-code-verification *13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
+* [react-native-code-verification \*13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
 * [react-native-collapsing-toolbar ★147](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★144](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -569,7 +572,7 @@ Components and native modules.
 * [react-native-comparison-slider ★20](https://github.com/charlot567/react-native-comparison-slider) - A simple component to display two image in comparison with a slide-over feature.
 * [react-native-simple-card-view ★20](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
 * [react-native-timepicker ★19](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
-* [react-native-store-view ★19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
+* [react-native-store-view ���19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-custom-checkbox ★19](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
 * [react-native-tilt ★19](https://github.com/psicotropicos/react-native-tilt) - Tilt effect with accelerometer for React Native components.
 * [react-native-walkthrough-tooltip ★19](https://github.com/CompanyCam/react-native-walkthrough-tooltip) - Highlight a component via tooltip/popover
@@ -939,7 +942,7 @@ Components and native modules.
 * [react-native-audio-manager ★14](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 * [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 * [react-native-mediaplayer ★11](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.
-* [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from https://github.com/zmxv/react-native-sound
+* [react-native-simple-sound ★10](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from <https://github.com/zmxv/react-native-sound>
 * [react-native-true-sight ★7](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★4](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-tone ★1](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
@@ -1182,10 +1185,10 @@ Open source React Native apps and other examples.
 * [ReactNativeHackerNews ★239](https://github.com/jsdf/ReactNativeHackerNews)
 * [iOS Conference App made with React Native ★231](https://github.com/mikkoj/NortalTechDay)
 * [MagicMirror ★227](https://github.com/ajwhite/MagicMirror)
-* [HupuApp ★227](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
+* [HupuApp ★227](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (<http://bbs.hupu.com/>) client implemented using React Native (Android and iOS).
 * [Redux Demo ★221](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 * [React Native Example, Geo and Location ★207](https://github.com/bgryszko/react-native-example)
-* [uestc-bbs-react-native ★207](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
+* [uestc-bbs-react-native ★207](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for <http://bbs.uestc.edu.cn/> written in React Native with Redux
 * [React Native Embedded App ★206](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 * [Lumpen Radio ★182](https://github.com/jhabdas/lumpen-radio)
 * [BBC News (Unofficial) ★177](https://github.com/joeltrew/BBCNews-React-Native) - a BBC news app
@@ -1233,7 +1236,7 @@ Open source React Native apps and other examples.
 * [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
 * [NewYorkTimesTopStories ★14](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
 * [Roverz ★14](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
-* [Posters\_Galore\_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
+* [Posters_Galore_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 * [Quick-Sample ★9](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
 * [Magento 2 Mobile App ★9](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 * [Commit Strip (Unofficial) ★7](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
@@ -1380,4 +1383,3 @@ Assortment of conference and training videos.
 * [All Changelogs](https://github.com/react-native-community/react-native-releases/blob/master/CHANGELOG.md)
 * [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
 * [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-
