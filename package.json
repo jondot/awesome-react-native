@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "generate": "node src/generate.js",
     "toc": "doctoc README.md",
     "refresh-site": "make docs && make publish"
   },
@@ -13,5 +14,8 @@
     "remark-toc": "^5.0.0",
     "unified": "^7.0.0",
     "unified-stream": "^1.0.2"
+  },
+  "devDependencies": {
+    "extra-log": "^1.0.1"
   }
 }

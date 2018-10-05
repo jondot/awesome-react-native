@@ -1,3 +1,4 @@
 site/
 docs/
 node_modules/
+src/cache
