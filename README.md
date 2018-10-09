@@ -552,7 +552,7 @@ Components and native modules.
 * [react-native-elastic-stack ★28](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 * [react-native-nmrangeslider-ios ★26](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
 * [react-native-ibeacon-simulator ★26](https://github.com/williamtran29/react-native-ibeacon-simulator) - React Native Library to simulate device act as an iBeacon
-* [react-native-date-picker ★26](https://github.com/henninghall/react-native-date-picker) - A date picker component for Android and iOS 
+* [react-native-date-picker ★26](https://github.com/henninghall/react-native-date-picker) - A date picker component for Android and iOS
 * [react-native-actionsheet-native ★25](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 * [react-native-fab ★25](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 * [react-native-markdown-editor ★25](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
@@ -770,6 +770,7 @@ Components and native modules.
 * [react-native-fused-location ★57](https://github.com/MustansirZia/react-native-fused-location) - Finest location for react-native on Android using the new Fused API.
 * [react-native-android-geolocation ★18](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 * [react-native-reverse-geo ★17](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
+* [react-native-cross-geolocation ★7](https://github.com/aMarCruz/react-native-cross-geolocation) - React Native Geolocation complatible module that uses the new Google Location API in Android devices.
 * [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 
 ### Internationalization
@@ -1136,7 +1137,7 @@ Get a head start on development with an existing seed.
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 * [rn-mobx-template ★16](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 * [react-native-boilerplate-chucknorris ★16](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
-* [react-native-vanilla ★8](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms 
+* [react-native-vanilla ★8](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★5](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 
