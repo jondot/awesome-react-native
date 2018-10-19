@@ -635,6 +635,7 @@ Components and native modules.
 * [react-native-animated-bottom-tabbar ★0](https://github.com/lvlrSajjad/react-native-animated-bottom-tabbar) - Animated bottom Tab bar for react native
 * [react-native-counters ★0](https://github.com/yasaricli/react-native-counters) - Minus Plus Counter for React Native
 * [react-native-rate-modal ★2](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
+* [react-native-map-link ★127](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
 
 ### Navigation
 
