@@ -1171,6 +1171,7 @@ Open source React Native apps and other examples.
 * [react-native-sudoku ★514](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
 * [Boostnote ★492](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
 * [react-native-hiapp ★468](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
+* [Manyverse](https://github.com/staltz/manyverse) – Social network off the grid (a Scuttlebutt Android client)
 * [react-native-basketball ★392](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
 * [React Native Netflix ★392](https://github.com/mariodev12/react-native-netflix) - A Netflix-like app.
 * [what the thing? ★391](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
