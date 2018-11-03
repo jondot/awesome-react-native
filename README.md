@@ -255,6 +255,7 @@ Components and native modules.
 * [react-native-calendars ★2562](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
 * [react-native-ui-kitten ★2555](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 * [react-native-svg ★2474](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
+* [react-native-paper ★2142](https://github.com/callstack/react-native-paper) - Material design for React Native.
 * [react-native-drawer ★2128](https://github.com/root-two/react-native-drawer) - React Native Drawer
 * [react-native-app-intro ★2118](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-image-crop-picker ★2101](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
