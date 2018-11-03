@@ -555,7 +555,7 @@ Components and native modules.
 * [react-native-elastic-stack ★28](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 * [react-native-nmrangeslider-ios ★26](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
 * [react-native-ibeacon-simulator ★26](https://github.com/williamtran29/react-native-ibeacon-simulator) - React Native Library to simulate device act as an iBeacon
-* [react-native-date-picker ★26](https://github.com/henninghall/react-native-date-picker) - A date picker component for Android and iOS 
+* [react-native-date-picker ★26](https://github.com/henninghall/react-native-date-picker) - A date picker component for Android and iOS
 * [react-native-actionsheet-native ★25](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 * [react-native-fab ★25](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 * [react-native-markdown-editor ★25](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
@@ -745,6 +745,7 @@ Components and native modules.
 * [react-native-util ★11](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native
 * [react-native-webpackager-server ★7](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
+* [react-native-cross-settings ★4](https://github.com/aMarCruz/react-native-cross-settings) - React Native Settings module for both Android & iOS.
 * [react-native-crypto ★4](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
@@ -1141,7 +1142,7 @@ Get a head start on development with an existing seed.
 * [MeteorNative Boilerplate ★22](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 * [rn-mobx-template ★16](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 * [react-native-boilerplate-chucknorris ★16](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
-* [react-native-vanilla ★8](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms 
+* [react-native-vanilla ★8](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★5](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 
