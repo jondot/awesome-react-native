@@ -691,6 +691,7 @@ Components and native modules.
 * [react-native-htmltext ★127](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 * [react-native-html-webview ★103](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
 * [react-native-html-render ★96](https://github.com/soliury/react-native-html-render) - A html render for react-native
+* [react-native-file-viewer ★30](https://github.com/vinzscam/react-native-file-viewer) - Preview any type of file supported by the mobile device
 * [react-native-measure-text ★24](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
 * [react-native-hypertext ★20](https://github.com/agentcooper/react-native-hypertext) - React Native module to render hypertext (text with links)
 * [react-native-asciimage ★16](https://github.com/turley/react-native-asciimage) - An ASCIImage component for React Native
