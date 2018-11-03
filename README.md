@@ -190,6 +190,7 @@ Content published on the Web.
 
 ### Assorted
 
+* [React Native - Nic or Not App](https://shift.infinite.red/cage-against-the-machine-a419b6980424)
 * [Versioning React Native Application in elegant way (cross-platformely) ★9](https://github.com/szhigunov/react-native-npm-version)
 * [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 * [Top 15 React Native libraries that I use in my apps](https://codingislove.com/top-15-react-native-libraries/)
