@@ -184,7 +184,6 @@ Content published on the Web.
 * [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)
 * [How to upload photo/file in react-native](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
 * [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
-* [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 * [Change splash screen in React Native Android app](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.pgjimxpgg)
 * [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
 * [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
@@ -288,7 +287,6 @@ Components and native modules.
 * [react-virgin ★1319](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-icons ★1168](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 * [react-native-datepicker ★1365](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
-* [react-native-paper ★2218](https://github.com/callstack/react-native-paper.git) Material Design for React Native (Android & iOS).
 * [react-native-tableview ★1105](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-looped-carousel ★1094](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 * [react-native-picker ★1238](https://github.com/beefe/react-native-picker) - react-native-picker
@@ -954,7 +952,7 @@ Components and native modules.
 * [react-native-audio-manager ★15](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 * [react-native-audio-player ★12](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 * [react-native-mediaplayer ★12](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.
-* [react-native-simple-sound ★11](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from <https://github.com/zmxv/react-native-sound>
+* [react-native-simple-sound ★11](https://github.com/mikehedman/react-native-simple-sound) - Start, stop, and pause a sound. iOS only. Derived from `react-native-sound`
 * [react-native-true-sight ★18](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-tone ★7](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
