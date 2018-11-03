@@ -286,8 +286,7 @@ Components and native modules.
 * [react-native-easy-grid ★1304](https://github.com/GeekyAnts/react-native-easy-grid) - Easy Responsive Grid Layout for React Native.
 * [react-virgin ★1319](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-icons ★1168](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
-* [react-native-datepicker ★1365](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
-* [react-native-tableview ★1105](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
+* [react-native-datepicker ★1365](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS* [react-native-tableview ★1105](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-looped-carousel ★1094](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 * [react-native-picker ★1238](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-keyboard-spacer ★1103](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
@@ -1154,7 +1153,6 @@ Libraries / SDK type additions for React Native development.
 
 * [React Native Elements ★13599](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 * [Shoutem UI ★3802](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem.
-* [React Native Paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native.
 * [Panza ★243](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native.
 * [BlankApp UI ★78](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native.
 * [React Native Common ★49](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native.

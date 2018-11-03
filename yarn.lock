@@ -86,10 +86,10 @@ ccount@^1.0.0:
   resolved "https://registry.yarnpkg.com/ccount/-/ccount-1.0.2.tgz#53b6a2f815bb77b9c2871f7b9a72c3a25f1d8e89"
   integrity sha1-U7ai+BW7d7nChx97mnLDol8djok=
 
-celeste@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/celeste/-/celeste-0.9.0.tgz#d51ac59d3b729de9106a0c1c251d44efc4fcefc5"
-  integrity sha512-yZn10MsHErTVLx0FlHoVrx3HaPQN9mO1JHzS3ahqqO6SjF9uyQ6ypSFXRr9dXqynz7Hybx8/ncLc2qEY9j6KXA==
+celeste@^0.9.2:
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/celeste/-/celeste-0.9.2.tgz#f12c4ebf9b822a0ad22b279578bb0163027a25cd"
+  integrity sha512-lXveq4hyPL4esQBnlm+mHoUYrV+/VLKqawUv4Q7t1F39Phu3BdiJGvyhNr9MXXXPUyt4xszxjBrp3ecRtR8DZQ==
   dependencies:
     chalk "^2.4.1"
     cheerio "^1.0.0-rc.2"
