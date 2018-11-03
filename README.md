@@ -462,6 +462,7 @@ Components and native modules.
 * [react-native-textinput-utils ★69](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
 * [react-native-item-cell ★69](https://github.com/APSL/react-native-item-cell) - React Native default style iOS item cell
 * [react-native-calendar-datepicker ★68](https://github.com/vlad-doru/react-native-calendar-datepicker) - A cross-platform calendar datepicker
+* [react-native-calendario ★67](https://github.com/maggialejandro/react-native-calendario) - React Native Calendar DatePicker
 * [react-native-scrollview-lazyload ★67](https://github.com/IskenHuang/react-native-scrollview-lazyload) - react-native scrollview with image lazy load
 * [react-native-picker-xg ★67](https://github.com/xgfe/react-native-picker-xg) - A picker for both Android and iOS
 * [react-native-simple-dialogs ★67](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component.
@@ -607,7 +608,6 @@ Components and native modules.
 * [react-native-flex-label ★8](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - A link component
 * [react-native-custom-picker ★8](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
-* [react-native-calendario ★7](https://github.com/maggialejandro/react-native-calendario) - React Native Calendar DatePicker
 * [react-native-stylesheet-xg ★7](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
 * [react-native-progress-button ★7](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
