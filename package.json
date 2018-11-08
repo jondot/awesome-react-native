@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "ci:pr": "celeste -c celeste-config-pr.js -i README.md --out out.md",
-    "ci:weekly": "celeste -c celeste-config-weekly.js -i README.md --out out.md",
+    "ci:pr": "celeste -c celeste-config-pr.js -i README.md --output out.md",
+    "ci:weekly": "celeste -c celeste-config-weekly.js -i README.md --output out.md",
     "refresh-site": "make docs && make publish"
   },
   "dependencies": {
