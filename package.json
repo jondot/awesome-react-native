@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "toc": "doctoc README.md",
+    "ci:pr": "celeste -c celeste-config-pr.js -i README.md --output README.md",
+    "ci:weekly": "celeste -c celeste-config-weekly.js -i README.md --output README.md",
     "refresh-site": "make docs && make publish"
   },
   "dependencies": {
-    "doctoc": "^1.3.0"
+    "celeste": "^0.10.0"
   }
 }

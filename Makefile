@@ -3,10 +3,6 @@ install:
 	@npm i -g gh-deploy
 	@gem install jill
 	@pip install -r requirements.txt
-sort:
-	sorted-mkdn README.md > README_SORTED.md
-	mv README_SORTED README.md
-	yarn toc
 docs:
 	@rm -rf docs
 	@mkdir docs
@@ -23,11 +19,7 @@ publish: docs
 serve: docs
 	@mkdocs serve
 
-check:
-	@bundle exec ruby dedup.rb && bundle exec ruby validate.rb
 
-stars:
-	@sh starify.sh
 
 .PHONY: docs publish serve check stars install
 

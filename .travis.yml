@@ -1,6 +1,8 @@
-language: ruby
-rvm:
-- 2.2
-script: bundle exec ruby dedup.rb && bundle exec ruby validate.rb
-sudo: false
+language: node_js
+node_js:
+  - "10"
+script: 
+  - yarn ci:pr
+  - if [ "$TRAVIS_EVENT_TYPE" = "cron" ]; then yarn ci:weekly; fi 
+
 
