@@ -640,7 +640,7 @@ Components and native modules.
 * [react-native-asciimage ★16](https://github.com/turley/react-native-asciimage) - An ASCIImage component for React Native
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
-* [react-native-responsive-fontsize ★2](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
+* [react-native-responsive-fontsize ★22](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
 
 ### Analytics
