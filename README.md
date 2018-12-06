@@ -89,6 +89,7 @@ dotan-at-paracode.com.
         - [Navigation](#navigation)
             - [Navigation/Routing Articles](#navigationrouting-articles)
             - [Navigation Demos](#navigation-demos)
+        - [Deep Linking](#deep-linking)
         - [Text & Rich Content](#text--rich-content)
         - [Analytics](#analytics)
         - [Utils & Infra](#utils--infra)
@@ -689,6 +690,10 @@ Components and native modules.
 * [Navigator Demo ★188](https://github.com/h87kg/NavigatorDemo)
 * [ExNavRelay ★23](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 * [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
+
+### Deep Linking
+
+* [react-native-deep-link ★36](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
 
 ### Text & Rich Content
 
