@@ -89,6 +89,7 @@ dotan-at-paracode.com.
         - [Navigation](#navigation)
             - [Navigation/Routing Articles](#navigationrouting-articles)
             - [Navigation Demos](#navigation-demos)
+        - [Deep Linking](#deep-linking)
         - [Text & Rich Content](#text--rich-content)
         - [Analytics](#analytics)
         - [Utils & Infra](#utils--infra)
@@ -643,6 +644,7 @@ Components and native modules.
 * [react-native-auth-screens](https://github.com/thomaswangio/auth-screens) - A series of Authentication Views for React Native: Sign In, Social Sign In Sign Up, and Forgot Password. Uses `react-native-gradient-buttons`.
 * [react-native-animated-flatlist](https://github.com/shakogegia/react-native-animated-flatlist) - Animated Flatlist for React Native.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
+* [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
 
 ### Navigation
 
@@ -689,6 +691,10 @@ Components and native modules.
 * [ExNavRelay ★23](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 * [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
 
+### Deep Linking
+
+* [react-native-deep-link ★36](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
+
 ### Text & Rich Content
 
 * [react-native-hyperlink ★354](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
@@ -704,7 +710,7 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-text-size ★21](https://github.com/aMarCruz/react-native-text-size) - Measure text accurately before laying it out and get font information from your App.
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
-* [react-native-responsive-fontsize ★20](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive fontSize based on screen-size of the device in React-Native
+* [react-native-responsive-fontsize ★22](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
 
 ### Analytics
@@ -1264,6 +1270,7 @@ Open source React Native apps and other examples.
 * [Smog Alert App](https://github.com/Bartozzz/smog-alert-app) – provides real-time air pollution data all around the world and shows nearby polluters.
 * [Audio Book App](https://github.com/minhtc/sachnoiapp) – Completed Audiobook app with some cool animations.
 * [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
+* [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
 
 ## Frameworks
 
