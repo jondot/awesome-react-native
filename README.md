@@ -646,6 +646,7 @@ Components and native modules.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
 * [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
 * [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
+* [react-native-countdown-text](https://github.com/realKfiros/react-native-countdown-text) - A React Native component that converts a timestamp of a future date to a readable countdown clock, based on a format.
 
 ### Navigation
 
