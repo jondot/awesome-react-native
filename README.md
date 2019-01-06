@@ -908,6 +908,7 @@ Components and native modules.
 * [react-native-home-pressed ★8](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 * [react-native-device-info-pod ★3](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native
 * [rn-secure-storage ★11](https://github.com/talut/rn-secure-storage) - Secure Storage for React Native (Android & iOS)
+* [react-native-sms-retriever](https://github.com/Bruno-Furtado/react-native-sms-retriever) - SMS Retriever API (Android).
 
 ### Web
 
