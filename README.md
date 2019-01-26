@@ -644,6 +644,7 @@ Components and native modules.
 * [react-native-auth-screens](https://github.com/thomaswangio/auth-screens) - A series of Authentication Views for React Native: Sign In, Social Sign In Sign Up, and Forgot Password. Uses `react-native-gradient-buttons`.
 * [react-native-animated-flatlist](https://github.com/shakogegia/react-native-animated-flatlist) - Animated Flatlist for React Native.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
+* [pinar ★4](https://github.com/kristerkari/pinar) - Customizable, lightweight React Native carousel component with accessibility support.
 * [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
 * [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
 
