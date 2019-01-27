@@ -247,13 +247,13 @@ Components and native modules.
 
 ### UI
 
-* [lottie-react-native ★10099](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
-* [react-native-vector-icons ★9672](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
+* [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+* [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
-* [react-native-gifted-chat ★6252](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
+* [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
 * [react-native-scrollable-tab-view ★5664](https://github.com/brentvatne/react-native-scrollable-tab-view) - A scrollable tab-view for React Native
-* [react-native-image-picker ★4515](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
+* [react-native-image-picker ★4709](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 * [react-native-material-kit ★4124](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 * [react-native-snap-carousel ★3959](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
 * [react-native-calendars ★3402](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
@@ -266,13 +266,13 @@ Components and native modules.
 * [react-native-blur ★2172](https://github.com/Kureev/react-native-blur) - React Native Blur component
 * [react-native-splash-screen ★2663](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 * [react-native-typography ★2260](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
-* [react-native-swipeout ★2115](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
-* [react-native-material-ui ★2401](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
+* [react-native-swipeout ★2194](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
+* [react-native-material-ui ★2536](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 * [react-native-textinput-effects ★2062](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
 * [react-native-modalbox ★2043](https://github.com/maxs15/react-native-modalbox) - A component for react-native
 * [react-native-lightbox ★1917](https://github.com/oblador/react-native-lightbox) - a very Slick and modern mobile lightbox implementation
 * [gl-react-native ★1750](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
-* [react-native-progress ★1968](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
+* [react-native-progress ★2069](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 * [react-native-action-button ★1762](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
 * [react-native-modal ★1728](https://github.com/react-native-community/react-native-modal) - An enhanced, animated and customizable react-native modal
 * [nachos-ui ★1684](https://github.com/avocode/nachos-ui) - NACHOS UI kit for React Native. Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
@@ -657,8 +657,8 @@ Components and native modules.
 
 ### Navigation
 
-* [react-navigation ★13789](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
-* [react-native-navigation ★9024](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
+* [react-navigation ★14233](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
+* [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
 * [react-native-router-flux ★7720](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 * [kittenTricks ★4227](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
 * [native-navigation ★3060](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
