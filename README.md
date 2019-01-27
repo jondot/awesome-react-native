@@ -651,7 +651,7 @@ Components and native modules.
 * [react-native-bouncing-ball ★8](https://github.com/hankzhuo/react-native-bouncing-ball) - React Native component bouncing ball for both iOS and Android.
 * [react-native-countdown-text](https://github.com/realKfiros/react-native-countdown-text) - A React Native component that converts a timestamp of a future date to a readable countdown clock, based on a format.
 * [react-native-rheostat ★9](https://github.com/DrChai/react-native-rheostat) - Inspired by Airbnb's [rheostat](https://github.com/airbnb/rheostat), a powerful slider with assorted data visualized charts.
-* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
+* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker.
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 
@@ -771,6 +771,8 @@ Components and native modules.
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
+* [pixels-catcher ★26](https://github.com/rumax/react-native-PixelsCatcher) - Library for testing React Native UI components and screens
+
 
 ### Forms
 
