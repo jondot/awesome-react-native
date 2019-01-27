@@ -795,6 +795,7 @@ Components and native modules.
 * [react-native-fused-location ★82](https://github.com/MustansirZia/react-native-fused-location) - Finest location for react-native on Android using the new Fused API.
 * [react-native-android-geolocation ★19](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 * [react-native-reverse-geo ★18](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
+* [react-native-boundary ★12](https://github.com/eddieowens/react-native-boundary) - React Native module to use geofences. Native implementation for iOS and Android.
 * [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 
 ### Internationalization
