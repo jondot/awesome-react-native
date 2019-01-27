@@ -1104,6 +1104,7 @@ Components and native modules.
 Useful React Native tooling.
 
 * [react-native-debugger ★4017](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
+* [rn-diff-purge ★64](https://github.com/pvinis/rn-diff-purge) - The easiest way to upgrade React Native versions. You can find diffs for every React Native version, that are created by diffing the previous version with a newly created app in the new version.
 * [haul ★2711](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
 * [rnpm ★2408](https://github.com/rnpm/rnpm) - react native package manager
 * [generact ★1125](https://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
