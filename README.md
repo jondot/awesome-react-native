@@ -1160,6 +1160,7 @@ Get a head start on development with an existing seed.
 * [react-native-vanilla ★35](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
+* [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 
 ## Libraries
 
