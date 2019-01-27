@@ -485,7 +485,7 @@ Components and native modules.
 * [react-native-in-app-notification ★86](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 * [react-native-streetview ★61](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 * [k-react-native-swipe-unlocker ★55](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
-* [react-native-view-pdf ★62](https://github.com/rumax/react-native-PDFView) - PDF viewer for React Native
+* [react-native-view-pdf ★106](https://github.com/rumax/react-native-PDFView) - PDF viewer for React Native
 * [react-native-download-button ★64](https://github.com/prscX/react-native-download-button) - React Native Download Button: with pretty cool animation
 * [react-native-phone-picker ★58](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 * [react-native-3dcube-navigation ★80](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
@@ -651,7 +651,7 @@ Components and native modules.
 * [react-native-bouncing-ball ★8](https://github.com/hankzhuo/react-native-bouncing-ball) - React Native component bouncing ball for both iOS and Android.
 * [react-native-countdown-text](https://github.com/realKfiros/react-native-countdown-text) - A React Native component that converts a timestamp of a future date to a readable countdown clock, based on a format.
 * [react-native-rheostat ★9](https://github.com/DrChai/react-native-rheostat) - Inspired by Airbnb's [rheostat](https://github.com/airbnb/rheostat), a powerful slider with assorted data visualized charts.
-* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
+* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker.
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 
