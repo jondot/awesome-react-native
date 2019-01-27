@@ -593,6 +593,7 @@ Components and native modules.
 * [react-native-avatar-gravatar ★18](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
 * [react-native-custom-actionsheet ★21](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-multiselect ★15](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
+* [react-native-select-multiple  ★58](https://github.com/tableflip/react-native-select-multiple) -A simple and easy to use component for multiple selection of item from List.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
 * [react-native-pin-view ★48](https://github.com/talut/react-native-pin-view) - Easy, convenient, quick-forming PinView component. It runs smoothly for both IOS and Android.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
@@ -613,6 +614,7 @@ Components and native modules.
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - A link component
 * [react-native-custom-picker ★15](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-stylesheet-xg ★8](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
+* [react-native-draggable-grid ★7](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
 * [react-native-progress-button ★10](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★25](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
@@ -644,8 +646,14 @@ Components and native modules.
 * [react-native-auth-screens](https://github.com/thomaswangio/auth-screens) - A series of Authentication Views for React Native: Sign In, Social Sign In Sign Up, and Forgot Password. Uses `react-native-gradient-buttons`.
 * [react-native-animated-flatlist](https://github.com/shakogegia/react-native-animated-flatlist) - Animated Flatlist for React Native.
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
+* [pinar ★4](https://github.com/kristerkari/pinar) - Customizable, lightweight React Native carousel component with accessibility support.
 * [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
 * [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
+* [react-native-rheostat ★9](https://github.com/DrChai/react-native-rheostat) - Inspired by Airbnb's [rheostat](https://github.com/airbnb/rheostat), a powerful slider with assorted data visualized charts.
+* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
+* [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
+* [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
+
 
 ### Navigation
 
@@ -829,6 +837,7 @@ Components and native modules.
 * [react-native-prism ★10](https://github.com/tmpfs/prism) - Minimal, idiomatic style management for React Native
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★5](https://github.com/brankeye/react-native-paint) - A themeable abstraction over React Native StyleSheet. Read about it [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
+* [binstorm ★5](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
 
 ### System
 
@@ -907,8 +916,8 @@ Components and native modules.
 * [react-native-push-with-gcm ★6](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 * [react-native-home-pressed ★8](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 * [react-native-device-info-pod ★3](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native
-* [rn-secure-storage ★11](https://github.com/talut/rn-secure-storage) - Secure Storage for React Native (Android & iOS)
 * [react-native-sms-retriever](https://github.com/Bruno-Furtado/react-native-sms-retriever) - SMS Retriever API (Android).
+* [rn-secure-storage ★17](https://github.com/talut/rn-secure-storage) - Secure Storage for React Native (Android & iOS)
 
 ### Web
 
@@ -963,6 +972,7 @@ Components and native modules.
 * [react-native-true-sight ★18](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-tone ★7](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
+* [react-native-safe-image ★13](https://github.com/xcarpentier/react-native-safe-image) - Really light React-Native package to handle fallback when image is on error
 
 ### Storage
 
@@ -1064,6 +1074,7 @@ Components and native modules.
 * [react-native-instagram ★5](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 * [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 * [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
+* [react-native-fitness ★17](https://github.com/OvalMoney/react-native-fitness) - A React Native module to interact with Apple Healthkit and Google Fit
 
 ### Monetization
 
@@ -1094,6 +1105,7 @@ Components and native modules.
 Useful React Native tooling.
 
 * [react-native-debugger ★4017](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
+* [rn-diff-purge ★64](https://github.com/pvinis/rn-diff-purge) - The easiest way to upgrade React Native versions. You can find diffs for every React Native version, that are created by diffing the previous version with a newly created app in the new version.
 * [haul ★2711](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
 * [rnpm ★2408](https://github.com/rnpm/rnpm) - react native package manager
 * [generact ★1125](https://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
@@ -1110,6 +1122,7 @@ Useful React Native tooling.
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
 * [ADB Auto Restarter ★8](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device .
 * [rn-nodeify ★6](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
+* [react-native-ruler ★3](https://github.com/lfkwtz/react-native-ruler) - A devtool for measuring pixel dimensions on your React Native screens
 * [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 * [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 * [Storybook](https://storybook.js.org) - UI development environment for your React components
@@ -1154,6 +1167,7 @@ Get a head start on development with an existing seed.
 * [react-native-vanilla ★35](https://github.com/pavjacko/react-native-vanilla) - Most fundamental cross-platform project template based on react native. Includes latest iOS, tvOS, Android, Android TV, Web and Tizen platforms
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
+* [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 
 ## Libraries
 
@@ -1274,6 +1288,7 @@ Open source React Native apps and other examples.
 * [Spectrum](https://github.com/withspectrum/spectrum/tree/alpha/mobile) - The community platform for the future.
 * [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
+* [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
 
 ## Frameworks
 
