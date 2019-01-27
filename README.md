@@ -1290,6 +1290,7 @@ Open source React Native apps and other examples.
 * [Audio Book App](https://github.com/minhtc/sachnoiapp) – Completed Audiobook app with some cool animations.
 * [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
+* [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
 * [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
 
 ## Frameworks
