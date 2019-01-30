@@ -1405,6 +1405,7 @@ Assortment of conference and training videos.
 * [Spencer Carli](https://medium.com/@spencer_carli)
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
+* [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
 
 ## Newsletters
 
