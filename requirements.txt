@@ -1,3 +1,2 @@
 mkdocs>=0.16
 pymdown-extensions>=1.2
-sorted-mkdn>=0.1.2
