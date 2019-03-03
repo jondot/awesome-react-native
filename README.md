@@ -1292,6 +1292,8 @@ Open source React Native apps and other examples.
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
 * [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
 * [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
+* [BMI Calculator](https://github.com/oliver-gomes/react-native-bmi) - Feedback on Body mass index (BMI) to measure body fat based on height and weight.
+* [Twin Calculator](https://github.com/oliver-gomes/react-native-calculator) - Modern Calculator with Day/Night Switch help stand out in dark and light area
 
 ## Frameworks
 
