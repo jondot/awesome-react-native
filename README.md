@@ -191,6 +191,7 @@ Content published on the Web.
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 * [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
+* [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
 
 ### Assorted
 
