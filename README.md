@@ -689,6 +689,7 @@ Components and native modules.
 * [react-native-keyboard-sticky-view ★7](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 * [react-native-header-scroll-view ★3](https://github.com/jonsamp/react-native-header-scroll-view) - iOS-style large header scroll view.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
+* [react-navigation-magic-move ★62](https://github.com/IjzerenHein/react-navigation-magic-move) - Bindings for using react-navigation with react-native-magic-move 🐰🎩✨ (shared element transitions)
 
 #### Navigation/Routing Articles
 
@@ -1093,6 +1094,7 @@ Components and native modules.
 * [react-native-spruce ★412](https://github.com/prscX/react-native-spruce) - React Native Bridge for Spruce Animation Library
 * [react-native-gl-model-view ★210](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
 * [react-native-animated-sprite ★104](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
+* [react-native-magic-move ★402](https://github.com/IjzerenHein/react-native-magic-move) - Create magical move transitions between scenes in react-native 🐰🎩✨ (shared element transitions)
 
 ### Other Platforms
 
