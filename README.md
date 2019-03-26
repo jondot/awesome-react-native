@@ -1344,6 +1344,7 @@ Walkthroughs and tutorials that help you learn React Native.
 
 Books - free and commercial (but only good ones).
 
+* [Choosing React Native for your mobilke tech stack](https://ideamotive.co/react-native-development-guide) - (Free) The all-in-one guide for CEOs and Product Owners. (Book available online and in PDF).
 * [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation.
 
