@@ -16,7 +16,7 @@ module.exports = {
     },
     plugins: {
         dedupLinks: true,
-        brokenLinks: true,
+        brokenLinks: false,
         sortByStars: true,
     }
 }
