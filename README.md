@@ -1134,6 +1134,7 @@ Useful React Native tooling.
 * [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
+* [Appitr IDE](https://www.appitr.com/) - Online React Native IDE with boilerplate wizard.
 
 ## Seeds
 
