@@ -522,7 +522,7 @@ Components and native modules.
 * [react-native-tween-animation ★43](https://github.com/kirkness/react-native-tween-animation) - A simple react native state tween animation module.
 * [react-native-layout ★45](https://github.com/jerolimov/react-native-layout) - Semantic JSX layout components for react-native
 * [react-native-md-motion-buttons ★50](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
-* [react-native-custom-actsheet ★40](https://github.com/guodong000/react-native-custom-actsheet) - A custom ActionSheet for react-native
+* [react-native-custom-actsheet ★40](https://www.npmjs.com/package/react-native-custom-actsheet) - A custom ActionSheet for react-native
 * [react-native-toolkit ★41](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 * [rn-render-perfs ★40](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
 * [react-native-draggable-drawer ★46](https://github.com/llanox/react-native-draggable-drawer) - DraggableDrawer component for React Native.
@@ -561,7 +561,7 @@ Components and native modules.
 * [react-native-actionsheet-native ★25](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 * [react-native-fab ★39](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 * [react-native-markdown-editor ★31](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
-* [react-native-circle-progress ★24](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
+* [react-native-circle-progress ★24](https://www.npmjs.com/package/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 * [react-native-showdown ★29](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 * [react-native-app-intro-v2 ★24](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
 * [react-native-multi-select ★25](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
@@ -1149,7 +1149,6 @@ Get a head start on development with an existing seed.
 * [React Native Seed ★504](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 * [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
 * [🚀 React Native Starter ★388](https://github.com/flatlogic/react-native-starter) - A powerful starter template that bootstraps development of your mobile application.
-* [react-native-auth-boilerplate ★302](https://github.com/hasura/react-native-auth-boilerplate) - A React Native boilerplate with authentication already implemented.
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
@@ -1164,7 +1163,6 @@ Get a head start on development with an existing seed.
 * [React-Native-Starter-Pack ★40](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 * [react-native-relay-example ★38](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
 * [TheCodingMachine boilerplate ★102](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
-* [Reactor ★43](https://github.com/Jerameel/Reactor) - A dynamic react-native starter template using redux and react-navigation.
 * [MeteorNative Boilerplate ★23](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
 * [rn-mobx-template ★17](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
 * [react-native-boilerplate-chucknorris ★15](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) - A boilerplate for React Native + React Navigation + React Native Elements (iOS & Android)
