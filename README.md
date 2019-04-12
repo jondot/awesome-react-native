@@ -401,7 +401,7 @@ Components and native modules.
 * [react-native-wheel-picker ★190](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 * [react-native-hero ★180](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 * [react-native-shine-button ★205](https://github.com/prscX/react-native-shine-button) - React Native for Effects like shining
-* [react-native-code-verification \*13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
+* [react-native-code-verification ★13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
 * [react-native-collapsing-toolbar ★185](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★154](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -563,7 +563,7 @@ Components and native modules.
 * [react-native-markdown-editor ★31](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
 * [react-native-circle-progress ★24](https://github.com/guodong000/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 * [react-native-showdown ★29](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
-* [react-native-app-intro-v2 \*5 ★24](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
+* [react-native-app-intro-v2 ★24](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
 * [react-native-multi-select ★25](https://github.com/hasangilak/react-native-multi-select) - you know select2 on web ? now you have it in react native at your command :)
 * [react-native-big-slider ★41](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 * [react-native-orientation-controller ★23](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
@@ -651,9 +651,9 @@ Components and native modules.
 * [react-native-bouncing-ball ★8](https://github.com/hankzhuo/react-native-bouncing-ball) - React Native component bouncing ball for both iOS and Android.
 * [react-native-countdown-text](https://github.com/realKfiros/react-native-countdown-text) - A React Native component that converts a timestamp of a future date to a readable countdown clock, based on a format.
 * [react-native-rheostat ★9](https://github.com/DrChai/react-native-rheostat) - Inspired by Airbnb's [rheostat](https://github.com/airbnb/rheostat), a powerful slider with assorted data visualized charts.
-* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
-* [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
-* [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
+* [react-native-picker-module ★1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker.
+* [rn-actionsheet-module ★0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
+* [react-native-countries ★1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 
 
 ### Navigation
