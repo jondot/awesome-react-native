@@ -764,6 +764,7 @@ Components and native modules.
 * [react-native-simple-encryption ★14](https://github.com/BhavanPatel/react-native-simple-encryption) - Simple XOR and base_64 encryption decryption for react-native
 * [react-native-immutable ★12](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
 * [react-native-util ★12](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native
+* [react-native-referrer ★11](https://github.com/JeandeCampredon/react-native-referrer) - React Native android only library to retrieve campaign referrer.
 * [react-native-webpackager-server ★6](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 * [react-native-cross-settings ★5](https://github.com/aMarCruz/react-native-cross-settings) - React Native Settings module for both Android & iOS.
