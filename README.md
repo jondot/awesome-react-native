@@ -688,6 +688,8 @@ Components and native modules.
 * [Navigator Demo ★188](https://github.com/h87kg/NavigatorDemo)
 * [ExNavRelay ★23](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 * [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
+* [React Native Drawer & Bottom-Tab Navigation ★6](https://github.com/tassdr/react-native-template)
+
 
 ### Text & Rich Content
 
