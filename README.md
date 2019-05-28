@@ -1129,7 +1129,6 @@ Useful React Native tooling.
 * [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
 * [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
 * [Storybook](https://storybook.js.org) - UI development environment for your React components
-* [AppHub](https://apphub.io/) - Update React Native apps, instantly
 * [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 * [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
