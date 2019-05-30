@@ -530,6 +530,7 @@ Components and native modules.
 * [react-native-popupwindow ★38](https://github.com/beefe/react-native-popupwindow) - Android PopupWindow for react-native module
 * [react-native-flanimatedimage ★43](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
 * [react-native-dial ★47](https://github.com/netbeast/react-native-dial) - A react native reusable and efficient dial knob element.
+* [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
 * [react-native-air-progress-bar ★44](https://github.com/kis/react-native-air-progress-bar) - React Native progress-bar component, customizable and animated
 * [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 * [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
@@ -614,7 +615,6 @@ Components and native modules.
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - A link component
 * [react-native-custom-picker ★15](https://github.com/budiadiono/react-native-custom-picker) - React native customizable picker component.
 * [react-native-stylesheet-xg ★8](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
-* [react-native-draggable-grid ★7](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
 * [react-native-progress-button ★10](https://github.com/xinghui0000/react-native-progress-button) - A react native button component that can show progress.
 * [react-native-date-range-picker ★25](https://github.com/lazaronixon/react-native-date-range-picker) - Simple date range picker extended from react-native-calendars 📆
