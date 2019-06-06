@@ -1443,6 +1443,7 @@ Assortment of conference and training videos.
 * [Spencer Carli](https://medium.com/@spencer_carli)
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
+* [Ideamotive blog](https://ideamotive.co/blog/category/react-native/) - Blog about React Native
 
 ## Newsletters
 
