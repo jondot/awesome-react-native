@@ -680,6 +680,7 @@ Components and native modules.
 * [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 * [react-native-countries *1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
+* [react-native-suggester *3](httpshttps://github.com/xcarpentier/react-native-suggester) - React-Native package to decorate TextInput and get suggestions with good UX.
 * [react-native-recyclerlist ★1515](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and Web with support for complex layouts.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-scrubber ★1](https://github.com/repodio/react-native-scrubber/tree/master) - A simple audio/video Scrubber for both iOS and Android.
