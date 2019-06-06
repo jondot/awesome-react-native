@@ -1174,6 +1174,7 @@ Get a head start on development with an existing seed.
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
+* [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 
 ## Libraries
 
