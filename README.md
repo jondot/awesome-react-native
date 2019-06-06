@@ -356,6 +356,7 @@ Components and native modules.
 * [react-native-carousel ★406](https://github.com/nick/react-native-carousel) - Simple carousel component for react-native
 * [react-native-star-rating ★489](https://github.com/djchie/react-native-star-rating) - A React Native component for generating and displaying interactive star ratings
 * [react-native-radio-buttons ★399](https://github.com/ArnaudRinquin/react-native-radio-buttons) - A react component to implement custom radio buttons-like behaviors: multiple options, only on can be selected at once.
+* [react-native-really-awesome-button ★370](https://github.com/rcaferati/react-native-really-awesome-button) - RNRAB is a 3D at 60fps, progress enabled, extendable, production ready component that renders an awesome animated set of UI buttons.
 * [react-native-gesture-password ★410](https://github.com/spikef/react-native-gesture-password) - A gesture password component for React Native
 * [react-native-invertible-scroll-view ★388](https://github.com/exponentjs/react-native-invertible-scroll-view) - An invertible ScrollView for React Native
 * [react-native-copilot ★595](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
