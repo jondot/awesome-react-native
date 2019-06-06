@@ -683,7 +683,7 @@ Components and native modules.
 * [react-native-countries ★1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 * [react-native-progress-steps ★4](https://github.com/colbymillerdev/react-native-progress-steps) - A simple and fully customizable React Native component that implements a progress stepper UI.
 * [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
-* [react-native-suggester ★3](httpshttps://github.com/xcarpentier/react-native-suggester) - React-Native package to decorate TextInput and get suggestions with good UX.
+* [react-native-suggester ★32](https://github.com/xcarpentier/react-native-suggester) - React-Native package to decorate TextInput and get suggestions with good UX.
 * [react-native-recyclerlist ★1515](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and Web with support for complex layouts.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-scrubber ★1](https://github.com/repodio/react-native-scrubber/tree/master) - A simple audio/video Scrubber for both iOS and Android.
