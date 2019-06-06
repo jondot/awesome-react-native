@@ -1206,6 +1206,7 @@ Open source React Native apps and other examples.
 * [Dribbble React Native ★1927](https://github.com/catalinmiron/react-native-dribbble-app)
 * [react-native-gitfeed ★1709](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 * [Finance React Native ★1680](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
+* [Quirk 🐙 ★965](https://github.com/flaque/quirk) - Cognitive Behavioral Therapy for iOS and Android.
 * [TaskRabbit's Sample App ★802](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
 * [React Weather ★702](https://github.com/stage88/react-weather) - A simple weather app built with React Native
 * [react-native-sudoku ★540](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
