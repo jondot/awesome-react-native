@@ -1104,6 +1104,7 @@ Components and native modules.
 * [react-native-windows ★5547](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 * [react-native-tvos-controller ★15](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 * [react-native-watchkit ★1](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
+* [@areslabs/alita ★392](https://github.com/areslabs/alita) - react native for mini-program(微信小程序)
 
 ## Utilities
 
