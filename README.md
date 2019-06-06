@@ -165,6 +165,20 @@ Conference - November 4th, 2018
 
 Conference - November 30th, 2018
 
+### App.js Conf - Krakow, Poland
+
+<https://appjs.co/>
+
+Conference - April 4th, 2019
+Workshops - April 5th, 2019
+
+### Chain React - Portland, OR USA
+
+<https://infinite.red/ChainReactConf>
+
+Workshops- July 10th, 2019
+Conference - July 11th-12th, 2019
+
 ## Articles
 
 Content published on the Web.
