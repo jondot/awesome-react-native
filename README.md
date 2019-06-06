@@ -267,7 +267,7 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
-
+* [react-native-switch-pro ★153](https://github.com/poberwong/react-native-switch-pro) - A pretty nice switch for Andriod and iOS that have same performance on two platforms and clean code in the library.
 * [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 * [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
