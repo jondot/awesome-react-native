@@ -702,6 +702,8 @@ Components and native modules.
 * [movieapp ★1441](https://github.com/JuneDomingo/movieapp) – Discover Movies and TV shows - it uses redux and wix/react-native-navigation
 * [ExNavRelay ★23](https://github.com/sibelius/ExNavRelay) - React Native + Ex-navigation + Relay integration template
 * [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
+* [React Native Drawer & Bottom-Tab Navigation ★6](https://github.com/tassdr/react-native-template)
+
 
 ### Deep Linking
 
