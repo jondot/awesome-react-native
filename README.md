@@ -206,6 +206,7 @@ Content published on the Web.
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 * [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
+* [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
 * [How To Build a News Reader App with React Native and NewsAPI](https://medium.com/crowdbotics/how-to-build-a-news-reader-app-with-react-native-and-newsapi-8508f48f2b43)
 * [How to Build a Real Time Logo Detection App with React Native](https://medium.com/crowdbotics/how-to-build-a-real-time-logo-detection-app-with-react-native-google-vision-api-and-crowdbotics-9ed65fbcd15)
 * [Build a Chatbot with Dialogflow and React Native](https://blog.jscrambler.com/build-a-chatbot-with-dialogflow-and-react-native/)
