@@ -621,6 +621,7 @@ Components and native modules.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
 * [react-native-pin-view ★48](https://github.com/talut/react-native-pin-view) - Easy, convenient, quick-forming PinView component. It runs smoothly for both IOS and Android.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
+* [react-native-calculator ★12](https://github.com/budiadiono/react-native-calculator) - React Native Calculator and Calculator Input Component.
 * [react-native-imagewand ★13](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 * [react-native-gravatar ★13](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 * [react-native-selectmultiple-button ★25](https://github.com/danceyoung/react-native-selectmultiple-button) - A button (or a grouped buttons) supporting multiple or radio selection
