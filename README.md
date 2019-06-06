@@ -735,6 +735,7 @@ Components and native modules.
 * [react-native-segment-io-analytics ★68](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 * [react-native-td ★26](https://github.com/quipper/react-native-td) - An unofficial React Native SDK for Treasure Data.
 * [react-native-ux-cam ★32](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
+* [react-native-flurry-sdk ★15](https://github.com/flurry/react-native-flurry-sdk) - Official React Native wrapper for Flurry SDK. Supports Android, iOS and tvOS.
 
 ### Utils & Infra
 
