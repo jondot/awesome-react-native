@@ -194,6 +194,7 @@ Content published on the Web.
 
 ### Assorted
 
+* [Best Practices for Building a Large Scale React Application](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 * [React Native - Nic or Not App](https://shift.infinite.red/cage-against-the-machine-a419b6980424)
 * [Versioning React Native Application in elegant way (cross-platformely) ★10](https://github.com/szhigunov/react-native-npm-version)
 * [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
