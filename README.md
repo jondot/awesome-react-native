@@ -230,7 +230,6 @@ Content published on the Web.
 * [Reflecting on React Native development](http://habd.as/reflecting-on-react-native-development/)
 * [React-Native layout examples](http://browniefed.com/blog/2015/06/07/react-native-layout-examples/)
 * [React Native in Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - notes from Clay Allsop
-* [What we learned after using React Native for a year](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp) - Problem faced when building Smartwatch companion app with React Native
 * [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 * [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 * [How to bridge a Swift view](http://browniefed.com/blog/2015/11/28/react-native-how-to-bridge-a-swift-view/)
@@ -617,7 +616,7 @@ Components and native modules.
 * [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 * [react-native-avatar-gravatar ★18](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
 * [react-native-custom-actionsheet ★21](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
-* [react-native-multiselect ★15](https://github.com/robcalcroft/react-native-multiselect) - A simple multi select component with events and a flexible API.
+* [react-native-multiselect ★246](https://github.com/toystars/react-native-multiple-select) - Simple multi-select component for react-native.
 * [react-native-select-multiple  ★58](https://github.com/tableflip/react-native-select-multiple) -A simple and easy to use component for multiple selection of item from List.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
 * [react-native-pin-view ★48](https://github.com/talut/react-native-pin-view) - Easy, convenient, quick-forming PinView component. It runs smoothly for both IOS and Android.
