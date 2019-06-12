@@ -14,7 +14,7 @@ tools, tutorials, articles and more. PRs are welcome!
 <br/>
 
 <p align="center">
-<a href="https://bit.ly/arn-wkly">Don't miss out! subscribe to our weekly newsletter</a>
+<a href="https://bit.ly/arn-wkly">Don't miss out! Subscribe to our weekly newsletter</a>
 </p>
 <br/>
 <br/>
@@ -177,7 +177,7 @@ Workshops - April 5th, 2019
 
 <https://infinite.red/ChainReactConf>
 
-Workshops- July 10th, 2019
+Workshops - July 10th, 2019
 Conference - July 11th-12th, 2019
 
 ## Articles
@@ -191,7 +191,7 @@ Content published on the Web.
 ### Howtos
 
 * [How to upgrade React Navigation 1.x to 2.x](https://shift.infinite.red/upgrading-from-react-navigation-v1-to-v2-312d932329ba)
-* [How to add Firebase Auth with react native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
+* [How to add Firebase Auth with React Native ★4](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_add_Firebase_Auth_with_react_native)
 * [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 * [React-Navigation Drawer](https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc)
 * [Getting Started with React Native Development on Windows](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65#.lygadl38g)
@@ -269,8 +269,8 @@ Content published on the Web.
 Components and native modules.
 
 ### UI
-* [react-native-switch-pro ★153](https://github.com/poberwong/react-native-switch-pro) - A pretty nice switch for Andriod and iOS that have same performance on two platforms and clean code in the library.
-* [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+* [react-native-switch-pro ★153](https://github.com/poberwong/react-native-switch-pro) - A pretty nice switch for Android and iOS that have same performance on two platforms and clean code in the library.
+* [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 * [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
@@ -282,19 +282,19 @@ Components and native modules.
 * [react-native-calendars ★3402](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
 * [react-native-ui-kitten ★3140](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 * [react-native-svg ★2982](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
-* [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native.
+* [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native
 * [react-native-drawer ★2276](https://github.com/root-two/react-native-drawer) - React Native Drawer
 * [react-native-app-intro ★2433](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-image-crop-picker ★2736](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 * [react-native-blur ★2172](https://github.com/Kureev/react-native-blur) - React Native Blur component
-* [react-native-splash-screen ★2663](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+* [react-native-splash-screen ★2663](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded, it works on iOS and Android.
 * [react-native-typography ★2260](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 * [react-native-swipeout ★2194](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 * [react-native-material-ui ★2536](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
-* [react-native-textinput-effects ★2062](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built by react native and inspired by Codrops.
+* [react-native-textinput-effects ★2062](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and Android. Built by react native and inspired by Codrops.
 * [react-native-modalbox ★2043](https://github.com/maxs15/react-native-modalbox) - A component for react-native
-* [react-native-lightbox ★1917](https://github.com/oblador/react-native-lightbox) - a very Slick and modern mobile lightbox implementation
-* [gl-react-native ★1750](https://github.com/ProjectSeptemberInc/gl-react-native) - use OpenGL for performant effects on images and videos
+* [react-native-lightbox ★1917](https://github.com/oblador/react-native-lightbox) - A very Slick and modern mobile lightbox implementation
+* [gl-react-native ★1750](https://github.com/ProjectSeptemberInc/gl-react-native) - Use OpenGL for performant effects on images and videos
 * [react-native-progress ★2069](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 * [react-native-action-button ★1762](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
 * [react-native-modal ★1728](https://github.com/react-native-community/react-native-modal) - An enhanced, animated and customizable react-native modal
@@ -303,15 +303,16 @@ Components and native modules.
 * [react-native-mapbox-gl ★1663](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 * [react-native-fast-image ★2240](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 * [react-native-spinkit ★1585](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
-* [victory-native ★1264](https://github.com/FormidableLabs/victory-native) - victory-native is a collection of components to help you create charts, bar graphs etc.
-* [react-native-chart ★1464](https://github.com/onefold/react-native-chart) - react-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
+* [victory-native ★1264](https://github.com/FormidableLabs/victory-native) - Victory-native is a collection of components to help you create charts, bar graphs etc.
+* [react-native-chart ★1464](https://github.com/onefold/react-native-chart) - React-native-chart is a simple module for adding line charts, area charts, or bar charts to your React Native app.
 * [react-native-gifted-listview ★1443](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 * [react-native-viewpager ★1350](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 * [react-native-parallax-scroll-view ★1486](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
 * [react-native-easy-grid ★1304](https://github.com/GeekyAnts/react-native-easy-grid) - Easy Responsive Grid Layout for React Native.
 * [react-virgin ★1319](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-icons ★1168](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
-* [react-native-datepicker ★1365](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS* [react-native-tableview ★1105](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
+* [react-native-datepicker ★1365](https://github.com/xgfe/react-native-datepicker) - React Native date, datetime and time picker for both Android and IOS
+* [react-native-tableview ★1105](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 * [react-native-looped-carousel ★1094](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 * [react-native-picker ★1238](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-keyboard-spacer ★1103](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
@@ -319,7 +320,7 @@ Components and native modules.
 * [react-native-collapsible ★1174](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 * [react-native-circular-progress ★1088](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 * [react-native-popup-dialog ★1088](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
-* [react-native-largelist ★1054](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native.(iOS & Android) 
+* [react-native-largelist ★1054](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native (iOS & Android) 
 * [react-native-tinder-swipe-cards ★881](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 * [react-native-root-toast ★971](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-pathjs-charts ★842](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
@@ -340,7 +341,7 @@ Components and native modules.
 * [react-native-calendar ★559](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
 * [react-native-photo-browser ★565](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 * [react-native-popup-menu ★653](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
-* [rn-placeholder ★734](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
+* [rn-placeholder ★734](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web!)
 * [react-native-qrcode ★644](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
 * [react-native-timeline-listview ★665](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 * [react-native-parsed-text ★552](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
@@ -371,16 +372,16 @@ Components and native modules.
 * [react-native-country-picker-modal ★403](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 * [react-native-responsive-image ★344](https://github.com/Dharmoslap/react-native-responsive-image) - Most elegant Responsive Image component
 * [react-native-canvas ★421](https://github.com/lwansbrough/react-native-canvas) - A Canvas element for React Native
-* [react-native-pdf-view ★338](https://github.com/cnjon/react-native-pdf-view) - view pdf file using react-native
-* [react-native-toast ★336](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
+* [react-native-pdf-view ★338](https://github.com/cnjon/react-native-pdf-view) - View pdf file using react-native
+* [react-native-toast ★336](https://github.com/remobile/react-native-toast) - An android like toast for react-native support for iOS and Android
 * [react-native-modal-picker ★333](https://github.com/d-a-n/react-native-modal-picker) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 * [react-native-gesture-recognizers ★313](https://github.com/johanneslumpe/react-native-gesture-recognizers) - Gesture recognizer decorators for react-native
 * [react-native-autocomplete-input ★366](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 * [react-native-check-box ★372](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
-* [react-native-effects-view ★304](https://github.com/voronianski/react-native-effects-view) - ReactNative Component that makes easy to use iOS8 UIVisualEffect
+* [react-native-effects-view ★304](https://github.com/voronianski/react-native-effects-view) - React Native Component that makes easy to use iOS8 UIVisualEffect
 * [react-native-super-grid ★434](https://github.com/saleel/react-native-super-grid) - Responsive Grid View for React Native.
-* [react-native-root-modal ★304](https://github.com/magicismight/react-native-root-modal) - react native modal component
-* [react-native-off-canvas-menu ★327](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for react native applications.
+* [react-native-root-modal ★304](https://github.com/magicismight/react-native-root-modal) - React native modal component
+* [react-native-off-canvas-menu ★327](https://github.com/shoumma/react-native-off-canvas-menu) - Beautifully crafted off canvas menu components for React native applications.
 * [react-native-grid-view ★276](https://github.com/lucholaf/react-native-grid-view) - React Native Grid/Collection View component
 * [react-native-circular-action-menu ★305](https://github.com/geremih/react-native-circular-action-menu) - An animated and customizable circular floating menu.
 * [react-native-searchbar ★313](https://github.com/localz/react-native-searchbar) - An animated search bar for react native with inbuilt search (iOS and Android)
@@ -390,7 +391,7 @@ Components and native modules.
 * [react-native-tableview-simple ★267](https://github.com/Purii/react-native-tableview-simple) - React Native component for TableView made with pure CSS
 * [react-native-timer-mixin ★274](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 * [react-native-text-input-mask ★383](https://github.com/ivanzotov/react-native-text-input-mask) - Text input mask for Android and iOS, native implementation RedMadRobot libraries
-* [react-native-masked-text ★392](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
+* [react-native-masked-text ★392](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React Native.
 * [react-native-simple-router ★255](https://github.com/react-native-simple-router-community/react-native-simple-router) - A community maintained router component for React Native
 * [react-native-tabbar ★261](https://github.com/alinz/react-native-tabbar) - Tab bar with more freedom
 * [react-native-keyboardevents ★247](https://github.com/johanneslumpe/react-native-keyboardevents) - Monitors keyboard show/hide notifications
@@ -405,7 +406,7 @@ Components and native modules.
 * [react-native-keyboard-manager ★267](https://github.com/douglasjunior/react-native-keyboard-manager) - Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
 * [rn-sliding-up-panel ★321](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
 * [react-native-tooltip ★217](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
-* [react-native-egg ★220](https://github.com/FuYaoDe/react-native-egg) - A easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
+* [react-native-egg ★220](https://github.com/FuYaoDe/react-native-egg) - An easter egg component implementation simple gestures detection achieve trigger can make your react native app infinitely more fun.
 * [react-native-carousel-control ★199](https://github.com/machadogj/react-native-carousel-control) - React Native Carousel control with support for iOS and Android.
 * [react-native-app-auth ★310](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
 * [react-native-emoji ★216](https://github.com/jorilallo/react-native-emoji) - Emoji component for React Native
@@ -413,7 +414,7 @@ Components and native modules.
 * [autoresponsive-react-native ★201](https://github.com/xudafeng/autoresponsive-react-native) - A Magical Layout Library For React
 * [react-native-autolink ★201](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 * [react-native-cardview ★239](https://github.com/Kishanjvaghela/react-native-cardview) - CardView for react-native (All Android version and iOS)
-* [react-native-segmented-control-tab ★252](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab(for Android/iOS)
+* [react-native-segmented-control-tab ★252](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab (for Android/iOS)
 * [react-native-qrcode-svg ★228](https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and node-qrcode.
 * [react-native-selectme ★178](https://github.com/gs-akhan/react-native-select) - A better Select dropdown menu for react-native
 * [react-native-grid-component ★188](https://github.com/phil-r/react-native-grid-component) - Easy to use grid component for your react-native project. Supports iOS and Android.
@@ -430,12 +431,12 @@ Components and native modules.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
 * [react-native-collapsing-toolbar ★185](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 * [react-native-checkbox ★154](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
-* [react-native-popup ★153](https://github.com/beefe/react-native-popup) - popup for react-native
+* [react-native-popup ★153](https://github.com/beefe/react-native-popup) - Popup for react-native
 * [react-native-radial-menu ★153](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 * [react-native-orientation-listener ★141](https://github.com/walmartreact/react-native-orientation-listener) - A react-native library for obtaining current device orientation
-* [react-native-gestures ★152](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
+* [react-native-gestures ★152](https://github.com/kiddkai/react-native-gestures) - Composable gesture system in react native
 * [react-native-page-control ★151](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios UIPageControl
-* [react-native-parallax-scroll ★209](https://github.com/monterosalondon/react-native-parallax-scroll) - Parallax Scroll component with sticky header, foreground, native-driver and all scrollable components(FlatList, ListView, SectionList, ScrollView) support.
+* [react-native-parallax-scroll ★209](https://github.com/monterosalondon/react-native-parallax-scroll) - Parallax Scroll component with sticky header, foreground, native-driver and all scrollable components (FlatList, ListView, SectionList, ScrollView) support.
 * [react-native-pagination ★182](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 * [react-native-google-place-picker ★148](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 * [react-native-calendar-select ★195](https://github.com/Tinysymphony/react-native-calendar-select) - A component to select a date period from calendar modal, like Airbnb.
@@ -462,7 +463,7 @@ Components and native modules.
 * [react-native-gmaps ★101](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 * [react-native-android-kit ★104](https://github.com/ayoubdev/react-native-android-kit) - A set of native Android UI components and modules for React Native framework (Android Design Support Library, TabLayout, Floating Action Button and more...).
 * [react-native-cell-components ★125](https://github.com/lodev09/react-native-cell-components) - Awesome react-native cell components! From a Cell to more complex & awesome components.
-* [react-native-triangle ★108](https://github.com/Jpoliachik/react-native-triangle) - draw triangle views in react native
+* [react-native-triangle ★108](https://github.com/Jpoliachik/react-native-triangle) - Draw triangle views in react native
 * [react-native-bouncy-drawer ★116](https://github.com/SoftZen/react-native-bouncy-drawer) - Highly customizable Bouncy Drawer
 * [react-native-swipe-a-lot ★96](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 * [react-native-marquee-label ★100](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
@@ -470,9 +471,9 @@ Components and native modules.
 * [react-native-fading-slides ★103](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
 * [react-native-flexi-radio-button ★111](https://github.com/thegamenicorus/react-native-flexi-radio-button) - Simple and flexible Radio button for React Native
 * [react-native-swiper2 ★86](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
-* [react-native-scrollable-mixin ★91](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components.
-* [react-native-submit-button ★96](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios.
-* [photo-viewer ★114](https://github.com/merryjs/photo-viewer) - A photo viewer for react native build on top of NYTPhotoViewer and FrescoImageViewer.
+* [react-native-scrollable-mixin ★91](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components
+* [react-native-submit-button ★96](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios
+* [photo-viewer ★114](https://github.com/merryjs/photo-viewer) - A photo viewer for react native build on top of NYTPhotoViewer and FrescoImageViewer
 * [react-native-listitem ★86](https://github.com/dancormier/react-native-listitem) - iOS-style listitem component for React Native
 * [react-native-drawer-menu ★97](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 * [react-native-shared-preferences ★85](https://github.com/sriraman/react-native-shared-preferences) - Android's Native key value storage system in React Native
@@ -556,8 +557,8 @@ Components and native modules.
 * [react-native-dial ★47](https://github.com/netbeast/react-native-dial) - A react native reusable and efficient dial knob element.
 * [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
 * [react-native-air-progress-bar ★44](https://github.com/kis/react-native-air-progress-bar) - React Native progress-bar component, customizable and animated
-* [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
-* [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
+* [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) - React Native Component for grading scores using ReactART.
+* [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment,...) from your app via Slack and this webhook lib.
 * [react-native-touch-visualizer ★45](https://github.com/zachgibson/react-native-touch-visualizer) - Visualize touches and drags on React Native apps for iOS.
 * [react-native-wheel ★38](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 * [react-native-toast-native ★51](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
