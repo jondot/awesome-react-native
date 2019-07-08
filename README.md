@@ -826,6 +826,7 @@ Components and native modules.
 * [react-native-form ★138](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 * [react-reactive-forms ★106](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React.
 * [react-native-forms ★86](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
+* [react-native-formawesome](https://github.com/MAKARD/react-native-formawesome) - Complex and simple forms builder.
 * [react-native-from-builder ★69](https://github.com/bietkul/react-native-form-builder) - Handle your forms in a smart way.
 * [foect ★37](https://github.com/unexge/foect) - Simple form validation library for React Native
 * [react-native-fm-form ★13](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
