@@ -678,9 +678,6 @@ Components and native modules.
 * [react-native-picker-module ★1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
 * [react-native-countries ★1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 * [react-native-scrubber ★1](https://github.com/repodio/react-native-scrubber/tree/master) - A simple audio/video Scrubber for both iOS and Android.
-* [rn-material-textinput ★1](https://github.com/akshit5230/React-Native-Material-TextInput) - A simple TextInput wrapper for material styling in iOS and Android with Customizable styles & Animated label.
-* [rn-action-picker ★1](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
-* [rn-collapsible-section ★1](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
 * [react-native-store-view ���19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
@@ -694,7 +691,10 @@ Components and native modules.
 * [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
-* [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
+* [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles.
+* [rn-material-textinput](https://github.com/akshit5230/React-Native-Material-TextInput) - A simple TextInput wrapper for material styling in iOS and Android with Customizable styles & Animated label.
+* [rn-action-picker](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
+* [rn-collapsible-section](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 
 ### Navigation
 
