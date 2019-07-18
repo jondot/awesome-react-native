@@ -331,7 +331,8 @@ Components and native modules.
 * [react-native-svg-charts ★764](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native
 * [react-native-masonry ★758](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 * [react-native-credit-card-input ★742](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
-* [rn-placeholder ★734](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web!)
+* [rn-placeholder ★1139](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web!)
+* [action-sheet-rn ★1](https://github.com/mfrachet/action-sheet-rn) - Probably the most declarative API for ActionSheets in React Native
 * [react-native-sglistview ★731](https://github.com/sghiassy/react-native-sglistview) - A memory minded implementation of React Native's ListView
 * [react-native-modal-dropdown ★708](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 * [react-native-button ★707](https://github.com/ide/react-native-button)
