@@ -692,6 +692,7 @@ Components and native modules.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 * [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
+* [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 
 ### Navigation
 
