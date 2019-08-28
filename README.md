@@ -566,6 +566,7 @@ Components and native modules.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 * [react-native-toolkit ★41](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 * [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
+* [react-native-sortable-gridview ★4](https://github.com/ge6285790/react-native-sortable-gridview) - A React Native sortable and draggable Grid View Component.
 * [react-native-elastic-stack ★41](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 * [react-native-big-slider ★41](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 * [react-native-custom-actsheet ★40](https://www.npmjs.com/package/react-native-custom-actsheet) - A custom ActionSheet for react-native
