@@ -275,6 +275,7 @@ Content published on the Web.
 
 ### Continuous Integration
 
+* [Distributing beta builds with Fastlane on Android and iOS](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
 * [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)
@@ -1248,6 +1249,7 @@ Get a head start on development with an existing seed.
 * [React Native Seed ★504](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 * [🚀 React Native Starter ★388](https://github.com/flatlogic/react-native-starter) - A powerful starter template that bootstraps development of your mobile application.
 * [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
+* [react-native-boilerplate ★335](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
@@ -1256,7 +1258,6 @@ Get a head start on development with an existing seed.
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 * [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
-* [TheCodingMachine boilerplate ★102](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [Rhinos-app ★81](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 * [react-native-web-boilerplate ★72](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 * [react-native-boilerplate ★61](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
