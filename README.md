@@ -180,6 +180,20 @@ Workshops - April 5th, 2019
 Workshops - July 10th, 2019
 Conference - July 11th-12th, 2019
 
+### React Native EU - Wroclaw, Poland
+<https://react-native.eu/>
+
+Workshops - September 4th, 2019
+Conference - September 5th-6th, 2019
+
+### React Berlin - Berlin, Germany
+
+<https://reactday.berlin/>
+
+Workshops - December 4th-5th, 2019
+Conference - December 6th, 2019
+
+
 ## Articles
 
 Content published on the Web.
