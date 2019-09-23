@@ -876,7 +876,7 @@ Components and native modules.
 * [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 
 ### Internationalization
-
+* [fbt ★3202](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
 * [react-native-localize ★603](https://github.com/react-native-community/react-native-localize) - React Native Localize
 * [react-native-globalize ★192](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
 
