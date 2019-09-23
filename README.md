@@ -339,6 +339,7 @@ Components and native modules.
 * [react-native-tabs ★687](https://github.com/aksonov/react-native-tabs) - React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)
 * [react-native-search-bar ★671](https://github.com/umhan35/react-native-search-bar) - The native search bar for react native.
 * [react-native-timeline-listview ★665](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
+* [react-native-toastboard](https://github.com/MAKARD/react-native-toastboard) - The simplest way to show notification.
 * [apsl-react-native-button ★653](https://github.com/APSL/react-native-button) - React Native button component with rounded corners.
 * [react-native-popup-menu ★653](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component for React Native.
 * [react-native-qrcode ★644](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
@@ -690,6 +691,7 @@ Components and native modules.
 * [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
+* [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
 
 ### Navigation
 
@@ -824,6 +826,7 @@ Components and native modules.
 * [react-native-form ★138](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 * [react-reactive-forms ★106](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React.
 * [react-native-forms ★86](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
+* [react-native-formawesome](https://github.com/MAKARD/react-native-formawesome) - Complex and simple forms builder.
 * [react-native-from-builder ★69](https://github.com/bietkul/react-native-form-builder) - Handle your forms in a smart way.
 * [foect ★37](https://github.com/unexge/foect) - Simple form validation library for React Native
 * [react-native-fm-form ★13](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
@@ -1134,6 +1137,7 @@ Components and native modules.
 * [react-native-revmob ★15](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 * [react-native-google-pay ★2](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 * [react-native-apay ★2](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
+* [react-native-square-in-app-payments ★18](https://github.com/square/in-app-payments-react-native-plugin) - Square React Native plugin for In-App Payments SDK.
 
 ### Animation
 
