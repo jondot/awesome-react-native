@@ -708,7 +708,7 @@ Components and native modules.
 * [react-native-countries ★1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 * [react-native-scrubber ★1](https://github.com/repodio/react-native-scrubber/tree/master) - A simple audio/video Scrubber for both iOS and Android.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
-* [react-native-store-view ���19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
+* [react-native-store-view ★19](https://github.com/rh389/react-native-store-view) - Wraps SKStoreProductViewController for use in react-native projects
 * [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
 * [react-native-counters ★0](https://github.com/yasaricli/react-native-counters) - Minus Plus Counter for React Native
 * [react-native-gradient-buttons](https://github.com/thomaswangio/react-native-gradient-buttons) - A lightweight, customizable and haptic Gradient Button component for React Native.
@@ -721,6 +721,7 @@ Components and native modules.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 * [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
+* [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 * [react-native-gesture-detector](https://github.com/mxmzb/react-native-gesture-detector) - Easily create and detect custom, complex gestures on React Native.
 
 ### Navigation
