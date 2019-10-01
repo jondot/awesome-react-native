@@ -803,6 +803,7 @@ Components and native modules.
 * [react-native-universal-modal ★16](https://github.com/bokuweb/react-native-universal-modal) - Universal simple modal component for React Native
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
+* [@typeskill/typer ★4](https://github.com/typeskill/typer) - The Operational-Transform Based (React) Native Rich Text Library
 
 ### Analytics
 
