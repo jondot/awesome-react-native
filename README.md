@@ -589,6 +589,7 @@ Components and native modules.
 * [react-native-calendar-android ★44](https://github.com/chymtt/ReactNativeCalendarAndroid) - A simple material-themed calendar for react native android
 * [react-native-air-progress-bar ★44](https://github.com/kis/react-native-air-progress-bar) - React Native progress-bar component, customizable and animated
 * [react-native-full-screen ★44](https://github.com/Anthonyzou/react-native-full-screen) - React Native FullScreen api and element
+* [react-native-full-image-picker ★44](https://github.com/gaoxiaosong/react-native-full-image-picker) - Support taking photo, video recording or selecting from photo library.
 * [react-native-viewport ★43](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
 
 * [react-native-progress-circular ★43](https://github.com/andy9775/React-Native-CircularProgress) - A pure React Native Component for circular progress bars for both iOS and Android.
