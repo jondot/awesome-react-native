@@ -855,6 +855,7 @@ Components and native modules.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 * [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
+* [react-native-ui-blueprint ★26](https://github.com/nidorx/react-native-ui-blueprint) - No more wrong margins, text sizes and many other silly visual mistakes. React Native UI Blueprint allow to you implements a pixel-perfect design.
 
 ### Forms
 
@@ -1239,6 +1240,7 @@ Useful React Native tooling.
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
+* [react-native-ui-blueprint ★26](https://github.com/nidorx/react-native-ui-blueprint) - No more wrong margins, text sizes and many other silly visual mistakes. React Native UI Blueprint allow to you implements a pixel-perfect design.
 
 ## Seeds
 
