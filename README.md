@@ -1400,6 +1400,7 @@ Open source React Native apps and other examples.
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
 * [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
 * [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
+* [TensorFlow.js Starter](https://github.com/t73liu/tfjs-starter) - TensorFlow.js starter app using MobileNet to predict image class. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) for additional context.
 
 ## Frameworks
 
