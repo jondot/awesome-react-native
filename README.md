@@ -334,6 +334,7 @@ Components and native modules.
 * [nachos-ui ★1684](https://github.com/avocode/nachos-ui) - NACHOS UI kit for React Native. Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React.
 * [react-native-mapbox-gl ★1663](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 * [react-native-foldview ★1616](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
+* [react-native-modern-datepicker ★12](https://github.com/HosseinShabani/react-native-modern-datepicker) - React Native Modern Datepicker
 * [react-native-spinkit ★1585](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 * [react-native-recyclerlist ★1515](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and Web with support for complex layouts.
 * [react-native-parallax-scroll-view ★1486](https://github.com/jaysoo/react-native-parallax-scroll-view) - A ScrollView-like component with parallax and sticky header support.
