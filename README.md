@@ -885,6 +885,7 @@ Components and native modules.
 * [formik ★10633](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
 * [react-hook-form ★9346](https://github.com/react-hook-form/react-hook-form) - React hooks for forms validation without the hassle.
 * [redux-form ★4829](http://redux-form.com) - Redux form state management (Web and Native)
+* [redux-hook-form ★2700](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle. (Web and Native)
 * [tcomb-form-native ★2831](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 * [react-native-gifted-form ★1317](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
 * [react-native-clean-form ★414](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components.
