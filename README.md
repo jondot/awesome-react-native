@@ -673,6 +673,7 @@ Components and native modules.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 * [react-native-calculator ★12](https://github.com/budiadiono/react-native-calculator) - React Native Calculator and Calculator Input Component.
 * [react-native-navbar-color ★12](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
+* [radio-buttons-react-native ★11](https://github.com/sramezani/radio-buttons-react-native) - Animated radio buttons component for react native
 * [react-native-piechart ★10](https://github.com/frostney/react-native-piechart) - A component for React Native
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 * [react-native-coachmasks ★10](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
@@ -732,7 +733,6 @@ Components and native modules.
 * [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
 * [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements.
 * [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
-* [radio-buttons-react-native ★1](https://github.com/sramezani/radio-buttons-react-native) - Animated radio buttons component for react native
 * [react-native-gesture-detector](https://github.com/mxmzb/react-native-gesture-detector) - Easily create and detect custom, complex gestures on React Native.
 
 ### Navigation
