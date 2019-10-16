@@ -1,0 +1,20 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:extend:20180424':
+    - celeste > unified > extend:
+        patched: '2019-10-16T14:02:53.358Z'
+    - celeste > remark > unified > extend:
+        patched: '2019-10-16T14:02:53.358Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - celeste > @octokit/rest > https-proxy-agent:
+        patched: '2019-10-16T14:02:53.358Z'
+  SNYK-JS-LODASH-450202:
+    - celeste > lodash:
+        patched: '2019-10-16T14:02:53.358Z'
+    - celeste > @octokit/rest > lodash:
+        patched: '2019-10-16T14:02:53.358Z'
+    - celeste > cheerio > lodash:
+        patched: '2019-10-16T14:02:53.358Z'
