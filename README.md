@@ -385,6 +385,7 @@ Components and native modules.
 * [react-native-copilot ★595](https://github.com/okgrow/react-native-copilot) - Step-by-step walkthrough for your react native app
 * [react-native-photo-browser ★565](https://github.com/halilb/react-native-photo-browser) - Local and remote photo browser with captions, selections and grid view support.
 * [react-native-calendar ★559](https://github.com/christopherdro/react-native-calendar) - Calendar Component for React Native
+* [react-native-calendar-events ★510](https://github.com/wmcmahan/react-native-calendar-events)
 * [react-native-parsed-text ★552](https://github.com/taskrabbit/react-native-parsed-text) - Parse text and make them into multiple React Native Text elements
 * [react-native-step-indicator ★538](https://github.com/24ark/react-native-step-indicator) - A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.
 * [react-native-popover-haobtc ★514](https://github.com/jeanregisser/react-native-popover) - A component for react-native
