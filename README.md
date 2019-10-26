@@ -1202,6 +1202,7 @@ Components and native modules.
 * [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
 * [react-native-agora +190](https://github.com/syanbo/react-native-agora) - A React Native Agora WebRTC Wrapper.
 * [agora-react-native-rtm +5](https://github.com/agoraio/agora-react-native-rtm) - A React Native Agora RealTime-Message Cloud Service Wrapper.
+* [react-native-intercom *323](https://github.com/tinycreative/react-native-intercom) - A React Native Intercom Wrapper.
 
 ### Monetization
 
