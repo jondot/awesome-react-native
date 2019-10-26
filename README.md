@@ -1483,6 +1483,7 @@ Walkthroughs and tutorials that help you learn React Native.
 * [Getting Started with Lottie, React Native and Expo](https://hackernoon.com/react-native-getting-started-with-lottie-and-expo-8b2105fbb496)
 * [How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
 * [React Native for Designers](https://designcode.io/react-native)
+* [Start React Native - Animation tutorial series](https://start-react-native.dev/)
 
 ## Books
 
