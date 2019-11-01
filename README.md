@@ -82,6 +82,7 @@ _Understand How Your React-Native App is Doing with Real-Time Contextual Insight
     - [Chain React - Portland, OR USA](#chain-react---portland-or-usa-1)
     - [React Native EU - Wroclaw, Poland](#react-native-eu---wroclaw-poland-1)
     - [React Berlin - Berlin, Germany](#react-berlin---berlin-germany-1)
+    - [ReactEurope - Paris, France](#reacteurope---paris-france)
   - [Articles](#articles)
     - [Reference](#reference)
     - [Howtos](#howtos)
@@ -197,6 +198,12 @@ Conference - September 5th-6th, 2019
 Workshops - December 4th-5th, 2019
 Conference - December 6th, 2019
 
+### ReactEurope - Paris, France
+
+<https://www.react-europe.org/>
+
+Conference - May 14th-15, 2020
+Workshops - May 12th-13th, 2020
 
 ## Articles
 
