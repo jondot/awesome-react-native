@@ -100,7 +100,7 @@ _Understand How Your React-Native App is Doing with Real-Time Contextual Insight
     - [Forms](#forms)
     - [Geolocation](#geolocation)
     - [Internationalization](#internationalization)
-    - [Build & Development](#build--development)
+    - [Build & Development](#build-development)
     - [Styling](#styling)
     - [System](#system)
     - [Web](#web)
