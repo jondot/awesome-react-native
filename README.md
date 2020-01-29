@@ -164,12 +164,6 @@ Conference - September 14-15th, 2018
 
 Conference - November 4th, 2018
 
-### React Berlin - Berlin, Germany
-
-<https://reactday.berlin/>
-
-Conference - November 30th, 2018
-
 ### App.js Conf - Krakow, Poland
 
 <https://appjs.co/>
@@ -185,6 +179,7 @@ Workshops - July 10th, 2019
 Conference - July 11th-12th, 2019
 
 ### React Native EU - Wroclaw, Poland
+
 <https://react-native.eu/>
 
 Workshops - September 4th, 2019
@@ -237,7 +232,6 @@ Content published on the Web.
 * [How to Gracefully Use Environment Variables in a React Native App](https://levelup.gitconnected.com/how-to-gracefully-use-environment-variables-in-a-react-native-app-7f1600446116)
 * [How to build a xylophone app with Audio API, React Native, and Expo](https://heartbeat.fritz.ai/how-to-build-a-xylophone-app-with-audio-api-react-native-and-expo-7d6754a0603c)
 * [How To Use WebViews in a React Native App](https://blog.jscrambler.com/how-to-use-webviews-in-a-react-native-app/)
-* [A comprehensive guide on building offline React Native apps with AsyncStorage](https://heartbeat.fritz.ai/building-offline-react-native-apps-with-asyncstorage-dcb4b0657f93)
 
 ### Assorted
 
@@ -250,9 +244,9 @@ Content published on the Web.
 * [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 * [First impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 * [Wrapping Cocoapods for React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.wzp2qq1hn)
-* [React Native: Initial Thoughts (opinion)](http://unredacted.redalemeden.com/2015/initial-thoughts-about-react-native/)
+* [React Native: Initial Thoughts (opinion)](https://redalemeden.com/blog/2015/initial-thoughts-about-react-native)
 * [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
-* [ReactNative NES & More](http://moduscreate.com/react-native-has-landed/)
+* [ReactNative NES & More](https://moduscreate.com/blog/react-native-has-landed/)
 * [React Native Installation and Setup](https://github.com/checkraiser/beginning-react-native/blob/master/1.Installation_and_setup.md)
 * [Diary of Building an iOS App with React Native](http://herman.asia/building-a-flashcard-app-with-react-native)
 * [Reflecting on React Native development](http://habd.as/reflecting-on-react-native-development/)
@@ -512,7 +506,6 @@ Components and native modules.
 * [react-native-fading-slides ★103](https://github.com/chagasaway/react-native-fading-slides) - Simple looped fading slides carousel for React Native
 * [react-native-scl-alert ★102](https://github.com/rafaelmotta/react-native-scl-alert) - React Native implementation of the package SCLAlertView-Swift
 * [react-native-card-view ★101](https://github.com/jacklam718/react-native-card-view) - A react native card component
-* [react-native-gmaps ★101](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
 * [react-native-marquee-label ★100](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 * [react-native-drawer-menu ★97](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 * [react-native-simple-dialogs ★97](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component.
@@ -600,7 +593,6 @@ Components and native modules.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
 * [react-native-toolkit ★41](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 * [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - A React Native draggable and sortable grid component write by typescript.
-* [react-native-sortable-gridview ★4](https://github.com/ge6285790/react-native-sortable-gridview) - A React Native sortable and draggable Grid View Component.
 * [react-native-elastic-stack ★41](https://github.com/monterosalondon/react-native-elastic-stack) - ReactNative component that implements [elastic stack effect](https://tympanus.net/Development/ElasticStack/)
 * [react-native-big-slider ★41](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 * [react-native-custom-actsheet ★40](https://www.npmjs.com/package/react-native-custom-actsheet) - A custom ActionSheet for react-native
@@ -1276,7 +1268,7 @@ Get a head start on development with an existing seed.
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
-* [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries                                                                                                   
+* [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 
 ## Libraries
@@ -1419,16 +1411,14 @@ Walkthroughs and tutorials that help you learn React Native.
 * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 * [Build a streaming audio app with React Native](http://slides.com/jhabdas/streaming-audio-react-native/)
 * [Building a Calculator for Android and iOS with React Native](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react)
-* [Building Custom React Native Components From Scratch](http://moduscreate.com/react_native_custom_components_ios/)
-* [Custom Native iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html)
+* [Building Custom React Native Components From Scratch](http://moduscreate.com/blog/react_native_custom_components_ios/)
 * [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
-* [Easily Connect React Native and Meteor](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
 * [Enabling Live Reload](https://www.reddit.com/r/reactnative/comments/30hbg3/enabling_live_reload/)
 * [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
 * [Facebook Login With React Native](http://brentvatne.ca/facebook-login-with-react-native)
 * [Integrating Parse and React Native for iOS](http://www.raywenderlich.com/106369/integrating-parse-react-native-ios)
 * [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-* [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
+* [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/blog/leverage-existing-ios-views-react-native-app/)
 * [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 * [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 * [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
@@ -1488,7 +1478,6 @@ Assortment of conference and training videos.
 * [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) - Youtube channel in spanish about with a series of videos talking about react native
 * [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
 * [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
-* [Build a Weather app ](https://cloneable.io/courses/enrolled/103341) - (Free) A course to build a weather app with React Native.
 * [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
 * [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
@@ -1515,7 +1504,7 @@ Assortment of conference and training videos.
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
 * [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
-* [Ideamotive blog](https://ideamotive.co/blog/category/react-native/) - Blog about React Native
+* [Ideamotive's Blog](https://www.ideamotive.co/blog/tag/react-native) - Blog about React Native
 
 ## Newsletters
 
