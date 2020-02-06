@@ -60,7 +60,7 @@ dotan-at-paracode.com.
 
 _Understand How Your React-Native App is Doing with Real-Time Contextual Insights From Your Users_
 
->Instabug helps development and product teams easily collect bugs and feedback from beta testers and customers to iterate faster and ship quality apps .Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
+>Instabug helps development and product teams easily collect bugs and feedback from beta testers and customers to iterate faster and ship quality apps .Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs.
 > Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. Instabug offering awesome-react community an exclusive 15% discount on all paid plans. [Get Started!](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)
 
 # Categories
@@ -353,7 +353,7 @@ Components and native modules.
 * [react-native-looped-carousel ★1094](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
 * [react-native-circular-progress ★1088](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 * [react-native-popup-dialog ★1088](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
-* [react-native-largelist ★1054](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native (iOS & Android) 
+* [react-native-largelist ★1054](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native (iOS & Android)
 * [react-native-offline ★977](https://github.com/rauliyohmc/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 * [react-native-root-toast ★971](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-dropdownalert ★894](https://github.com/testshallpass/react-native-dropdownalert) - A simple drop down alert with 4 pre-defined types.
@@ -660,6 +660,7 @@ Components and native modules.
 * [react-native-modal-loader ★19](https://github.com/kdastan/react-native-modal-loader) - Customizable animated modal progress hud for react apps.
 * [react-native-images-collage ★19](https://github.com/lukebrandonfarrell/react-native-images-collage) - Robust interactive image collage component for React Native.
 * [react-native-avatar-gravatar ★18](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
+* [react-native-image-modal ★16](https://github.com/dev-yakuza/react-native-image-modal) -  simple full size modal image for iOS and Android. supports zoom-in/out, double-tap zoom-in/out, move and swipe-to-dismiss
 * [react-native-grid ★15](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 * [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 * [rn-displayable ★15](https://github.com/mfrachet/rn-displayable) - Display your components based on props or a set of rules
@@ -710,7 +711,7 @@ Components and native modules.
 * [react-native-expandable-fab-menu ★2](https://github.com/lvlrSajjad/react-native-expandable-fab-menu) - React Native Expandable Fab Menu Component (pure js)
 * [react-native-animated-bottom-tabbar ★2](https://github.com/lvlrSajjad/react-native-animated-bottom-tabbar) - Animated bottom Tab bar for react native
 * [react-native-create-new-file-ios ★1](https://github.com/rhaker/react-native-create-new-file-ios) - A react-native interface for creating a blank new file on ios. File must not already exist.
-* [react-native-picker-module ★1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker. 
+* [react-native-picker-module ★1](https://github.com/talut/react-native-picker-module) - A different approach for React Native Picker.
 * [react-native-countries ★1](https://github.com/talut/react-native-countries) - This package is provide you directly native countries name & code list from device.
 * [react-native-scrubber ★1](https://github.com/repodio/react-native-scrubber/tree/master) - A simple audio/video Scrubber for both iOS and Android.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) - Server Driven Rendering (SDR) component for React Native
@@ -1276,7 +1277,7 @@ Get a head start on development with an existing seed.
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - A turbo starter template for react-native + React Navigation + Redux + Redux Persist
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
-* [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries                                                                                                   
+* [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 
 ## Libraries
