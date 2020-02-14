@@ -996,6 +996,7 @@ Components and native modules.
 * [react-native-barcode-scanner ★60](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 * [react-native-haptic-feedback ★60](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android
 * [react-native-clipboard ★58](https://github.com/silentcloud/react-native-clipboard) - React Native component for getting or setting clipboard content
+* [react-native-media-clipboard](https://github.com/Jarred-Sumner/react-native-media-clipboard) - React Native module for getting images, URLs, and strings from the clipboard
 * [react-native-nfc-ios ★52](https://github.com/barodeur/react-native-nfc-ios) - Easy to use CoreNFC for React Native
 * [react-native-android-sms ★48](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
 * [react-native-voip-push-notification ★48](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
