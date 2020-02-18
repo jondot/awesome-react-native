@@ -1073,6 +1073,8 @@ Components and native modules.
 * [react-native-sound-recorder ★41](https://github.com/kevinresol/react-native-sound-recorder) - No-hassle Sound Recorder for React Native.
 * [react-native-fullscreen-video ★39](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 * [react-native-android-audio-streaming-aac ★25](https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac) - A react native streaming player
+* [react-native-photoeditorsdk ★24](https://github.com/imgly/pesdk-react-native) - React Native module for [PhotoEditor SDK](https://www.photoeditorsdk.com) (Android & iOS)
+* [react-native-videoeditorsdk ★18](https://github.com/imgly/vesdk-react-native) - React Native module for [VideoEditor SDK](https://www.videoeditorsdk.com) (Android & iOS)
 * [react-native-true-sight ★18](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-audio-manager ★15](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 * [react-native-safe-image ★13](https://github.com/xcarpentier/react-native-safe-image) - Really light React-Native package to handle fallback when image is on error
