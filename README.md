@@ -276,6 +276,7 @@ Content published on the Web.
 * [Build a Chat App with Firebase and React Native](https://blog.jscrambler.com/build-a-chat-app-with-firebase-and-react-native/)
 * [Building Stylistic UIs with Emotion-JS for React Native](https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779)
 * [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
+* [React Native: Native Modules made for React developers](https://blog.photoeditorsdk.com/react-native-native-modules-made-for-react-developers-59ca93c41541) - on the developer experience with 3rd-party libraries for RN 0.60+
 
 ### Continuous Integration
 
