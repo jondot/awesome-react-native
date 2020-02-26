@@ -1083,6 +1083,7 @@ Components and native modules.
 
 ### Storage
 
+* [RxDB ★12797](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications.
 * [WatermelonDB ★4649](https://github.com/Nozbe/WatermelonDB) - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast.
 * [realm ★3184](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
 * [react-native-storage ★2115](https://github.com/sunnylqm/react-native-storage) - This is a local storage wrapper for both react-native(AsyncStorage) and browser(localStorage). ES6/babel is needed.
