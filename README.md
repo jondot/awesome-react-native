@@ -1536,9 +1536,8 @@ Assortment of conference and training videos.
 
 ## Newsletters
 
-* [Let's React](http://letsreact.io)
+* [React Native Now](https://reactnativenow.com)
 * [React Native Newsletter](http://reactnative.cc)
-* [React Native Coach](http://reactnativecoach.com)
 
 ## Releases
 
