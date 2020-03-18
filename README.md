@@ -521,6 +521,7 @@ Components and native modules.
 * [react-native-simple-dialogs ★97](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component.
 * [react-native-swipe-a-lot ★96](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 * [react-native-submit-button ★96](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios
+* [react-native-actions-sheet ★94](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code
 * [react-native-dialog ★92](https://github.com/mmazzarolo/react-native-dialog) - Pure JavaScript React-Native dialog
 * [react-native-scrollable-mixin ★91](https://github.com/exponentjs/react-native-scrollable-mixin) - A standard interface for your scrollable React Native components, making it easier to compose components
 * [react-native-open-maps ★90](https://github.com/brh55/react-native-open-maps) - A simple lib to open up the corresponding map application (Google or Apple Maps) from a set of coordinates (latitude & longitude) within react-native
