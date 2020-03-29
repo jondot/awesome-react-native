@@ -1301,6 +1301,7 @@ Libraries / SDK type additions for React Native development.
 * [Shoutem UI ★3802](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem.
 * [Panza ★243](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native.
 * [BlankApp UI ★78](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native.
+* [react-native-fast-app ★54](https://github.com/chende008/react-native-fast-app) - React Native rapid development library.
 * [React Native Common ★49](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native.
 
 ## Open Source Apps
