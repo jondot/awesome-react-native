@@ -949,6 +949,7 @@ Components and native modules.
 * [react-native-device-info ★3145](https://github.com/rebeccahughes/react-native-device-info) - Get device information using react-native
 * [react-native-fs ★2465](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 * [react-native-config ★1894](https://github.com/luggit/react-native-config) - Config variables for React Native apps
+* [react-native-ultimate-config](https://github.com/maxkomarychev/react-native-ultimate-config) - Configure all levels of your react-native app with a single file
 * [react-native-fcm ★1564](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 * [react-native-notifications ★1396](https://github.com/wix/react-native-notifications) - React native notifications
 * [react-native-arkit ★1290](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
