@@ -661,6 +661,7 @@ Components and native modules.
 * [react-native-modal-loader ★19](https://github.com/kdastan/react-native-modal-loader) - Customizable animated modal progress hud for react apps.
 * [react-native-images-collage ★19](https://github.com/lukebrandonfarrell/react-native-images-collage) - Robust interactive image collage component for React Native.
 * [react-native-avatar-gravatar ★18](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
+* [react-native-notifier ★16](https://github.com/seniv/react-native-notifier) - Fast and simple in-app notifications for React Native
 * [react-native-grid ★15](https://github.com/thewei/react-native-grid) - The 24-column grid component for react-native
 * [react-native-search ★15](https://github.com/StevenIseki/react-native-search) - Native Search component for react native.
 * [rn-displayable ★15](https://github.com/mfrachet/rn-displayable) - Display your components based on props or a set of rules
