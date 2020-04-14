@@ -533,6 +533,7 @@ Components and native modules.
 * [react-native-page-swiper ★83](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 * [react-native-material-showcase-ios ★81](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
 * [react-native-label-select ★81](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
+* [stacks ★80](https://github.com/mobily/stacks) - Stacks: a set of layout components for building RN views blazingly fast ⚡, and with debug mode and design system grid you can investigate non-trivial visual issues.
 * [react-native-3dcube-navigation ★80](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 * [react-native-keyboard-accessory ★80](https://github.com/ardaogulcan/react-native-keyboard-accessory) - Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 * [react-native-textinput-utils ★79](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
