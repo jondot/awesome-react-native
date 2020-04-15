@@ -762,6 +762,7 @@ Components and native modules.
 * [react-native-grid-list ★ ★28](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
 * [react-native-route-navigator ★27](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
 * [react-native-transparent-bar ★16](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
+* [react-native-email-chip ★8](https://github.com/arelstone/react-native-email-chip) - A simple yet customizable component to display a chip list of emails
 * [react-native-invoke-app ★8](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
 * [react-native-keyboard-sticky-view ★7](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
 * [sajjad-brick-list ★5](https://github.com/lvlrSajjad/sajjad-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
