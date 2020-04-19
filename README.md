@@ -859,6 +859,7 @@ Components and native modules.
 ### Forms
 
 * [formik ★10633](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
+* [react-hook-form ★9344] (https://github.com/react-hook-form/react-hook-form) - React hooks for forms validation without the hassle
 * [redux-form ★4829](http://redux-form.com) - Redux form state management (Web and Native)
 * [tcomb-form-native ★2831](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
 * [react-native-gifted-form ★1317](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
@@ -1256,7 +1257,6 @@ Get a head start on development with an existing seed.
 * [react-native-boilerplate ★335](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
-* [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 * [react-native-template-typescript ★183](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 * [react-native-template-airbnb](https://github.com/iboldurev/react-native-template-airbnb) - Clean and minimalist React Native template for a quick start with Airbnb (Flow, Prettier).
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
