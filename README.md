@@ -60,7 +60,7 @@ dotan-at-paracode.com.
 
 _Understand How Your React-Native App is Doing with Real-Time Contextual Insights From Your Users_
 
->Instabug helps development and product teams easily collect bugs and feedback from beta testers and customers to iterate faster and ship quality apps .Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
+>Instabug helps development and product teams easily collect bugs and feedback from beta testers and customers to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
 > Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. Instabug offering awesome-react community an exclusive 15% discount on all paid plans. [Get Started!](https://try.instabug.com/react-native/?utm_source=awesomereact&utm_medium=spon&utm_content=learnmore)
 
 # Categories
