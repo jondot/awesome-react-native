@@ -475,6 +475,7 @@ Components and native modules.
 * [react-native-segmented-view ★159](https://github.com/lelandrichardson/react-native-segmented-view) - Segmented View for React Native (with animation)
 * [react-native-cache-image ★158](https://github.com/remobile/react-native-cache-image) - A cache-image for react-native
 * [react-native-pulse-loader ★158](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
+* [stacks ★156](https://github.com/mobily/stacks) - Stacks: a set of layout components for building RN views blazingly fast ⚡, and with debug mode and design system grid you can investigate non-trivial visual issues.
 * [react-native-display ★155](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 * [RNParallax ★155](https://github.com/kyaroru/RNParallax) - A react native scroll view component with Parallax header
 * [react-native-checkbox ★154](https://github.com/sconxu/react-native-checkbox) - Checkbox component for React native
@@ -533,7 +534,6 @@ Components and native modules.
 * [react-native-page-swiper ★83](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 * [react-native-material-showcase-ios ★81](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
 * [react-native-label-select ★81](https://github.com/Tinysymphony/react-native-label-select) - A modal selector for React Native with selected items displayed as labels.
-* [stacks ★80](https://github.com/mobily/stacks) - Stacks: a set of layout components for building RN views blazingly fast ⚡, and with debug mode and design system grid you can investigate non-trivial visual issues.
 * [react-native-3dcube-navigation ★80](https://github.com/zehfernandes/react-native-3dcube-navigation) - Page Swiper component with 3D cube transition (horizontal and vertical)
 * [react-native-keyboard-accessory ★80](https://github.com/ardaogulcan/react-native-keyboard-accessory) - Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 * [react-native-textinput-utils ★79](https://github.com/DickyT/react-native-textinput-utils) - A react native extension which allows you to control TextInput better.
