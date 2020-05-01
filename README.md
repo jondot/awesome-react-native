@@ -778,7 +778,7 @@ Components and native modules.
 * [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
 * [react-navigation-magic-move ★62](https://github.com/IjzerenHein/react-navigation-magic-move) - Bindings for using react-navigation with react-native-magic-move 🐰🎩✨ (shared element transitions)
 * [react-native-navigation-bar ★59](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
-* [react-native-bundle-splitter ★47](https://github.com/kirillzyusko/react-native-bundle-splitter) - HOC as a [react-loadable](https://github.com/jamiebuilds/react-loadable) for lazy components loading by navigation routes and decreasing cold startup time
+* [react-native-bundle-splitter ★56](https://github.com/kirillzyusko/react-native-bundle-splitter) - HOC as a [react-loadable](https://github.com/jamiebuilds/react-loadable) for lazy components loading by navigation routes and decreasing cold startup time
 * [react-native-url-handler ★37](https://github.com/exponentjs/react-native-url-handler) - Navigate to external URLs, handle in-app URLs, and access system URLs
 * [react-native-grid-list ★ ★28](https://github.com/gusgard/react-native-grid-list) - React Native Grid List component
 * [react-native-route-navigator ★27](https://github.com/Andr3wHur5t/react-native-route-navigator) - React-Native page navigation using URIs.
