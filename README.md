@@ -767,6 +767,7 @@ Components and native modules.
 * [react-native-header-scroll-view ★3](https://github.com/jonsamp/react-native-header-scroll-view) - iOS-style large header scroll view.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) - iOS navigation buttons for the React Native Navigator
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
+* [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) - Expose iPad mouse & trackpads interactions to React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 
 #### Navigation/Routing Articles
