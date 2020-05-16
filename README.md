@@ -624,12 +624,10 @@ Components and native modules.
 * [react-native-ibeacon-simulator ★32](https://github.com/williamtran29/react-native-ibeacon-simulator) - React Native Library to simulate device act as an iBeacon
 * [react-native-suggester ★32](https://github.com/xcarpentier/react-native-suggester) - React-Native package to decorate TextInput and get suggestions with good UX.
 * [react-native-photo-grid ★31](https://github.com/christopherabouabdo/react-native-photo-grid) - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
-* [react-native-markdown-editor ★31](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
 * [react-native-android-iconify ★30](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
 * [react-native-touchable-set-active ★30](https://github.com/jmstout/react-native-TouchableSetActive) - Touchable component for React Native that enables more advanced styling by setting an active state. Most useful for building your own touchable/button components on top of.
 * [react-native-telephone-input ★30](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 * [react-native-nmrangeslider-ios ★29](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
-* [react-native-showdown ★29](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 * [react-native-fade-in-view ★29](https://github.com/robcalcroft/react-native-fade-in-view) - A simple and lightweight RN component that fades in its children
 * [react-native-gl-image-filters ★27](https://github.com/GregoryNative/react-native-gl-image-filters) - React Native GL Filters for Image implementation.
 * [react-native-focus-scroll ★26](https://github.com/c-bata/react-native-focus-scroll) - react-native-focus-scroll can detect which children are focused when scrolling.
@@ -794,7 +792,10 @@ Components and native modules.
 * [react-native-htmltext ★132](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
 * [react-native-html-webview ★102](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
 * [react-native-html-render ★98](https://github.com/soliury/react-native-html-render) - A html render for react-native
+* [react-native-markdown-display ★57](https://github.com/iamacup/react-native-markdown-display/) - Highly customizable Markdown renderer using native components for all its elements without any web-view.
 * [react-native-measure-text ★48](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
+* [react-native-markdown-editor ★47](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
+* [react-native-showdown ★43](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 * [react-native-file-viewer ★33](https://github.com/vinzscam/react-native-file-viewer) - Preview any type of file supported by the mobile device
 * [react-native-responsive-fontsize ★22](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
 * [react-native-text-size ★21](https://github.com/aMarCruz/react-native-text-size) - Measure text accurately before laying it out and get font information from your App.
