@@ -684,6 +684,7 @@ Components and native modules.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
 * [react-native-calculator ★12](https://github.com/budiadiono/react-native-calculator) - React Native Calculator and Calculator Input Component.
 * [react-native-navbar-color ★12](https://github.com/BhavanPatel/react-native-navbar-color) - Change Navigationbar Color in Android
+* [radio-buttons-react-native ★11](https://github.com/sramezani/radio-buttons-react-native) - Animated radio buttons component for react native
 * [react-native-piechart ★10](https://github.com/frostney/react-native-piechart) - A component for React Native
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) - A React Native wrapper Android's SeekBar
 * [react-native-coachmasks ★10](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
