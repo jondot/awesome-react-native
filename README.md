@@ -642,6 +642,7 @@ Components and native modules.
 * [react-native-orientation-controller ★23](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 * [react-native-match-media ★23](https://github.com/tuckerconnelly/match-media-mocks) - window.matchMedia mock for React Native
 * [react-native-simple-card-view ★23](https://github.com/talut/react-native-simple-card-view) - Easiest way to adding a card view on your screen.
+* [monalisa-ui ★22](https://github.com/tuantvk/monalisa-ui) - MonalisaUI is UI component library for React Native to build native mobile apps for iOS and Android platforms
 * [react-native-square-view ★22](https://github.com/Shuangzuan/react-native-square-view) - A square view component for react native.
 * [react-native-ichart ★22](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
 * [react-native-dropbox-chooser ★21](https://github.com/tinycreative/react-native-dropbox-chooser) - React Native dropbox chooser module
