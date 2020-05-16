@@ -391,6 +391,7 @@ Components and native modules.
 * [react-native-sketch ★467](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
 * [react-native-dialogs ★463](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for <https://github.com/afollestad/material-dialogs>
 * [galio ★458](https://github.com/galio-org/galio) - A fresh react native UI framework.
+* [react-native-root-siblings ★452](https://github.com/magicismight/react-native-root-siblings) - Add sibling elements after your app root element.
 * [react-native-size-matters ★436](https://github.com/nirsky/react-native-size-matters) - A React-Native utility belt for scaling the size your apps UI across different sized devices.
 * [react-native-button-component ★434](https://github.com/jacklam718/react-native-button-component) - A Beautiful, Customizable React Native Button component for iOS & Android
 * [react-native-super-grid ★434](https://github.com/saleel/react-native-super-grid) - Responsive Grid View for React Native.
