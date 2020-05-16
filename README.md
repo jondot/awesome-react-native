@@ -1142,6 +1142,7 @@ Components and native modules.
 * [react-native-braintree-xplat ★81](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
 * [react-native-android-vitamio ★72](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
 * [react-native-linkedin-login ★69](https://github.com/jodybrewster/react-native-linkedin-login) - Linkedin Login for your react native applications
+* [react-native-twitter-signin ★140](https://github.com/GoldenOwlAsia/react-native-twitter-signin) - Login for your react native applications with client Twitter account
 * [react-native-spring-scrollview ★64](https://github.com/bolan9999/react-native-spring-scrollview) - React Native Spring ScrollView V2 is a high performance cross-platform native bounces ScrollView for React Native.(iOS & Android)
 * [react-native-instagram-oauth ★63](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 * [react-native-digits ★60](https://github.com/fixt/react-native-digits) - Digits wrapper to use in React Native
