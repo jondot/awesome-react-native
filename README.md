@@ -1296,10 +1296,10 @@ Get a head start on development with an existing seed.
 * [React Native Hackathon Starter ★732](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
 * [React Native Boilerplate Typescript](https://github.com/mengheangrat/react-native-boilerplate) - React Native Boilerplate - Redux + Saga + Reselect + redux-persist + react-navigation + TypeScript 
 * [React Native Meteor Boilerplate ★615](https://github.com/spencercarli/react-native-meteor-boilerplate)
+* [:octopus: React Native Boilerplate ★551](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [React Native Seed ★504](https://github.com/GeekyAnts/react-native-seed) - A set of React Native Boilerplates to choose from. MobX or Redux for state-management, TypeScript or Flow for static type checking and CRNA or plain React Native for the stack - By the creators of Native Base.
 * [🚀 React Native Starter ★388](https://github.com/flatlogic/react-native-starter) - A powerful starter template that bootstraps development of your mobile application.
 * [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
-* [react-native-boilerplate ★335](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
