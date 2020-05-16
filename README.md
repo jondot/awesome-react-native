@@ -1115,7 +1115,6 @@ Components and native modules.
 * [react-native-sqlite-storage ★1508](https://github.com/andpor/react-native-sqlite-storage) - SQLite3 bindings for React Native (Android & iOS)
 * [react-native-simple-store ★731](https://github.com/jasonmerino/react-native-simple-store) - A minimalistic wrapper around React Native's AsyncStorage.
 * [react-native-store ★561](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
-* [react-native-sqlite ★539](https://github.com/almost/react-native-sqlite) - SQLite3 bindings for React Native
 * [react-native-db-models ★168](https://github.com/darkrishabh/react-native-db-models) - Local DB Models for React Native Apps
 * [react-native-sqlite-2 ★106](https://github.com/noradaiko/react-native-sqlite-2) - SQLite3 Native Plugin for React Native for both Android and iOS
 * [react-native-couchbase-lite ★105](https://github.com/fraserxu/react-native-couchbase-lite) - couchbase lite binding for react-native
