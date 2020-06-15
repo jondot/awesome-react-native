@@ -63,6 +63,7 @@ dotan-at-paracode.com.
 [![instabug-gif](https://user-images.githubusercontent.com/10850625/82208425-c6f73080-990b-11ea-9e6c-462c15f6bab5.gif)](https://try.instabug.com/awesome-react-native?utm_source=awesomereact&utm_medium=repos&utm_campaign=awesomereact-repo-q220&utm_content=gif)
 
 >Catch bugs as soon as they happen and know exactly why a crash occurred. Instabug's SDK gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk, and much more. Instabug is offering awesome-reactnative community a 3 months free trial. [Get Started Now!](https://try.instabug.com/awesome-react-native?utm_source=awesomereact&utm_medium=repos&utm_campaign=awesomereact-repo-q220&utm_content=get-started)
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomereactnative?pixel)](https://instabug.com)
 
 # Categories
 
