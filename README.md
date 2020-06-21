@@ -876,7 +876,7 @@ Components and native modules.
 * [react-native-immutable ★12](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
 * [react-native-util ★12](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native
 * [react-native-referrer ★11](https://github.com/JeandeCampredon/react-native-referrer) - React Native android only library to retrieve campaign referrer.
-* [react-native-network-logger ★7](https://github.com/alexbrazier/react-native-network-logger) - An HTTP traffic monitor for React Native including an in-app interface.
+* [react-native-network-logger ★7](https://github.com/alexbrazier/react-native-network-logger) - An HTTP network request monitor for React Native including an in-app interface.
 * [react-native-webpackager-server ★6](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
 * [react-native-crypto ★6](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
