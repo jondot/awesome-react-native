@@ -1126,6 +1126,7 @@ Components and native modules.
 * [react-native-pouchdb ★38](https://github.com/carbureted/react-native-pouchdb) - Run pouchdb in React Native!
 * [react-native-level-fs ★20](https://github.com/tradle/react-native-level-fs) - fs for react-native using level-filesystem and asyncstorage-down
 * [react-native-mongoose ★17](https://github.com/remobile/react-native-mongoose) - A AsyncStorage based mongoose like storage for react-native
+* [react-native-leveldown](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 
 ### Backend
 
