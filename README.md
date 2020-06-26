@@ -283,6 +283,7 @@ Content published on the Web.
 
 ### Continuous Integration
 
+* [How to build and deploy React Native apps for iOS and Android automatically with Appcircle CI/CD](https://appcircle.io/blog/guide-to-automated-mobile-ci-cd-for-react-native-appcircle/)
 * [Distributing beta builds with Fastlane on Android and iOS](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
 * [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
