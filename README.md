@@ -1325,6 +1325,7 @@ Get a head start on development with an existing seed.
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 * [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
+* [RNStarter](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
 
 ## Libraries
 
