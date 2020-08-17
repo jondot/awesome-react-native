@@ -1074,7 +1074,7 @@ Components and native modules.
 * [react-native-video ★3470](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 * [react-native-sound ★1556](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 * [react-native-audio ★798](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained)
-* [react-native-community/react-native-audio-toolkit ★764](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording is for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network.
+* [react-native-audio-toolkit ★764](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network.
 * [react-native-camera-kit ★701](https://github.com/wix/react-native-camera-kit) - Advanced native camera and gallery components and device photos API.
 * [react-native-audio-streaming ★679](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
 * [react-native-video-processing ★712](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
