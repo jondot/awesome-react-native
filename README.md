@@ -770,10 +770,10 @@ Components and native modules.
 * [react-native-controllers ★580](https://github.com/wix/react-native-controllers) - Truly native no-compromise iOS navigation for React Native.
 * [ex-navigator ★531](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
 * [react-native-nav ★262](https://github.com/jineshshah36/react-native-nav) - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
+* [react-native-bundle-splitter ★107](https://github.com/kirillzyusko/react-native-bundle-splitter) - HOC as a [react-loadable](https://github.com/jamiebuilds/react-loadable) for lazy components loading by navigation routes and decreasing cold startup time
 * [react-native-navigation-drawer ★98](https://github.com/ilansas/react-native-navigation-drawer) - A slide menu inspired from Android for React-Native
 * [react-native-ya-navigator ★88](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 * [navbar-native ★86](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
-* [react-native-bundle-splitter ★82](https://github.com/kirillzyusko/react-native-bundle-splitter) - HOC as a [react-loadable](https://github.com/jamiebuilds/react-loadable) for lazy components loading by navigation routes and decreasing cold startup time
 * [react-native-swiper-flatlist ★★ ★81](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
 * [react-native-easy-router ★78](https://github.com/sergeyshpadyrev/react-native-easy-router) - React Native router with easy-to-use API
 * [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
