@@ -1148,7 +1148,7 @@ Components and native modules.
 * [react-native-file-upload ★103](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
 * [react-native-networking ★99](https://github.com/eduedix/react-native-networking) - react-native module to download and upload files with AFNetworking
 * [react-native-s3 ★80](https://github.com/mybigday/react-native-s3) - A React Native wrapper for AWS iOS/Android S3 SDK (TransferUtility)
-* [react-native-wifi-p2p ★66](https://github.com/kirillzyusko/react-native-wifi-p2p) - Library that provide access for working with wi-fi direct (p2p) module in android
+* [react-native-wifi-p2p ★72](https://github.com/kirillzyusko/react-native-wifi-p2p) - Library that provide access for working with wi-fi direct (p2p) module in android
 * [react-native-rest-kit ★65](https://github.com/peter4k/react-native-rest-kit) - A React Native RESTful API kit that use the fetch method
 * [react-native-cognito ★63](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
 * [react-native-file-download ★45](https://github.com/plrthink/react-native-file-download) - A simple file download module for react-native
