@@ -1336,6 +1336,7 @@ Libraries / SDK type additions for React Native development.
 * [BlankApp UI ★78](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native.
 * [react-native-fast-app ★54](https://github.com/chende008/react-native-fast-app) - React Native rapid development library.
 * [React Native Common ★49](https://github.com/rghorbani/react-native-common) - UI & API Components Library for React Native.
+* [react-native-colibri ★5](https://github.com/nidorx/react-native-colibri) - React Native Generic UI Components.
 
 ## Open Source Apps
 
