@@ -1210,6 +1210,7 @@ Components and native modules.
 * [react-native-instagram ★5](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
 * [react-native-realtimestorage-android ★4](https://github.com/realtime-framework/RCTRealtimeStorageAndroid) - The Realtime Cloud Storage client for React-Native Android
 * [react-native-fbintent ★4](https://github.com/syarul/react-native-fbintent) - A React Native intent for Android Facebook App
+* [react-native-onfido ★2](https://github.com/React-Native-Nation/react-native-onfido) - A React Native wrapper for the Onfido Library.
 * [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 * [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) - React Native module to launch popular navigation/ride apps from a single API (Android & iOS)
 * [react-native-agora +190](https://github.com/syanbo/react-native-agora) - A React Native Agora WebRTC Wrapper.
