@@ -1215,6 +1215,7 @@ Components and native modules.
 * [react-native-agora +190](https://github.com/syanbo/react-native-agora) - A React Native Agora WebRTC Wrapper.
 * [agora-react-native-rtm +5](https://github.com/agoraio/agora-react-native-rtm) - A React Native Agora RealTime-Message Cloud Service Wrapper.
 * [react-native-intercom *323](https://github.com/tinycreative/react-native-intercom) - A React Native Intercom Wrapper.
+* [react-native-bugfender *7](https://github.com/bugfender/rn-bugfender) - A React Native wrapper for Bugfender log and error reporting.
 
 ### Monetization
 
