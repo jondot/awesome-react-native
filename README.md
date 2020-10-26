@@ -758,23 +758,23 @@ Components and native modules.
 
 ### Navigation
 
-* [react-navigation ★14233](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
-* [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
-- [react-native-navigation-hooks ★109](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Navigation.
-* [react-native-router-flux ★7720](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
-* [kittenTricks ★4227](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
-* [native-navigation ★3060](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
-* [react-native-navbar ★1824](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
-* [react-native-router ★1203](https://github.com/t4t5/react-native-router) - Awesome navigation for your native app.
+* [react-navigation ★18900](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
+* [react-native-navigation ★11800](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
+- [react-native-navigation-hooks ★163](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Navigation.
+* [react-native-router-flux ★8900](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
+* [kittenTricks ★6300](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
+* [native-navigation ★3100](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
+* [react-native-navbar ★1900](https://github.com/Kureev/react-native-navbar) - Simple customizable navbar component for react-native
+* [react-native-router ★1200](https://github.com/t4t5/react-native-router) - Awesome navigation for your native app.
 * [ex-navigation ★1019](https://github.com/exponentjs/ex-navigation) - A route-centric, batteries-included navigation library for Exponent and React Native that works seamlessly on Android and iOS.
-* [react-native-controllers ★580](https://github.com/wix/react-native-controllers) - Truly native no-compromise iOS navigation for React Native.
-* [ex-navigator ★531](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
-* [react-native-nav ★262](https://github.com/jineshshah36/react-native-nav) - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
-* [react-native-navigation-drawer ★98](https://github.com/ilansas/react-native-navigation-drawer) - A slide menu inspired from Android for React-Native
-* [react-native-ya-navigator ★88](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
+* [react-native-controllers ★603](https://github.com/wix/react-native-controllers) - Truly native no-compromise iOS navigation for React Native.
+* [ex-navigator ★528](https://github.com/exponentjs/ex-navigator) - Route-centric navigation built on top of React Native's Navigator
+* [react-native-nav ★271](https://github.com/jineshshah36/react-native-nav) - A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component
+* [react-native-easy-router ★152](https://github.com/sergeyshpadyrev/react-native-easy-router) - React Native router with easy-to-use API
+* [react-native-navigation-drawer ★99](https://github.com/ilansas/react-native-navigation-drawer) - A slide menu inspired from Android for React-Native
+* [react-native-ya-navigator ★87](https://github.com/xxsnakerxx/react-native-ya-navigator) - Yet another react native navigator component
 * [navbar-native ★86](https://github.com/redbaron76/navbar-native) - A new, fully customizable Navbar component for React-Native
 * [react-native-swiper-flatlist ★★ ★81](https://github.com/gusgard/react-native-swiper-flatlist) - 👆 React Native Swiper component implemented with FlatList
-* [react-native-easy-router ★78](https://github.com/sergeyshpadyrev/react-native-easy-router) - React Native router with easy-to-use API
 * [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
 * [react-navigation-magic-move ★62](https://github.com/IjzerenHein/react-navigation-magic-move) - Bindings for using react-navigation with react-native-magic-move 🐰🎩✨ (shared element transitions)
 * [react-native-navigation-bar ★59](https://github.com/beefe/react-native-navigation-bar) - react-native-navigation-bar
