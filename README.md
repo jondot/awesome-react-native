@@ -174,7 +174,7 @@ Workshops - April 5th, 2019
 
 ### Chain React - Portland, OR USA
 
-<https://infinite.red/ChainReactConf>
+<https://cr.infinite.red/>
 
 Workshops - July 10th, 2019
 Conference - July 11th-12th, 2019
@@ -220,7 +220,7 @@ Content published on the Web.
 * [Blueprint to becoming a React Native Developer](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 * [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)
 * [How to upload photo/file in react-native](https://github.com/g6ling/React-Native-Tips/tree/master/How_to_upload_photo%2Cfile_in%20react-native)
-* [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
+* [Preview your Android & iOS React Native apps on your Github Pull Request](https://tech.bedrockstreaming.com/preview-android-ios-react-native-on-github-pull-request/)
 * [Change splash screen in React Native Android app](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.pgjimxpgg)
 * [Remote Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.d0zob0pdw)
 * [Release React Native App to Android Play Store](https://shift.infinite.red/simple-react-native-android-releases-319dc5e29605)
@@ -282,7 +282,7 @@ Content published on the Web.
 
 ### Continuous Integration
 
-* [Distributing beta builds with Fastlane on Android and iOS](https://github.com/thecodingmachine/react-native-boilerplate/blob/master/docs/beta%20builds.md)
+* [Distributing beta builds with Fastlane on Android and iOS](https://thecodingmachine.github.io/react-native-boilerplate/docs/BetaBuild/)
 * [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 * [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)
@@ -660,7 +660,6 @@ Components and native modules.
 * [react-native-custom-actionsheet ★21](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 * [react-native-timepicker ★20](https://github.com/milasevicius/react-native-timepicker) - React Native timepicker for iOS
 * [react-native-custom-checkbox ★20](https://github.com/caroaguilar/react-native-custom-checkbox) - React Native checkbox that can be customize. Works for both Android and iOS.
-* [react-native-tilt ★20](https://github.com/psicotropicos/react-native-tilt) - Tilt effect with accelerometer for React Native components.
 * [react-native-drawpad ★20](https://github.com/Partido-Asia/react-native-drawpad) - A pad for users to draw by touching
 * [rn-ab-hoc ★19](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
 * [react-native-expand ★19](https://github.com/hejiaji/react-native-expand) - A react-native expandable component for both Android and iOS
@@ -709,7 +708,6 @@ Components and native modules.
 * [react-native-blur-overlay ★5](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-rate-modal ★5](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
 * [react-native-scrollview-header ★5](https://github.com/weifxn/react-native-scrollview-header) - An animated ScrollView header that transitions from transparent background to opaque upon scrolling.
-* [react-native-sortable-gridview ★4](https://github.com/ge6285790/react-native-sortable-gridview) - A React Native sortable and draggable Grid View Component.
 * [react-native-fancy-carousel-viewpager ★4](https://github.com/lvlrSajjad/react-native-fancy-carousel-viewpager) - React Native Designed View Pager Library (pure js)
 * [pinar ★4](https://github.com/kristerkari/pinar) - Customizable, lightweight React Native carousel component with accessibility support.
 * [react-native-svg-transformer ★4](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files inside React Native components. Uses the react-native-svg library to render SVG images.
@@ -854,7 +852,6 @@ Components and native modules.
 * [loki ★395](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
 * [react-native-slowlog ★271](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 * [react-native-zip-archive ★173](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
-* [react-native-tips ★160](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.
 * [codemod-RN24-to-RN25 ★104](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 * [react-native-linkedin ★101](https://github.com/xcarpentier/react-native-linkedin) React-Native LinkedIn, a simple LinkedIn login library for React-Native or Expo with WebView and Modal
 * [react-native-eval ★75](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
@@ -1249,7 +1246,6 @@ Components and native modules.
 * [reactxp ★7268](https://github.com/Microsoft/reactxp) - Library for cross-platform app development
 * [react-native-windows ★5547](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 * [@areslabs/alita ★392](https://github.com/areslabs/alita) - react native for mini-program(微信小程序)
-* [react-native-tvos-controller ★15](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 * [react-native-watchkit ★1](https://github.com/MystK/react-native-watchkit) - react native for WatchKit
 
 ## Utilities
@@ -1482,7 +1478,6 @@ Walkthroughs and tutorials that help you learn React Native.
 * [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
 * [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 * [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
-* [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)
 * [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
 * [React-native Animated API Basic Example](http://browniefed.com/blog/2015/07/26/react-native-animated-api-basic-example/)
 * [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
@@ -1548,7 +1543,7 @@ Assortment of conference and training videos.
 * Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 * Udemy.com: [Build apps with React Native](https://www.udemy.com/the-complete-react-native-and-redux-course/)
 * Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
-* Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
+* Handlebarlabs.com: [Learn React Native + Meteor](https://learn.handlebarlabs.com/p/react-native-meteor) - Comprehensive course & community on building an application with React Native and Meteor.
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
 
 ## Blogs
