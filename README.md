@@ -793,6 +793,8 @@ Components and native modules.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
 * [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) - Expose iPad mouse & trackpads interactions to React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
+* [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) - In-app message orchestration supporting Snackbars, Banners and Dialogs
+
 
 #### Navigation/Routing Articles
 
