@@ -1157,6 +1157,7 @@ Components and native modules.
 * [react-native-http ★13](https://github.com/iktw/react-native-jwt) - React native http
 * [react-native-async-http ★5](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 * [react-native-nchan ★3](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native
+* [fetch ★10](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
 ### Integrations
 
