@@ -945,6 +945,7 @@ Components and native modules.
 * [react-native-cosmos ★18](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
 * [react-native-kill-packager ★15](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 * [react-native-build-cli ★3](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
+* [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 
 ### Styling
 
