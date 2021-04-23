@@ -1134,6 +1134,7 @@ Components and native modules.
 * [react-native-pouchdb ★38](https://github.com/carbureted/react-native-pouchdb) - Run pouchdb in React Native!
 * [react-native-level-fs ★20](https://github.com/tradle/react-native-level-fs) - fs for react-native using level-filesystem and asyncstorage-down
 * [react-native-mongoose ★17](https://github.com/remobile/react-native-mongoose) - A AsyncStorage based mongoose like storage for react-native
+* [typed-async-storage](https://github.com/artxty/typed-async-storage) - A wrapper for creating a schema for AsyncStorage and validation using React prop-types.
 
 ### Backend
 
