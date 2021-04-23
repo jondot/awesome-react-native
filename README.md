@@ -795,6 +795,8 @@ Components and native modules.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
 * [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) - Expose iPad mouse & trackpads interactions to React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
+* [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) - In-app message orchestration supporting Snackbars, Banners and Dialogs
+
 
 #### Navigation/Routing Articles
 
@@ -871,6 +873,7 @@ Components and native modules.
 * [react-native-html-parser ★38](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 * [pixels-catcher ★26](https://github.com/rumax/react-native-PixelsCatcher) - Library for testing React Native UI components and screens
 * [react-native-aes ★24](https://github.com/mvayngrib/react-native-aes) - AES in react-native
+* [eslint-config-kingstinct-react-native ★23](https://github.com/robertherber/eslint-config-kingstinct-react-native) - Opinionated ESLint configurarition for React Native and TypeScript
 * [react-native-hour-format ★20](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 * [react-native-des ★20](https://github.com/remobile/react-native-des) - A des crypto for react-native
 * [react-native-babel-jest ★15](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
