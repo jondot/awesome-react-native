@@ -23,46 +23,20 @@ tools, tutorials, articles and more. PRs are welcome!
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
 
-# Buzzing
-
-<div style="text-align: center"><table><tr>
-    <td style="text-align: center">
-        <a href="https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b">
-        <img src="https://cdn-images-1.medium.com/max/2000/1*WpOK6v_X2lr8CsmAdJR4og.jpeg" width="120" />
-        <br />
-        React Native Authentication in Depth
-        </a>
-    </td>
-    <td style="text-align: center">
-        <a href="https://www.youtube.com/watch?v=9baaVjGdBqs">
-        <img src="https://img.youtube.com/vi/9baaVjGdBqs/0.jpg" width="120" />
-        <br />
-        Create React Native App
-        </a>
-    </td>
-    <td style="text-align: center">
-        <a href="https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html">
-        <img src="icon.png" width="120" height="90" style="
-            background: #d0d0d0;
-            padding: 10px;
-        " />
-        <br />
-            Better List Views
-        </a>
-    </td>
-</tr></table></div>
-
-Have something that belongs under "Buzzing"? drop me a line:
-dotan-at-paracode.com.
 
 
-## Instabug
+## Sponsors
 
-### _Understand How Your React-Native App is Doing with Real-Time Contextual Insights From Your Users_
+### _Never leave your command line for secrets_
 
-[![instabug-gif](https://user-images.githubusercontent.com/10850625/82208425-c6f73080-990b-11ea-9e6c-462c15f6bab5.gif)](https://try.instabug.com/awesome-react-native?utm_source=awesomereact&utm_medium=repos&utm_campaign=awesomereact-repo-q220&utm_content=gif)
+![](https://github.com/SpectralOps/teller/raw/master/media/cover.png)
 
->Catch bugs as soon as they happen and know exactly why a crash occurred. Instabug's SDK gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk, and much more. Instabug is offering awesome-reactnative community a 3 months free trial. [Get Started Now!](https://try.instabug.com/awesome-react-native?utm_source=awesomereact&utm_medium=repos&utm_campaign=awesomereact-repo-q220&utm_content=get-started)
+Teller is an OSS and FREE productivity secret manager for developers made by [SpectralOps](https://spectralops.io), supporting cloud-native apps and multiple cloud providers. Mix and match all vaults and other key stores and safely use secrets as you code, test, and build applications. It's quick, easy, and safe.
+
+[Get Started Now!](https://github.com/spectralops/teller)
+
+
+
 
 # Categories
 
