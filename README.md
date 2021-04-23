@@ -307,6 +307,7 @@ Components and native modules.
 ### UI
 
 * [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+* [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon. 📦 Zero Dependencies and Lightweight. 
 * [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
@@ -366,6 +367,7 @@ Components and native modules.
 * [react-native-tinder-swipe-cards ★881](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 * [react-native-slider ★845](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript component for react-native
 * [react-native-pathjs-charts ★842](https://github.com/capitalone/react-native-pathjs-charts) - Android and iOS charts based on react-native-svg and paths-js
+* [react-native-flash-message ★810](https://github.com/lucasferreira/react-native-flash-message#readme) - React Native flashbar and top notification alert utility
 * [react-native-svg-charts ★764](https://github.com/JesperLekland/react-native-svg-charts) - One library to rule all charts for React Native
 * [react-native-masonry ★758](https://github.com/brh55/react-native-masonry) - A masonry~ish layout for rendering images.
 * [react-native-credit-card-input ★742](https://github.com/sbycrosz/react-native-credit-card-input) - 💳 💳 Easy (and good looking) credit-card input for your React Native Project
@@ -793,6 +795,8 @@ Components and native modules.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
 * [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) - Expose iPad mouse & trackpads interactions to React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
+* [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) - In-app message orchestration supporting Snackbars, Banners and Dialogs
+
 
 #### Navigation/Routing Articles
 
@@ -869,6 +873,7 @@ Components and native modules.
 * [react-native-html-parser ★38](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
 * [pixels-catcher ★26](https://github.com/rumax/react-native-PixelsCatcher) - Library for testing React Native UI components and screens
 * [react-native-aes ★24](https://github.com/mvayngrib/react-native-aes) - AES in react-native
+* [eslint-config-kingstinct-react-native ★23](https://github.com/robertherber/eslint-config-kingstinct-react-native) - Opinionated ESLint configurarition for React Native and TypeScript
 * [react-native-hour-format ★20](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 * [react-native-des ★20](https://github.com/remobile/react-native-des) - A des crypto for react-native
 * [react-native-babel-jest ★15](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
@@ -886,6 +891,7 @@ Components and native modules.
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 * [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
 * [react-native-mov-to-mp4 ★44](https://github.com/taltultc/react-native-mov-to-mp4) - utils for Converting mov file to mp4 for cross-platform playback compatibility.
+* [react-native-test-runner ★1](https://github.com/acostalima/react-native-test-runner) - Run unit and integration tests in React Native's environment.
 
 ### Forms
 
@@ -945,6 +951,7 @@ Components and native modules.
 * [react-native-cosmos ★18](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
 * [react-native-kill-packager ★15](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 * [react-native-build-cli ★3](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
+* [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 
 ### Styling
 
@@ -1158,6 +1165,7 @@ Components and native modules.
 * [react-native-async-http ★5](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
 * [react-native-nchan ★3](https://github.com/indatawetrust/react-native-nchan) - Nchan (pub/sub server) module for React Native
 * [react-native-blob-courier ★8](https://github.com/edeckers/react-native-blob-courier) - Efficiently download and upload blobs on native thread
+* [fetch ★10](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
 ### Integrations
 
@@ -1285,6 +1293,8 @@ Useful React Native tooling.
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
+* [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
+* [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
 
 ## Seeds
 
@@ -1342,6 +1352,7 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
+* [Artsy](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 * [f8app ★13070](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 * [30-days-of-react-native ★5192](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
 * [react-native-nw-react-calculator ★4624](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
@@ -1415,6 +1426,7 @@ Open source React Native apps and other examples.
 * [Magento 2 Mobile App ★47](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [Splitcloud ★35](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
+* [ZudVPN ★32](https://github.com/zudvpn/ZudVPN) - Deploy private VPN on major Cloud Providers with [ZudVPN](https://www.zudvpn.com)
 * [Todo List ★31](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 * [Paramap ★30](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 * [Confreaks ★29](https://github.com/cabaret/confreaks-react-native)
@@ -1453,6 +1465,8 @@ Open source React Native apps and other examples.
 * [TensorFlow.js Starter](https://github.com/t73liu/tfjs-starter) - TensorFlow.js starter app using MobileNet to predict image class. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) for additional context.
 * [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) - Browse through the endless Harvard's Art Museum collection.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
+* [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+
 
 ## Frameworks
 
