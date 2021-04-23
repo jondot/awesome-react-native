@@ -1420,6 +1420,7 @@ Open source React Native apps and other examples.
 * [Magento 2 Mobile App ★47](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
 * [iOS app that transcript your voice with IBM Watson Cloud ★41](https://github.com/yrezgui/meowth-ios)
 * [Splitcloud ★35](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
+* [ZudVPN ★32](https://github.com/zudvpn/ZudVPN) - Deploy private VPN on major Cloud Providers with [ZudVPN](https://www.zudvpn.com)
 * [Todo List ★31](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 * [Paramap ★30](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
 * [Confreaks ★29](https://github.com/cabaret/confreaks-react-native)
