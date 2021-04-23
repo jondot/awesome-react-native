@@ -1565,6 +1565,7 @@ Assortment of conference and training videos.
 * [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 * [Reactotron](https://www.youtube.com/watch?v=tPBRfxswDjA)
 * [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
+* Chain React 2019: [Playlist](https://www.youtube.com/watch?v=zEjqDWqeDdg&list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9)
 * Chain React 2018: [Playlist](https://www.youtube.com/watch?v=UiPo9A9k7xc&t=0s&list=PLFHvL21g9bk1skdjnKVGXREDmP_HVDj-u)
 * Chain React 2017: [Playlist](https://www.youtube.com/watch?v=cz5BzwgATpc&list=PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522)
 * React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
