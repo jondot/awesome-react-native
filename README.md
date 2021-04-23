@@ -327,6 +327,7 @@ Components and native modules.
 * [react-native-drawer ★2276](https://github.com/root-two/react-native-drawer) - React Native Drawer
 * [react-native-typography ★2260](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
 * [react-native-fast-image ★2240](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
+* [react-native-blurhash ★105](https://github.com/mrousavy/react-native-blurhash) - Give your users the loading experience they want.
 * [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native
 * [react-native-swipeout ★2194](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
 * [react-native-blur ★2172](https://github.com/Kureev/react-native-blur) - React Native Blur component
