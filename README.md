@@ -1289,6 +1289,7 @@ Useful React Native tooling.
 * [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
+* [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 * [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
 
 ## Seeds
