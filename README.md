@@ -101,7 +101,7 @@ dotan-at-paracode.com.
     - [Forms](#forms)
     - [Geolocation](#geolocation)
     - [Internationalization](#internationalization)
-    - [Build & Development](#build-development)
+    - [Build & Development](#build--development)
     - [Styling](#styling)
     - [System](#system)
     - [Web](#web)
