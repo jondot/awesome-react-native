@@ -31,7 +31,7 @@ alt="Build Status" />
 
 <a href="https://github.com/spectralops/teller"><img src="https://github.com/SpectralOps/teller/raw/master/media/cover.png"/></a>
 
-_Teller is an OSS and FREE productivity secret manager for developers made by [SpectralOps](https://spectralops.io), supporting cloud-native apps and multiple cloud providers. Mix and match all vaults and other key stores and safely use secrets as you code, test, and build applications. It's quick, easy, and safe._
+_Teller is an OSS and FREE productivity secret manager for developers made by [SpectralOps](https://github.com/spectralops/teller), supporting cloud-native apps and multiple cloud providers. Mix and match all vaults and other key stores and safely use secrets as you code, test, and build applications. It's quick, easy, and safe._
 
 [Get Started Now!](https://github.com/spectralops/teller)
 
