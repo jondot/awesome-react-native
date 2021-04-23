@@ -844,6 +844,7 @@ Components and native modules.
 * [react-native-html ★11](https://github.com/turingou/react-native-html) - render html as react native custom elements
 * [react-native-responsive-fontsize ★83](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
 * [rn-pdf-reader-js ★6](https://github.com/xcarpentier/rn-pdf-reader-js/blob/master/README.md) - A PDF reader, in JavaScript only, for Expo, Android capable, PDF.JS
+* [@typeskill/typer ★4](https://github.com/typeskill/typer) - The Operational-Transform Based (React) Native Rich Text Library
 
 ### Analytics
 
