@@ -1304,11 +1304,11 @@ Get a head start on development with an existing seed.
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 * [react-native-template-typescript ★183](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
+* [react-native-typescript-boilerplate ★165](https://github.com/AmitM30/react-native-typescript-boilerplate) - An opinionated boilerplate built with React Native Navigation v3 + Redux + Thunk, in TypeScript. Follows industry best practices.
 * [react-native-template-airbnb](https://github.com/iboldurev/react-native-template-airbnb) - Clean and minimalist React Native template for a quick start with Airbnb (Flow, Prettier).
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 * [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
-* [react-native-typescript-boilerplate ★129](https://github.com/AmitM30/react-native-typescript-boilerplate) - An opinionated boilerplate built with React Native Navigation v3 + Redux + Thunk, in TypeScript. Follows industry best practices.
 * [Rhinos-app ★81](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 * [react-native-web-boilerplate ★72](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 * [react-native-boilerplate ★61](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
