@@ -1224,6 +1224,8 @@ Components and native modules.
 
 * [react-native-admob ★713](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 * [react-native-stripe-api ★155](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
+* [react-native-stripe-checkout-webview ★34](https://github.com/A-Tokyo/react-native-stripe-checkout-webview) - React Native implementation for [Stripe.js Checkout](https://stripe.com/docs/payments/checkout).
+* [react-native-stripe-identity ★8](https://github.com/A-Tokyo/react-native-stripe-identity) - React Native implementation for [Stripe.js Identity](https://stripe.com/docs/identity).
 * [react-native-revmob ★15](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 * [react-native-google-pay ★2](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 * [react-native-apay ★2](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
