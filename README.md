@@ -1043,7 +1043,8 @@ Components and native modules.
 * [react-native-sms-retriever](https://github.com/Bruno-Furtado/react-native-sms-retriever) - SMS Retriever API (Android).
 * [react-native-background-downloader ★93](https://github.com/EkoLabs/react-native-background-downloader) - Help you download large files on iOS and Android both in the foreground and most importantly in the background.
 * [rn-in-app-review](https://github.com/ravirupareliya/rn-in-app-review) - Help you to integrate in-app review for android and iOS
-* [react-native-system-setting](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
+* [react-native-system-setting](https://github.com/c19354837/react-native-system-setting) - Provides some system setting APIs iOS and Android.
+* [react-native-apple-authentication ★790](https://github.com/invertase/react-native-apple-authentication) - A well typed React Native library providing support for Apple Authentication on iOS and Android, including support for all AppleButton variants.
 
 ### Web
 
