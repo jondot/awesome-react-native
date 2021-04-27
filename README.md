@@ -1278,6 +1278,7 @@ Useful React Native tooling.
 * [rn-diff-purge ★64](https://github.com/react-native-community/rn-diff-purge) - The easiest way to upgrade React Native versions. You can find diffs for every React Native version, that are created by diffing the previous version with a newly created app in the new version.
 * [React Native Actions ★55](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
+* [Uncompress React Native ★27](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz and .cbr in React Native.
 * [ADB Auto Restarter ★8](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device .
 * [rn-nodeify ★6](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 * [react-native-ruler ★3](https://github.com/lfkwtz/react-native-ruler) - A devtool for measuring pixel dimensions on your React Native screens
