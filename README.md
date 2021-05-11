@@ -267,6 +267,7 @@ Content published on the Web.
 * [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)
 * [The simplest way to automate delivery of your React Native Application](https://jtway.co/the-simplest-way-to-automate-delivery-of-your-react-native-application-f37f2c71eb1d)
 * [21 Useful Open Source Packages for React Native](https://medium.com/crowdbotics/21-useful-open-source-packages-for-react-native-807f65a818a1)
+* [Getting started guide to build React Native apps with Codemagic CI/CD](https://blog.codemagic.io/react-native-getting-started-guide-with-codemagic/)
 
 ### Internals
 
