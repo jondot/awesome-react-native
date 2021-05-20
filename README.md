@@ -1583,6 +1583,7 @@ Assortment of conference and training videos.
 * [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
 * [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
 * [Ideamotive's Blog](https://www.ideamotive.co/blog/tag/react-native) - Blog about React Native
+* [Said Hayani's Blog](https://saidhayani.com/)- React Native, JavaScript posts.
 
 ## Newsletters
 
