@@ -800,6 +800,7 @@ Components and native modules.
 
 ### Text & Rich Content
 
+* [react-native-render-html ★2279](https://github.com/meliorence/react-native-render-html) - The hackable, full-featured Open Source HTML rendering solution for React Native.
 * [react-native-hyperlink ★354](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
 * [react-native-draftjs-render ★253](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model
 * [react-native-html-to-pdf ★171](https://github.com/christopherdro/react-native-html-to-pdf) - Convert html strings to PDF documents using React Native
