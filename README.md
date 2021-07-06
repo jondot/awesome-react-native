@@ -1067,6 +1067,7 @@ Components and native modules.
 ### Media
 
 * [react-native-camera ★6227](https://github.com/lwansbrough/react-native-camera) - Camera component
+* [react-native-vision-camera ★1092](https://github.com/mrousavy/react-native-vision-camera) - 📸 A fast and fully featured Camera component which offers advanced _frame processing_, such as AI or facial recognition, straight from JS.
 * [react-native-video ★3470](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 * [react-native-sound ★1556](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 * [react-native-audio ★798](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained)
