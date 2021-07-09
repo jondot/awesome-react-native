@@ -1416,6 +1416,7 @@ Open source React Native apps and other examples.
 * [QRCode App ★74](https://github.com/insiderdev/react-native-qrcode-app) - application for scanning and generating QR codes.
 * [Nearby Live ★72](https://github.com/N3TC4T/Nearby-Live) - An unofficial NearbyLive app for Android and iOS
 * [SoundcloudMboX ★67](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
+* [React Native Expo examples ★67](https://github.com/robinhuy/react-native-expo-examples) - Learn React Native (Expo CLI) by examples.
 * [Native iOS font list ★60](https://github.com/yayolius/react-native-font-list)
 * [React Native Chromecast App ★56](https://github.com/holoed/ChromeCast_ReactNative)
 * [MoeFM ★54](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
@@ -1466,6 +1467,7 @@ Open source React Native apps and other examples.
 * [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) - Browse through the endless Harvard's Art Museum collection.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
+* [React Native Typescript examples ★12](https://github.com/robinhuy/react-native-typescript-examples) - Learn React Native by examples.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
 
 
