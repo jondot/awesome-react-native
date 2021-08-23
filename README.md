@@ -1384,6 +1384,7 @@ Open source React Native apps and other examples.
 * [ReactNativeHackerNews ★241](https://github.com/jsdf/ReactNativeHackerNews)
 * [iOS Conference App made with React Native ★234](https://github.com/mikkoj/NortalTechDay)
 * [MagicMirror ★232](https://github.com/ajwhite/MagicMirror)
+* [NMF.earth ★228](https://github.com/NMF-earth/nmf-app/) - Understand & reduce your carbon footprint 🌱
 * [Redux Demo ★226](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 * [React Native Embedded App ★218](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 * [React Native Example, Geo and Location ★216](https://github.com/bgryszko/react-native-example)
@@ -1464,7 +1465,6 @@ Open source React Native apps and other examples.
 * [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
 * [TensorFlow.js Starter](https://github.com/t73liu/tfjs-starter) - TensorFlow.js starter app using MobileNet to predict image class. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) for additional context.
 * [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) - Browse through the endless Harvard's Art Museum collection.
-* [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
 
