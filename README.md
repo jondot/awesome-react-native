@@ -1535,6 +1535,7 @@ Books - for sale.
 Assortment of conference and training videos.
 
 ### Talks
+* Software Mansion Academy: [Software Mansion Academy Webinars](https://swmansion.com/academy/webinars/)
 * Chain React 2019: [React Native Only Playlist](https://www.youtube.com/playlist?list=PLq2wBqKQbpCqVKqZwysoo2MEDwVX7auhX)
 * [awesome-react-native-talks ★312](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
 * [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
