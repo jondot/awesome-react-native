@@ -503,6 +503,7 @@ Components and native modules.
 * [react-native-scl-alert ★102](https://github.com/rafaelmotta/react-native-scl-alert) - React Native implementation of the package SCLAlertView-Swift
 * [react-native-card-view ★101](https://github.com/jacklam718/react-native-card-view) - A react native card component
 * [react-native-marquee-label ★100](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
+* * [react-native-hole-view ★99](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
 * [react-native-drawer-menu ★97](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 * [react-native-simple-dialogs ★97](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component.
 * [react-native-swipe-a-lot ★96](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
@@ -693,7 +694,6 @@ Components and native modules.
 * [react-native-segment-control ★7](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 * [react-native-animated-styles ★7](https://github.com/ericpkerr/react-native-animated-styles) - Easily animate/transition react components between two style states.
 * [react-native-hide-modal ★6](https://github.com/heyman333/react-native-hide-modal) - Modal component that can be hidden
-* [react-native-hole-view ★6](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
 * [react-native-masonry-brick-list ★5](https://github.com/lvlrSajjad/react-native-masonry-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-blur-overlay ★5](https://github.com/lvlrSajjad/react-native-blur-overlay) - React Native Blur Overlay Library For Ios And Android
 * [react-native-rate-modal ★5](https://github.com/omergulen/react-native-rate-modal) - Hackable "rate us" component for React Native.
