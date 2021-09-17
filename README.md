@@ -503,7 +503,7 @@ Components and native modules.
 * [react-native-scl-alert ★102](https://github.com/rafaelmotta/react-native-scl-alert) - React Native implementation of the package SCLAlertView-Swift
 * [react-native-card-view ★101](https://github.com/jacklam718/react-native-card-view) - A react native card component
 * [react-native-marquee-label ★100](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
-* * [react-native-hole-view ★99](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
+* [react-native-hole-view ★99](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
 * [react-native-drawer-menu ★97](https://github.com/Tinysymphony/react-native-drawer-menu) - React Native Drawer Menu
 * [react-native-simple-dialogs ★97](https://github.com/douglasjunior/react-native-simple-dialogs) - Cross-platform simple dialogs for React Native based on the Modal component.
 * [react-native-swipe-a-lot ★96](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
