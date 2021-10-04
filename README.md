@@ -620,6 +620,7 @@ Components and native modules.
 * [rn-render-perfs ★40](https://github.com/mfrachet/rn-render-perfs) - Measure React rendering lifecycles using UI controls
 * [react-native-animated-check-mark ★40](https://github.com/AppliKeySolutions/RocketButton) - A small react component for animated cross-mark transformation.
 * [react-native-easy-dnd ★39](https://github.com/mohebifar/react-native-easy-dnd) - Drag and drop component for react-native
+* [react-native-btr ★39](https://github.com/thakurballary/react-native-btr) - React Native UI Components
 * [react-native-fab ★39](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 * [react-native-popupwindow ★38](https://github.com/beefe/react-native-popupwindow) - Android PopupWindow for react-native module
 * [react-native-wheel ★38](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
