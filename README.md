@@ -779,7 +779,7 @@ Components and native modules.
 * [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) - Expose iPad mouse & trackpads interactions to React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 * [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) - In-app message orchestration supporting Snackbars, Banners and Dialogs
-
+* [react-native-gtoast ★1](https://github.com/alielmajdaoui/react-native-gtoast) - A React Native global toast that can be called from anywhere within your project.
 
 #### Navigation/Routing Articles
 
