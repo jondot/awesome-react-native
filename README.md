@@ -770,6 +770,7 @@ Components and native modules.
 * [react-native-email-chip ★8](https://github.com/arelstone/react-native-email-chip) - A simple yet customizable component to display a chip list of emails
 * [react-native-invoke-app ★8](https://github.com/vicke4/react-native-invoke-app) - Bring React Native App to foreground from Headless JS
 * [react-native-keyboard-sticky-view ★7](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - Keyboar Sticky View with animation and renderProps
+* [react-native-gtoast ★6](https://github.com/alielmajdaoui/react-native-gtoast) - A React Native global toast that can be called from anywhere within your project.
 * [sajjad-brick-list ★5](https://github.com/lvlrSajjad/sajjad-brick-list) - Staggered Or Masonary List View For React Native Written in pure js
 * [react-native-router-sinux ★ ★4](https://github.com/jbpin/react-native-router-sinux) - React Native Router based on new NavigationExperimental that use Sinux as Flux implementation.
 * [react-native-simple-slider ★3](https://github.com/NesChaiyapon/react-native-simple-slider) - This is a simple javascript slider component for react native
@@ -779,7 +780,6 @@ Components and native modules.
 * [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) - Expose iPad mouse & trackpads interactions to React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 * [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) - In-app message orchestration supporting Snackbars, Banners and Dialogs
-* [react-native-gtoast ★1](https://github.com/alielmajdaoui/react-native-gtoast) - A React Native global toast that can be called from anywhere within your project.
 
 #### Navigation/Routing Articles
 
