@@ -1105,6 +1105,7 @@ Components and native modules.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-android-video ★8](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
 * [react-native-airplay-button](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
+* [react-native-daily-js](https://github.com/daily-co/react-native-daily-js) - Quickly add video or audio-only calls to your React Native
 
 ### Storage
 
