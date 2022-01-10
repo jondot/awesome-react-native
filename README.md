@@ -293,6 +293,7 @@ Components and native modules.
 * [react-native-image-picker ★4709](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 * [react-native-material-kit ★4124](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
 * [react-native-snap-carousel ★3959](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
+* [react-native-reanimated-carousel ★364](https://github.com/dohooo/react-native-reanimated-carousel) - Simple React Native Carousel with high-performance and custom animation, fully implemented using reanimated v2, support to IOS/Android.
 * [react-native-calendars ★3402](https://github.com/wix/react-native-calendars) - React Native Calendar Components 📆
 * [react-native-ui-kitten ★3140](https://github.com/akveo/react-native-ui-kitten) - Customizable and reusable react-native component kit
 * [react-native-svg ★2982](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
