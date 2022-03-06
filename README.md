@@ -740,6 +740,8 @@ Components and native modules.
 * [react-native-wizard](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 * [react-native-timetable](https://github.com/gomjellie/react-native-timetable) - 📆 timetable library for React Native
 * [react-native-material-drawer](https://github.com/codypearce/react-native-material-drawer) - React Native Material Drawer for iOS, Android, Web, and Electron
+* [react-native-week-month-date-picker ★66](https://github.com/noona-hq/react-native-week-month-date-picker) - Date picker with a week and month view 📅
+
 
 ### Navigation
 
