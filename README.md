@@ -551,7 +551,7 @@ Components and native modules.
 * [react-native-simple-picker ★62](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 * [react-native-view-pdf ★62](https://github.com/rumax/react-native-PDFView) - PDF viewer for React Native
 * [react-native-touchable-bounce ★62](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
-* [react-native-android-notification-listener ★62](https://github.com/leandrosimoes/react-native-android-notification-listener) - React Native Android Notification Listener
+* [react-native-android-notification-listener ★62](https://github.com/leandrosimoes/react-native-android-notification-listener) - React Native Android Notification Listener.
 * [react-native-streetview ★61](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 * [react-native-thumbnail ★60](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media.
 * [react-native-simple-stepper ★60](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
