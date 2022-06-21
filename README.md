@@ -1006,6 +1006,7 @@ Components and native modules.
 * [react-native-phone-call ★76](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
 * [react-native-calendar-reminders ★69](https://github.com/wmcmahan/React-Native-CalendarReminders) - React Native module for IOS EventKit Reminders
 * [react-native-bluetooth-state ★61](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
+* [react-native-android-notification-listener ★62](https://github.com/leandrosimoes/react-native-android-notification-listener) - React Native Android Notification Listener.
 * [react-native-google-nearby-messages ★14](https://github.com/mrousavy/react-native-google-nearby-messages) - Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio by using the Google Nearby Messages API
 * [react-native-barcode-scanner ★60](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 * [react-native-haptic-feedback ★60](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android
