@@ -551,7 +551,6 @@ Components and native modules.
 * [react-native-simple-picker ★62](https://github.com/puredazzle/react-native-simple-picker) - A simple react-native select picker
 * [react-native-view-pdf ★62](https://github.com/rumax/react-native-PDFView) - PDF viewer for React Native
 * [react-native-touchable-bounce ★62](https://github.com/grabbou/react-native-touchable-bounce) - React Native Touchable Bounce
-* [react-native-android-notification-listener ★62](https://github.com/leandrosimoes/react-native-android-notification-listener) - React Native Android Notification Listener.
 * [react-native-streetview ★61](https://github.com/nesterapp/react-native-streetview) - Google's Panorama/StreetView component for iOS and Android.
 * [react-native-thumbnail ★60](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media.
 * [react-native-simple-stepper ★60](https://github.com/testshallpass/react-native-simple-stepper) - A super simple react-native implementation of the UIStepper iOS control.
@@ -1007,6 +1006,7 @@ Components and native modules.
 * [react-native-phone-call ★76](https://github.com/tiaanduplessis/react-native-phone-call) - A simple way to initiate a phone call in React Native
 * [react-native-calendar-reminders ★69](https://github.com/wmcmahan/React-Native-CalendarReminders) - React Native module for IOS EventKit Reminders
 * [react-native-bluetooth-state ★61](https://github.com/frostney/react-native-bluetooth-state) - Answering the question of "Is my bluetooth on?" in React Native
+* [react-native-android-notification-listener ★62](https://github.com/leandrosimoes/react-native-android-notification-listener) - React Native Android Notification Listener.
 * [react-native-google-nearby-messages ★14](https://github.com/mrousavy/react-native-google-nearby-messages) - Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio by using the Google Nearby Messages API
 * [react-native-barcode-scanner ★60](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 * [react-native-haptic-feedback ★60](https://github.com/mkuczera/react-native-haptic-feedback) - Trigger Haptic Native Feedback on iOS and Android
