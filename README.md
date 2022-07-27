@@ -1104,6 +1104,7 @@ Components and native modules.
 * [react-native-tone ★7](https://github.com/oliviachang29/react-native-tone) - Generates simple sine wave, specify a frequency and amplitude. Play sound indefinitely or for a specified time interval (iOS only).
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-android-video ★8](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
+* [react-native-document-scanner-plugin ★4](https://github.com/WebsiteBeaver/react-native-document-scanner-plugin) - This is a React Native plugin that lets you scan documents using Android and iOS. You can use it to create apps that let users scan notes, homework, business cards, receipts, or anything with a rectangular shape.
 * [react-native-airplay-button](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
 
 ### Storage
