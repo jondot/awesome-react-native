@@ -181,7 +181,7 @@ Content published on the Web.
 
 ### Reference
 
-* [React Native Styling Cheatsheet ★2679](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+* [React Native Styling Cheatsheet ★4580](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 
 ### Howtos
 
