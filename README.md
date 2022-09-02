@@ -1039,6 +1039,7 @@ Components and native modules.
 * [react-native-home-pressed ★8](https://github.com/evanjmg/react-native-home-pressed) - Listen to home and recent app events for Android
 * [react-native-lock-android ★7](https://github.com/auth0/react-native-lock-android) - Auth0 Lock for React Native (Android)
 * [react-native-push-with-gcm ★6](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
+* [react-native-components-tracking ★5](https://github.com/MetaLabs-inc/react-native-components-tracking) - React Native library that automatically tracks events on components (Android & IOS)
 * [react-native-device-info-pod ★3](https://github.com/mchinyakov/react-native-device-info) - Get device information using react-native
 * [react-native-sms-retriever](https://github.com/Bruno-Furtado/react-native-sms-retriever) - SMS Retriever API (Android).
 * [react-native-background-downloader ★93](https://github.com/EkoLabs/react-native-background-downloader) - Help you download large files on iOS and Android both in the foreground and most importantly in the background.
@@ -1094,6 +1095,7 @@ Components and native modules.
 * [react-native-fullscreen-video ★39](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 * [react-native-android-audio-streaming-aac ★25](https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac) - A react native streaming player
 * [react-native-photoeditorsdk ★24](https://github.com/imgly/pesdk-react-native) - React Native module for [PhotoEditor SDK](https://www.photoeditorsdk.com) (Android & iOS)
+* [react-native-vimeo-iframe ★22](https://github.com/MetaLabs-inc/react-native-vimeo-iframe) - React Native Vimeo Iframe is a library to render Vimeo videos in a React Native app (Android & iOS)
 * [react-native-videoeditorsdk ★18](https://github.com/imgly/vesdk-react-native) - React Native module for [VideoEditor SDK](https://www.videoeditorsdk.com) (Android & iOS)
 * [react-native-true-sight ★18](https://github.com/ScreamZ/react-native-true-sight) - A cross-platform video player with customizable controls for React Native.
 * [react-native-audio-manager ★15](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
