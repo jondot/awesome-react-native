@@ -957,6 +957,7 @@ Components and native modules.
 * [binstorm ★5](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
 * [styled-react-native](https://github.com/jsifalda/styled-react-native) - Advanced react native styling with simple method (style overwrites, component composition, enhanced style property). Full intro in [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react native styling system based on TailwindCSS.
+* [react-native-silver](https://github.com/ehsanbigzad/react-native-silver) - Reactive styling (light & dark mode) for React Native applications.
 
 ### System
 
