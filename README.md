@@ -637,6 +637,7 @@ Components and native modules.
 * [react-native-circle-progress ★24](https://www.npmjs.com/package/react-native-circle-progress) - A custom Circle Progress Indicator for React Native
 * [react-native-app-intro-v2 ★24](https://github.com/Sh1n1x/react-native-app-intro) - Latest App intro
 * [react-native-starrating ★24](https://github.com/bluesky0109/react-native-starRating) - a react-native component for display interactive star ratings
+* [react-native-echarts-pro ★167](https://github.com/supervons/react-native-echarts-pro) - A React-Native charts based on Apeach-Echarts, support various charts and map
 * [react-native-echarts-wrapper ★24](https://github.com/tomLadder/react-native-echarts-wrapper) - Powerful ECharts wrapper build for React Native
 * [react-native-orientation-controller ★23](https://github.com/inProgress-team/react-native-orientation-controller) - A react-native library for obtaining and controlling the current device and application orientation
 * [react-native-match-media ★23](https://github.com/tuckerconnelly/match-media-mocks) - window.matchMedia mock for React Native
