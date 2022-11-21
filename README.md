@@ -667,6 +667,7 @@ Components and native modules.
 * [react-native-anchor-point ★14](https://github.com/sueLan/react-native-anchor-point) - Make the fancy 3D transform easier in react native
 * [react-native-code-verification ★13](https://github.com/danchokobo/react-native-code-verification) - An UI module for user-side pincode verification.
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - Date Picker Dialog for Hijri calendar for android.
+* [react-native-hotkeys ★4](https://github.com/Kingstinct/react-native-hotkeys) - React Native module to enable listening to and capturing hotkeys. Currently with support for iOS (tested on iPad and M1 Macs) and web.
 * [react-native-imagewand ★13](https://github.com/NorthFoxz/react-native-imagewand) - image wand for react native
 * [react-native-gravatar ★13](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) - React Native Android ReboundScrollView implementation.
@@ -858,7 +859,7 @@ Components and native modules.
 * [pixels-catcher ★26](https://github.com/rumax/react-native-PixelsCatcher) - Library for testing React Native UI components and screens
 * [react-native-aes ★24](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 * [react-native-network-logger ★20](https://github.com/alexbrazier/react-native-network-logger) - An HTTP network request monitor for React Native including an in-app interface.
-* [eslint-config-kingstinct-react-native ★23](https://github.com/robertherber/eslint-config-kingstinct-react-native) - Opinionated ESLint configurarition for React Native and TypeScript
+* [eslint-config-kingstinct ★23](https://github.com/Kingstinct/eslint-config) - Opinionated ESLint configuration for React Native and TypeScript
 * [react-native-hour-format ★20](https://github.com/SoftwareMansion/react-native-hour-format) - Get hour format from OS settings.
 * [react-native-des ★20](https://github.com/remobile/react-native-des) - A des crypto for react-native
 * [react-native-babel-jest ★15](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
@@ -1197,6 +1198,7 @@ Components and native modules.
 * [react-native-realtime-pusher ★19](https://github.com/gijoehosaphat/react-native-realtime-pusher) - React Native module implementing the Pusher Realtime API
 * [react-native-conekta ★17](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
 * [react-native-fitness ★17](https://github.com/OvalMoney/react-native-fitness) - A React Native module to interact with Apple Healthkit and Google Fit
+* [@kingstinct/react-native-healthkit ★65](https://github.com/Kingstinct/react-native-healthkit) - HealthKit bindings for React Native with TypeScript
 * [react-native-woopra ★14](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
 * [react-native-sinch-verification ★14](https://github.com/kevinresol/react-native-sinch-verification) - Sinch verification for react native
 * [react-native-testfairy ★13](https://github.com/testfairy/react-native-testfairy) - TestFairy for React Native
