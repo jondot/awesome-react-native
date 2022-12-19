@@ -182,6 +182,7 @@ Content published on the Web.
 ### Reference
 
 * [React Native Styling Cheatsheet ★2679](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+* [React vs React Native: How Different Are They, Really?](https://echobind.com/post/react-vs-react-native-how-different-are-they) - comparison between React web and React Native, for those considering transitioning from one to the other.
 
 ### Howtos
 
