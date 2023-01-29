@@ -796,19 +796,19 @@ Components and native modules.
 
 ### Deep Linking
 
-* [react-native-deep-link ★36](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
+* [react-native-deep-link ★144](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
 
 ### Text & Rich Content
 
-* [react-native-hyperlink ★354](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
-* [react-native-draftjs-render ★253](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model
-* [react-native-html-to-pdf ★171](https://github.com/christopherdro/react-native-html-to-pdf) - Convert html strings to PDF documents using React Native
+* [react-native-hyperlink ★725](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
+* [react-native-draftjs-render ★386](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model
+* [react-native-html-to-pdf ★389](https://github.com/christopherdro/react-native-html-to-pdf) - Convert html strings to PDF documents using React Native
 * [react-native-htmltext ★132](https://github.com/siuying/react-native-htmltext) - Use HTML like markup to create stylized text in react-native.
-* [react-native-html-webview ★102](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
-* [react-native-html-render ★98](https://github.com/soliury/react-native-html-render) - A html render for react-native
-* [react-native-markdown-display ★57](https://github.com/iamacup/react-native-markdown-display/) - Highly customizable Markdown renderer using native components for all its elements without any web-view.
-* [react-native-measure-text ★48](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
-* [react-native-markdown-editor ★47](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
+* [react-native-html-webview ★105](https://github.com/almost/react-native-html-webview) - Display (possibly untrusted) HTML using a UIWebView in React Native.
+* [react-native-html-render ★101](https://github.com/soliury/react-native-html-render) - A html render for react-native
+* [react-native-markdown-display ★384](https://github.com/iamacup/react-native-markdown-display/) - Highly customizable Markdown renderer using native components for all its elements without any web-view.
+* [react-native-measure-text ★108](https://github.com/airamrguez/react-native-measure-text) - Measure text height without laying it out.
+* [react-native-markdown-editor ★79](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
 * [react-native-showdown ★43](https://github.com/jerolimov/react-native-showdown) - React-native component which renders markdown into a webview!
 * [react-native-file-viewer ★33](https://github.com/vinzscam/react-native-file-viewer) - Preview any type of file supported by the mobile device
 * [react-native-responsive-fontsize ★22](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
@@ -823,7 +823,7 @@ Components and native modules.
 
 ### Analytics
 
-* [react-native-fabric ★1097](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
+* [react-native-fabric ★1300](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
 * [react-native-google-analytics-bridge ★1071](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
 * [react-native-google-analytics ★325](https://github.com/lwansbrough/react-native-google-analytics) - Google Analytics for React Native!
 * [react-native-mixpanel ★307](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
