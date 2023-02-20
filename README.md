@@ -1523,6 +1523,7 @@ Books - free and commercial (but only good ones).
 
 * [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation.
+* [The Ultimate Guide to React Native Optimization](https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization) - (Free) This Guide is comprehensive source of knowledge on the best tools, tips, and tactics for optimizing your React Native app.
 
 Books - for sale.
 
