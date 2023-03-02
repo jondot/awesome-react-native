@@ -1530,6 +1530,7 @@ Books - for sale.
 * [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript.
 * [Fullstack React Native](https://fullstackreact.com/react-native/) - The up-to-date, in-depth, complete guide to React Native.
 * [React Quickly, Second Edition](https://www.manning.com/books/react-quickly-second-edition) - A practical guide to React for busy web developers.
+* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - A book about the secrets behind frameworks like React, Vue, and Angular
 
 ## Videos
 
