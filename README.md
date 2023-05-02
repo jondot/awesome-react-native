@@ -116,8 +116,8 @@ site](https://facebook.github.io/react/docs/conferences.html).
 
 <http://chainreactconf.com>
 
-Workshops - July 11th, 2018\\
-Conference - July 12-13th, 2018
+Workshops - May 17th, 2023\\
+Conference - May 18-19th, 2023
 
 ### React Native EU - Wroclaw, Poland
 
@@ -145,13 +145,6 @@ Conference - November 4th, 2018
 
 Conference - April 4th, 2019
 Workshops - April 5th, 2019
-
-### Chain React - Portland, OR USA
-
-<https://infinite.red/ChainReactConf>
-
-Workshops - July 10th, 2019
-Conference - July 11th-12th, 2019
 
 ### React Native EU - Wroclaw, Poland
 
