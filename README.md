@@ -1467,6 +1467,7 @@ Open source React Native apps and other examples.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+* [Skiff Mail](https://github.com/skiff-org/skiff-apps/) - End-to-end encrypted, privacy-first workspace with email, notes, calendar, and drive apps. Works on macOS, Windows, iOS, Android, and web.
 
 
 ## Frameworks
