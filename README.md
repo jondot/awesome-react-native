@@ -920,6 +920,7 @@ Components and native modules.
 * [redux-react-native-i18n ★40](https://github.com/derzunov/redux-react-native-i18n) - An i18n solution for React Native apps on Redux
 * [react-native-intl ★37](https://github.com/taggon/react-native-intl) - React Native module shipped native Intl implementation and Translation extension
 * [rn-translate-template ★18](https://github.com/hiaw/rn-translate-template) - I18n template for all iOS and Android supported languages
+* [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 * ~~[react-native-i18n ★1778](https://github.com/AlexanderZaytsev/react-native-i18n) - React Native + i18n.js~~ Deprecated for react-native-localize
 * ~~[react-native-languages ★246](https://github.com/react-community/react-native-languages) - React Native properties and methods related to the language of the device~~ Now called react-native-localize
 
