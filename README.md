@@ -215,6 +215,9 @@ Content published on the Web.
 * [How to Gracefully Use Environment Variables in a React Native App](https://levelup.gitconnected.com/how-to-gracefully-use-environment-variables-in-a-react-native-app-7f1600446116)
 * [How to build a xylophone app with Audio API, React Native, and Expo](https://heartbeat.fritz.ai/how-to-build-a-xylophone-app-with-audio-api-react-native-and-expo-7d6754a0603c)
 * [How To Use WebViews in a React Native App](https://blog.jscrambler.com/how-to-use-webviews-in-a-react-native-app/)
+* [How to Integrate Video Editor SDK in React-Native Apps](https://www.banuba.com/blog/integrating-banuba-video-editor-sdk-with-a-react-native-app)
+* [How To Integrate Augmented Reality Features in a React Native App](https://www.banuba.com/blog/how-to-integrate-augmented-reality-features-in-a-react-native-app)
+* [How to Implement Camera Image Filters in React Native](https://www.banuba.com/_hcms/analytics/search/conversion?redirect=aHR0cHM6Ly93d3cuYmFudWJhLmNvbS9ibG9nL2ltcGxlbWVudGluZy1jYW1lcmEtaW1hZ2UtZmlsdGVycy1pbi1yZWFjdC1uYXRpdmU%3D&ct=SEARCH&pid=4992313&cid=59989068720&t=cmVhY3QgbmF0aXZl&d=www.banuba.com&c=2&rp=4&ab=false&opcid=&rs=UNKNOWN&hs-expires=1726744639&hs-version=1&hs-signature=APUk-v68QmocuNmmR2oXRHwsQAN1EoR2Aw)
 
 ### Assorted
 
@@ -256,6 +259,8 @@ Content published on the Web.
 * [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
 * [React Native: Native Modules made for React developers](https://blog.photoeditorsdk.com/react-native-native-modules-made-for-react-developers-59ca93c41541) - on the developer experience with 3rd-party libraries for RN 0.60+
 * [Flutter vs React Native - Choosing your approach](https://buttercms.com/blog/flutter-vs-react-native-choosing-your-approach) - Comparison article to help you choose the best approach depending on your project and experience.
+* [12 Best React Native Video Player Libraries](https://www.banuba.com/_hcms/analytics/search/conversion?redirect=aHR0cHM6Ly93d3cuYmFudWJhLmNvbS9ibG9nLzEyLWJlc3QtcmVhY3QtbmF0aXZlLXZpZGVvLXBsYXllci1saWJyYXJpZXM%3D&ct=SEARCH&pid=4992313&cid=66389220368&t=cmVhY3QgbmF0aXZl&d=www.banuba.com&c=2&rp=1&ab=false&opcid=&rs=UNKNOWN&hs-expires=1726744639&hs-version=1&hs-signature=APUk-v70iXIjjnlSHqADnySNNKC0sykYaA)
+* [React Native Video App: Must-Have Features, Filters, Libraries](https://www.banuba.com/_hcms/analytics/search/conversion?redirect=aHR0cHM6Ly93d3cuYmFudWJhLmNvbS9ibG9nL3JlYWN0LW5hdGl2ZS12aWRlby1hcHAtZGV2ZWxvcG1lbnQtYmVzdC1saWJyYXJpZXMtYW5kLWZlYXR1cmVz&ct=SEARCH&pid=4992313&cid=61830824743&t=cmVhY3QgbmF0aXZl&d=www.banuba.com&c=2&rp=2&ab=false&opcid=&rs=UNKNOWN&hs-expires=1726744639&hs-version=1&hs-signature=APUk-v6FaT_9aNyFYo9tLZ4rybJ564KpZw)
 
 ### Continuous Integration
 
@@ -1105,6 +1110,7 @@ Components and native modules.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-android-video ★8](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
 * [react-native-airplay-button](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
+* [react-native-video-editor-sdk](https://github.com/Banuba/ve-sdk-react-native-cli-integration-sample) - [Video Edditor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers) (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.
 
 ### Storage
 
