@@ -878,6 +878,7 @@ Components and native modules.
 * [react-native-native-log ★0](https://github.com/JessicaYeh/react-native-native-log) - A React Native log function that under the hood calls native logs.
 * [react-native-mov-to-mp4 ★44](https://github.com/taltultc/react-native-mov-to-mp4) - utils for Converting mov file to mp4 for cross-platform playback compatibility.
 * [react-native-test-runner ★1](https://github.com/acostalima/react-native-test-runner) - Run unit and integration tests in React Native's environment.
+* [react-native-image-marker ★256](https://github.com/jimmydaddy/react-native-image-marker) - A library for adding text or icon watermark to image.
 
 ### Forms
 
