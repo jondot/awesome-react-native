@@ -1352,6 +1352,7 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
+* [Coffee Shop](https://github.com/wangyiwu/CoffeeShop) - This is a Coffee App build over react native runs over android &amp; ios.
 * [Artsy](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 * [f8app ★13070](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 * [30-days-of-react-native ★5192](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
