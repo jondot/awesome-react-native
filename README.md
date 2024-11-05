@@ -1291,6 +1291,7 @@ Useful React Native tooling.
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
 * [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 * [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
+* [rnx-gen](https://www.npmjs.com/package/rnx-gen) - A [NestJS](https://nestjs.com/)-style opinionated resources generator to generate screens, components, slices, hooks, and redux files with boilerplate code.
 
 ## Seeds
 
