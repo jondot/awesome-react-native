@@ -1334,6 +1334,7 @@ Get a head start on development with an existing seed.
 * [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 * [RNStarter](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
+* [React-Native-StarterApp ★4](https://github.com/girish54321/React-Native-StarterApp) - React Native Starter Boilerplate is a comprehensive and customizable boilerplate for building cross-platform mobile apps using React Native. It includes a range of preconfigured and preinstalled tools and libraries to help you get started quickly and easily, including Redux, React Navigation, Codepush, and Flavors. 
 
 ## Libraries
 
