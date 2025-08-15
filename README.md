@@ -299,6 +299,7 @@ Components and native modules.
 * [react-native-image-crop-picker ★2736](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for multiple images and cropping
 * [react-native-splash-screen ★2663](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded, it works on iOS and Android.
 * [react-native-material-ui ★2536](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
+* [react-native-animated-glow](https://github.com/realimposter/react-native-animated-glow) - A highly customizable, performant, animated glow effect component for React Native.
 * [react-native-app-intro ★2433](https://github.com/FuYaoDe/react-native-app-intro) - A React Native parallax effect app intro
 * [react-native-drawer ★2276](https://github.com/root-two/react-native-drawer) - React Native Drawer
 * [react-native-typography ★2260](https://github.com/hectahertz/react-native-typography) Pixel–perfect, native–looking typographic styles for React Native
