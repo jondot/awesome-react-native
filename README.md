@@ -867,6 +867,7 @@ Components and native modules.
 * [react-native-util ★12](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native
 * [react-native-referrer ★11](https://github.com/JeandeCampredon/react-native-referrer) - React Native android only library to retrieve campaign referrer.
 * [react-native-webpackager-server ★6](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
+* [react-native-ulid-jsi ★7](https://github.com/pioner92/react-native-ulid-jsi) - Ultra-fast ULID generation using JSI + C++ with monotonic ordering and native secure random.
 * [react-native-crypto ★6](https://github.com/mvayngrib/react-native-crypto) - implementation of crypto for React Native
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - A group of libraries that help with the FluxBone pattern in React Native
 * [react-native-cross-settings ★5](https://github.com/aMarCruz/react-native-cross-settings) - React Native Settings module for both Android & iOS.
