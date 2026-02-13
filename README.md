@@ -836,6 +836,7 @@ Components and native modules.
 ### Utils & Infra
 
 * [detox ★3566](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
+* [flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 * [react-native-workers ★616](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 * [react-native-mock ★504](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
 * [loki ★395](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
