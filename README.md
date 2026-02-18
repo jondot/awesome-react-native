@@ -845,6 +845,7 @@ Components and native modules.
 * [codemod-RN24-to-RN25 ★104](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 * [react-native-linkedin ★101](https://github.com/xcarpentier/react-native-linkedin) React-Native LinkedIn, a simple LinkedIn login library for React-Native or Expo with WebView and Modal
 * [react-native-eval ★75](https://github.com/artemyarulin/react-native-eval) - Call any JS functions from your native code
+* [Sherlo ★73](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 * [react-native-device-log ★73](https://github.com/olofd/react-native-device-log) - A UI and service for displaying dev-logs on devices.
 * [react-native-call-detection ★73](https://github.com/priteshrnandgaonkar/react-native-call-detection) - Helps to detect different call states like Incoming, Disconnected, Dialing and Connected
 * [react-native-userdefaults-ios ★66](https://github.com/dsibiski/react-native-userdefaults-ios) - React Native Module for NSUserDefaults
