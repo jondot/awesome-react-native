@@ -1352,6 +1352,7 @@ Libraries / SDK type additions for React Native development.
 
 Open source React Native apps and other examples.
 
+* [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile) - The Swiss Army Knife of Offline AI. Run LLMs, vision models, and Stable Diffusion fully on-device. No internet required, no data leaves your phone. iOS and Android.
 * [Artsy](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 * [f8app ★13070](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
 * [30-days-of-react-native ★5192](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
