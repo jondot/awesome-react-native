@@ -841,6 +841,7 @@ Components and native modules.
 * [loki ★395](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
 * [react-native-slowlog ★271](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
 * [react-native-zip-archive ★173](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
+* [react-native-nitro-unzip](https://github.com/isaacrowntree/react-native-nitro-unzip) - High-performance ZIP extraction and compression for React Native, powered by Nitro Modules with progress callbacks and cancellation support.
 * [react-native-tips ★160](https://github.com/frichti/react-native-tips) - This module is used to create easily some tips to help your new users to understand how works your app.
 * [codemod-RN24-to-RN25 ★104](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 * [react-native-linkedin ★101](https://github.com/xcarpentier/react-native-linkedin) React-Native LinkedIn, a simple LinkedIn login library for React-Native or Expo with WebView and Modal
