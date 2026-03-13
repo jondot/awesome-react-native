@@ -1261,6 +1261,7 @@ Components and native modules.
 
 Useful React Native tooling.
 
+* [ERNE](https://github.com/JubaKitiashvili/everything-react-native-expo) - AI agent harness with 11 specialized agents for React Native & Expo — adaptive stack detection, cross-session memory, pipeline orchestration.
 * [upgrade-helper ★398](https://github.com/react-native-community/upgrade-helper) - ⚛️ A web interface to support React Native developers in upgrading their apps. [Link to tool](https://react-native-community.github.io/upgrade-helper)
 * [react-native-debugger ★4017](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
 * [haul ★2711](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
