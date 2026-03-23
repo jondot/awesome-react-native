@@ -726,6 +726,7 @@ Components and native modules.
 * [swipeable-modal-react-native](https://github.com/bzurkow/swipeable-modal-react-native) - A 'pop-up' modal that can be swiped away left or right to run different functions.
 * [react-native-countdown-text](https://github.com/realKfiros/react-native-countdown-text) - A React Native component that converts a timestamp of a future date to a readable countdown clock, based on a format.
 * [rn-actionsheet-module ★0](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
+* [MapMetrics-React-Native ★0](https://github.com/MapMetrics/MapMetrics-React-Native) - A Mapbox GL-compatible React Native module for interactive maps with geocoding, routing, and search.
 * [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) - React-Native component to input confirmation code for both Android and IOS
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
