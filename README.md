@@ -1334,6 +1334,7 @@ Get a head start on development with an existing seed.
 * [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 * [RNStarter](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
+* [AI App Factory](https://productengineer.info/camp/en/ai-app-factory) - Full-stack React Native + NestJS + Supabase boilerplate with 11 AI agents for automated development and App Store deployment. One-time purchase.
 
 ## Libraries
 
