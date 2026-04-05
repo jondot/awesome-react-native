@@ -272,6 +272,7 @@ Content published on the Web.
 
 * [Performance](https://facebook.github.io/react-native/docs/performance.html#common-sources-of-performance-problems)
 * [React Native Debugger Internals](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691)
+- [Glitch React](https://github.com/Ankitajainkuniya/glitch-widget) - AI bug reporting with React Error Boundary and state capture
 * [Dirty-up and execute top-down](http://blog.vjeux.com/2015/javascript/dirty-up-and-execute-top-down.html) - @vjeux on React's optimizations for background color, layout, and more
 * [Optimizing React Native](https://www.youtube.com/watch?v=0MlT74erp60)
 * [Diving into React Native Performance](https://code.facebook.com/posts/895897210527114/)
