@@ -119,6 +119,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 Workshops - July 11th, 2018\\
 Conference - July 12-13th, 2018
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for React Native development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ### React Native EU - Wroclaw, Poland
 
 <http://react-native.eu/>
