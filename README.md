@@ -1105,6 +1105,7 @@ Components and native modules.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-android-video ★8](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
 * [react-native-airplay-button](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
+* [react-native-mediapipe-pose-plugin](https://github.com/munishbp/react-native-mediapipe-pose-plugin) - Real-time MediaPipe Pose Landmarker for React Native via a VisionCamera frame processor plugin, with native Swift (iOS) and Kotlin (Android) implementations.
 
 ### Storage
 
