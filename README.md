@@ -1275,6 +1275,7 @@ Useful React Native tooling.
 * [react-native-bundle-visualizer ★141](https://github.com/IjzerenHein/react-native-bundle-visualizer) - See what's inside your RN bundle; useful for optimizing the bundle size
 * [Makeicon ★70](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 * [AsyncStorage Dev Menu Item ★67](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
+* - [react-native-ai-hooks](https://github.com/nikapkh/react-native-ai-hooks) ★0 - AI hooks for React Native. Works with Claude, OpenAI & Gemini.
 * [rn-diff-purge ★64](https://github.com/react-native-community/rn-diff-purge) - The easiest way to upgrade React Native versions. You can find diffs for every React Native version, that are created by diffing the previous version with a newly created app in the new version.
 * [React Native Actions ★55](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
