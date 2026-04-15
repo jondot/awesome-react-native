@@ -1219,6 +1219,7 @@ Components and native modules.
 * [agora-react-native-rtm +5](https://github.com/agoraio/agora-react-native-rtm) - A React Native Agora RealTime-Message Cloud Service Wrapper.
 * [react-native-intercom *323](https://github.com/tinycreative/react-native-intercom) - A React Native Intercom Wrapper.
 * [react-native-bugfender *7](https://github.com/bugfender/rn-bugfender) - A React Native wrapper for Bugfender log and error reporting.
+* [react-native-shopsavvy](https://github.com/shopsavvy/react-native-shopsavvy) - React Native hooks and components for product search, price comparison, and deal discovery.
 
 ### Monetization
 
