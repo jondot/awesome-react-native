@@ -1467,6 +1467,7 @@ Open source React Native apps and other examples.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+* [Airgap](https://github.com/xmpuspus/airgap) - Open-source framework for on-device, offline-first customer support chatbots. Runs Gemma 4 E2B locally via llama.rn. Seven industry templates (telco, retail, healthcare, banking, education, insurance, airlines) ship in the repo. iOS and Android.
 
 
 ## Frameworks
