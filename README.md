@@ -973,6 +973,7 @@ Components and native modules.
 * [react-native-keychain ★992](https://github.com/oblador/react-native-keychain) - Keychain Access for React Native
 * [react-native-touch-id ★902](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 * [react-native-contacts ★882](https://github.com/rt2zz/react-native-contacts) - React Native Contacts (android & ios)
+* [react-native-pick-contact](https://github.com/idanlevi1/react-native-pick-contact) - Zero-permission contact picker using native OS pickers. No READ_CONTACTS needed.
 * [react-native-communications ★871](https://github.com/anarchicknight/react-native-communications) - Easily call, email, text or iMessage someone in React Native
 * [react-native-onesignal ★871](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service (iOS + Android)
 * [react-native-in-app-utils ★743](https://github.com/chirag04/react-native-in-app-utils) - A react-native wrapper for handling in-app payments.
