@@ -898,6 +898,7 @@ Components and native modules.
 * [react-native-fm-form ★13](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
 * [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
 * [react-native-form-validator ★0](https://github.com/srfaytkn/react-native-form-validator) - A simple validation library for react native
+* [react-native-password-intelligence](https://github.com/mobilteknolojileri/react-native-password-intelligence) - Turkish-aware password strength estimation for forms, with UI component, hook and pure analyzer. Powered by zxcvbn-ts.
 
 ### Geolocation
 
