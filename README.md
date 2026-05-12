@@ -1467,6 +1467,7 @@ Open source React Native apps and other examples.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+* [FrontRow](https://github.com/majdukovic/frontrow) - Open source concert ticketing app built specifically as a QA automation training surface. Cross platform testIDs that work in Maestro, Appium, Espresso and XCUITest from the same registry, a deep QA Debug Menu (force error modes, time travel, deterministic IAP outcomes), 30 Maestro flows, and bridged Swift and Kotlin native screens.
 
 
 ## Frameworks
