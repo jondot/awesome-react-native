@@ -289,6 +289,7 @@ Components and native modules.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 * [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
+* [@ethora/chat-component-rn ★0](https://github.com/dappros/ethora-chat-component-rn) - Drop-in XMPP chat component for React Native / Expo with built-in AI agent / chatbot framework, by Ethora.
 * [react-native-scrollable-tab-view ★5664](https://github.com/brentvatne/react-native-scrollable-tab-view) - A scrollable tab-view for React Native
 * [react-native-image-picker ★4709](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 * [react-native-material-kit ★4124](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
