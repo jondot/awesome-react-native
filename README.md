@@ -1105,6 +1105,7 @@ Components and native modules.
 * [react-native-media-capture ★6](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 * [react-native-android-video ★8](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
 * [react-native-airplay-button](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
+* [@clarionhq/recorder](https://github.com/Th4nderG0d/clarion/tree/main/packages/recorder) - Microphone capture to AAC m4a for React Native, New Architecture only, 16 KB compliant, built on Nitro Modules.
 
 ### Storage
 
