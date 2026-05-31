@@ -740,6 +740,7 @@ Components and native modules.
 * [react-native-wizard](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 * [react-native-timetable](https://github.com/gomjellie/react-native-timetable) - 📆 timetable library for React Native
 * [react-native-material-drawer](https://github.com/codypearce/react-native-material-drawer) - React Native Material Drawer for iOS, Android, Web, and Electron
+* [react-native-screen-security](https://github.com/yuriiKluban/react-native-screen-security) - High-performance UI security and DLP for the New Architecture (Fabric/TurboModules). Protects sensitive content from screenshots and app-switcher capture with zero bridge overhead.
 
 ### Navigation
 
