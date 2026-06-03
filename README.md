@@ -1467,6 +1467,7 @@ Open source React Native apps and other examples.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+* [OpenCode Mobile ★1](https://github.com/dzianisv/opencode-mobile) - Open-source (MIT) Android client for the OpenCode AI coding agent. Built with React Native and Expo; connects to your self-hosted server and is available on F-Droid.
 
 
 ## Frameworks
