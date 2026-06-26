@@ -78,6 +78,7 @@ _Teller is an OSS and FREE productivity secret manager for developers made by [S
     - [Build & Development](#build--development)
     - [Styling](#styling)
     - [System](#system)
+    - [Security](#security)
     - [Web](#web)
     - [Media](#media)
     - [Storage](#storage)
@@ -1044,6 +1045,10 @@ Components and native modules.
 * [react-native-background-downloader ★93](https://github.com/EkoLabs/react-native-background-downloader) - Help you download large files on iOS and Android both in the foreground and most importantly in the background.
 * [rn-in-app-review](https://github.com/ravirupareliya/rn-in-app-review) - Help you to integrate in-app review for android and iOS
 * [react-native-system-setting](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
+* 
+### Security
+
+- [@noobdigital/react-native-shieldscan](https://github.com/NoobDigital/react-native-shieldscan) - Runtime security checks for React Native: jailbreak/root detection, Frida instrumentation, debugger and emulator detection. Supports Old and New Architecture (Turbo Modules).
 
 ### Web
 
