@@ -836,7 +836,7 @@ Components and native modules.
 ### Utils & Infra
 
 * [detox ★3566](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
-* [podium-mcp ★](https://github.com/hoainho/podium-mcp) - Unified mobile E2E MCP server — iOS simulator control, native UI automation, Maestro flows, React Native debugging, and WebView DOM inspection via Model Context Protocol.
+* [podium-mcp](https://github.com/hoainho/podium-mcp) - MCP server with 51 tools for iOS/Android device control, native UI automation, WebView DOM + network inspection, React Native/Metro debugging, and canvas/WebGL automation. Single stdio endpoint replaces multiple MCP servers. ~5x fewer tokens than screenshot/vision loops.
 * [react-native-workers ★616](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 * [react-native-mock ★504](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
 * [loki ★395](https://github.com/oblador/loki) - Visual Regression Testing for Storybook
