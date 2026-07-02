@@ -938,6 +938,7 @@ Components and native modules.
 * [react-native-kill-packager ★15](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
 * [react-native-build-cli ★3](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
 * [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
+* [react-buoy](https://github.com/Buoy-gg/buoy) - Floating in-app devtools menu for debugging network, storage, state and performance in dev, staging and production builds.
 
 ### Styling
 
