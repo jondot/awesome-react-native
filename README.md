@@ -797,6 +797,7 @@ Components and native modules.
 ### Deep Linking
 
 * [react-native-deep-link ★36](https://github.com/Starotitorov/react-native-deep-link) - React Native library to handle deep links
+* [@warplink/react-native](https://github.com/WarpLinkApp/warplink-react-native-sdk) - Deep linking, deferred deep links, and install attribution with real-time analytics.
 
 ### Text & Rich Content
 
