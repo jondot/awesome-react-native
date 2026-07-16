@@ -1044,6 +1044,7 @@ Components and native modules.
 * [react-native-background-downloader ★93](https://github.com/EkoLabs/react-native-background-downloader) - Help you download large files on iOS and Android both in the foreground and most importantly in the background.
 * [rn-in-app-review](https://github.com/ravirupareliya/rn-in-app-review) - Help you to integrate in-app review for android and iOS
 * [react-native-system-setting](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
+* [react-native-device-risk-signals](https://github.com/AfanasievN/react-native-device-risk-signals) - Device risk signals for root, jailbreak, emulator, tampering, Frida, VPN, and proxy detection on Android and iOS.
 
 ### Web
 
