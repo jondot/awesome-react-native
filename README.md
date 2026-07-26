@@ -517,6 +517,7 @@ Components and native modules.
 * [react-native-in-app-notification ★86](https://github.com/robcalcroft/react-native-in-app-notification) - Customisable in-app notification component for React Native
 * [react-native-shared-preferences ★85](https://github.com/sriraman/react-native-shared-preferences) - Android's Native key value storage system in React Native
 * [react-native-emoji-picker ★85](https://github.com/yonahforst/react-native-emoji-picker) - Simple Emoji picker for react-native with optional modal-like component
+* [react-native-emoji-keyboard](https://github.com/softwhere-uz/react-native-emoji-keyboard) - Universal (iOS, Android, Web), New-Architecture-first emoji keyboard & reaction picker with bundled Emoji 17, FlashList v2, and deep theming.
 * [react-native-scalable-image ★85](https://github.com/ihor/react-native-scalable-image) - React Native Image component which scales width or height automatically to keep the original aspect ratio.
 * [react-native-page-swiper ★83](https://github.com/fixt/react-native-page-swiper) - Page Swiper component for React Native.
 * [react-native-material-showcase-ios ★81](https://github.com/prscX/react-native-material-showcase-ios) - React Native Bridge for iOS aromajoin/material-showcase-ios. An elegant and beautiful showcase for iOS apps.
