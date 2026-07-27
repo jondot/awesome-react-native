@@ -1468,6 +1468,7 @@ Open source React Native apps and other examples.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
 
+* [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - Eight-platform full-stack AI operating system unifying 176 LLMs via LangGraph + MCP + A2A. The mobile app is built with React Native + Expo. Apache 2.0.
 
 ## Frameworks
 
