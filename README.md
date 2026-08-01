@@ -485,6 +485,7 @@ Components and native modules.
 * [react-native-custom-segmented-control ★132](https://github.com/wix/react-native-custom-segmented-control) - Native UI iOS component for Segmented Control with custom style
 * [react-native-map-link ★131](https://github.com/includable/react-native-map-link) - Open a location in the maps app of the user's choice.
 * [react-native-sketch-canvas ★129](https://github.com/terrylinla/react-native-sketch-canvas) - A React Native component for drawing by touching on iOS and Android. (support drawing on image, text)
+* [quickdraw](https://github.com/nmndwivedi/quickdraw) - MIT-licensed infinite-canvas whiteboard component. Pressure ink, palm rejection, shapes, undo/redo, PNG export; WebView engine with a typed bridge.
 * [react-native-floating-labels ★126](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
 * [react-native-beautiful-video-recorder ★125](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android.
 * [react-native-cell-components ★125](https://github.com/lodev09/react-native-cell-components) - Awesome react-native cell components! From a Cell to more complex & awesome components.
