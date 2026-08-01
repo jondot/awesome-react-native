@@ -740,6 +740,7 @@ Components and native modules.
 * [react-native-wizard](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 * [react-native-timetable](https://github.com/gomjellie/react-native-timetable) - 📆 timetable library for React Native
 * [react-native-material-drawer](https://github.com/codypearce/react-native-material-drawer) - React Native Material Drawer for iOS, Android, Web, and Electron
+* [quickdraw](https://github.com/nmndwivedi/quickdraw) - MIT-licensed infinite-canvas whiteboard component (`@quickdrawjs/react-native`): pressure-sensitive ink, palm rejection, hand-drawn shapes, sticky notes, per-gesture undo/redo and PNG export, over a WebView with a typed bridge.
 
 ### Navigation
 
