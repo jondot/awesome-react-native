@@ -744,6 +744,7 @@ Components and native modules.
 ### Navigation
 
 * [react-navigation ★14233](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
+*  [react-native-magic-tab-bar](https://github.com/Bhavinpethani04/react-native-magic-tab-bar) - Customizable animated floating bottom tab bar — one component for both Expo Router and React Navigation, with glass/blur, badges, haptics and a FAB tab.
 * [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
 - [react-native-navigation-hooks ★109](https://github.com/underscopeio/react-native-navigation-hooks) - A set of React hooks for React Native Navigation.
 * [react-native-router-flux ★7720](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
