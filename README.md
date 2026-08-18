@@ -1044,6 +1044,7 @@ Components and native modules.
 * [react-native-background-downloader ★93](https://github.com/EkoLabs/react-native-background-downloader) - Help you download large files on iOS and Android both in the foreground and most importantly in the background.
 * [rn-in-app-review](https://github.com/ravirupareliya/rn-in-app-review) - Help you to integrate in-app review for android and iOS
 * [react-native-system-setting](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
+* [pushbrain-react-native](https://github.com/shivtchandra/pushbrain-react-native) - Drop-in push notifications on top of your own Firebase project, with scheduling, AI-generated copy, and real open-tracking.
 
 ### Web
 
