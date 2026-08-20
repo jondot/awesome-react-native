@@ -1334,6 +1334,7 @@ Get a head start on development with an existing seed.
 * [Awesome React Native Boilerplates](https://github.com/appitr/awesome-react-native-boilerplates) - Effective start for your development with the most popular react-native navigation and UI libraries
 * [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 * [RNStarter](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
+* [expo-supabase-starter](https://github.com/Guidondor/expo-supabase-starter) - Expo + Supabase starter with email and Google auth, password reset, a durable offline write queue, and Row-Level Security hardened down to the column. TypeScript, Expo Router, Jest.
 
 ## Libraries
 
