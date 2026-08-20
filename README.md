@@ -740,6 +740,7 @@ Components and native modules.
 * [react-native-wizard](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 * [react-native-timetable](https://github.com/gomjellie/react-native-timetable) - 📆 timetable library for React Native
 * [react-native-material-drawer](https://github.com/codypearce/react-native-material-drawer) - React Native Material Drawer for iOS, Android, Web, and Electron
+* [react-native-barcode-creator](https://github.com/vittoridavide/react-native-barcode-creator) - Generates QR, Aztec, Code128, PDF417, EAN-13 and UPC-A barcodes natively, with New Architecture support.
 
 ### Navigation
 
