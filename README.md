@@ -338,6 +338,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested boilerplate with CLI and generators.
 - [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - TheCodingMachine's template for solid, scalable applications.
 - [Expo Templates](https://docs.expo.dev/more/create-expo/) - Official Expo templates, from blank to tabs to full navigation setups.
+- [expo-supabase-starter](https://github.com/Guidondor/expo-supabase-starter) - Expo and Supabase starter with auth, a durable offline write queue, and column-level RLS.
 
 ## Open Source Apps
 
