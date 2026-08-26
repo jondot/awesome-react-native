@@ -321,6 +321,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Detox](https://github.com/wix/Detox) - Gray-box end-to-end testing and automation framework.
 - [React Native Testing Library](https://github.com/callstack/react-native-testing-library) - Testing utilities that encourage good practices.
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook.
+- [Sherlo](https://sherlo.io) - Visual regression testing for React Native with cloud-hosted iOS and Android simulators and Storybook integration.
 
 ### Builds, Deployment & OTA Updates
 
