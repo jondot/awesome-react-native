@@ -111,6 +111,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-blur](https://github.com/margelo/react-native-blur) - Native blur view component.
 - [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) - Colorful blurry placeholders while content loads.
 - [react-native-calendars](https://github.com/wix/react-native-calendars) - Feature-rich calendar components.
+- [Super Calendar](https://github.com/afonsojramos/super-calendar) - Gesture-driven, virtualized month, week, day, and schedule views plus a date picker, for React Native and web.
 - [react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - Native date and time picker for Android and iOS.
 - [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - Swiper/carousel built entirely on Reanimated, the successor to snap-carousel.
 - [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - Native ViewPager and UIPageViewController wrapper.
