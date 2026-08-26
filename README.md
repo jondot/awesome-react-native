@@ -227,6 +227,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 ### System & Device
 
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device information for iOS and Android.
+- [react-native-shieldscan](https://github.com/NoobDigital/react-native-shieldscan) – Native runtime security checks: jailbreak/root, Frida, debugger, emulator, and screen security.
 - [react-native-permissions](https://github.com/zoontek/react-native-permissions) - Unified permissions API.
 - [react-native-keychain](https://github.com/oblador/react-native-keychain) - Secure keychain and keystore access.
 - [react-native-config](https://github.com/react-native-config/react-native-config) - Expose environment config to your JS and native code.
