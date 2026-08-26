@@ -190,6 +190,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) - MapView components for iOS and Android.
 - [rnmapbox/maps](https://github.com/rnmapbox/maps) - Mapbox maps for custom map experiences.
+- [expo-yandex-mapkit](https://github.com/softwhere-uz/expo-yandex-mapkit) - Yandex Maps with clustering, search, routing, offline maps, and New Architecture support.
 - [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation) - Battery-conscious background location with motion detection.
 - [react-native-map-link](https://github.com/tschoffelen/react-native-map-link) - Open the user's preferred maps app.
 - [react-native-google-places-autocomplete](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Customizable Google Places autocomplete.
