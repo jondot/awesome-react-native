@@ -98,6 +98,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [react-native-paper](https://github.com/callstack/react-native-paper) - Material Design components for Android and iOS.
 - [React Native Elements](https://github.com/react-native-elements/react-native-elements) - Cross-platform UI toolkit with themed, composable components.
+- [react-native-dynamic-island](https://github.com/NoobDigital/react-native-dynamic-island) – Cross‑platform live activity cards: Dynamic Island on iOS and ongoing lock‑screen notifications on Android, with one unified JS API.
 - [Tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system with an optimizing compiler, 100% parity between React Native and web.
 - [gluestack-ui](https://github.com/gluestack/gluestack-ui) - Copy-paste components and patterns built on Tailwind-style utility classes.
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - UI library based on the Eva Design System with theming support.
