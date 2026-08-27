@@ -104,6 +104,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for React Native and web.
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of styled components for React Native.
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable icon sets with support for styling and image sources.
+- [Hugeicons](https://github.com/hugeicons/hugeicons) - Pixel-perfect icon library with 6,000+ free icons as tree-shakeable React Native components, rendered with react-native-svg.
 - [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Render After Effects animations natively.
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG rendering for React Native and web.
 - [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files as components, like on the web.
