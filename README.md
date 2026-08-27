@@ -235,6 +235,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-share](https://github.com/react-native-share/react-native-share) - Native share sheet and social sharing.
 - [react-native-haptic-feedback](https://github.com/mkuczera/react-native-haptic-feedback) - Haptics that feel right, including Core Haptics patterns.
 - [react-native-sensors](https://github.com/react-native-sensors/react-native-sensors) - Developer-friendly access to device sensors.
+- [react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) - Type-safe Apple HealthKit bindings with New Architecture support.
 - [react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch) - Periodic background callbacks on iOS and Android.
 - [react-native-background-downloader](https://github.com/kesha-antonov/react-native-background-downloader) - Download and upload large files, even when the app is backgrounded.
 - [document-picker](https://github.com/react-native-documents/document-picker) - Document picker and viewer.
