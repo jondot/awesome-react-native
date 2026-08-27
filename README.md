@@ -358,6 +358,7 @@ Production apps you can learn from.
 - [React Native Express](https://www.reactnative.express) - Guided walkthrough of the React Native ecosystem.
 - [Start React Native](https://start-react-native.dev) - William Candillon's in-depth course on gestures and animations.
 - [Can it be done in React Native?](https://www.youtube.com/@wcandillon) - William Candillon's YouTube series rebuilding famous UIs.
+- [The React Native Developer's Security Guide](https://github.com/stephanww/rn-dev-security-guide) - An evolving field guide to supply-chain and toolchain security for React Native developers on macOS.
 
 ## Staying Up to Date
 
