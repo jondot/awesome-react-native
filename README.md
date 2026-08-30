@@ -319,6 +319,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless declarative E2E automation for mobile.
 - [Detox](https://github.com/wix/Detox) - Gray-box end-to-end testing and automation framework.
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for running natural-language tests against Android and iOS apps.
 - [React Native Testing Library](https://github.com/callstack/react-native-testing-library) - Testing utilities that encourage good practices.
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook.
 
