@@ -314,6 +314,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting React Native apps: state, API requests, performance.
 - [Buoy](https://github.com/Buoy-gg/buoy) - Devtools that live in your app — and answer to your AI agent.
+- [@axonpack/expo-devtools](https://github.com/axonpack/axonpack/tree/main/packages/@axonpack/expo-devtools) - On-device devtools panel for Expo apps: network, console, storage, performance, and crash tabs.
 
 ### Testing
 
