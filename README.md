@@ -215,6 +215,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Unistyles](https://github.com/jpudysz/react-native-unistyles) - C++-powered StyleSheet superset with themes and breakpoints, built for the New Architecture.
 - [styled-components](https://github.com/styled-components/styled-components) - CSS-in-JS styling that also targets React Native.
 - [Emotion](https://github.com/emotion-js/emotion) - High-performance CSS-in-JS style composition.
+- [react-native-styled-system](https://github.com/mym0404/react-native-styled-system) - Token-driven styling with theme-based props, responsive values, and full TypeScript support.
 - [react-native-typography](https://github.com/hectahertz/react-native-typography) - Pixel-perfect, native-looking typographic styles.
 - [Stacks](https://github.com/grapp-dev/stacks) - Layout primitives for building consistent UIs.
 - [react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortless edge-to-edge display on Android.
