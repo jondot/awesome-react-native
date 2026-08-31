@@ -107,6 +107,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Render After Effects animations natively.
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG rendering for React Native and web.
 - [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files as components, like on the web.
+- [react-native-pencil-kit](https://github.com/mym0404/react-native-pencil-kit) - Full-featured iOS PencilKit canvas for drawing, tool picking, and exporting sketches, built for Fabric.
 - [react-native-modal](https://github.com/react-native-modal/react-native-modal) - Enhanced, animated, customizable modal.
 - [react-native-blur](https://github.com/margelo/react-native-blur) - Native blur view component.
 - [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) - Colorful blurry placeholders while content loads.
