@@ -313,6 +313,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 ### Debugging
 
 - [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting React Native apps: state, API requests, performance.
+- [react-native-inapp-inspector](https://github.com/vengatmacuser/react-native-inapp-inspector) - Zero-config in-app debugger for inspecting network requests, console logs, Redux state, Firebase analytics, storage, and crashes directly on-device.
 - [Buoy](https://github.com/Buoy-gg/buoy) - Devtools that live in your app — and answer to your AI agent.
 
 ### Testing
