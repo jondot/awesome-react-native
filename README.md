@@ -314,6 +314,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [Reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting React Native apps: state, API requests, performance.
 - [Buoy](https://github.com/Buoy-gg/buoy) - Devtools that live in your app — and answer to your AI agent.
+- [Expo Universal Links Doctor](https://arling.sk/expo-universal-links-doctor/) - Free, client-side checker that cross-checks app.json, apple-app-site-association, and assetlinks.json against iOS/Android verification requirements and reports the exact reason a link opens the browser instead of the app.
 
 ### Testing
 
