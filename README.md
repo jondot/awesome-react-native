@@ -223,6 +223,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 ### Internationalization
 
 - [react-native-localize](https://github.com/zoontek/react-native-localize) - Toolbox for app localization: locales, timezones, currencies.
+- [App Store Locale Codes (Shotlingo)](https://shotlingo.com/tools/app-store-locale-codes) - Free lookup for App Store Connect and Google Play locale codes, RTL flags, and BCP-47 fallback resolution when a device locale isn't a listing locale — no signup.
 
 ### System & Device
 
