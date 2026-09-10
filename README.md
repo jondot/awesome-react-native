@@ -103,6 +103,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - UI library based on the Eva Design System with theming support.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for React Native and web.
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of styled components for React Native.
+- [react-native-mantine](https://github.com/auronsan/react-native-mantine) - Mantine-style component library with 118 themeable, accessible components for iOS, Android, and web.
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable icon sets with support for styling and image sources.
 - [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Render After Effects animations natively.
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG rendering for React Native and web.
