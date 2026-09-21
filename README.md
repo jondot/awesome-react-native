@@ -358,6 +358,7 @@ Production apps you can learn from.
 - [React Native Express](https://www.reactnative.express) - Guided walkthrough of the React Native ecosystem.
 - [Start React Native](https://start-react-native.dev) - William Candillon's in-depth course on gestures and animations.
 - [Can it be done in React Native?](https://www.youtube.com/@wcandillon) - William Candillon's YouTube series rebuilding famous UIs.
+- [App Design MD](https://github.com/migrant620/awesome-app-design-md) - Real app interfaces rebuilt in React Native and Expo, each with a live demo and a DESIGN.md documenting its design system.
 
 ## Staying Up to Date
 
