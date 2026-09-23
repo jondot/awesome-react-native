@@ -84,6 +84,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [react-native-executorch](https://github.com/software-mansion/react-native-executorch) - Declarative on-device AI inference powered by ExecuTorch, from Software Mansion.
 - [llama.rn](https://github.com/mybigday/llama.rn) - React Native binding of llama.cpp for running LLMs on device.
+- [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - On-device LLM inference for apps and games via llama.cpp, with React Native and Expo bindings, streaming, embeddings, and grammar-constrained output.
 - [react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) - High-performance TensorFlow Lite inference with GPU acceleration.
 - [AI SDK](https://github.com/vercel/ai) - The AI toolkit for TypeScript; works in Expo and React Native apps for chat, streaming, and tool use.
 
