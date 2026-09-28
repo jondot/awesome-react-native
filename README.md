@@ -304,6 +304,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 ### Tooling & IDE
 
+- [simfleet](https://github.com/entropyconquers/simfleet) - Run many React Native worktrees in parallel on slimmed iOS simulators and Android emulators from one dashboard.
 - [Radon IDE](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full-featured React Native IDE with an embedded simulator.
 - [EAS CLI](https://github.com/expo/eas-cli) - Build, submit, and update iOS and Android apps from the command line.
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename a React Native app with one command.
