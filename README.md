@@ -350,6 +350,7 @@ Production apps you can learn from.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat's mobile client.
 - [Artsy](https://github.com/artsy/eigen) - The art world in your pocket.
 - [YouTrack Mobile](https://github.com/JetBrains/youtrack-mobile) - JetBrains' YouTrack client for iOS and Android.
+- [Pixy](https://github.com/mrzmyr/pixy-mood-tracker-app) - Mood tracker with a year-in-pixels view, built with Expo Router and translated into 31 languages.
 
 ## Learning
 
