@@ -167,6 +167,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - Make URLs, emails, and fuzzy links clickable.
 - [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf) - Convert HTML strings to PDF documents.
 - [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontsize) - Responsive font sizes based on device screen size.
+- [react-native-highlight-text-view](https://github.com/aqeelkhokhar/react-native-highlight-text) - Editable text input with Instagram and TikTok style rounded highlight backgrounds, native on iOS and Android (New Architecture).
 
 ### Image & Camera
 
