@@ -308,6 +308,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [EAS CLI](https://github.com/expo/eas-cli) - Build, submit, and update iOS and Android apps from the command line.
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename a React Native app with one command.
 - [react-native-bundle-visualizer](https://github.com/callstack/react-native-bundle-visualizer) - See which packages inflate your bundle size.
+- [NativeKeel](https://github.com/AlicanAkyol/nativekeel) - One-command health check for upgrade blockers, App Store and Google Play rejections, security and accessibility issues, with a step-by-step upgrade plan and an MCP server.
 - [Re.Pack](https://github.com/callstack/repack) - Webpack/Rspack-based toolkit with code splitting and Module Federation for React Native.
 
 ### Debugging
