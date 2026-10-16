@@ -122,6 +122,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-qrcode-svg](https://github.com/Expensify/react-native-qrcode-svg) - QR code generator based on react-native-svg.
 - [react-native-country-picker-modal](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker with flags, search, and localization.
 - [react-native-hole-view](https://github.com/ibitcy/react-native-hole-view) - Cut touch-through holes anywhere, perfect for onboarding highlights.
+- [OTF UI Native](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=awesome-react-native&utm_content=2026-10-16) - MIT-licensed cross-platform component library for React Native and Expo.
 
 ### Lists
 
