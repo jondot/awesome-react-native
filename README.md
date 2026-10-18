@@ -110,6 +110,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-modal](https://github.com/react-native-modal/react-native-modal) - Enhanced, animated, customizable modal.
 - [react-native-blur](https://github.com/margelo/react-native-blur) - Native blur view component.
 - [react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) - Colorful blurry placeholders while content loads.
+- [react-native-liquid-glassmorphism](https://github.com/himanshu-lal4/react-native-liquid-glassmorphism) - Liquid Glass view for both iOS and Android: native `UIGlassEffect` on iOS 26 and an AGSL refraction shader on Android 13+.
 - [react-native-calendars](https://github.com/wix/react-native-calendars) - Feature-rich calendar components.
 - [react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - Native date and time picker for Android and iOS.
 - [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - Swiper/carousel built entirely on Reanimated, the successor to snap-carousel.
