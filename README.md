@@ -115,6 +115,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - Swiper/carousel built entirely on Reanimated, the successor to snap-carousel.
 - [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - Native ViewPager and UIPageViewController wrapper.
 - [react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough tooltips for onboarding.
+- [react-native-tour-guide](https://github.com/himanshu-lal4/react-native-tour-guide) - Spotlight tours and coach marks that auto-match each target's shape, auto-scroll to off-screen steps, and need no native dependencies.
 - [react-native-super-grid](https://github.com/saleel/react-native-super-grid) - Responsive grid view.
 - [react-native-circular-progress](https://github.com/bartgryszko/react-native-circular-progress) - Animated circular progress indicators.
 - [react-native-progress-steps](https://github.com/colbymillerdev/react-native-progress-steps) - Customizable progress stepper.
