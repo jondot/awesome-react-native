@@ -349,6 +349,7 @@ Production apps you can learn from.
 - [Mattermost](https://github.com/mattermost/mattermost-mobile) - Mattermost's mobile apps.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat's mobile client.
 - [Artsy](https://github.com/artsy/eigen) - The art world in your pocket.
+- [Waifu Deck](https://github.com/fancydirty/waifu-deck) - Local-first anime art swipe deck and encrypted multi-cloud gallery for Android built with Expo and React Native.
 - [YouTrack Mobile](https://github.com/JetBrains/youtrack-mobile) - JetBrains' YouTrack client for iOS and Android.
 
 ## Learning
