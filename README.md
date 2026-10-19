@@ -348,6 +348,7 @@ Production apps you can learn from.
 - [Joplin](https://github.com/laurent22/joplin) - Privacy-focused note-taking app with sync, on every platform.
 - [Mattermost](https://github.com/mattermost/mattermost-mobile) - Mattermost's mobile apps.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat's mobile client.
+- [Smaran](https://github.com/imnakul/Smaran---Remember-what-matters) - Offline-first Android app built with Expo and TypeScript for reminders, gratitude, quotes, and habits, with optional two-way Notion sync.
 - [Artsy](https://github.com/artsy/eigen) - The art world in your pocket.
 - [YouTrack Mobile](https://github.com/JetBrains/youtrack-mobile) - JetBrains' YouTrack client for iOS and Android.
 
