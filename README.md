@@ -79,6 +79,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - MCP server for mobile automation on iOS, Android, emulators, simulators, and real devices.
 - [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - MCP server for driving the iOS simulator: interact with UI, take screenshots, inspect the view hierarchy.
 - [Maestro](https://maestro.dev) - E2E testing framework with a built-in MCP server, letting agents run flows and control devices.
+- [expo-mcp-bridge](https://github.com/Rudrasamadhiya/expo-mcp-bridge) - MCP server that lets coding agents see and drive a running Expo app on a real phone through the React component tree: snapshot, tap, type, scroll, screenshots, logs and network, with no native setup.
 
 ### On-Device AI
 
