@@ -345,6 +345,7 @@ Production apps you can learn from.
 
 - [Bluesky](https://github.com/bluesky-social/social-app) - The Bluesky social app for web, iOS, and Android.
 - [Expensify](https://github.com/Expensify/App) - New Expensify: financial collaboration, chat-centered.
+- [HealthyCropping](https://github.com/keylorpineda/healthycropping) - Offline-first crop disease diagnosis application for Android with on-device TensorFlow Lite and local SQLite.
 - [Joplin](https://github.com/laurent22/joplin) - Privacy-focused note-taking app with sync, on every platform.
 - [Mattermost](https://github.com/mattermost/mattermost-mobile) - Mattermost's mobile apps.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat's mobile client.
