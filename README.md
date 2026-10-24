@@ -294,6 +294,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Official Sentry SDK for crash reporting and performance monitoring.
 - [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - PKCE-compliant OAuth2 client based on AppAuth.
 - [google-signin](https://github.com/react-native-google-signin/google-signin) - Google Sign-In for React Native.
+- [measure-react-native](https://github.com/measure-sh/measure/blob/main/frontend/dashboard/content/docs/getting-started/react-native.mdx#4-initialize-the-sdk) - Measure SDK to monitor and fix crashes, ANRs, bugs, and performance issues
 
 ## Payments & Monetization
 
