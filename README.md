@@ -176,6 +176,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - Image picker with camera, cropping, and compression.
 - [react-native-camera-kit](https://github.com/teslamotors/react-native-camera-kit) - High-performance camera library with barcode scanning, by Tesla.
 - [react-native-image-resizer](https://github.com/bamlab/react-native-image-resizer) - Resize local images natively.
+- [react-native-alpr](https://github.com/parkr-app/react-native-alpr) - On-device license plate recognition for 65 countries, from the live camera or photos; free basic scanner, paid Pro features.
 
 ### Video & Audio
 
