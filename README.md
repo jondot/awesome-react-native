@@ -327,6 +327,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [EAS](https://expo.dev/eas) - Expo Application Services: cloud builds, app store submission, and OTA updates.
 - [hot-updater](https://github.com/gronxb/hot-updater) - Self-hostable OTA update solution, a CodePush alternative.
 - [Fastlane](https://fastlane.tools) - Automate building, screenshots, and releasing for iOS and Android.
+- [leas](https://github.com/adjah-l/leas) - Self-hosted MIT CLI for Expo and React Native build, submit, and OTA updates, an EAS alternative.
 
 ### Building Libraries
 
