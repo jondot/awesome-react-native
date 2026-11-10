@@ -287,6 +287,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) - Network state and connectivity info.
 - [react-native-network-logger](https://github.com/alexbrazier/react-native-network-logger) - In-app HTTP request monitor.
 - [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto) - Fast native implementation of Node's crypto module.
+- [react-native-fetch-client](https://github.com/arunkumarArjun/react-native-fetch-client) - Lightweight, zero-dependency, universal Fetch-native HTTP client for React Native, Expo, and web.
 
 ## Services & Integrations
 
