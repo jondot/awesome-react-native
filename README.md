@@ -208,6 +208,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Moti](https://github.com/nandorojo/moti) - Universal animation library powered by Reanimated, with a Framer Motion-like API.
 - [react-native-animatable](https://github.com/oblador/react-native-animatable) - Declarative transitions and standard animations.
 - [TypeGPU](https://github.com/software-mansion/TypeGPU) - Type-safe WebGPU toolkit for advanced GPU work.
+- [react-native-splash-motion](https://github.com/seyedmostafahasani/react-native-splash-motion) - Animated Lottie and dotLottie splash screens rendered natively before JavaScript loads, for Expo and bare React Native.
 
 ### Styling & Design Systems
 
