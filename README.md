@@ -321,6 +321,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Detox](https://github.com/wix/Detox) - Gray-box end-to-end testing and automation framework.
 - [React Native Testing Library](https://github.com/callstack/react-native-testing-library) - Testing utilities that encourage good practices.
 - [Loki](https://github.com/oblador/loki) - Visual regression testing for Storybook.
+- [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing for Android and iOS apps with natural-language agent steps, locator assertions, and an Expo example.
 
 ### Builds, Deployment & OTA Updates
 
