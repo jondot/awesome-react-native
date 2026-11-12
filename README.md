@@ -148,6 +148,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-flash-message](https://github.com/lucasferreira/react-native-flash-message) - Flashbar and top-notification alerts.
 - [react-native-notifier](https://github.com/seniv/react-native-notifier) - Fast and simple in-app notifications.
 - [react-native-popup-menu](https://github.com/instea/react-native-popup-menu) - Extensible popup menu component.
+- [rn-toastie](https://github.com/akashdas99/rn-toastie) - A highly customizable toast library for React Native and Expo with flexible layouts, custom styling, smooth animations, action buttons, promise handling and fully customizable UI.
 
 ### Forms & Keyboard
 
