@@ -77,6 +77,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 
 - [Expo MCP](https://docs.expo.dev/mcp/) - Expo-hosted MCP server: EAS logs, documentation search, and deployment workflows from any MCP-capable agent.
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - MCP server for mobile automation on iOS, Android, emulators, simulators, and real devices.
+- [phonedriver](https://github.com/hridaya423/phonedriver) - MCP server and CLI for driving Android and iOS devices: screens as numbered text, replies with only the lines that changed, and an approval prompt before payment taps.
 - [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) - MCP server for driving the iOS simulator: interact with UI, take screenshots, inspect the view hierarchy.
 - [Maestro](https://maestro.dev) - E2E testing framework with a built-in MCP server, letting agents run flows and control devices.
 
