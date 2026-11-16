@@ -279,6 +279,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive and asynchronous database for powerful apps that scale.
 - [RxDB](https://github.com/pubkey/rxdb) - Local-first, reactive database that replicates with your backend.
 - [Realm](https://github.com/realm/realm-js) - Mobile object database, an alternative to SQLite.
+- [react-native-ultrastore](https://github.com/SamadK01/react-native-ultrastore) - Synchronous MMKV v4 storage, state manager, and on-device AI vector/stream cache for React Native New Architecture.
 
 ### Networking
 
