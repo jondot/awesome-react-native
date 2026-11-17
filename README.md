@@ -309,6 +309,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename a React Native app with one command.
 - [react-native-bundle-visualizer](https://github.com/callstack/react-native-bundle-visualizer) - See which packages inflate your bundle size.
 - [Re.Pack](https://github.com/callstack/repack) - Webpack/Rspack-based toolkit with code splitting and Module Federation for React Native.
+- [DevTool](https://github.com/Nitish33/devTool-app) - macOS desktop app that manages Git worktrees and bundles React Native tools for simulators, emulators and real devices.
 
 ### Debugging
 
