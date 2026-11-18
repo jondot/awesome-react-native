@@ -122,6 +122,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [react-native-qrcode-svg](https://github.com/Expensify/react-native-qrcode-svg) - QR code generator based on react-native-svg.
 - [react-native-country-picker-modal](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker with flags, search, and localization.
 - [react-native-hole-view](https://github.com/ibitcy/react-native-hole-view) - Cut touch-through holes anywhere, perfect for onboarding highlights.
+- [react-native-remote-compose](https://github.com/ardmn/react-native-remote-compose) - Server-driven UI: plays Jetpack Remote Compose documents on Android and iOS, with named values in and actions out.
 
 ### Lists
 
