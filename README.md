@@ -72,6 +72,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Claude Code + Expo](https://docs.expo.dev/agents/claude/) - Official guide for building, debugging, and deploying Expo apps with Claude Code.
 - [Expo Skills](https://github.com/expo/skills) - Agent skills that give coding agents Expo-specific knowledge and best practices.
 - [Agent Skills](https://github.com/anthropics/skills) - Anthropic's public repository of agent skills, usable with Claude Code and other agents.
+- [Emuly](https://github.com/codewarnab/emuly) - Free Android emulator in your own GitHub Codespace, with an agent skill so coding agents can install, tap, screenshot and record your app.
 
 ### MCP Servers
 
