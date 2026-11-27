@@ -72,6 +72,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [Claude Code + Expo](https://docs.expo.dev/agents/claude/) - Official guide for building, debugging, and deploying Expo apps with Claude Code.
 - [Expo Skills](https://github.com/expo/skills) - Agent skills that give coding agents Expo-specific knowledge and best practices.
 - [Agent Skills](https://github.com/anthropics/skills) - Anthropic's public repository of agent skills, usable with Claude Code and other agents.
+- [Now In Code](https://github.com/nowincode/nowincode) - MIT-licensed React Native (Expo) UI & motion pieces with an Agent Skill and hosted MCP server for Claude Code and Cursor.
 
 ### MCP Servers
 
